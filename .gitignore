@@ -1,0 +1,26 @@
+﻿# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.xdv
+*.nav
+*.snm
+*.vrb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*.log
+
+# Keep PDFs optional — uncomment if you don't want PDFs in git
+# *.pdf
