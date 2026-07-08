@@ -101,6 +101,20 @@
 \end{center}
 \vspace{0.62in}
 }
+\newcommand{\typebook}[2]{%
+  \cleardoublepage
+  \thispagestyle{empty}
+  \markboth{#2}{#2}%
+  \vspace*{2.1in}
+  \begin{center}
+    {\Large\scshape\addfontfeatures{LetterSpace=16.0} #1}\par
+    \vspace{0.32in}
+    {\color{rulegold}\rule{0.30\textwidth}{0.4pt}}\par
+    \vspace{0.32in}
+    {\Huge\itshape #2\par}
+  \end{center}
+  \vfill
+}
 \begin{document}
 \begin{titlepage}
 \thispagestyle{empty}
@@ -109,8 +123,6 @@
 {\Huge\scshape Homo Noxis\par}
 \vspace{0.35in}
 {\color{rulegold}\rule{0.55\textwidth}{0.4pt}\par}
-\vspace{0.35in}
-{\Large\itshape The Veil of Light\par}
 \vfill
 {\small A recovered manuscript edition\par}
 \vspace*{0.65in}
