@@ -24,11 +24,11 @@
 The Hall of Ceremony is a **hollow cone mined upward**, with a **vertical five-pillar ring** inside it and a **forbidden central circle** where the pendulum alone sweeps (per the corrected Foucault blueprint — *no dais, no throne, authority radial not central*). Onto that, orientation adds three cardinal facts:
 
 - **Centre (and top):** the **crown oculus** at the cone's apex, from which the Thread descends; the pendulum bob hangs over the forbidden circle. This is the "eye of Heaven" — an overhead, central aperture, distinct from the sun-slit below.
-- **South (high on the wall):** the **equinox aperture** — the tilted bore that admits the noon beam (see §4). The sun's domain of Light.
-- **North (low):** the **Genesis / Cataclysm gravure** the beam is built to strike. The target sits on the northern floor / lower north face — *north of* the forbidden circle, never on it.
-- **Gravure sides (POV faces north → west = the viewer's LEFT):** because the relief looks out to the north, **west is on the left, east on the right.** So the **drowned Atlantis / the Richat / the great wave sit on the LEFT (west)**, and the **volcanoes / fire on the RIGHT (east).** Scripture has been amended to match (*water left, volcanoes right*). *(Corrects the earlier "drowned on the right" reading.)*
+- **South — the door, and the Genesis gravure.** The Mountain's **gates open to the south**, and the **Genesis gravure is set at the south** (the door-face). The equinox-noon sun stands **due south**, so its light comes from the south and falls upon the south gravure — "perfectly south" (see §4).
+- **North — Light.** The office and domain of **Light lie to the north**; a worshipper in the Hall who reads the gravure therefore **faces south** (his back to Light, his face to the door).
+- **Gravure sides (the reader faces SOUTH → west is on the RIGHT, east on the LEFT):** so the **drowned Atlantis / the Richat / the sea sit on the RIGHT (west)**, and the **volcanoes / fire on the LEFT (east).** Scripture matches: *"and fire came upon the left hand of the army, and the sea rose upon the right hand thereof."* *(This supersedes the earlier north-facing reading — Atlantis/the sea is on the **right**, not the left.)*
 
-Cardinal roles are carried by **the sun's entry (south) and the gravure (north)**. The five office-pillars remain **radial** (each faces inward across the circle); no office "owns" a compass point.
+Cardinal roles are carried by **the door + gravure (south) and Light (north)**. The five office-pillars remain **radial** (each faces inward across the circle); no office "owns" a compass point.
 
 ---
 
