@@ -45,11 +45,10 @@ Cardinal roles are carried by **the door + gravure (south) and Light (north)**. 
 The festival alignment fires at the **equinox, at solar noon.** At 21.6° N that means:
 
 - **Sun: due SOUTH, altitude ≈ 68.4°** above the horizon (90° − latitude).
-- **Aperture:** a **tilted bore through the SOUTH upper wall**, its axis aimed due south and raised to **68.4° from horizontal (≈ 21.6° off vertical).** Not a vertical light-well — the sun is never at the zenith here on the equinox.
-- **Beam path:** enters from the south and travels **north-and-down**, clearing the forbidden circle and the pendulum, to strike the **northern gravure.** Horizontal throw ≈ **0.40 m north per 1 m of drop** (tan 21.6°).
+- **Opening & path:** the light enters **from the south** — through the southern door / an opening in the south wall — from a sun standing due south at ≈ 68.4°, and falls upon the **south-facing Genesis gravure** at the threshold, struck head-on ("perfectly south"). Not a vertical light-well; the sun is never at the zenith here on the equinox.
 - **Self-dating (why it is unmistakably the equinox):** the noon sun passes 68.4° only around the two equinoxes. Winter-solstice noon sits far lower (~45°); high-summer noon climbs to ~88° — nearly overhead, and in fact a hair **north** of vertical (21.6° N is just inside the Tropic of Cancer). So the single south shaft fires **twice a year, spring and autumn**, and the tilt itself is the calendar. *(A hidden option: a second, near-vertical aperture leaning slightly north would mark midsummer — a buried second secret, if ever wanted.)*
 
-**In one line:** *due south, bored at ~68° from horizontal (~22° off vertical), striking a gravure set north of the forbidden circle; fires at noon on both equinoxes.*
+**In one line:** *sun due south at ~68°, its light entering from the south and falling head-on upon the south-facing Genesis gravure at the door; fires at noon on both equinoxes.*
 
 ---
 
@@ -59,7 +58,7 @@ The south/noon lock contradicts some existing text. These must be reconciled (au
 
 1. **"Eastern" light → "southern."** Any reference to the *equinox beam / its aperture / the descent of the festival light* as **eastern** must become **southern** (e.g. Ch7 "eastern aperture / eastern tier" where it denotes the light's entry; Ch9 "eastern descent"). Distinguish carefully: an "eastern **tier**" used only as a *seating sector* of the round Hall may stand; an "eastern" that means *where the holy light comes from / descends* must move south.
 2. **Pendulum figure → 65 h / "nearly three days."** Fix every spoken/narrated instance of "two and a bit days" / "two days past a third" (Ch1 first crumb; Ch9 the extraction beat, Paul's "two and a bit?" → the new figure; and the Reveal Sequence notes).
-3. **"Beneath the dais" → the northern gravure.** The corrected blueprint has **no central dais** (the centre is the forbidden pendulum circle). The gravure the beam strikes is on the **northern floor / lower north face.** Re-word Ch7's "the lower stone beneath the dais" accordingly.
+3. **"Beneath the dais" → the south Genesis gravure.** The corrected blueprint has **no central dais** (the centre is the forbidden pendulum circle). The gravure the light falls on is the **Genesis gravure at the south (the door-face).** Re-word Ch7's "the lower stone beneath the dais" accordingly.
 
 ---
 
@@ -73,6 +72,8 @@ The south/noon lock contradicts some existing text. These must be reconciled (au
 | Richat / Atlantis | roughly due **west**, same parallel (~11.4° W) → latitude anchor |
 | Foucault Long Return | ≈ **65 h** (~2.7 days) |
 | Equinox beam | **noon, sun due south, alt ≈ 68.4°** |
-| Aperture | south wall, bore at ~68° from horizontal (~22° off vertical) |
-| Gravure struck | **north** of the forbidden circle, low |
+| Door / gates | **south** (light enters from the south) |
+| Light (domain) | **north** — the reader of the gravure faces south |
+| Genesis gravure | **south** (the door-face), lit head-on by the due-south noon sun |
+| Gravure sides (facing south) | Atlantis / Richat / **sea on the RIGHT** (west); **volcanoes / fire on the LEFT** (east) — *"fire on the left hand, the sea on the right hand"* |
 | Fires | noon on both equinoxes (spring + autumn) |
