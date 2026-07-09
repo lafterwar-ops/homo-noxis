@@ -1,6 +1,6 @@
 % !TEX program = xelatex
 \documentclass[11pt,twoside,openright]{book}
-\usepackage[paperwidth=6in,paperheight=9in,inner=0.78in,outer=0.62in,top=0.72in,bottom=0.76in,headheight=14pt,headsep=0.22in,footskip=0.34in]{geometry}
+\usepackage[paperwidth=6in,paperheight=9in,inner=0.70in,outer=0.70in,top=0.72in,bottom=0.76in,headheight=14pt,headsep=0.22in,footskip=0.34in]{geometry}
 \usepackage{fontspec}
 \setmainfont{EBGaramond-Regular.ttf}[
   Path={C:/Francois/Writting/EB_Garamond/static/},
@@ -42,17 +42,17 @@
 \fancyfoot[LE,RO]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
-\newcommand{\ornament}{\par\vspace{0.55em}\begin{center}{\color{rulegold}\rule{0.30\textwidth}{0.25pt}}\end{center}\vspace{0.55em}\par}
+\newcommand{\ornament}{\par\vspace{\dimexpr\baselineskip-2pt}\nointerlineskip\centerline{{\color{rulegold}\rule{0.30\textwidth}{0.25pt}}}\nointerlineskip\vspace{\baselineskip}}
 \newenvironment{scripture}{\begin{quote}\small\setstretch{1.04}\itshape}{\end{quote}}
 \newmdenv[
   topline=false, bottomline=false, rightline=false, leftline=true,
   linewidth=1.2pt, linecolor=rulegold,
   leftmargin=0.3em, rightmargin=0pt,
   innerleftmargin=1.1em, innerrightmargin=0pt,
-  innertopmargin=2pt, innerbottommargin=2pt,
-  skipabove=\medskipamount, skipbelow=\medskipamount
+  innertopmargin=0pt, innerbottommargin=0pt,
+  skipabove=0pt, skipbelow=0pt
 ]{roombar}
-\newenvironment{room}{\par\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}\begin{roombar}\small}{\end{roombar}\par}
+\newenvironment{room}{\ornament\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}\begin{roombar}\small}{\end{roombar}\ornament}
 \newenvironment{declaration}{\setstretch{1.0}\setlength{\parindent}{0pt}\setlength{\parskip}{0.5em}}{\par}
 \newcommand{\typesetchapter}[2]{%
   \cleardoublepage
@@ -101,10 +101,10 @@
 \newcommand{\typeoutsidermanuscript}{%
 \cleardoublepage
 \thispagestyle{plain}
-\markboth{Outsider Manuscript}{Outsider Manuscript}%
+\markboth{Outsider Copy}{Outsider Copy}%
 \vspace*{1.35in}
 \begin{center}
-{\Large\scshape Outsider Manuscript}\par
+{\Large\scshape Outsider Copy}\par
 \vspace{0.18in}
 {\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
 \end{center}
