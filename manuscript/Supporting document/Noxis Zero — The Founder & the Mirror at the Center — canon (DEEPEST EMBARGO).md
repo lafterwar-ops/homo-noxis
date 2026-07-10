@@ -59,6 +59,7 @@ Helen of Troy and Robert's Rebellion — **at civilizational-geological scale.**
 ## 11. On-page handling
 
 - **Absolute embargo until Book 5's Forbidden Archive.** Before that: nothing. The fractal is felt only in retrospect — the reader realizes, at the reveal, that Kailan's whole story has been a re-run, and that no one (not K, not the reader) knew there was an original to re-run.
+- **Book 5's text IS this autobiography.** The reveal is delivered *as Noxis Zero's own autobiography, read by K and Paul together* during the 90-day lock — the same account-plus-interview form as Books 1–4, with the narrator swapped. **Two autobiographies in the identical shape:** the reader feels they are the same life before anyone says so, and the interviewer/interviewee gradient collapses into two men reading side by side. The mirror at the center becomes the book's own architecture. (See Book 5 canon §1.)
 - In the folk Mountain, Noxis Zero is **deified / mythologized into scripture** — an origin figure, not a jealous boy. The *truth* survives only in the Archive, which is why only the final descent can reach it.
 - Do **not** let any earlier book name a founder, a first man, or a personal origin for the Mountain. The Mountain must feel authorless — eternal, doctrinal — until the archive gives it one face, and that face is Kailan's.
 

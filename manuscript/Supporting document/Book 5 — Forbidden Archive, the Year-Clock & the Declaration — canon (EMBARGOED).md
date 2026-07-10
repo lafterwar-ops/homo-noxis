@@ -6,17 +6,19 @@
 
 ---
 
-## 1. Where Book 5 sits
+## 1. Where Books 4 and 5 sit (STRUCTURE UPDATE)
 
-Book 5 is **the end**. The four prior books have taught the reader the runbook without the sentence: the offices, the light-map, the token, the hours, the resonance culture (pendulums, periods, standing waves) — all of it read by the characters as worship, optics and horology, none of it understood as what it is.
+**Book 4 = the Cataclysm.** The sixth burn. The books build to the crew committing to it and the Great Seal locking; the fire is pulled and the Mountain seals itself to ride out the winter it has just made. *(Working structure — "Cataclysm as Book 4," per François. See the fork below on whether the burn fires or is aborted.)*
 
-Book 5 is the sentence.
+**Book 5 = the 90-day lock — and its text IS Noxis Zero's autobiography.** Sealed in for the ninety days, with what they have done still warm, the crew reads the Forbidden Archive: the Cycle Ledger, the Year-Clock, and — the terminal reveal — **the autobiography of Noxis Zero, the founder** (see the DEEPEST-EMBARGO canon). K reads it, recognizes himself, and that recognition produces the Declaration.
 
-The shape, at the largest scale:
+**The form is the theme — two autobiographies.** Books 1–4 are *K's* autobiography, told to Paul in the account-plus-interview form. **Book 5 keeps that exact form but swaps the narrator: it is *Noxis Zero's* autobiography, read by K and Paul together, with the discussion interludes intact.** The interviewer/interviewee gradient collapses — they are both *readers* now, side by side, undone by the same text, and only K yet knows whose face is in it. The reader spends four books inside one man's life, opens the fifth, finds another man's life in the identical shape, and realizes they are the same life. The mirror at the center becomes the book's own architecture: you do not *tell* the reader that K is Noxis Zero — you make them read it twice and feel it.
 
-> *(lots of things, lots of things, lots of things)* → **they come to feel they must now trigger the cataclysm** → **the Great Seal locks; the Forbidden Archive opens for its 90 days** → **inside, they finally see the scale** → **the reveal breaks the protocol** → **the Declaration** (they choose peace / confession instead of the sixth burn).
+**FORK to settle — does the sixth burn fire in Book 4?**
+- *Fires (recommended):* fits "we press play at least once" and the Threshold Exception stamped *after* the sixth cataclysm triggers. Book 5 is then the sealed reckoning *after* an irreversible act — recognition too late to save the sixth cycle, in time to prevent a seventh. Harder, truer.
+- *Aborted:* the 90-day lock is the arming window; reading Noxis Zero un-decides the burn before it fires. Cleaner, more hopeful; costs the "press play once" and softens the horror.
 
-The middle — the "lots of things" — is the book. The three objects below are the terminus it cannot avoid.
+Either way the structure locks the same: **Book 4 = Cataclysm; Book 5 = the sealed lock + Noxis Zero's autobiography read by K and Paul; ending on the recognition and the Declaration.**
 
 ---
 
@@ -32,7 +34,7 @@ The middle — the "lots of things" — is the book. The three objects below are
 
 - Triggering is gated behind the **Great Seal**: an arming/lock sequence that, once begun, runs a fixed **90 days** before the fire can be pulled. During those 90 days the Mountain is sealed and committed to the sequence (whether it completes or is stood down).
 - **The Forbidden Archive is accessible only during this 90-day window.** It is not a library one visits. It opens *because* the Seal is locked — by design, so that the crew about to pull the fire must first stand in the record of every hand that pulled it before them, log their own year, and only then proceed. The archive is the conscience the engineers built into the trigger.
-- Practical consequence for the plot: the reveal cannot happen until the characters have already committed to the sequence. They open the archive **because they have decided to burn.** What they find there is what un-decides it. (The trap the founders built to make the crew *reflect* is the trap that, this once, makes them *stop*.)
+- Practical consequence for the plot: the reveal cannot happen until the characters are **inside the Great Seal** (per the §1 fork — either about to burn, or having just burned and sealed in to ride it out). What they find there — the Ledger, and above all **Noxis Zero's autobiography** — is what breaks the protocol: the trap the founders built to make the crew *reflect* is the trap that, this once, makes them lay the torch down for good. *(If the burn has already fired, the archive does not un-make it; it makes this the **last** one.)*
 
 ---
 
