@@ -77,7 +77,7 @@ What the archive does, once they are inside during the 90-day lock:
 
 - The Declaration (front matter: *"To Sarah Blackwood." — signed "The Mountain."*) is **the last act of Book 5**, not a mystic preface. It is the **older human standing down from the switch** and confessing the five burns to the younger one. Signed by the institution because the institution was always the only author; no single hand ever mattered — the design's whole cruelty and its final dignity in one signature.
 - It is dressed as a **peace** because "surrender" and "confession" would tell Sapiens too much, too fast — but functionally it is disarmament with one knowing party. The novel is the moment the husbandry stops being secret.
-- **OPEN (unsolved, François flagged):** *how the manuscript reaches Sarah Blackwood.* This is the one mechanical gap in the ending. Candidate approaches to work out later — a courier who leaves (the same skill of moving unseen, turned outward, off the mountain entirely); a dead-drop/inheritance across the Blackwood Foundation; a defector; the retranscription itself (Paul) as the delivery vehicle. Do **not** lock yet; note that whatever is chosen must be consistent with a people who can move a body unseen and have infinite patience but almost no reach.
+- **RESOLVED — *why* the manuscript reaches Sarah:** it is **K's own act, and it is the emotional climax**, not a mechanical gap. In the Archive, K finds **Noxis Zero** (the founder), recognizes himself in him, thinks *enough,* and sends a copy to Sarah to stop the madness. The **why** is now locked; only the mechanical **how** remains, and it simply **rides on Horizon** (Transfer canon). The copy he sends **is this book** — its existence is the Declaration. *(See the DEEPEST-EMBARGO canon: "Noxis Zero — The Founder & the Mirror at the Center." This is the terminal reveal, below all others.)*
 
 ---
 
@@ -104,4 +104,5 @@ What the archive does, once they are inside during the 90-day lock:
 | Year-Clock | **One tick per year**, mechanical, visible; **equinox-beam-synchronized**; **reset at each burn**, year logged to Ledger |
 | The reveal | ~**135,000 years**, five cycles, a sealed self-running society — *"we want out"* |
 | The Declaration | Institution stands down; confession-as-peace to **Sarah Blackwood**, signed **"The Mountain"** |
-| Open (unsolved) | **How the manuscript reaches Sarah**; literal vs. existential "experiment"; blueprint in archive or not; which equinox = year-turn; clock public/true split |
+| Manuscript→Sarah | **RESOLVED** — K's own act, triggered by finding **Noxis Zero** and recognizing himself; the copy *is this book* (see Noxis Zero DEEPEST-EMBARGO canon) |
+| Still open | literal vs. existential "experiment"; blueprint in archive or not; which equinox = year-turn; clock public/true split |
