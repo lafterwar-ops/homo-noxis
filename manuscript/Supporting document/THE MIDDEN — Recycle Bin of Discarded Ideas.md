@@ -37,7 +37,7 @@ A permission strip once read *"the Fourth hour, the Measure."* Discarded — the
 ## II. CHARACTERS — discarded
 
 **Élise de Montgolfier.**
-An ambitious outsider closing in on the Mountain — a creature of the dead 2020s frame. Discarded entirely. The archetype (a rival hunter) is *parkable*, not canon. *Contradiction:* belongs to a timeline (2020s) we no longer run; her function is absorbed by the Blackwood/Horizon apparatus.
+An ambitious outsider closing in on the Mountain — a creature of the dead 2020s frame. Discarded entirely. The archetype (a rival hunter) is *parkable*, not canon. *Contradiction:* belongs to a timeline (2020s) we no longer run; her function is absorbed by the Blackwood/Horizon apparatus. **RESURRECTED → Ch4, 2026-07-13:** revived as **Va-Elise de Montgolfier**, a 1998 Horizon intake figure in K's recruitment chain (Ka-Sarah → Va-Elise → JC) — a use distinct from the 2020s rival; see `Chapters 4–6 — The Turn`. The name kept for its resonance (Montgolfier: ascension, the view from above).
 
 **Relic-Paul.**
 Paul as born 1988, orphaned by the 1999 İzmit earthquake, corporate-derailed 2013, "becomes the new Protector" in 2023. Dead. Our Paul is the existing canon Paul: a compartmentalized Horizon operative in **1998**, a seismic-resonance man by lineage of method. *Contradiction:* wrong decade, wrong backstory, wrong allegiance-shape (he is not a lone noble protector).
@@ -154,7 +154,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **"Clémentine," the tape's first reader.** The June prologue had Paul address his account to a *Clémentine* — "the first link in his chain." Superseded: the frame's true addressee is **Sarah Blackwood** (the Declaration), and in the room all present-day names are withheld. *Why:* Clémentine was a placeholder standing where the reveal (the reader is the enemy) now goes.
 
-**Va-Elise, née Élise de Montgolfier (cf. above).** The 2020s rival did not die clean — an intake-figure residue lingered as "Va-Elise." Logged so the name is watched: it is scar tissue from a discarded character, not canon.
+**Va-Elise, née Élise de Montgolfier (cf. above).** The 2020s rival did not die clean — an intake-figure residue lingered as "Va-Elise." Logged so the name is watched: it is scar tissue from a discarded character, not canon. **RESURRECTED → Ch4, 2026-07-13:** the watch paid off — Va-Elise is now canon as the Horizon intake figure (see `Chapters 4–6 — The Turn`). No longer scar tissue; a limb.
 
 ## Plot & Structure — discarded
 
@@ -217,7 +217,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **Ka-Sheva, Keeper of Shield.** The frozen intro hands the manuscript "to Ka-Sheva, Keeper of Shield" — a fossil from when Sheva held the Keeper rank; the frozen chapters already contradict it (calling her Va-Sheva, giving the keepership to Ka-Dhavar). Current canon settles it: **Va-Sheva, the Shield Veil and K's love; Ka-Dhavar, Keeper of Shield.** *Why:* Sheva is the beloved equal, not the office-holder.
 
-**"Kylian / Sa-Kylian," the operational name.** In the frozen Ch13 the outside handler renames the hero for field use: "For operational use, you will be Kylian." Current canon keeps him **Kailan / K**. *Why:* the rename belonged to the exiled-operative ending that no longer stands. (cf. the exit-pipeline ending, below.)
+**"Kylian / Sa-Kylian," the operational name.** In the frozen Ch13 the outside handler renames the hero for field use: "For operational use, you will be Kylian." Current canon keeps him **Kailan / K**. *Why:* the rename belonged to the exiled-operative ending that no longer stands. (cf. the exit-pipeline ending, below.) **RESURRECTED → Ch4, 2026-07-13:** revived as **Sa-Kilian of Horizon** — not a field alias but K's intake *designation* as a Horizon specimen (Va-Kailan filed back down to a Sa-), which he throws in Paul's face to show he sees the apparatus. Distinct from the exile-operative use; see `Chapters 4–6 — The Turn`.
 
 **Va-Elun / Ka-Elun (Faith), an undecided prefix.** The new Faith figure is "Va-Elun of Faith" in one chapter and "Ka-Elun" in another; standardized to Ka-Elun, so "Va-Elun" is a discarded spelling. *Why:* a name that could not decide its own rank. *(And note: Va-Elise from Stratum II actually lives here — "Elise, the outsider processor in grey, breaking seals with ink from a tube.")*
 
