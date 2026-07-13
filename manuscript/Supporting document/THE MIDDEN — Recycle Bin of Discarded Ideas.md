@@ -14,7 +14,43 @@
 
 *The still-forming layer: what we are burying now. The Bin adds each fresh discard here, dated, with its reason. When the layer grows heavy it is consolidated downward into a numbered stratum. Nothing is pruned; a resurrected idea is annotated in place, never deleted.*
 
-*— No fresh discards logged since the third stratum. The Bin waits. —*
+## 2026-07-13 — the Chapter 4 (Mountain) revision
+
+*The large Ch4 rewrite (the beam-walk day; contraband light; Sa-Tavan; the token; the covenant/lawn gambit). Buried here: what the rewrite let go. See `Chapters 4–6 — The Turn` (Ch4-as-written) and `The Kahirs as Disciplines — Sigils & Sciences` for what replaced them.*
+
+### Kahirs & Doctrine — discarded
+
+**The three laws / three questions of beam-chasing.** The craft of tracing a beam was once formalised into a triad of checks — *is the glass clean, is it square, is there a second light.* Discarded. The craft is now **Va-Raedin's single instruction — "keep hold of your own beam; mark whatever stands on its road that has no business there"** — which already holds the whole of it. *Why:* over-formalised; a rule of three where one charge does the work, and it read as a manual, not a discipline.
+
+**Sa-Tavan's heartless "mirage algorithm."** Justice's method was once a cold rule with no mercy in it — *"we keep the Mountain; we do not keep the woman"* offered as the whole of the office. Superseded. **Justice is Bayesian and merciful where the record has room:** the Mountain comes first *only where both cannot be kept*, and *"upon the likeliest I judge, and never upon my liking."* *Why:* the flat sacrifice-rule made Justice a guillotine; the office is inference under uncertainty that grants the gentlest ruling the posterior will bear. (cf. `The Kahirs as Disciplines`, §1/§3, Justice ≡ Bayes.)
+
+### World / Cosmology / Scripture — discarded
+
+**"Descent" as a unit of time / rationing.** An earlier draft measured time — and timed the water ration — in *descents.* Retired. Rationing and the day are kept by the established **five-Hour clock (First Light, Second Silence, Third Measure, Fourth Record, Fifth Blade).** *Why:* a second, competing time-unit where the five Hours already run the clock. (cf. Stratum I, "the Measure as the Fourth hour"; Stratum II, "the old Hours.")
+
+**The goat-panel + "THE OUTSIDE FEEDS ONLY WHAT THE MOUNTAIN CAN COUNT" + "Balance script."** A Balance beat rendered a carved goat-panel and a scriptural line (*"the outside feeds only what the Mountain can count"*) in a secret **"Balance script."** Cut. **Balance has no secret language;** the beat was struck. *Why:* invents a private Balance tongue that does not exist and slows the salt-house material that now carries the office. (cf. Stratum I, "the itemized containment count," the earlier goat/ladle tally.)
+
+**The deep-time gradual-forest reading.** A line held that the greening died slowly — *"a forest does not become a desert in a lifetime, nor in ten."* Discarded as scripture. Canon now holds the **forest was destroyed in a single day by "the wrath"** (the alleged first-and-only Cataclysm), per the **Book of the Beast** (*"And when the wrath had passed… the land around the Mountain became desert"*). **Deep-time survives only as Paul's geologist unease.** *Why:* the Mountain's account is catastrophist by doctrine; gradual aridification is the outsider's science, and it belongs to Paul's disquiet, not to scripture. (cf. Stratum I, "the green morning / AHP as weather"; the reader keeps the deep-time truth, the Mountain denies it.)
+
+**"We multiply the sun" (a brief flip).** The Light creed was momentarily flipped to *"we multiply the sun."* Reverted. The creed is **"We divide the sun. We lose none of it."** *Why:* the multiply framing misread the walk's direction (the beam runs Mirror → sun, dividing one light into many, losing none); *divide* is the doctrine and the optics both.
+
+### Plot & Structure — discarded
+
+**The cold ringed objects / Tomb-seed glimpse behind Ka-Leth's third gate.** Ka-Leth's room once offered a glimpse of cold ringed objects — a seed of the Tomb — behind a third gate. Cut. The Ka-Leth beat was **rebuilt around contraband light** (the stolen-light proof, beam in whole / out halved), and the **Tomb reveal stays Ch10** with no need of a Ch4 foretaste. *Why:* the glimpse spent a Ch10 payoff early and pulled the room off its new subject. **(Watch for resurrection.)** (cf. Stratum I/II/III, the Reggane/Tomb entries — the Tomb keeps hoarding its reveals.)
+
+**The lamp-corridors beat.** Oren teaching a junior servant lamp-care, on the maxim *"we give the order, not the reason."* Relocated/replaced by the **salt-house**, which now carries the chemistry theme, the order-without-reason point, and the **set-up for Ch5** (gravimetry vs spectroscopy). *Why:* one beat now does the work of two, and it does it as science rather than housekeeping.
+
+**The "Sa-Kilian of Horizon / we are colleagues, both owned by Horizon" reveal at Ch4's close.** The intake-designation tell once landed as a *reveal at the very close of Ch4* — the two men named as fellow property of Horizon. Trimmed for the ending (which now closes on *"keep your face"*). **May relocate to a later chapter.** *Why:* the close needed the covenant's blade, not a second reveal crowding it. (The name itself is live — cf. Stratum III, "Kylian / Sa-Kylian," RESURRECTED; this discards only its Ch4-closing *placement*.)
+
+**The source room.** A beat of K explaining the sun and the shafts to Paul — the shafts *"narrow as a needle."* Cut by the author. The shaft physics now live in the account as **wide throats with seasonally re-aimed source-mirrors**, and the creed (*"We divide the sun…"*) and the optics live in the Ka-Leth beat. *Why:* the explainer duplicated material the account and the Ka-Leth proof already carry — and "narrow as a needle" is the wrong optics (the throats are wide). (cf. above, "We multiply the sun.")
+
+### Resurrections logged this pass
+
+**"Contraband light" (the phrase).** Earlier flagged for removal; no numbered-strata entry ever held it. **`RESURRECTED → Ch4, 2026-07-13`** — restored as **K's coinage, on the page**, for light kept off the ledger and taxed at no gate (the Ka-Leth proof; the account-mystery into Ch5). Logged here so the flag-for-removal does not resurface and re-cut it.
+
+---
+
+*The Bin also annotated one older entry in place this pass (see Stratum II, "The token's wrong lives, and 'the red'").*
 
 ---
 
@@ -170,7 +206,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **Old Chapter 2, "Mirrors" — a Light puzzle-room.** Ch2 was once a first-Light-discipline puzzle-room ("seeing is placed and engineered"). Rebuilt as **"the Mirror," the surveillance panopticon** — the Mountain's watching apparatus, upkeep and all. *Why:* the panopticon plants the book's real subject (to see is to be seen) where a puzzle-room only taught optics.
 
-**The token's wrong lives, and "the red."** The Light token drifted — a public lamp-symbol, a coloured or "red" cast point — before locking as a **bronze coin of concentric rings around an unnoticed central pinhole** (a diffraction device; Ch7's Arago/Poisson payoff). At the wave-wall, **"the red is abandoned": the pattern is described, never its colour.** *Why:* colour was a false lead; the diffraction geometry is the clue.
+**The token's wrong lives, and "the red."** The Light token drifted — a public lamp-symbol, a coloured or "red" cast point — before locking as a **bronze coin of concentric rings around an unnoticed central pinhole** (a diffraction device; Ch7's Arago/Poisson payoff). At the wave-wall, **"the red is abandoned": the pattern is described, never its colour.** *Why:* colour was a false lead; the diffraction geometry is the clue. **RESURRECTED → Ch4, 2026-07-13:** the **Light token with a bored central hole** returns in the candidate-quarters beat — now a **platinum-group disc** (pale, cold, unmarkable), the **concentric rings** ringing a **central pinhole**, and K dropping it in water to **stumble on refraction.** The ring-geometry echoes the Richat; the "red" also half-returns as Paul's printed plate (*"yours is red, mine was pale upon pale"*). *(Note the metal shift, bronze → platinum-group, and the added PAL/key + Richat reading — for François to reconcile; see `The Kahirs as Disciplines`, §5, and `Chapters 4–6 — The Turn`, Ch4-as-written.)*
 
 ## Prose & Method — discarded
 

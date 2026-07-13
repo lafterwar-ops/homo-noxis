@@ -111,3 +111,36 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 | The magneto | K's "private" covenant is on the tape the enemy seizes — the safe channel is the leak |
 | Parked | Paul's yield; the Horizon=Outsiders aha (Tomb/Trial, Book-2 hinge); "geometry is god" (→ the beam) |
 | Reggane / flash | Unchanged: flash = Tomb-reflection (Ch3); Reggane / longitude **Ch10 only** |
+
+---
+
+## Chapter 4 (Mountain) — as written [2026-07-13]
+
+*What the architecture above planned, the drafted chapter now fixes. Where a beat below sharpens or overrides the plan, this section governs for Ch4. (For the offices-as-sciences reading behind the optics, salt-house, and Sa-Tavan's method, see `The Kahirs as Disciplines — Sigils & Sciences — canon (EMBARGOED background)`.)*
+
+**Frame & cadence.** This is **Interview 3, 21 Nov 1998.** The interviews run **every other day — 17 / 19 / 21.** Ch4's account is the **beam-walk day** — the **morning after the Oasis** (the Oasis was the whole of the previous day). The beam was *given* the morning after the Mirror; the Oasis intervened; K returns now to walk it. So the account's own clock: Mirror → (beam given) → Oasis (a full day) → **the beam-walk of this chapter.**
+
+**Population & standing.** The Mountain holds **~3,000 souls.** Among the **first ~thirty** stands a **Candidate of Light.** K's own standing: **servant of Light from age 12**, and **ascended to Candidate two days before** this day. He therefore has both **the hands** (the menial habits of the servant he was) **and the doctrine and the robe** (the Candidate he now is). His servants — **Oren (20)** and **Sela (14)** — teach him nothing; **he commands and corrects them.** Crucially, he does *not* command them in the **cryptic, withholding** way the office speaks *downward* to him: he gives the order and, unlike his betters, is not miserly with the reason.
+
+**The craft (no "three laws").** There is **no formalised triad** of laws or questions. **Va-Raedin's instruction is the whole of it:** *keep hold of your own beam; mark whatever stands on its road that has no business there.* That single charge carries the discipline.
+
+**Optics on the page.** The shafts are **wide throats, not needles.** A **crew re-aims the source-mirrors seasonally** (the sun stands north in summer, south in winter). The office creed: **"We divide the sun. We lose none of it."**
+
+**CONTRABAND LIGHT (canon term, on the page).** At a **restricted Balance room** (Ka-Leth's; **Justice's mark stands beside Balance's on the lintel**), K proves a **theft of light**: a beam **enters whole (X)** and **leaves halved (X/2)**, and **no second beam feeds the room** — so the room is **keeping half.** K coins the phrase **"contraband light"** — light off the ledger, **taxed at no gate.** It **breaks the creed** (*we lose none of it*), and it is the chapter's **central account-mystery** and the **set-up for Ch5** (Va-Raedin raises it there).
+
+**Time.** Water rationing is **timed by the five-Hour clock** (First Light … Fifth Blade). The old unit **"descent" is retired** (binned — see midden).
+
+**The salt-house (Balance).** **Sealed distillation:** evaporate the brine in **sealed vessels**, **condense the pure water back** (no water wasted in the desert), then **weigh the residual salt/trace against the ledger.** This is Balance as **gravimetry**, and it **sets up Ch5's "angle means salt"** — the optical (Light) and gravimetric (Balance) roads to the same fact.
+
+**Sa-Tavan (Justice).** A **Candidate named the same morning as K.** Earnest and ceremonial; **openly tipped by Va-Raedin** — *"I was told you would come through here, at this Hour."* He **takes K's witness testimony of the Threshold incident** (the Oasis flash + the strayed old woman, **Mara**). His **method is Bayesian** (see the Disciplines canon): mercy where the record has room, the **Mountain first only where both cannot be kept** — *"upon the likeliest I judge, and never upon my liking."* The **Justice sigil (the Bayes glyph)** is on his robe. K **arranges his testimony** — **light first, woman last, clear ground between** — to **protect Mara and bury his own seeing**, under **cover of Shield's authority** (Va-Sheva named the Threshold incident; the Threshold is Shield's). This is **K's first deliberate shaping of the truth.** Sa-Tavan notes the **"very clean order,"** and leaves it **ambiguous** — read, but not called. **Frame beat:** Paul asks whether this is where K's *"clock"* began → **"I began to count the counters."**
+
+**The forest / the wrath.** Per scripture the **forest was destroyed in a single day by "the wrath"** (the alleged **first-and-only Cataclysm**) — **not** gradual aridification. New scripture line: **"And when the wrath had passed… the land around the Mountain became desert."** K **deflects on the beast**, citing the **"Book of the Beast"** (recited in full later). **Deep-time survives only as Paul's geologist unease** (the gradual-forest reading is binned — see midden).
+
+**The token (candidate quarters).** The **platinum-group disc** (see the Disciplines canon, §5): pale and cold, heavier than gold its size, untarnished, unmarkable, machined impossibly fine, a central pinhole ringed by many even concentric circles. **K cannot read it;** he **drops it in water and stumbles on refraction** — ironic, because the token has nothing to do with refraction (it ties instead to Ch5's optics). In the **1998 room**, **Paul recognises the ring-pattern** from a **printed, redacted plate** (*"[—]"*) — **"yours is red, mine was pale upon pale."**
+
+**The covenant / lawn gambit (climax).** K's accusation **escalates**: he charges a **"Mirror in this house"** — **optical surveillance, not a person** (K reads watchers; *"a thing that has a shape may be found"*). **For whom is unknown** (you / me / Sarah / another). The **Sarah reframe:** *Sarah's own people watching — or another eye set upon Sarah herself?* **Tradecraft:** *if you find it, keep your face — the advantage that the watcher not know you know.* The **covenant:** **"if there are men behind that glass, then you are mine, Paul."** **Paul swears lightly** — *"it costs me nothing to promise what cannot come to pass"* — **arming his defection** (the falsifiable pact of §1, spoken onto the magneto). The **chapter closes on "keep your face."**
+
+**Continuity notes vs the plan above.**
+- The **documentary** planned for Ch4 was **Cosmos / the heavens** (§1); as written, the chapter's spine is the **beam-walk account** and the room's covenant gambit. The trust-methodology and Cosmos material stated in §1 remain the chapter's philosophical engine; the beats logged here are the *account* and *climax* as drafted.
+- **"Sa-Kilian of Horizon"** and the **Ka-Sarah → Va-Elise → JC** chain (§1 tell, §6 resurrection) are the recruitment-chain seed; the **contraband-light mystery** is the account-side load this chapter now carries into Ch5.
+- The **mirror-check** is here escalated to the **"Mirror in this house"** accusation with full tradecraft and the Sarah reframe — a sharpening of §1's "still playful" framing toward the op that §3 (Ch6) opens.
