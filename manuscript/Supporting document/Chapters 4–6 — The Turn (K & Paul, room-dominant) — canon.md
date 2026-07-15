@@ -144,3 +144,11 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 - The **documentary** planned for Ch4 was **Cosmos / the heavens** (§1); as written, the chapter's spine is the **beam-walk account** and the room's covenant gambit. The trust-methodology and Cosmos material stated in §1 remain the chapter's philosophical engine; the beats logged here are the *account* and *climax* as drafted.
 - **"Sa-Kilian of Horizon"** and the **Ka-Sarah → Va-Elise → JC** chain (§1 tell, §6 resurrection) are the recruitment-chain seed; the **contraband-light mystery** is the account-side load this chapter now carries into Ch5.
 - The **mirror-check** is here escalated to the **"Mirror in this house"** accusation with full tradecraft and the Sarah reframe — a sharpening of §1's "still playful" framing toward the op that §3 (Ch6) opens.
+
+---
+
+## 6. Chapter 5 (Shadow) — age & account clock (as written)
+
+**In the Ch5 account, K is nineteen.** Learning the whole Mirror took **four years** (the account resumes: *"Four years: Va-Raedin of Light had not lied… I am now nineteen years old."*). The account timeline therefore runs: **servant of Light from twelve → ascended Candidate at fifteen** (Ch4, the beam-walk) → **four years learning every beam of the Mirror** → **nineteen**, the morning Va-Raedin judges him worthy to be taught **the five ways that light can lie** (the Ch5 optics lesson).
+
+**LOCK: from the "five ways light can lie" lesson onward, the account's K is nineteen, not fifteen.** The salt/spectroscopy lesson, the Shadow bargain in K's telling, and everything the Mountain later tries him for belong to the **nineteen-year-old.** (The 1998 frame age — old, extracted K in the interview room — is unaffected.) The Va-Sheva wound and Zero-rhyme thus sit with a young man of nineteen, not a boy.
