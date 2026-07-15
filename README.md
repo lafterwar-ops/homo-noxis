@@ -1,6 +1,6 @@
-﻿# Homo Noxis
+﻿# Homo Noxius
 
-Repository for the Homo Noxis manuscript, notes, scripture, and worldbuilding files.
+Repository for the Homo Noxius manuscript, notes, scripture, and worldbuilding files.
 
 ## Core rule
 
