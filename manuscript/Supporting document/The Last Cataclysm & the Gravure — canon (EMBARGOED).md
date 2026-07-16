@@ -53,6 +53,27 @@ There are **five gravures** cut in the Mountain. **Two** carry weight on the pag
 
 ---
 
+## 1.4 The Beast's mechanism — the antipodal plumb (DEEPEST EMBARGO)
+
+**The reset is plumbed, not aimed.** The Beast does not fire *at* a target across the surface. It fires **straight down, through the core**, and its energy reconverges at the Mountain's **antipode** — the exact point on the far side of the Earth. The planet is the barrel; the Mountain sits over the touch-hole.
+
+**The antipode is Tonga — the Ring of Fire's most violent hinge.** The Saharan Mountain (~21–24°N, the Reggane / Hoggar band) is diametrically opposite the **Tonga–Kermadec subduction zone** in the SW Pacific. *(Real anchor: Tamanrasset's antipode is Kolonga, Tonga; the antipode of most of Africa falls in the Pacific.)* This is the fastest-converging, most quake- and eruption-prone stretch of the entire **Pacific Ring of Fire** (the 2022 Hunga Tonga blast is real texture). No point on Earth would serve better, and the Mountain already points there by sitting where it sits.
+
+**The physics is real: antipodal focusing.** A colossal energy release on one side of a planet sends seismic waves through and around the globe that **reconverge at the antipode and shatter the crust there** — observed at the antipodes of the Moon's **Imbrium** basin and Mercury's **Caloris** basin ("weird terrain"). So energy dumped into the Mountain focuses, by genuine geophysics, on Tonga. The reader can verify both the antipode and the focusing.
+
+**The effect (fiction amplified from the real seed).** The focused shock lights the western Ring of Fire and cascades around it — New Zealand, Japan, Kamchatka, Cascadia, Central America, Chile — with **Pacific-rim mega-tsunamis** drowning the world's coasts. Real physics gives the Tonga trigger and severe regional destabilization; the full girdling chain reaction is doomsday-weapon amplification (the house style: one true thing, amplified).
+
+**Why the Mountain is where it is — the load-bearing point.** This retro-justifies the whole siting: **the Mountain was raised in the Sahara *because* the Sahara is antipodal to the Ring of Fire.** The still, waterless, unmoving desert point is the deliberate **opposite pole** of the ring of fire and water. This flips the geography from decoration into purpose — supersedes any "Reggane meridian for its own sake" reading.
+
+**Ties & reconciliation.**
+- This is the mechanism of **the reset / the drowning** (§1, §1.2): the Beast lights the ring → the Pacific rises → the world floods from the far side. The gravure's **water (drowning) and fire (volcanoes)** are the two faces of exactly this event.
+- Layering with the Younger-Dryas drowning (§1.1): the **past** Cataclysm is narrated in scripture as the wrath, and whether any past reset was literally Beast-fired or natural stays a deep ambiguity. The **sixth** (the one still ahead) is the Beast's, plumbed to Tonga.
+- Consistent with the weapons-custody reading (the Beast as the buried device under split-key custody; see *The Kahirs as Disciplines*): the antipodal plumb is **what the split keys arm**.
+
+**On-page handling — DEEPEST EMBARGO.** On the page the Beast stays mythic (the sleeping thing beneath the Mountain, keeper of the last wrath and the next). The antipode, the plumb, and the name *Tonga* are **late reveals**, assembled by the reader from the geography and the physics, exactly as with the Richat/Atlantis material. **Never state "Tonga," "antipode," or the plumb in the early chapters.**
+
+---
+
 ## 2. The Cataclysm Gravure — how it reads, and how to show it
 
 The great relief on the Hall's northern face, struck by the equinox-noon beam (see *Geography & Orientation — canon lock*). It is **doctrine rendered as image**: the two fates of humankind set on either side of the Mountain.
@@ -61,7 +82,7 @@ The great relief on the Hall's northern face, struck by the equinox-noon beam (s
 
 *(Orientation lock: the Mountain is due south, so the relief looks out to the north over the oasis. West is therefore the viewer's **left**, east the **right** — and scripture, as amended, reads **water on the left, volcanoes on the right.**)*
 
-- **Centre — THE MOUNTAIN, and NOXIUS.** The Mountain rises singular and closed. Around and within it, **the Five** — the offices, the children of the first morning — each holding **one part** of the whole and no more. This is *Homo Noxius*: the human who survives **because the knowledge is divided, because no one hand holds the whole, because the way is hidden and humble.** The saved are the faithful under the Mountain's law — not the mighty, but the *split*. Show them small, ordered, sheltered, ascending into the stone.
+- **Centre — THE MOUNTAIN, and NOCENS.** The Mountain rises singular and closed. Around and within it, **the Five** — the offices, the children of the first morning — each holding **one part** of the whole and no more. This is *Homo Nocens*: the human who survives **because the knowledge is divided, because no one hand holds the whole, because the way is hidden and humble.** The saved are the faithful under the Mountain's law — not the mighty, but the *split*. Show them small, ordered, sheltered, ascending into the stone.
 - **LEFT / west — the drowned side — ATLANTIS.** The defiers who **held the whole** — and drowned for it, taken by the **water / the great wave** that comes from the west. This side carries all the cost, and all the clues (§2.2).
 - **RIGHT / east — the fire side — the volcanoes.** The Cataclysm's other face: fire, ash, and the breaking earth. The two flanks are the two deaths — **water left, fire right** — and only the divided Mountain between them endures.
 
@@ -81,7 +102,7 @@ The two sides are one argument: **the divided are saved; the whole-holders drown
 
 ### 2.4 The lighting (tie to the equinox beam)
 
-At noon on the equinox the southern shaft crosses the Hall and **falls on the Mountain and the Five — Noxius lit "as if the first morning returned."** The **drowned left side (west) sits in the unlit lower stone**, where the beam "vanishes." Light blesses the divided; the dark keeps the whole-holders. The one day a year the picture is fully lit is the one day it can be fully *read* — and even then, the faithful read only half of it.
+At noon on the equinox the southern shaft crosses the Hall and **falls on the Mountain and the Five — Nocens lit "as if the first morning returned."** The **drowned left side (west) sits in the unlit lower stone**, where the beam "vanishes." Light blesses the divided; the dark keeps the whole-holders. The one day a year the picture is fully lit is the one day it can be fully *read* — and even then, the faithful read only half of it.
 
 ---
 

@@ -1,4 +1,4 @@
-# Geography & Orientation — Canon Lock (Homo Noxius)
+# Geography & Orientation — Canon Lock (Homo Nocens)
 
 *Purpose: fix, once, where the Mountain stands, how it is oriented to the sky, and what the equinox beam requires — so the chapters, the blueprints, and the coordinate plot stop drifting. This supersedes looser earlier phrasings (e.g. "Reggane → latitude / Richat → longitude" and "two and a bit days") where they conflict with what is set below.*
 

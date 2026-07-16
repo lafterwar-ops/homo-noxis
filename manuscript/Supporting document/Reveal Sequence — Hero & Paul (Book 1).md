@@ -16,7 +16,7 @@
 
 **B. K's doubt that his own side is still his own side** — seeded in the prologue (the rich house), fed by Paul's too-fluent grasp of Mountain ways and his careful dodges. It accumulates across Book 1 but does **not fully break** — K keeps giving the account, because he sees the trap and walks in anyway. The full reveal waits for Book 2 (the tapes seized, Horizon's turning exposed).
 
-**C. K discovers the modern world through Paul** — truth (cheapest), lie (dangerous — reader gets it, K doesn't), Noxius-deflection (the Keeper's withholding, which K recognizes). An escalating thread of first-encounters (window → light → photograph → the tower).
+**C. K discovers the modern world through Paul** — truth (cheapest), lie (dangerous — reader gets it, K doesn't), Nocens-deflection (the Keeper's withholding, which K recognizes). An escalating thread of first-encounters (window → light → photograph → the tower).
 
 **Standing rules:** K knows nothing of the outside (all of it enters via Paul); the tape is the single physical record (seized in Book 2); the reader carries a *dread* the front matter has planted (this is the outsider copy, addressed to the enemy) even before the infiltration is confirmed.
 
@@ -36,7 +36,7 @@
 
 **6 · Festival** — *Account:* ceremony; Va-Maera; the Festival beam; "not every brightness belongs to you." *Room:* K brushes acoustics — **Paul's own field** — and Paul can't help a question a shade too precise. *Doubt:* K clocks it, hard.
 
-**7 · Veil's Chamber** — *Account:* the lone puzzle-room; success is not innocence; curiosity is not free. *Room:* Paul deflects (Noxius-style) whenever K probes what Horizon *is* and who runs it — "the account first." *Doubt:* K registers that every question about the house or the work gets the same wall.
+**7 · Veil's Chamber** — *Account:* the lone puzzle-room; success is not innocence; curiosity is not free. *Room:* Paul deflects (Nocens-style) whenever K probes what Horizon *is* and who runs it — "the account first." *Doubt:* K registers that every question about the house or the work gets the same wall.
 
 **8 · Chain** — *Account:* chain-completion doctrine; the six mechanisms; **the Beast beneath the Mountain.** *Room:* the Beast is the prize; Paul's attention is total and for once he over-asks. *Doubt:* K feels the first real cold. *Reader-only:* the enemy just learned the prize is real.
 
