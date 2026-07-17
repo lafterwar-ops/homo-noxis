@@ -1,4 +1,4 @@
-# Editorial Report — *Homo Nocens*, Book One: The Veil of Light
+# Editorial Report — *Homo Noxius*, Book One: The Veil of Light
 
 *Manuscript reviewed in full: front matter (Outsider Copy, Declaration, Threshold Exception, Prologue) and Chapters 1–13, ~100,000 words.*
 

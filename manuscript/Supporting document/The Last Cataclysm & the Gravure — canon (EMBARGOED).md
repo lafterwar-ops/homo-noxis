@@ -82,7 +82,7 @@ The great relief on the Hall's northern face, struck by the equinox-noon beam (s
 
 *(Orientation lock: the Mountain is due south, so the relief looks out to the north over the oasis. West is therefore the viewer's **left**, east the **right** — and scripture, as amended, reads **water on the left, volcanoes on the right.**)*
 
-- **Centre — THE MOUNTAIN, and NOCENS.** The Mountain rises singular and closed. Around and within it, **the Five** — the offices, the children of the first morning — each holding **one part** of the whole and no more. This is *Homo Nocens*: the human who survives **because the knowledge is divided, because no one hand holds the whole, because the way is hidden and humble.** The saved are the faithful under the Mountain's law — not the mighty, but the *split*. Show them small, ordered, sheltered, ascending into the stone.
+- **Centre — THE MOUNTAIN, and NOXIUS.** The Mountain rises singular and closed. Around and within it, **the Five** — the offices, the children of the first morning — each holding **one part** of the whole and no more. This is *Homo Noxius*: the human who survives **because the knowledge is divided, because no one hand holds the whole, because the way is hidden and humble.** The saved are the faithful under the Mountain's law — not the mighty, but the *split*. Show them small, ordered, sheltered, ascending into the stone.
 - **LEFT / west — the drowned side — ATLANTIS.** The defiers who **held the whole** — and drowned for it, taken by the **water / the great wave** that comes from the west. This side carries all the cost, and all the clues (§2.2).
 - **RIGHT / east — the fire side — the volcanoes.** The Cataclysm's other face: fire, ash, and the breaking earth. The two flanks are the two deaths — **water left, fire right** — and only the divided Mountain between them endures.
 
@@ -102,7 +102,7 @@ The two sides are one argument: **the divided are saved; the whole-holders drown
 
 ### 2.4 The lighting (tie to the equinox beam)
 
-At noon on the equinox the southern shaft crosses the Hall and **falls on the Mountain and the Five — Nocens lit "as if the first morning returned."** The **drowned left side (west) sits in the unlit lower stone**, where the beam "vanishes." Light blesses the divided; the dark keeps the whole-holders. The one day a year the picture is fully lit is the one day it can be fully *read* — and even then, the faithful read only half of it.
+At noon on the equinox the southern shaft crosses the Hall and **falls on the Mountain and the Five — Noxius lit "as if the first morning returned."** The **drowned left side (west) sits in the unlit lower stone**, where the beam "vanishes." Light blesses the divided; the dark keeps the whole-holders. The one day a year the picture is fully lit is the one day it can be fully *read* — and even then, the faithful read only half of it.
 
 ---
 
