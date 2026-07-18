@@ -42,7 +42,7 @@ Cardinal roles are carried by **the door + gravure (south) and Light (north)**. 
 
 ## 4. The equinox beam — locked geometry (midday / due south)
 
-The festival alignment fires at the **equinox, at solar noon.** At 21.6° N that means:
+The festival alignment fires at the **equinox, at solar noon.** At 21.3° N that means:
 
 - **Sun: due SOUTH, altitude ≈ 68.7°** above the horizon (90° − latitude).
 - **Opening & path:** the light enters **from the south** — through the southern door / an opening in the south wall — from a sun standing due south at ≈ 68.4°, and falls upon the **south-facing Genesis gravure** at the threshold, struck head-on ("perfectly south"). Not a vertical light-well; the sun is never at the zenith here on the equinox.
@@ -57,7 +57,7 @@ The festival alignment fires at the **equinox, at solar noon.** At 21.6° N that
 The south/noon lock contradicts some existing text. These must be reconciled (audit + edit; not yet applied):
 
 1. **"Eastern" light → "southern."** Any reference to the *equinox beam / its aperture / the descent of the festival light* as **eastern** must become **southern** (e.g. Ch7 "eastern aperture / eastern tier" where it denotes the light's entry; Ch9 "eastern descent"). Distinguish carefully: an "eastern **tier**" used only as a *seating sector* of the round Hall may stand; an "eastern" that means *where the holy light comes from / descends* must move south.
-2. **Pendulum figure → 65 h / "nearly three days."** Fix every spoken/narrated instance of "two and a bit days" / "two days past a third" (Ch1 first crumb; Ch9 the extraction beat, Paul's "two and a bit?" → the new figure; and the Reveal Sequence notes).
+2. **Pendulum figure → 66 h / "two and three-quarter days."** Fix every spoken/narrated instance of "two and a bit days" / "two days past a third" (Ch1 first crumb; Ch9 the extraction beat, Paul's "two and a bit?" → the new figure; and the Reveal Sequence notes).
 3. **"Beneath the dais" → the south Genesis gravure.** The corrected blueprint has **no central dais** (the centre is the forbidden pendulum circle). The gravure the light falls on is the **Genesis gravure at the south (the door-face).** Re-word Ch7's "the lower stone beneath the dais" accordingly.
 
 ---

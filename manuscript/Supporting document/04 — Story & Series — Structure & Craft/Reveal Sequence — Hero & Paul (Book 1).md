@@ -12,7 +12,7 @@
 
 ## The three engines of the room
 
-**A. Paul is assembling the Mountain from K's innocent account** — the coordinates and, above them, the whole. He is a seismic-resonance scientist; his hunger spikes on every pendulum / stone-listening / tremor beat. The location triangulates **vertically by Reggane** (1960 test, due north, four weeks → latitude) and **horizontally by the Richat Structure** (the Eye of the Sahara → longitude) — which in the lore is **Atlantis**, the last to defy the Mountain, drowned when the forest vanished. The **Pendulum's period ("two and a bit days") = the latitude**, and K hands it over, disarmed and precise, in **Ch9**.
+**A. Paul is assembling the Mountain from K's innocent account** — the coordinates and, above them, the whole. He is a seismic-resonance scientist; his hunger spikes on every pendulum / stone-listening / tremor beat. The location triangulates **vertically by Reggane** (1960 test, due north, four weeks → latitude) and **horizontally by the Richat Structure** (the Eye of the Sahara → longitude) — which in the lore is **Atlantis**, the last to defy the Mountain, drowned when the forest vanished. The **Pendulum's period ("two and three-quarter days") = the latitude**, and K hands it over, disarmed and precise, in **Ch9**.
 
 **B. K's doubt that his own side is still his own side** — seeded in the prologue (the rich house), fed by Paul's too-fluent grasp of Mountain ways and his careful dodges. It accumulates across Book 1 but does **not fully break** — K keeps giving the account, because he sees the trap and walks in anyway. The full reveal waits for Book 2 (the tapes seized, Horizon's turning exposed).
 

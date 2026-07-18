@@ -1,6 +1,6 @@
 # Pendulum — the Split of the Hours — canon (Book One)
 
-*Purpose: answer the one mechanical objection a careful reader raises at the Pendulum — how a swing-plane that takes **~2.75 days** to turn once can give **five named hours every single day**. This doc fixes that, and only that. It sits **under** the Geography lock (which owns the numbers: latitude 21.6° N, Foucault Long Return ≈ 66 h). Where they touch, Geography wins.*
+*Purpose: answer the one mechanical objection a careful reader raises at the Pendulum — how a swing-plane that takes **~2.75 days** to turn once can give **five named hours every single day**. This doc fixes that, and only that. It sits **under** the Geography lock (which owns the numbers: latitude 21.3° N, Foucault Long Return ≈ 66 h). Where they touch, Geography wins.*
 
 ---
 

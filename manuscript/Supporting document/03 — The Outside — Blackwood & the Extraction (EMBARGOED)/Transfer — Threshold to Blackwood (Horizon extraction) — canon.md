@@ -20,7 +20,7 @@ The transfer is scaffolding, not story. The reader should be able to *reconstruc
 
 ## 3. The route (truth — almost entirely off-page)
 
-- **Origin: the Mountain's threshold** — the *south* door/gate (per the Geography lock: gates open south, the Genesis gravure at the door-face). He leaves the only world he knows through the same threshold the equinox light enters. Location: central Sahara, ≈ 21.6° N, ≈ 0° E, the Tanezrouft; Reggane ~4–5 weeks' walk due north, the Richat due west.
+- **Origin: the Mountain's threshold** — the *south* door/gate (per the Geography lock: gates open south, the Genesis gravure at the door-face). He leaves the only world he knows through the same threshold the equinox light enters. Location: central Sahara, ≈ 21.3° N, ≈ 0° E, the Tanezrouft; Reggane ~4–5 weeks' walk due north, the Richat due west.
 - **Leg 1 — overland, by night, sedated.** Horizon moves him from the threshold across the desert to a remote airstrip. He is kept under (§4) so he cannot retrace the way: the Mountain's location is the crown secret, and not even his own memory may carry it out cleanly. He sleeps through it.
 - **Leg 2 — light aircraft**, desert strip → a staging field out of the deep interior (unspecified; never named on the page). A short hop.
 - **Leg 3 — the Jamaican diplomatic flight**, long-haul into **Geneva (GVA/LSGG)**. Diplomatic status = no customs, no manifest anyone can pull, an unconscious passenger across borders unremarked; and Geneva's constant diplomatic traffic makes a Jamaican state flight completely unremarkable.
