@@ -6,7 +6,7 @@
 
 ## 1. Where the Mountain stands
 
-- **Latitude: ≈ 21.6° N.** Fixed independently by two things that agree: the Foucault period (see §3) and the Richat lying due west on the same parallel (see below). This is the band the corrected Foucault blueprint already names — *"east of Ouadane, south of Taoudenni."*
+- **Latitude: ≈ 21.3° N.** Fixed independently by two things that agree: the Foucault period (see §3) and the Richat lying due west on the same parallel (see below). This is the band the corrected Foucault blueprint already names — *"east of Ouadane, south of Taoudenni."*
 - **Longitude: ≈ 0° (Reggane's meridian), deep central Sahara** — the Tanezrouft / northern-Mali–Algeria emptiness. Set by Reggane lying due north on the same meridian.
 - **Terrain:** true desert interior — the drowned floor of a vanished green Sahara. Not coastal, not highland; a mined mountain in a sea of sand.
 
@@ -34,9 +34,9 @@ Cardinal roles are carried by **the door + gravure (south) and Light (north)**. 
 
 ## 3. The pendulum period (number lock)
 
-- **Long Return ≈ 65 hours ≈ 2.7 days** for one full apparent rotation. (P = sidereal day ÷ sin φ = 23.93 h ÷ sin 21.6° = 65 h.)
-- Spoken form: **"nearly three days," "two days and two-thirds," "about sixty-five hours."**
-- **RETIRE the old value "two and a bit days" / "two days past a third"** — that implied ~27° N and breaks Reggane-due-north-four-weeks and the Richat latitude. The corrected Foucault blueprint already carries the 65-hour figure; the chapters must match it.
+- **Long Return ≈ 66 hours ≈ 2.75 days** ("two and three-quarter days") for one full apparent rotation. (P = sidereal day ÷ sin φ = 23.93 h ÷ sin 21.3° ≈ 66 h.)
+- Spoken form: **"two and three-quarter days," "nearly three days," "about sixty-six hours."** The manuscript already says this (Ch1: *"almost exactly two and three-quarter days"*; Ch2), so the lock now matches the chapters rather than the reverse.
+- **RETIRE "two and a bit days," "two days past a third," and the interim "65 h / 2.7 days."** Latitude follows from the period: ≈ **21.3° N** (revised from 21.6°) — still Richat-due-west (~21° N) and Reggane-due-north (~4–5 weeks) consistent.
 
 ---
 
@@ -44,9 +44,9 @@ Cardinal roles are carried by **the door + gravure (south) and Light (north)**. 
 
 The festival alignment fires at the **equinox, at solar noon.** At 21.6° N that means:
 
-- **Sun: due SOUTH, altitude ≈ 68.4°** above the horizon (90° − latitude).
+- **Sun: due SOUTH, altitude ≈ 68.7°** above the horizon (90° − latitude).
 - **Opening & path:** the light enters **from the south** — through the southern door / an opening in the south wall — from a sun standing due south at ≈ 68.4°, and falls upon the **south-facing Genesis gravure** at the threshold, struck head-on ("perfectly south"). Not a vertical light-well; the sun is never at the zenith here on the equinox.
-- **Self-dating (why it is unmistakably the equinox):** the noon sun passes 68.4° only around the two equinoxes. Winter-solstice noon sits far lower (~45°); high-summer noon climbs to ~88° — nearly overhead, and in fact a hair **north** of vertical (21.6° N is just inside the Tropic of Cancer). So the single south shaft fires **twice a year, spring and autumn**, and the tilt itself is the calendar. *(A hidden option: a second, near-vertical aperture leaning slightly north would mark midsummer — a buried second secret, if ever wanted.)*
+- **Self-dating (why it is unmistakably the equinox):** the noon sun passes 68.7° only around the two equinoxes. Winter-solstice noon sits far lower (~45°); high-summer noon climbs to ~88° — nearly overhead, and in fact a hair **north** of vertical (21.3° N is just inside the Tropic of Cancer). So the single south shaft fires **twice a year, spring and autumn**, and the tilt itself is the calendar. *(A hidden option: a second, near-vertical aperture leaning slightly north would mark midsummer — a buried second secret, if ever wanted.)*
 
 **In one line:** *sun due south at ~68°, its light entering from the south and falling head-on upon the south-facing Genesis gravure at the door; fires at noon on both equinoxes.*
 
@@ -66,12 +66,12 @@ The south/noon lock contradicts some existing text. These must be reconciled (au
 
 | Item | Locked value |
 |---|---|
-| Mountain latitude | ≈ 21.6° N |
+| Mountain latitude | ≈ 21.3° N |
 | Mountain longitude | ≈ 0° (Reggane's meridian), central Sahara |
 | Reggane | due **north**, ~4–5 weeks' walk (~560 km) → longitude anchor |
 | Richat / Atlantis | roughly due **west**, same parallel (~11.4° W) → latitude anchor |
-| Foucault Long Return | ≈ **65 h** (~2.7 days) |
-| Equinox beam | **noon, sun due south, alt ≈ 68.4°** |
+| Foucault Long Return | ≈ **66 h** (~2.75 days) |
+| Equinox beam | **noon, sun due south, alt ≈ 68.7°** |
 | Door / gates | **south** (light enters from the south) |
 | Light (domain) | **north** — the reader of the gravure faces south |
 | Genesis gravure | **south** (the door-face), lit head-on by the due-south noon sun |
