@@ -34,6 +34,7 @@
 ## 04 — Story & Series — Structure & Craft
 *Narrative architecture and planning (not in-world facts).*
 
+- **THE VOICE — Prose Style Canon (how we write)** — ★ the standing law of the prose: state-and-stop narration, the interpretation purge, the three zones, world-texture craft, room mechanics. **Read before drafting or editing any chapter.**
 - **Reveal Sequence — Hero & Paul (Book 1)** — the order in which the reader learns things.
 - **Chapters 4–6 — The Turn (K & Paul, room-dominant)** — the mid-book structural canon.
 - **Series Direction — Cosmology & Book 2** — where the whole thing is going.
