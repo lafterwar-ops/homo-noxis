@@ -2,88 +2,119 @@
 
 > ## ⚠ THE SECRETEST SECRET OF ALL HIDDEN THINGS ⚠
 >
-> **This is the single most buried reveal in the entire series.** It sits *beneath every other secret* — below the Beast, below the burns, below the husbandry, below the Mirror, below the species truth. If every other embargoed reveal is a locked door, **this is the room behind the last door.** Nothing in this file appears on the page, in any form, until the final descent — Book 5, inside the Forbidden Archive. Not stated, not hinted plainly, not foreshadowed except as the fractal the reader only understands in retrospect. Guard this above all else.
+> **This is the single most buried reveal in the entire series.** It sits *beneath every other secret* — below the Beast, below the burns, below the husbandry, below the Mirror, below the species truth. If every other embargoed reveal is a locked door, **this is the room behind the last door.** Nothing in this file appears on the page, in any form, until the final descent — the Forbidden Archive during the ninety-day lock. Not stated, not hinted plainly, not foreshadowed except as the fractal the reader only understands in retrospect. Guard this above all else.
+
+> **⚑ CANON CORRECTED to brief §IX (governing).** The previous version of this file rooted the Mountain in "a woman he could not have — she loved a Sapiens — so he built the apocalypse." **That is the anti-goal the brief forbids (§XV: "a simple 'woman rejected man, therefore apocalypse' origin").** It is replaced below. Ithe remains central, but as the *instrument of a real attack* Zero over-extrapolated — not as a jilting.
 
 ---
 
 ## 1. What Noxius Zero is
 
-**Noxius Zero is the founder** — the one who built the Mountain of the Apocalypse, roughly **135,000 years ago.** He was a **very bright, very young man, and rich and powerful** — and, in every way that matters, **the same man as Kailan.** Same brilliance, same rank of mind, same wound. He is not a god, not a prophet, not a survivor-elder. He was a boy with money and genius and a broken heart.
+**Noxius Zero is the founder** — the one who built the Mountain of the Apocalypse, roughly **135,000 years ago** (age provisional; see §XIII / age-cycles decision, still to be verified). He was a **very bright, very young man, rich and powerful** — and, in every way that matters, **the same man as Kailan.** Same brilliance, same rank of mind, same capacity to convert a private certainty into a total architecture. He is not a god, not a prophet, not a survivor-elder. He was a young man with a father's empire, a great mind, a real war at his door, and a wound he never learned to see working in him.
 
-## 2. The build
+## 2. What he inhabited (before the wound)
 
-- He wanted a woman he could not have. **She loved a Sapiens.** (The founding instance of the intimate loss — see the Species canon.)
-- Denied her, he did **not** wage the pointless war a lesser man would have waged against Sapiens — a war Noxius would lose by attrition anyway. Instead he did the thing only a patient, brilliant, wealthy man could do: he **gathered the sharpest engineers and scientists of the age — on the order of 10,000 to 50,000 — and built, over a single lifetime, the Mountain of the Apocalypse.** A machine to end the world on a timer, so that the world that took her could be taken back to nothing, again and again, forever.
-- The build is a **one-lifetime** feat of a founding generation; the *machine* then runs for 135,000 years after he is dust.
+Zero does **not** build the Mountain because he is jilted. Before anything personal happens, he already stands inside:
 
-## 3. Strategy or grief — never resolved
+- an **existential conflict between Noxius and Sapiens** — the long species pressure (see Species canon: attrition by assimilation, the daughters bleeding to the warm new people, a real fear that coexistence becomes cultural and demographic extinction);
+- a **father–son argument over war, survival, weakness, and preparedness.** The **father is the war-advocate**: he wants Noxius to answer the Sapiens threat with force and total preparation while Noxius still holds the advantage. **Zero resists.** He still believes coexistence may be possible; he thinks his father's fear is an old man's fear, and that a brilliant people need not choose slaughter.
+- **immense scientific, political and financial resources** — the father's empire, the sharpest engineers of the age within reach;
+- a civilisation **capable of total war**, and the knowledge of what that would cost.
 
-Keep the root **ambiguous**, exactly as everything else in this book is ambiguous. The public, doctrinal story: cold species-survival strategy, a genius who chose to build rather than lose a war. The unspeakable truth underneath: **a monument to one woman he could not have.** Strategy catalyzed by grief, or grief dressed as strategy? *Never decide.* The proud myth over the sadder truth — one final time, at the very bottom of everything.
+Zero is, at the start, the reasonable son arguing *against* catastrophe.
 
-## 4. The fractal — one wound, three scales
+## 3. The governing psychological event (§IX — locked)
 
-The book is the same wound re-lived three times:
+> *"Something happened to me that felt like proof. I accepted it as proof because it resolved an argument I was exhausted from resisting."*
 
-- **Noxius Zero** — the founder, 135k years ago, denied the woman who chose a Sapiens.
-- **The species** — the long bleed of daughters to Sapiens; "they stole our women." (Species canon.)
-- **Kailan — now** — watching **Va-Sheva** choose **Jean-Charles** (the Sapiens; the living proof of *why* the daughters choose — warmth, delight, presence, against Noxius cold and control).
+**Ithe** is Zero's love. They are estranged or driven apart. **A Sapiens polity's intelligence recruits, pressures, blackmails, persuades, or manipulates her**, and **sends her back to Zero under the appearance of reconciliation.** She obtains apparently limited strategic knowledge. **Sapiens uses it to locate and murder Zero's father.**
 
-Kailan is **Noxius Zero given a second run:** same brilliance, same rank, same grief, the same woman lost to the same enemy.
+- Ithe **may not know** assassination is the intended use of what she carries.
+- She may **try to warn Zero, too late.**
+- Zero later **finds proof that she transmitted the information.**
+- He **never obtains proof of how much she understood.**
+- **He chooses certainty where the evidence permits only accusation.**
 
-## 5. The five offices are his org-chart
+Zero stands over his murdered father and says: **"You were right."**
 
-The five Kahirs — Balance, Faith, Light, Justice, Shield — are **Noxius Zero's original division of labour**, the way one founder split an impossible project among the best minds he could buy, **ossified into religion across 135,000 years.** The doctrine is his engineering decisions gone to scripture. (Ties: the theology-as-runbook thread.)
+That sentence is the emotional foundation of the Mountain. The son who refused the war accepts it — not because he was argued into it, but because a real attack collapsed his resistance and let him stop carrying the exhausting doubt. He then builds: he gathers the sharpest engineers and scientists of the age (**on the order of 10,000–50,000**) and, **over a single lifetime**, raises the Mountain of the Apocalypse. The *machine* then runs ~135,000 years after he is dust.
 
-## 6. The recognition — the off-switch
+## 4. The real tragedy — the SCALE of the extrapolation (not "no evidence")
 
-The climax of the whole series. In Book 5, in the Forbidden Archive (the 90-day Great-Seal lock), **K finds Noxius Zero** — the founder's true story, stripped of the deification the folk Mountain wrapped it in — and **recognizes himself.** He sees that the entire apocalypse is one heartbroken, brilliant boy's grief run for 135,000 years, and that **he is about to become the next one.**
+**The threat was real.** The enemy state genuinely attacked him; his father was genuinely murdered; the species pressure is genuine. The tragedy is **not** that Zero had no reason. The tragedy is the **scale of what he made one wound mean:**
 
-That recognition **is** the disarmament. K does not defeat the Mountain, outfight it, or outsmart it. He *recognizes* it — and thinks: **enough.** He decides to **send a copy to Sarah** — to stop the madness. **The most buried secret in the machine turns out to be its off-switch.** You spend five books digging to the center of the machine, and what is at the center is a mirror.
+- **one intelligence operation** becomes *the nature of Sapiens*;
+- **one murder** becomes *proof that coexistence is impossible*;
+- **one betrayal** (real, particular, of uncertain depth) becomes *eternal law*;
+- a **wartime response** becomes *the constitution of every future generation*;
+- a **particular wound** becomes *a system in which millions of people, across 135 millennia, must live.*
 
-## 7. This closes the manuscript-to-Sarah question
+Zero converts a **contingent** war into **necessary** law, and **uncertainty** into **universal certainty.** He is not fully self-aware while doing it: he reveals facts, reasoning, grievance and intention **while remaining partly blind to how thoroughly the private wound organised his interpretation.** That blindness is the point. Keep it.
 
-The previously-open logistics gap ("how does the manuscript reach Sarah?") is **resolved at the level that matters:** it is **K's own act, and it is the emotional climax itself.** He reads Noxius Zero, sees his own face, and sends the manuscript to stop the cycle. The **why** is now locked. Only the mechanical **how** remains, and that simply **rides on Horizon** (Transfer canon). *(Supersedes the "unsolved" flag in the Book 5 canon §7.)*
+**Ithe stays partly unknowable.** We see her almost entirely through Zero, and therefore probably wrongly. Do **not** manufacture a complete Ithe testimony to settle whether she truly loved him or truly betrayed him. **The unresolved reality of her intention is the point.**
 
-## 8. Frame closure — the book is the off-switch
+## 5. The fractal — one wound, three scales (now an exact mirror)
 
-The copy K sends to Sarah **is the manuscript in the reader's hands** — Paul's retranscription, the assembled testimonies. **Its very existence is the Declaration.** The recognition of Noxius Zero is *why the book exists at all.* The object the reader is holding is the proof that K broke the cycle.
+The book is the same structure re-lived three times, and §IX makes the mirror **exact**:
+
+- **Noxius Zero** — the founder: a real Sapiens intelligence operation, run through the woman he loved (**Ithe**), kills his father and converts his resistance into eternal war.
+- **The species** — the long bleed of daughters to Sapiens; the proud grievance ("they stole our women") over the sadder truth (they chose). The species-wide backdrop Zero inhabits. (Species canon.)
+- **Kailan — now** — watching **Va-Sheva** choose **Jean-Charles**, who **is himself a Sapiens (French) intelligence operator** whose courtship of Va-Sheva began as an operation (§VIII). **Ithe and Jean-Charles are the same figure at two scales:** the enemy's intimacy used as a lever into a Noxius power, feeling that later becomes real, instrumental action that real feeling cannot erase.
+
+Kailan is **Noxius Zero given a second run:** handed the same shape of wound — the woman, the enemy-instrument, the temptation to convert a particular betrayal into a universal law — and asked whether he will build the same answer.
+
+## 6. The five offices are his org-chart
+
+The five Kahirs — Balance, Faith, Light, Justice, Shield — are **Noxius Zero's original division of labour**, the way one founder split an impossible wartime project among the best minds he could buy, **ossified into religion across 135,000 years.** The compartmentalisation is first an engineering/operational-security decision (no one hand holds the whole), later scripture. (Ties: theology-as-runbook; and §II Beast-as-chain.)
+
+## 7. The recognition — the off-switch
+
+The climax. In the Forbidden Archive (the ninety-day Great-Seal lock), **K finds Noxius Zero** — the founder's true story, stripped of the deification the folk Mountain wrapped it in — and **recognises himself.** He sees that the entire apocalypse is one brilliant young man's real, particular wartime wound **converted into eternal universal law**, run for 135,000 years — and that **he is being handed the identical conversion to make** (Va-Sheva → Jean-Charles → "they are all like that" → doctrine).
+
+That recognition **is** the disarmament. K does not defeat the Mountain, outfight it, or outsmart it. He **recognises** it — and **refuses the extrapolation.** Where Zero converted uncertainty into certainty, K lets the uncertainty stand: Va-Sheva **chose a man**, not a species; her choice is not evidence about anyone but her. That refusal is the off-switch. What is at the centre of the machine is a mirror, and the anti-founder is the one who looks into it and does not build.
+
+## 8. This closes the manuscript-to-Sarah question / frame closure
+
+- K's decision to **send the account out** (to Sarah / the world) is his own act, triggered by the recognition — the emotional climax itself. The **why** is locked; the mechanical **how** rides on Horizon (Transfer canon), reconciled with §VII/§XVI: **Sarah carries the Outsider Copy; the Mountain keeps its own preserved copy.**
+- The copy that leaves **is the manuscript in the reader's hands** — Paul's assembled testimonies. Its existence **is** the Declaration. (Note: per brief §VI, **Paul dies** completing that record; the frame is his assembled Outsider Copy, and K is the surviving narrator whose recognition set it in motion.)
 
 ## 9. Kailan breaks the cycle (the anti-founder)
 
-The spine of the ending in one line: **a man is handed the exact grief that founded the apocalypse, and instead of building it again, he writes it down and gives it to the enemy.** The founder could not accept that she chose. **Kailan can.** He is the anti-founder — Noxius Zero run a second time, and *refused.* He lets Va-Sheva go instead of ending the world over her.
+The spine of the ending in one line: **a man is handed the exact shape of the wound that founded the apocalypse — the woman, the enemy's instrument, the murdered trust — and instead of converting it into a law that ends the world, he lets the uncertainty stand, writes it down, and gives it to the enemy.** The founder converted a particular betrayal into universal certainty. **Kailan refuses to.** He is the anti-founder — Noxius Zero run a second time, and *refused* — and he lets Va-Sheva go.
 
 ## 10. Touchstone
 
-Helen of Troy and Robert's Rebellion — **at civilizational-geological scale.** Menelaus launched a thousand ships; Robert took a throne; **Noxius Zero built a doomsday mountain and ran it for 135 millennia.** The aggrieved man's lie, poured into stone. (Species canon §7 for the full touchstone note. Echo, never copy.)
+Not the "abducted Helen" frame of the old draft (that fits the *species-wide* grievance; see Species canon §7). The **founder's** touchstone is the modern one: **a state that suffers a real attack and converts it into permanent, self-justifying war doctrine** — the genuine wound extrapolated, by exhausted and frightened men, into an architecture that outlives every person who felt the original injury. The injury is real; the perpetual constitution built on it is the crime. (Echo the structure, never name it on the page.)
 
 ## 11. On-page handling
 
-- **Absolute embargo until Book 5's Forbidden Archive.** Before that: nothing. The fractal is felt only in retrospect — the reader realizes, at the reveal, that Kailan's whole story has been a re-run, and that no one (not K, not the reader) knew there was an original to re-run.
-- **Book 5's text IS this autobiography.** The reveal is delivered *as Noxius Zero's own autobiography, read by K and Paul together* during the 90-day lock — the same account-plus-interview form as Books 1–4, with the narrator swapped. **Two autobiographies in the identical shape:** the reader feels they are the same life before anyone says so, and the interviewer/interviewee gradient collapses into two men reading side by side. The mirror at the center becomes the book's own architecture. (See Book 5 canon §1.)
-- In the folk Mountain, Noxius Zero is **deified / mythologized into scripture** — an origin figure, not a jealous boy. The *truth* survives only in the Archive, which is why only the final descent can reach it.
-- Do **not** let any earlier book name a founder, a first man, or a personal origin for the Mountain. The Mountain must feel authorless — eternal, doctrinal — until the archive gives it one face, and that face is Kailan's.
+- **Absolute embargo until the Forbidden Archive.** Before that: nothing. No earlier chapter names a founder, a first man, or a personal origin. The Mountain must feel **authorless** — eternal, doctrinal — until the last door gives it one face, and that face is Kailan's.
+- **The Archive text IS this autobiography**, read by K and Paul (and Sarah) together during the ninety-day lock — the same account-plus-interview form as the rest of the book, narrator swapped. Two autobiographies in the identical shape: the reader feels they are the same life before anyone says so.
+- **The father, the argument, Ithe, the murder, and "You were right" are Archive-only.** In the folk Mountain, Zero is deified/mythologised; the Cain-and-Abel Genesis (Book of Blood) is **his own inversion** of the species grievance, not the literal history. The literal history (a real intelligence op, a real murder, a real doubt he refused to sit in) survives only in the Archive.
+- **Do not give Zero complete modern psychological self-awareness.** He argues his case, reveals the operation and the murder and the grievance, and stays partly blind to the wound's organising work.
 
 ## 12. Consistency hooks
 
-- **Origin / deterrent canon:** Noxius Zero is the **personal spark under the strategic "why."** The nuclear-bunker/husbandry logic is real and public; the founder's heartbreak is the private root. (Does not replace the deterrent framing — it *personalizes* it.)
-- **Species / intimate-loss canon:** Noxius Zero is the *first* instance of "the daughters chose"; the species-wide bleed is the same wound at scale.
-- **Book 5 canon:** the reveal lives in the Forbidden Archive (90-day lock); **resolves the manuscript-to-Sarah open question** there.
-- **Transfer canon:** the mechanical delivery of the manuscript rides on Horizon.
-- **Reveal Sequence:** this is the **terminal reveal** — the last thing, beneath all others.
+- **Brief §IX** is the governing spec for this file. Any residual "she left him → he built it" phrasing anywhere in canon or manuscript is obsolete and must be corrected.
+- **§VIII Jean-Charles / Va-Sheva:** the exact living mirror of Ithe/Zero. Jean-Charles is the intelligence instrument whose feeling becomes real; his betrayal of Va-Sheva is his central flaw and is the **internal leak** that brings France to the Mountain (see WorkNotes decision 3).
+- **Species / intimate-loss canon:** the species-wide "daughters chose" is the *backdrop* Zero inhabits (§2), not the founder's trigger. Reconcile that file's touchstone framing so it does not overweight the jilting root. *(Species doc reconciliation pending.)*
+- **Age / cycles:** ~135k provisional, flagged for verification (§XIII); cycles must not explain all prehistory.
+- **Reveal Sequence:** terminal reveal — the last thing, beneath all others.
 
 ## 13. Quick-reference card
 
 | Item | Locked value |
 |---|---|
-| Secrecy | **The secretest secret of all** — terminal reveal, Book 5 Archive only |
-| Noxius Zero | The founder, ~135k years ago; a brilliant, rich young man; **the same man as Kailan** |
-| His wound | Wanted a woman who **chose a Sapiens**; built instead of warring |
-| The build | ~10k–50k engineers, **one lifetime**, the Mountain of the Apocalypse |
-| Root | Strategy or grief — **kept ambiguous** (proud myth over sadder truth) |
-| The offices | Noxius Zero's **org-chart**, ossified into religion over 135k years |
-| The recognition | K finds him, **sees himself**, thinks *enough* — the off-switch |
-| Manuscript→Sarah | **K's own act**, triggered by the recognition (why locked; how via Horizon) |
-| Frame closure | The copy K sends **is this book**; its existence **is** the Declaration |
-| Kailan's arc | **The anti-founder** — handed the founder's grief, and refuses it |
-| Fractal | One wound, three scales: **Noxius Zero → the species → Kailan & Va-Sheva/Jean-Charles** |
-| On-page rule | **Absolute embargo**; the Mountain must feel authorless until the last door |
+| Secrecy | **The secretest secret of all** — terminal reveal, Forbidden Archive only |
+| Noxius Zero | The founder, ~135k years ago (provisional); a brilliant, rich young man; **the same man as Kailan** |
+| Before the wound | The **son who resists his father's war**; believes coexistence possible |
+| The father | The **war-advocate**; murdered by a Sapiens operation |
+| Ithe | Zero's love; **Sapiens intelligence instrument** returned under reconciliation; her info kills the father; **her true intent unknowable** |
+| The trigger | Ithe's betrayal **+** the father's murder collapse Zero's resistance → **"You were right"** |
+| The crime | **Not** lack of evidence — the **scale of extrapolation**: one op → the nature of Sapiens; one murder → eternal law |
+| The build | ~10k–50k engineers, **one lifetime**; machine runs 135k years |
+| The offices | Zero's wartime **org-chart / operational-security division**, ossified into religion |
+| The recognition | K finds him, **sees the identical conversion he is being handed**, and **refuses the extrapolation** — the off-switch |
+| Kailan's arc | **The anti-founder** — lets the uncertainty (Va-Sheva's choice) stand instead of making it law |
+| Fractal (exact) | **Zero/Ithe → the species → Kailan/Va-Sheva/Jean-Charles** — enemy intimacy as lever, feeling turned real, instrumental act unerasable |
+| On-page rule | **Absolute embargo**; Mountain authorless until the last door |
