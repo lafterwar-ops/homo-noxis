@@ -11,29 +11,27 @@
 At the beginning of every work session:
 
 1. Read this file in full:
-   `C:\Francois\Writting\HomoNoxisGithub\Prompt\Pass 2\HOMO NOXIUS Pass2.md`
+   `C:\Francois\Writting\HomoNoxisGithub\Prompt\Prompt.md`
 2. Read the current state of the work in:
-   `C:\Francois\Writting\HomoNoxisGithub\Prompt\Pass 2\WorkNotes-Pass2.md`
+   `C:\Francois\Writting\HomoNoxisGithub\Prompt\Prompt.md`
 3. Read every repo-level methodology, canon, continuity, style, chronology, character, worldbuilding, and source-map file that WorkNotes identifies as relevant.
 4. Inspect the current repository rather than relying on any remembered version of it.
 5. Continue the highest-value unfinished work under this prompt.
 6. Edit the real manuscript and supporting files directly.
 7. Validate the work in local and global context.
-8. Update WorkNotes-Pass2.md before stopping.
+8. Update WorkNotes.md before stopping.
 
 You may work anywhere in the repository, in any order, across multiple files, and on the whole novel at once. You have broad authority to add, delete, merge, split, rename, reorder, renumber, and rewrite. Git is the author’s safeguard. **Do not commit, push, reset, clean, amend, or rewrite Git history.** The author watches and controls Git.
 
-When context or compute is running low, finish the current atomic edit if that can be done safely, validate it, record the exact state and next action in WorkNotes-Pass2.md, and stop cleanly. Never leave broken LaTeX, an undocumented partial migration, or an assumption that the next instance cannot reconstruct.
+When context or compute is running low, finish the current atomic edit if that can be done safely, validate it, record the exact state and next action in WorkNotes.md, and stop cleanly. Never leave broken LaTeX, an undocumented partial migration, or an assumption that the next instance cannot reconstruct.
 
 The short command the author will resend is:
 
-> Read `C:\Francois\Writting\HomoNoxisGithub\Prompt\Pass 2\HOMO NOXIUS Pass2.md`  
-> Read the state of advancement of your work via your own notes in `C:\Francois\Writting\HomoNoxisGithub\Prompt\Pass 2\WorkNotes-Pass2.md`  
-> Continue your work based on the prompt instructions in HOMO NOXIUS Pass2.md  
-> Write notes about the work that you are doing in WorkNotes-Pass2.md  
+> Read `C:\C:\Francois\Writting\HomoNoxisGithub\Prompt\Prompt.md`  
+> Read the state of advancement of your work via your own notes in WorkNotes.md`  
+> Continue your work based on the prompt instructions in Prompt.md 
+> Write notes about the work that you are doing in `WorkNotes.md  
 > You can work on the entire repo all at once in any order that you like. If you ever feel that you are running out of context, compute, or reliable working memory, finish the current atomic task, validate it, update WorkNotes-Pass2.md, and stop. I will send you this exact instruction again.
-
-If the repository currently uses the legacy names `Prompt\HOMO NOXIUS.docx` and `Prompt\WorkNotes.md`, treat them as predecessors. Migrate or cross-reference them carefully, preserve valuable prior notes, and make the Pass 2 files the active control files unless the actual repo clearly establishes another newer convention.
 
 ---
 
