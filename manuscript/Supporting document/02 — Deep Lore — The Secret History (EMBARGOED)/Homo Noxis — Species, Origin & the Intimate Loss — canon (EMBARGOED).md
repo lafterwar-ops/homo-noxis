@@ -44,7 +44,7 @@ This is why the doctrine and the doomsday both exist. Trace it once, cleanly:
 
 ## 7. Craft touchstones — the stolen woman as casus belli
 
-The Noxius grievance sits in the oldest tradition there is: **the war founded on an abducted woman who may have chosen.** This is not decoration — "they stole our women" is the **casus belli of the entire species-war**, the root of the 135,000-year hatred, and it *founds an order*, exactly as these do:
+The Noxius grievance sits in the oldest tradition there is: **the war founded on an abducted woman who may have chosen.** This is not decoration — "they stole our women" is the **casus belli of the entire species-war**, the root of the 145,000-year hatred, and it *founds an order*, exactly as these do:
 
 - **Helen of Troy (the ur-example).** The founding war of Western epic — a decade of slaughter over a woman *said to be stolen* by Paris, with the old counter-tradition (Herodotus, and revisionist tellings) that she went willingly, or was never even at Troy. The face that launched a thousand ships is also the choice history refused to record.
 - **Robert's Rebellion (GoT).** The war that *puts Baratheon on the Iron Throne* is founded on *"Rhaegar stole and raped Lyanna,"* and the buried truth is that she went willingly and loved him. **A whole regime built on the aggrieved man's lie.**

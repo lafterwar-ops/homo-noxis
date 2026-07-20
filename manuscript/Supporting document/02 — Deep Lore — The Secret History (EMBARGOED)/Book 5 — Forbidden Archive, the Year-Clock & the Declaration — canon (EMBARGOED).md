@@ -67,9 +67,9 @@ Locked mechanics:
 
 What the archive does, once they are inside during the 90-day lock:
 
-- Ledger + Year-Clock together deliver **the scale**: five cycles, on the order of **~135,000 years** of a sealed, self-perpetuating society running one protocol, generation after generation, hand after hand, each having stood exactly here, having logged exactly this, having reset exactly this clock, and burned.
-- The horror is not the deaths outside. It is the **duration of their own confinement** — that they, the crew, are the fifth iteration of people who were born, raised, ranked, and spent entirely inside a machine that has been doing this since before Sapiens had cities, and that the machine's only output is *more of the machine.* They have been, in effect, a **135,000-year closed social experiment that no longer has an experimenter** — running because it runs.
-- The human response the engineers never designed for: **enough. We want out.** Not out of the bunker into the sixth burn — out of the *protocol itself.* And the only door out of a secret 135,000-year war is to **stop being secret** — to tell the other species it exists, and lay down the torch. Peace is not mercy toward Sapiens; it is escape for Noxius.
+- Ledger + Year-Clock together deliver **the scale**: five cycles, on the order of **~145,000 years** of a sealed, self-perpetuating society running one protocol, generation after generation, hand after hand, each having stood exactly here, having logged exactly this, having reset exactly this clock, and burned.
+- The horror is not the deaths outside. It is the **duration of their own confinement** — that they, the crew, are the fifth iteration of people who were born, raised, ranked, and spent entirely inside a machine that has been doing this since before Sapiens had cities, and that the machine's only output is *more of the machine.* They have been, in effect, a **145,000-year closed social experiment that no longer has an experimenter** — running because it runs.
+- The human response the engineers never designed for: **enough. We want out.** Not out of the bunker into the sixth burn — out of the *protocol itself.* And the only door out of a secret 145,000-year war is to **stop being secret** — to tell the other species it exists, and lay down the torch. Peace is not mercy toward Sapiens; it is escape for Noxius.
 
 *Open fork (decide before drafting): is "social experiment" literal (someone/something instituted them as an experiment and the experimenter is gone / findable) or existential (they did this to themselves, and "experiment" is the word the archive forces on them)? Default = existential; cleaner, and it keeps the tragedy internal. Flag only.*
 
@@ -85,7 +85,7 @@ What the archive does, once they are inside during the 90-day lock:
 
 ## 8. Consistency hooks (must not contradict)
 
-- **Cycle count / timeline:** five burns; cycles ~10,000 years *as counted from the first burn*; the design/build pre-history runs tens of millennia earlier, so the ~135,000-year figure is *founding-to-now*, not five × ten thousand. (Seam already noted in origin discussion — keep the arithmetic honest for the reader who checks.)
+- **Cycle count / timeline:** five burns; cycles ~10,000 years *as counted from the first burn*; the design/build pre-history runs tens of millennia earlier, so the ~145,000-year figure is *founding-to-now*, not five × ten thousand. (Seam already noted in origin discussion — keep the arithmetic honest for the reader who checks.)
 - **Beast = deep magma reached by seismic resonance.** Not fission, not metaphor. "Fire on the left" of the gravure and the drowned-green-Sahara imagery are the method's signature.
 - **Atlantis / Richat** = a *victim of a prior burn* (a Sapiens high-water civilization reset in an earlier cycle), **not** Noxius's origin or kin. The gravure shows it as evidence of the method, a scorch mark — the Richat is a burn scar, not a cradle.
 - **Equinox beam** (Geography lock: noon, due south, alt ≈ 68.4°, on the south Genesis gravure) is the **annual synchronizer of the Year-Clock.** One equinox indexes the year; the festival keeps the other.
@@ -104,7 +104,7 @@ What the archive does, once they are inside during the 90-day lock:
 | Forbidden Archive | Opens **only during the 90-day lock**; holds Ledger + Year-Clock (+ possibly the engine blueprint) |
 | Cycle Ledger | Cumulative record of **all** burns/years — instrument of the scale-reveal |
 | Year-Clock | **One tick per year**, mechanical, visible; **equinox-beam-synchronized**; **reset at each burn**, year logged to Ledger |
-| The reveal | ~**135,000 years**, five cycles, a sealed self-running society — *"we want out"* |
+| The reveal | ~**145,000 years**, five cycles, a sealed self-running society — *"we want out"* |
 | The Declaration | Institution stands down; confession-as-peace to **Sarah Blackwood**, signed **"The Mountain"** |
 | Manuscript→Sarah | **RESOLVED** — K's own act, triggered by finding **Noxius Zero** and recognizing himself; the copy *is this book* (see Noxius Zero DEEPEST-EMBARGO canon) |
 | Still open | literal vs. existential "experiment"; blueprint in archive or not; which equinox = year-turn; clock public/true split |

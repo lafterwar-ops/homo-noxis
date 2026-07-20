@@ -10,7 +10,7 @@
 
 ## 1. What Noxius Zero is
 
-**Noxius Zero is the founder** — the one who built the Mountain of the Apocalypse, roughly **135,000 years ago** (age provisional; see §XIII / age-cycles decision, still to be verified). He was a **very bright, very young man, rich and powerful** — and, in every way that matters, **the same man as Kailan.** Same brilliance, same rank of mind, same capacity to convert a private certainty into a total architecture. He is not a god, not a prophet, not a survivor-elder. He was a young man with a father's empire, a great mind, a real war at his door, and a wound he never learned to see working in him.
+**Noxius Zero is the founder** — the one who built the Mountain of the Apocalypse, roughly **145,000 years ago** (§XIII decision, locked — see §12: Harbin/"Dragon Man" Denisovan horizon ≥146k, DNA-confirmed 2025; chosen as the oldest *evidence-anchored* founding, inside the 800k-yr ice-core record so the year-clock is cross-checkable). He was a **very bright, very young man, rich and powerful** — and, in every way that matters, **the same man as Kailan.** Same brilliance, same rank of mind, same capacity to convert a private certainty into a total architecture. He is not a god, not a prophet, not a survivor-elder. He was a young man with a father's empire, a great mind, a real war at his door, and a wound he never learned to see working in him.
 
 ## 2. What he inhabited (before the wound)
 
@@ -37,7 +37,7 @@ Zero is, at the start, the reasonable son arguing *against* catastrophe.
 
 Zero stands over his murdered father and says: **"You were right."**
 
-That sentence is the emotional foundation of the Mountain. The son who refused the war accepts it — not because he was argued into it, but because a real attack collapsed his resistance and let him stop carrying the exhausting doubt. He then builds: he gathers the sharpest engineers and scientists of the age (**on the order of 10,000–50,000**) and, **over a single lifetime**, raises the Mountain of the Apocalypse. The *machine* then runs ~135,000 years after he is dust.
+That sentence is the emotional foundation of the Mountain. The son who refused the war accepts it — not because he was argued into it, but because a real attack collapsed his resistance and let him stop carrying the exhausting doubt. He then builds: he gathers the sharpest engineers and scientists of the age (**on the order of 10,000–50,000**) and, **over a single lifetime**, raises the Mountain of the Apocalypse. The *machine* then runs ~145,000 years after he is dust.
 
 ## 4. The real tragedy — the SCALE of the extrapolation (not "no evidence")
 
@@ -65,11 +65,11 @@ Kailan is **Noxius Zero given a second run:** handed the same shape of wound —
 
 ## 6. The five offices are his org-chart
 
-The five Kahirs — Balance, Faith, Light, Justice, Shield — are **Noxius Zero's original division of labour**, the way one founder split an impossible wartime project among the best minds he could buy, **ossified into religion across 135,000 years.** The compartmentalisation is first an engineering/operational-security decision (no one hand holds the whole), later scripture. (Ties: theology-as-runbook; and §II Beast-as-chain.)
+The five Kahirs — Balance, Faith, Light, Justice, Shield — are **Noxius Zero's original division of labour**, the way one founder split an impossible wartime project among the best minds he could buy, **ossified into religion across 145,000 years.** The compartmentalisation is first an engineering/operational-security decision (no one hand holds the whole), later scripture. (Ties: theology-as-runbook; and §II Beast-as-chain.)
 
 ## 7. The recognition — the off-switch
 
-The climax. In the Forbidden Archive (the ninety-day Great-Seal lock), **K finds Noxius Zero** — the founder's true story, stripped of the deification the folk Mountain wrapped it in — and **recognises himself.** He sees that the entire apocalypse is one brilliant young man's real, particular wartime wound **converted into eternal universal law**, run for 135,000 years — and that **he is being handed the identical conversion to make** (Va-Sheva → Jean-Charles → "they are all like that" → doctrine).
+The climax. In the Forbidden Archive (the ninety-day Great-Seal lock), **K finds Noxius Zero** — the founder's true story, stripped of the deification the folk Mountain wrapped it in — and **recognises himself.** He sees that the entire apocalypse is one brilliant young man's real, particular wartime wound **converted into eternal universal law**, run for 145,000 years — and that **he is being handed the identical conversion to make** (Va-Sheva → Jean-Charles → "they are all like that" → doctrine).
 
 That recognition **is** the disarmament. K does not defeat the Mountain, outfight it, or outsmart it. He **recognises** it — and **refuses the extrapolation.** Where Zero converted uncertainty into certainty, K lets the uncertainty stand: Va-Sheva **chose a man**, not a species; her choice is not evidence about anyone but her. That refusal is the off-switch. What is at the centre of the machine is a mirror, and the anti-founder is the one who looks into it and does not build.
 
@@ -98,7 +98,7 @@ Not the "abducted Helen" frame of the old draft (that fits the *species-wide* gr
 - **Brief §IX** is the governing spec for this file. Any residual "she left him → he built it" phrasing anywhere in canon or manuscript is obsolete and must be corrected.
 - **§VIII Jean-Charles / Va-Sheva:** the exact living mirror of Ithe/Zero. Jean-Charles is the intelligence instrument whose feeling becomes real; his betrayal of Va-Sheva is his central flaw and is the **internal leak** that brings France to the Mountain (see WorkNotes decision 3).
 - **Species / intimate-loss canon:** the species-wide "daughters chose" is the *backdrop* Zero inhabits (§2), not the founder's trigger. Reconcile that file's touchstone framing so it does not overweight the jilting root. *(Species doc reconciliation pending.)*
-- **Age / cycles:** ~135k provisional, flagged for verification (§XIII); cycles must not explain all prehistory.
+- **Age / cycles (§XIII — DECIDED):** founding **~145,000 yr** (Harbin-Denisovan horizon ≥146k, DNA-confirmed 2025; oldest evidence-anchored figure; inside the 800k-yr EPICA ice-core record → year-clock cross-checkable via ice/deep-sea archive). **Six cycles** (five prior + present sixth; ~26k mean spacing), retained after examination. Most recent prior firing ~13k yr, **left unnamed** (reader may connect the Younger Dryas, cause debated). **Antipodal focusing** real but modest per single event (Chicxulub modelling) → the book's **resonance amplification** (Ch19) is the mechanism, science holds. **Restraint (on-page, Ch21):** the cycles are the hidden hand behind *a handful* of otherwise-unexplained cold centuries only — **not** the secret cause of all prehistory.
 - **Reveal Sequence:** terminal reveal — the last thing, beneath all others.
 
 ## 13. Quick-reference card
@@ -106,13 +106,13 @@ Not the "abducted Helen" frame of the old draft (that fits the *species-wide* gr
 | Item | Locked value |
 |---|---|
 | Secrecy | **The secretest secret of all** — terminal reveal, Forbidden Archive only |
-| Noxius Zero | The founder, ~135k years ago (provisional); a brilliant, rich young man; **the same man as Kailan** |
+| Noxius Zero | The founder, ~145k years ago (provisional); a brilliant, rich young man; **the same man as Kailan** |
 | Before the wound | The **son who resists his father's war**; believes coexistence possible |
 | The father | The **war-advocate**; murdered by a Sapiens operation |
 | Ithe | Zero's love; **Sapiens intelligence instrument** returned under reconciliation; her info kills the father; **her true intent unknowable** |
 | The trigger | Ithe's betrayal **+** the father's murder collapse Zero's resistance → **"You were right"** |
 | The crime | **Not** lack of evidence — the **scale of extrapolation**: one op → the nature of Sapiens; one murder → eternal law |
-| The build | ~10k–50k engineers, **one lifetime**; machine runs 135k years |
+| The build | ~10k–50k engineers, **one lifetime**; machine runs 145k years |
 | The offices | Zero's wartime **org-chart / operational-security division**, ossified into religion |
 | The recognition | K finds him, **sees the identical conversion he is being handed**, and **refuses the extrapolation** — the off-switch |
 | Kailan's arc | **The anti-founder** — lets the uncertainty (Va-Sheva's choice) stand instead of making it law |
