@@ -13,7 +13,7 @@ At the beginning of every work session:
 1. Read this file in full:
    `C:\Francois\Writting\HomoNoxisGithub\Prompt\Prompt.md`
 2. Read the current state of the work in:
-   `C:\Francois\Writting\HomoNoxisGithub\Prompt\Prompt.md`
+   `C:\Francois\Writting\HomoNoxisGithub\Prompt\WorkNotes.md`
 3. Read every repo-level methodology, canon, continuity, style, chronology, character, worldbuilding, and source-map file that WorkNotes identifies as relevant.
 4. Inspect the current repository rather than relying on any remembered version of it.
 5. Continue the highest-value unfinished work under this prompt.
