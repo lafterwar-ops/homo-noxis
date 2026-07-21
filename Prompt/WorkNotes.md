@@ -376,3 +376,29 @@ Renames done: Trial 14→13, Horizon 16→14, Knocks 13→15, Mock 15→16 (4-cy
 **Wrote the charter-required §XVII.7 FINAL REPORT** — `Prompt/REBUILD-REPORT.md` had been deleted in the Pass-2 reset; recreated fresh and **accurate to the finished state**: final 24-ch order, causal chain, arc changes (incl. §6.7 realized + the frame-dislocation reorder), canon decisions (two-layer age, no-single-hand, two copies, geography), the complete QC ledger, files touched, and the two author-gated open items (build wiring, Declaration placement). This is the capstone deliverable for the finished book.
 
 **PROJECT COMPLETE (autonomous scope):** every charter mandate realized; manuscript converged + validated; final report delivered. Open items are workflow/editorial decisions only the author can make (build; Declaration). No further safe autonomous edit exists.
+
+---
+
+## PASS 2 — SESSION 19 — BUILD WIRED (author unblocked "00 Intro")
+
+**Author:** *"Feel free to touch 00 Intro to make latex better."* → wired the compile.
+- **`00 Intro/chapter001-latexIntro.tex` is now the complete master:** appended, after its titlepage, the full `\input` list (5 front-matter files + 24 chapters, final order) and `\end{document}`. It had `\documentclass`+preamble+`\begin{document}`+titlepage but NO input list / NO `\end{document}` — the reason the book couldn't compile.
+- **Renamed `chapter004-Book 1.tex` → `chapter004-Book1.tex`** (the space broke `\input`); reference updated.
+- **Removed a stray `\end{document}` from `chapter24-Whole.tex`** (leftover from standalone compiles; would have double-closed the assembled document).
+- **Validated (as far as possible without xelatex):** master = 1 `\begin{document}` / 1 `\end{document}` / 29 `\input`; **all 29 targets resolve**; NO stray document-level commands in any body file; brace/env/quote balance already clean (S10). Paths are relative to the master's own dir ("00 Intro/") — the common editor default — with a comment in the file giving the repo-root alternative.
+
+**⚠ Cannot run xelatex here** (Windows-absolute font paths `C:/Francois/Writting/EB_Garamond/...`; no compiler in sandbox) → compile-time errors (packages, fonts, macro edge cases) are unverifiable by me; the author must do the first real compile.
+
+**⚠ FLAG FOR AUTHOR (outside the "00 Intro" scope, so untouched):** the stale root `main.tex` (repo root) still has its own `\begin{document}` and `\input`s OLD/nonexistent filenames + a simple preamble lacking the chapters' macros. It is a competing root that would fail if the editor auto-selects it. **Recommend:** delete `main.tex`, OR set `"latex-workshop.latex.rootFile": "manuscript/00 Intro/chapter001-latexIntro.tex"` in `.vscode/settings.json`, OR build with `latexIntro.tex` open as the active root. (I can do any of these if you extend permission beyond 00 Intro.)
+
+**State:** manuscript complete + validated; build now WIRED and structurally verified (compile-time unverified here). Remaining: author's first compile + the disambiguation flag above + optional Declaration placement.
+
+---
+
+## PASS 2 — SESSION 20 — BUILD, first compile feedback
+
+**Author ran XeLaTeX:** preamble + all packages loaded fine, titlepage rendered (page [1]) → **the design/macros work.** Failed only at `\input{chapter001-outsiderManuscript}` → "File not found" = the compile CWD is not "00 Intro/" (author compiled a pasted scratch buffer, so directory-relative paths don't resolve).
+- **Fix: converted all 29 `\input` paths to ABSOLUTE** (`C:/Francois/Writting/HomoNoxisGithub/manuscript/...`), matching the absolute font paths already in the preamble → resolves from any working directory. Verified: 29/29 absolute, all targets exist. Updated the assembly comment accordingly.
+- **Known residual risk:** the front-matter absolute paths contain the space in **"00 Intro"**. LaTeX's braced `\input{...}` should handle spaces (the space-breaks-input rule is for the bare primitive, not `\input{}`); if the author's next compile errors on a front-matter file, **fallback = rename the folder `00 Intro` → `00Intro`** (no space) and update those 5 paths. Flagged to author.
+
+**Next:** author recompiles the master (`00 Intro/chapter001-latexIntro.tex`, or its pasted content). If it errors on the "00 Intro" space, do the folder-rename fallback. Also still recommend removing/neutralizing the stale competing root `main.tex`.
