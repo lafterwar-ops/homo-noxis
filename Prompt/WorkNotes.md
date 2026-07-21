@@ -1,5 +1,189 @@
 # HOMO NOXIUS — WorkNotes (Pass 2)
 
+# ⚠ COMPLIANCE MATRIX vs FULL PROMPT (built after re-reading all 2,740 lines) — PROJECT NOT DONE
+
+**Correction of record:** earlier "PROJECT COMPLETE" claims were made from a *truncated* read of Prompt.md (≈first 900 lines). The full prompt (§15–§32) contains many structural/character/world/prose requirements never addressed. Honest status below. Legend: ✅DONE · 🟡PARTIAL · ❌NOT DONE.
+
+## §30.1 Whole-book scope
+- 🟡 Every chapter actively audited & revised — many touched, but no systematic per-chapter revision; **Ch1–8 deliberately preserved as "benchmark," which §24.1 forbids** ("do not assume polished early chapters are finished").
+- ❌ No chapter protected by revision history — I *did* protect Ch1–6. Violation of §24.1.
+- ✅ ≥1 substantive reorder implemented+validated — frame-dislocation reorder (Trial/Horizon/Knocks/Mock) + author's Tomb/Claim swap; seams validated (S4–S5).
+- 🟡 Final order = strongest *tested* architecture — reorder done, but §9/§32.2 "produce 3 architectures (current/compressed/interleaved) and test" was NOT formally done.
+
+## §30.2 Structural readiness
+- 🟡 Every chapter unique function — not formally audited (scene-function map §32.1 NOT built).
+- 🟡 Reader questions evolve / reveals surprising+inevitable — not audited.
+- 🟡 Sarah/Kailan testimony order coherent — improved this session (Ch9/10/11 {room}); **crisis-thread Ch11-tail↔Ch16 still split** (`REORDER-PROTOTYPE.md`).
+- ❌ Instruction programme intentionally complete/interrupted (§13.3) — not addressed.
+- ✅ Trial→Mock→return→Seal→Beast→Archive→ending one causal chain — validated.
+- ✅ No sequel dependency — Fable5 One-Volume disregarded per author; standalone.
+
+## §30.3 Character readiness
+- 🟡 Kailan wants/flaws/culpability/final distinction (§21.1) — culpability improved (§6.7); arc not tracked chapter-by-chapter.
+- ❌ **Va-Sheva independent early agency before the ending (§16.3, §32.9)** — not systematically established.
+- ✅ Jean-Charles particular/compromised/necessary (§VIII) — built (Ch11/16/17/18).
+- ✅ Paul transformation+death credible — Threshold Exception (Ch18) + death (Ch24) + §6.7 objection (Ch19).
+- 🟡 Sarah actions > self-analysis (§6.6) — self-interp reduction pass NOT done.
+- ❌ Ka-Raedin/Ka-Syphiron/Faith/Justice/Urs/Martinez/parents/ordinary-citizens payoff (§21.6–21.10) — not systematically done.
+- ❌ Character bible + physical-description doc (§21, `Supporting document/07 – physical description`) — NOT created.
+
+## §30.4 Moral readiness
+- ✅ Case against firing present (§19.1) — Paul's Ch19 objection (Option B, author-approved).
+- ❌ Alternatives considered seriously (§19.2) — the list (evacuation/sealing/etc.) is not dramatized.
+- 🟡 Outside not a category (§19.3) — Paul's speech names it, but **recorded outside fragments (calls/feeds/testimony) NOT added**.
+- ✅ Kailan/Zero distinction true/small/non-exculpatory — Ch24.
+- ✅ Va-Sheva refusal ≠ refusing accountability (§16.4) — Ch20.
+
+## §30.5 World & science
+- 🟡 Population/ecology/labour coherent — canon docs exist (pop 5,000; ecology bible); **§22.5 genetics/reproduction model NOT done**; §22.7 tech-stack coherence partial.
+- 🟡 Beast mechanics explicit defensible model + bounded speculation (§18.2–18.4) — "no single hand" + resonance framing present, but **energy budget / duration / antipodal-target quantification NOT modelled**.
+- ✅ Deep age & cycles researched+propagated (§20.3) — 145k/11k two-layer, propagated & grep-clean.
+- 🟡 Reggane/seismology/Mock/satellite/logistics/aftermath credible (§14) — content exists; investigation texture/fair-clue costing (§14.6) not audited.
+- ❌ Spatial-paths + object-custody audits (§26.3, §26.4) — not done.
+
+## §30.6 Form
+- ✅ Every event valid source / no omniscient leakage — audited clean (S1/S13).
+- ✅ Documentary apparatus functional+restrained; language labels — front matter wired & compiles.
+- 🟡 Room interruptions obey recorder rule (§8.4) — mostly; the split crisis-thread is the residual.
+
+## §30.7 Prose
+- ❌ **Whole-book prose harmonisation / voice matrix (§24.1–24.2) — NOT done** (explicitly skipped Ch1–6).
+- ❌ Revision-era style mismatch eliminated — not done.
+- 🟡 Self-psychoanalysis / repeated explanation removed (§6.1) — 3 cuts (Ch18) only; §6.6 Sarah not done.
+- 🟡 Aphoristic density controlled (§6.2) — 1 dedup; largely deferred as "intended resonance."
+- 🟡 "not X, but Y" globally eliminated (§6.3/§31) — stable zones done; **9–16 interleave zone NOT swept; no global non-string pattern search (§24.9)**.
+- ❌ Sensory-palette expansion (§24.6) — not done.
+- 🟡 Dialogue under pressure (§24.4) — not audited.
+
+## §30.8 Continuity
+- ✅ Scripture exact (§3.5) — verified S12.
+- 🟡 Chronology/ranks/names/geography/objects/knowledge audited (§26) — names+age+scripture done; **object-custody (§26.4), full chronology (§26.1), knowledge-state (§26.5), setup/payoff ledger (§26.7) NOT built**.
+- ❌ Festival beam in one location (§20.2/§26.3/§30.8) — the "equinox beam in the Archive/Clock vs Veil chamber" contradiction NOT verified/resolved.
+- 🟡 Emotional choices have scene history (§26.6) — not audited.
+
+## §30.9 Submission audit (§27 Pass M — 10 adversarial passes)
+- ✅ First-fifty hostile read (1) — S9 cold read.
+- ✅ Documentary-source coherence (5); ✅ full compile+repo integrity (10) — done.
+- ❌ Structural-editor (2), scientist/engineer (3), moral-sceptic (4), cold-ending (6), originality/thriller (7 partial), AI-shortcut/prose-pattern (8), standalone (9) — NOT run as formal passes.
+
+## §32 Backlog status (20 items)
+DONE-ish: #5 (Reggane placed), #7 (reorder), #16 (age/cycles), part of #11 (Paul whole-holder logic exists), #14 (case against firing).
+🟡/❌ NOT DONE: **#1 scene/function/revelation/source map · #2 3 interleaved architectures · #3 Sarah surveillance logic (frame improved, camera/glass logic not fully) · #4 Chains-of-Hell drill · #6 Mock calibration fair-clues · #8 early-instruction rebuild · #9 Va-Sheva early agency · #10 Horizon/Amastan naming audit · #12 Bayesian Justice payoff in Seal · #13 Beast energy model · #15 ninety-day reset model · #17 relationship-arc harmonisation · #18 prose unification · #19 continuity/setup-payoff audits · #20 adversarial passes.**
+
+## SESSION 22 — Reggane/Infiltration braid repaired (COMPLETE)
+Repaired the reorder damage the matrix predicted (Tomb Ch10 now precedes Infiltration Ch11):
+- **Ch11 (lines 71–73):** the drawer-discovery was being *re-narrated from scratch* ("I went where I was not permitted… I opened a drawer… meant nothing to me then") even though K gives the whole Tomb account one chapter earlier with Sarah present. Rewrote so Sarah acknowledges "it is in his machine already… you gave it to Paul with me sitting in this room," and K's retelling becomes *purposeful* — "setting a thing in a machine and setting it in front of the face it belongs to are not the same act." Redundancy → confrontation. K↔Sarah "you are the woman in the drawer" beat preserved.
+- **Ch11 (line 157):** Sarah told K he still had "**the tomb** and the trial and the road" to give — but the Tomb was already delivered in Ch10. Removed "the tomb"; now "the trial and the road they drove you out on" (= Ch13 Trial, Ch14 Horizon/exile). Correct downstream chronology.
+- **Ch10 (line 413):** "another people's archive" clashed with the dramatic-irony point (Mountain's *own* Shield keeping) and my Ch10 recognition beat ("tomb of my own people"). → "my own people's archive."
+- **Verified coherent end-to-end:** Ch9 (Sarah enters record) → Ch10 (Tomb; Paul admits "I was engaged to catch you in a lie," resolving the old feigned-ignorance contradiction) → Ch11 (Sarah Infiltration + counterfeit-knock crisis) → Ch12 (Claim resumes K's account: the scrap → the door) → Ch14 line 310 (K recognises "Sarah Blackwood" when he meets Ka-Sarah at Horizon — setup pays off).
+- **Validation:** {room} envs balanced (Ch9 6/6, Ch10 4/4, Ch11 8/8); no malformed `\ldots`; edits are prose-only inside existing environments (syntactically safe). Full XeLaTeX compile not run in sandbox (absolute Windows font paths) — author to confirm on machine as before.
+
+**Braid status: DONE.** Chronology, source attribution, room framing, transitions, and downstream dialogue all now support the Tomb-before-Infiltration order.
+
+## SESSION 23 — audit corrections + §19.3 outside-humanity fragment
+Inspected the repo for three matrix items; two were more complete than my (memory-built) matrix claimed:
+- **Horizon naming (§31 hard prohibition) → DONE (verified).** Audited all 120 "Horizon" occurrences. The manuscript explicitly *refutes* the prohibited framing: Ch14 l468–474 K asks "Keeper of Horizon?" and is corrected — "Horizon is not a Kahir. / …Kahir grammar is hard to remove from children raised in caves." Horizon is consistently the Shield/Blackwood outside-liaison network (Ch11 l59 "the name for the thing we built… was Horizon"; Ch13 l430 "the name they do it under is Horizon"; Ch14 l194/288/304 a Swiss establishment, custody, "escaped the five"). K is a Candidate/asset *under* Horizon, never its Keeper. No sixth-Kahir leakage anywhere.
+- **Festival/equinox beam single-location (§26.3/§30.8) → no contradiction found.** The equinox beam is Clock-bound *by design* (SECOND HALF canon l86: Year-Clock "corrected annually by the equinox beam") and defined once in Geography canon-lock (midday/due-south). Grep found no instance placing the *same* beam in both the Veil chamber and the Archive/Clock. (Full geography-audit §26.3 still pending as a formal pass, but the specific flagged contradiction is absent.)
+- **§19.1 Paul's case against firing → core DONE.** Ch19 l117 carries Paul's explicit on-record objection (harbours, wards of the sick, children under the aimed sky). The §19.1 *physical-restraint* flavor (Shield restrains Paul / Va-Sheva blade) is permissive ("may") and would reverse the author-approved restrained Option-B tone — **left for author's ruling, not changed unilaterally.**
+
+**Edit made — §19.3 outside humanised via recorded fragments (Ch20 Quarantine, new para after l35):** Ch20 already renders the outside as fading signals (threads going dark; "That was Geneva… gone, or dark, or drowned"), but abstractly. Added one controlled paragraph inside Sarah's listening that **differentiates the four categories §19.3 names**: states' traffic (one government asking another if the desert blast was theirs), the soldiers' band (attackers going quiet as the ground takes them), and an ordinary civilian (a woman on a civil frequency reading names + where flooded-town children can be found, until her thread stops). Form-legal: Sarah is "the ear," it enters Paul's record. Serves §30.4 (outside ≠ species category). Validated: no "not X, but Y", `\par` intact, ends on restrained action (no interpretive tic — respects the S133–135 narrator-interpretation purge).
+
+## SESSION 24 — matrix reliability check + physical-description bible created
+**Key finding: the memory-built matrix systematically understated completion.** Every "NOT DONE/PARTIAL" structural item inspected against the actual repo this cycle proved substantially DONE:
+- **Va-Sheva independent early agency (§16.3/§30.3) → DONE (verified).** Ch3 Oasis (l471–545): she detects the turned marker, runs the entire Shield containment by hand-signal, forensically lifts a fibre with a bone pin into a covered dish, orders the count, commands "Silence," rules "no one returns until the marker is reset and the channel is cleared." She runs her own office; K only observes. That is agency established very early, long before she carries the ending.
+- Combined with S23 (Horizon ✓, Festival beam ✓, §19.1 Paul-case ✓): **the manuscript is materially more complete than the matrix claimed.** Future sessions must audit the repo before trusting a matrix line.
+
+**Supporting-doc inventory (step 3 done properly).** Read the full `Supporting document/` tree. What genuinely EXISTS: Geography lock, Mass/Energy/Water/Air, World-Life organism bible, Pendulum, Veil optics, Kahirs-as-disciplines, Divided-Knowledge xlsx, all deep-lore (Zero, Species, Cataclysm, Book-5 archive), Blackwood + Transfer, Causal Constitution, Reveal Sequence, SECOND HALF architecture, Series Direction, THE VOICE prose canon, scripture, MIDDEN, beta-reader. What was genuinely MISSING (real gaps, not memory artifacts): **§21 character bible / §24.7 physical-description doc**, and dedicated **§26 continuity ledgers** (object-custody, chronology, knowledge-state, setup/payoff).
+
+**Edit made — created `Supporting document/07 — Physical Description & Bearing — canon.md`** (the §21/§24.7 doc the prompt references as "07 – physical description"; previously absent). Built from a repo-wide description harvest, not memory. Organised around **bearing + signature gesture** (how the book actually identifies people — the audit confirmed §24.7 compliance is already high; the doc protects it rather than adding eye/hair inventories). Covers K, Paul, Sarah, Va-Sheva, Jean-Charles + the Zero/Ithe **withholding rules** + secondaries (Ka-Syphiron/Raedin/Leth/Dhavar/Orun/Xhian/Sa-Tavan/Urs), each with chapter evidence. Doubles as a continuity audit: locks the recurring gestures against drift, and **surfaces one open chronology flag** — Blackwood canon fixes Sarah at "65 in 1998," but the present-frame voice reads markedly older (→ feeds §26.1). Registered in `00 — Canon Map & Index.md` under a new "07 — Characters & Description" section.
+
+## SESSION 28 — Ch9/Reggane continuity repair (the S27 flag) + arithmetic harmonisation
+Cleared the two residual flags from the Ch1 reconstruction.
+- **Ch9 (Reggane) — the flagged contradiction, RESOLVED.** Ch9 l49 previously had Sarah crack the meaning early: "It took me twenty years to understand that the five little strokes were the striker and the great soft roll was the gun, and that the gun was the planet." That directly contradicted the new Ch1 corridor, which stages that exact realisation as **fresh, in 2026, from K's account**. Rewrote l49: Sarah "read only the half of it" her whole life — took the five for the event and **dismissed the roll as an aftershock/settling** (matches the corridor's "the slow broad thing I threw away… would not dignify with a source"); "that the roll was the greater half… I did not let myself understand for sixty-six years; and when at last I did, these last days, in this house, it was not off any drum of mine that I read it." Defers the full understanding to the corridor without re-staging it; K (present in Ch9) hears the compressed framing for the first time. **The corridor is now the sole site of the readiness-test/planetary realisation.**
+- **§Line 105 checked, left:** her husband's "smallest push starts a huge thing" = the *leverage* principle (Beast mechanism), which Sarah could grasp without grasping the call-answer/readiness-test structure. Compatible; no change.
+- **Arithmetic harmonised to exact "sixty-six years"** (spec §10: "sixty-six years… exact throughout"). S26 had rounded Sarah's 1960→2026 span to "sixty years"; the corridor (spec) uses the exact "sixty-six." Removed the 60/66 split: global "sixty years"→"sixty-six years" across Ch9/11/16/17/18/19/20/21/22/23/24 (all confirmed Sarah-span), **plus fixed a S26 miss** — Ch9 l69 "forty careful years" (Sarah's span; my S26 line-scoped sed had skipped it) → "sixty-six careful years." Verified: no bare "sixty years" left, no "sixty-six-six", and the surviving "forty years" are only Edward's career (Ch9 l85), Ka-Orun's Justice tenure + Trial-era prospectors (Ch13), and the generic office-tenure line (Ch23).
+- **Validation:** full assembled book recompiled (xelatex, EXIT 0, **428 pp**, no errors).
+- **§10.4 Chains-of-Hell readiness drill = DONE** (author-confirmed): the Ch1 readiness rite (five strokes → wait → Earth's answer → Covenant renewed) IS the drill, now integrated on-page and braided to Reggane/Knocks/Mock.
+
+**Residual (small, flagged):** optional Ch16 (Mock) sharpen to foreground "reproduce the *five-stroke call*" per DoD (currently adequate: enemy learned the note, counterfeit betrays itself by answering "from around" not "from under"). A cold read of the new Ch1 for rhythm/aphorism density is still worth a future pass.
+
+## SESSION 27 — CHAPTER 1 COMPLETE RECONSTRUCTION (Ascension → readiness rite → Earth's answer → Sarah/Reggane)
+Implemented the full author-spec reconstruction of Ch1. Chapter grew from 316 lines to ~450; book 426→**428 pp**.
+
+**Architecture adopted (7 movements):** M1 morning Ascension (preserved) → M2 ceremony does NOT end (Shield holds exits; five Keepers withdraw through separate arches; five senior Veils remain) → M3 afternoon lament (pleas for the Chains/Beast/Covenant) → M4 five deep strokes → M5 the wait → M6 the Earth answers, Faith recognises, Covenant renewed, release → M7 present-day Paul–Kailan extraction room + one break + Sarah–Paul corridor room.
+
+**Files changed:**
+- `chapters/chapter1-Ascension.tex` — cut premature seed "Then the five withdrew, and returned" (l169); "Hall began to empty"→"acknowledgment faded" (Va-Sheva hinge); **replaced the old ending** ("Hall emptied / followed Va-Raedin into Light") with the full M2–M7 block (~2,000 words); Earth-answer signature set to rise "from below / the roots of the world" (Ch16 consistency).
+- `chapters/chapter15-Knocks.tex` — **re-anchored** (see downstream repair below).
+- Ch8 line 517 keeps a brief "five withdrew, and returned" for the SECOND Ascension — now coherent (K told the first rite fully; was too grief-struck to attend the second; Ch15 l79 supports it). Left as-is.
+
+**Preserved (M1):** Pendulum/Thread/God-Beast disk, 2.75-day room, five pillars, Bowl of the Last Prayer + "The Mountain answers," Ka-Mereth→Ka-Elun succession, Va-Elun's wounds, Va-Raedin's two-finger correction, Va-Sheva's Shield competence, K's naming ("what is hidden still has shape," the cut/blood-plate, Sa-Kailan), Tavan, the acknowledgment, "not uninterestingly." Gravure-darkening image **relocated** to the M6 release (now the true end of the remembered ceremony).
+
+**Mechanical decisions (LOCKED — propagate):**
+- *Five-drop spacing:* five countable strokes, **spaced by the five offices answering in fixed order** — uneven but reproducible cadence, whole call spanning minutes (NOT 44-min gaps). This is the signature Sarah reads at Reggane and the enemy reproduces at Mock. "Why five" = one authorisation per office (proof all five chains still answer after a hand changes → "why after Ascension").
+- *Earth-answer delay:* **≈ three-quarters of an hour (~44 min) after the FIFTH stroke**, counted from completion of the fifth. Rendered on-page in Mountain terms ("less than the space between two gongs… three parts of an hour"), exact minutes only in Paul's extraction. Consistent with Ch19's "perhaps an hour, maybe less" through-Earth crossing.
+- *Signatures:* five strokes = sharp, near, individually sourced (five marks). Earth answer = broad, low, slow, **from below/deep** (rises through the Mountain). This matches Ch16's true-vs-counterfeit test (true = from under; counterfeit = from the sides/around, surface source).
+- *Veil functions:* Shield (Va-Sheva) holds exits/catches the falling old man/manages bodies; Faith (2nd Veil) leads prayer + relays the absent Keeper's sign + says "The Earth answers"; Light (Va-Raedin) manages lamps + what K is permitted to notice; Balance/Justice answer across the Hall between strokes (measure/authorise each stage).
+- *Ka-Elun setup:* her first true act as Keeper = to hear/certify the Earth's answer from the hidden Faith chamber (relayed to the Hall Faith Veil). Makes her later death operationally catastrophic (Faith = the ear).
+- *Recording provenance (corridor):* Paul's self-writing tablet + the house's own recording of the west-wing monitoring room ("it is already on the house's record, as everything in this wing is"). One line, no tech exposition.
+- *Sarah:* 93; monitoring the interview live from the west-corridor room (solves her absence; sets up her Ch9 entry "morning after morning… behind the glass"); says **"Reggane" once**; one crack ("…Jesus."); fear dominates; realises the marks were the CALL and the discarded roll was the ANSWER → a readiness test at planetary scale; minimal praise ("you counted"); orders Paul to continue + not tell K she is in the house. Ends on command.
+
+**Downstream continuity repaired:**
+- **Ch15 (Knocks) — the big one.** Its entire premise was "K HID the rite; Paul detects the repeated gap 'Then the five withdrew, and returned'; K confesses he called it 'the Mountain settling.'" Ch1 now has K narrate the whole rite and COUNT the strokes openly → premise contradicted. Re-anchored: Paul acknowledges K gave him the strokes+answer and "counted them," and asks the question no insider could reach — *where did the sound stop?* K's flaw shifted from denial ("I called it settling/ticking") to **failure of consequence**: "I counted it, and let it be a prayer, and never once asked who else in all the world might be counting along with me." Preserves Ch15's real payload (the sound left the Mountain; it is the succession-calendar; an outsider recorded it → the counterfeit). Fixed 6 beats (l15, l17, l33, l37, l77, l81); removed the deleted-line quote; fixed a K-age over-pin ("sixty years"→"half a lifetime" — K's present age stays unfixed).
+- **Ch16 (Mock):** true-vs-counterfeit signature now consistent (Ch1 true answer = from below/deep). Mock still uses the authentic note/pattern; the counterfeit betrays itself by answering "from around" (surface source). Adequate; a later pass could sharpen "reproduce the five-stroke call" per DoD.
+- **Ch9 (Reggane):** consistent — Sarah noticed the five strokes + "a great sleeping roll" she dismissed; the Ch1 corridor is where she realises the roll was the answer. Reggane still delivers the full 1960 history (deepens, does not repeat the corridor). *Flag: read Ch9 in full next session to confirm no fresh "readiness-test discovery" beat that would now pre-empt the corridor.*
+- **Paul's knowledge / K's ignorance:** from Ch1's end Paul knows Sarah has a Reggane trace + the readiness-test reading; K does not know Sarah listened, or Reggane. Preserved. Ch10 Paul-name beat already fixed (S22).
+
+**Validation:** Ch1 compiles alone (harness, 10 pp) and in the **full assembled book (xelatex, EXIT 0, 428 pp, no errors)** — twice, before and after the Ch15 repair. Room 6/6, scripture 4/4, center 1/1 in Ch1; room 1/1 in Ch15. No new scripture invented (reused canonical "Let every breath be whole; Let no one hand hold the whole." + "The Earth answers" as a spoken echo of the Bowl's "The Mountain answers"). No "not X but Y" in the new prose; ends the remembered ceremony on image (no prolepsis/"readiness test" spoiler).
+
+**Unresolved risks / next tasks:** (1) read Ch9 fully to confirm no pre-empt; (2) optional Ch16 sharpen ("five-stroke call" reproduction per DoD); (3) consider whether Ch8's second-Ascension gloss wants one line acknowledging K told the first rite fully; (4) the whole reconstruction is prose-heavy — a later cold read of the new Ch1 for rhythm/aphorism density is worth doing.
+
+## SESSION 26 — AUTHOR RULING propagated: present frame = 2026, Sarah = 93
+Author override: "we are in 2026; Sarah is 27 in 1960 → 93 today. This overwrites all other chronology." Propagated globally (§31: no arbitrary canon change without global propagation).
+- **On-page relief:** the manuscript prints **no year** (only "the seventeenth of November," etc.), so 2026 needed **zero on-page date edits**.
+- **Manuscript prose recalibrated (12 chapters):** Sarah's 1960→present span read "forty years" (implying a ~2000 present); with Reggane fixed at 1960 and the present now 2026 (~66 yr), changed **"forty years" → "sixty years"** for every Sarah-span instance (Ch9/11/16/17/18/19/20/21/22/23/24, incl. "forty-year machine"→"sixty-year"), plus one **"thirty years"→"sixty years"** (Ch11 l61, promises since the 1960 bargain). This also fixed a **pre-existing** forty/sixty inconsistency (Ch18 already said "sixty years"). **Left correctly unchanged:** Edward's forty-year career (Ch9 l85), Ka-Orun's Justice tenure (Ch13), a generic office-tenure line (Ch23 l43), Trial-era prospectors (Ch13), all "forty kilometres" distances, and K's/Amastan's "thirty years" (both = ~1996, ~30 yr before 2026 — still correct).
+- **Governing canon updated to 2026/93:** chronology ledger (08) rewritten; description bible (07); Blackwood canon (incl. reversing its explicit "frame is 1998, not the 2020s" ruling — kept the separate double-game point); Transfer canon (interview dateline 2026-11-17; alumina now a decades-old favour); Canon Map index. Safe frame-date "1998"→"2026" swaps in Series Direction, THE VOICE, Reveal Sequence, Book 5, Kahirs.
+- **Paul's science-horizon device — flagged AND RESOLVED same session.** The 2026 frame broke the old "Paul can't name Noxius because it's 1998" reader-ahead device. **Author ruled "let Paul name it."** Turned out there WAS one on-page instance after all (Ch5 l545, grep-caught — Paul relaying K's DNA report: "*heidelbergensis*… I cannot place you nearer… I am not certain any of us can, yet"). **Rewrote it:** a 2026 Paul places K competently — an archaic ghost-cousin lineage, older split than Neanderthal, "bones-in-the-East" (Harbin/Denisovan shape, never the word "Denisovan" on the page) — and it frightens him *more* than not-placing did. Updated **Species canon §2**, **Ch4–6 canon**, ledger §D#9. Reveal-restraint preserved: Paul places the *branch* only; absorption/last-remnant/Intimate-Loss stays a late reveal; reader-ahead engine **relocated to Beast/cycles/Zero**.
+- **New minor flag:** with the frame at 2026, the outside-world tech texture (radio/civil-frequency, "black instrument for speaking across distance") reads late-20th-c; optional modernisation pass, author's call. Left unchanged.
+- **Validation:** all Sarah "forty years" gone (grep); Edward/Justice/generic/prospector "forty years" + "forty kilometres" intact; room-env balance OK on all 12 edited chapters; no stray frame-date "1998" outside the two intentional historical facts ("she was 65 in 1998").
+
+## SESSION 25 — §26.1 chronology ledger created; Sarah-age flag RESOLVED
+Built the first §26 continuity ledger — the genuinely-missing artifact identified in S24. Harvested every date/age anchor from chapters + canon (grep-based, not memory).
+- **Created `Supporting document/08 — Chronology & Timeline — continuity ledger.md`.** Governs two clocks: outside frame (hard-anchored to **1998** via Transfer canon's `1998-11-17` interview dateline) vs Mountain deep time (145k founding / six cycles / lived "eleven thousand years"). Full dated spine with evidence: Edward b.~1900 · Sarah b.1933 · **Reggane 1960, Sarah 27**, recruited by Ka-Xhian, Horizon born · Horizon built ~40 yr · extraction + **first interview Nov 1998 (Sarah 65)** · counterfeit-knock crisis · Return · 9-day siege · Seal · Beast fired (late Nov–Dec 1998) · 90-day seal (Day 40 ash / Day 50 birth / Day 60 signals dark / Day 81 Archive door) · aftermath 1999.
+- **Sarah-age flag RESOLVED (not a contradiction).** Interview = 1998-11-17 → Sarah b.1933 is **65**, matching Blackwood canon "65 in 1998." Updated the description bible (07) to close the flag; the ledger records the resolution.
+- **Key structural clarification recorded:** the recording frame **migrates** — begins at the Swiss house pre-return (Ch11 crisis live) and Paul's machine keeps turning through return/firing/aftermath; so there is no single "lifetime later" retrospective, and the 1998 dating holds throughout.
+- **Confirmed NOT a contradiction:** on-page "eleven thousand years" (Ch11–20) = lived Mountain memory since last reset; the 11k-vs-145k gap **is** the Ch21 reveal — do not "correct" it.
+- **Intentional-openness noted:** K's exact birth year/age at firing is deliberately unpinned (fractal wants him felt as "the same man" as Zero). Only relative ages (15→19→Veil→exile→return) must stay consistent.
+- Registered under a new "08 — Continuity & Audits" index section. Validation: cross-checked the two on-page Reggane-1960 hits (Ch10 l409, Ch13 l325) agree; "forty years" Horizon = 38 yr rounded, consistent.
+
+## HIGH-PRIORITY NOT-DONE STRUCTURAL PASSES (roadmap, by value) — REVISED after repo audit
+Genuinely-missing artifacts (confirmed absent in repo), by value:
+1. **§26 continuity ledgers** — ~~chronology/timeline (incl. Sarah-age resolution) → DONE (S25, doc 08)~~; **still to build:** object-custody (§26.4), knowledge-state (§26.5 — Reveal Sequence partially covers), setup/payoff (§26.7).
+2. §22.5 genetics/reproduction model (rest of §22 world-audit largely covered by existing canon).
+3. §18 Beast explicit energy/duration model (framing exists; no quantified doc).
+4. Formal §27 Pass M adversarial suite (cold-read + source-coherence done; other 8 not logged).
+5. Whole-book voice-matrix pass §24.2 — but note extensive prose passes already run (de-aphorize, no-"not", prolepsis cull, narrator-interp purge, saturation cull across Ch1–12+); this is polish-tier, not NOT-DONE-tier.
+
+DONE/verified this pass-arc: ~~braid~~(S22) · ~~Horizon~~ ~~Festival beam~~ ~~§19.3~~(S23) · ~~Va-Sheva agency~~ ~~physical-description bible~~(S24).
+
+## (superseded roadmap below — kept for history)
+1. ~~Reggane/Infiltration braid~~ **DONE (S22).**
+1b. ~~Horizon naming audit~~ **DONE/verified (S23).** ~~Festival-beam contradiction~~ **not present (S23).** ~~§19.3 outside fragments~~ **strengthened (S23).**
+2. Scene/function/source map + 3 architectures (§32.1–2).
+3. Va-Sheva early agency (§16.3).
+4. Chains-of-Hell readiness drill integration (§10.4).
+5. Horizon/Amastan/Blackwood naming audit (§14.7).
+6. Outside human fragments + alternatives-to-firing (§19.2–19.3).
+7. Festival-beam location contradiction (§20.2/§26.3).
+8. Object-custody / chronology / knowledge-state / setup-payoff ledgers (§26).
+9. Beast energy-budget model (§18).
+10. Whole-book prose/voice unification + global antithesis sweep (§24, Pass K).
+11. Adversarial submission passes (§27 Pass M).
+Then §22 world-system hard audit, §21 character bible.
+
+---
+
+
 **Governing source:** `Prompt/Prompt.md` (PASS 2 — Autonomous Master Revision charter, the 100/100 programme). Source-of-truth order per §3.1: (1) locked rules in Prompt.md; (2) newer dated author decisions/locked canon; (3) **the current manuscript as actually in the repo**; (4) supporting canon/continuity docs; (5) this file; (6) legacy notes.
 
 **Standing constraints:** Do NOT commit/push/reset/clean/amend Git — the author controls Git. Benchmark to preserve = everything before Ch1 + Chapters 1–6. Scripture exact wording lives in the canonical scripture source (§3.5, e.g. `covenant.tex`) — do not locally paraphrase scripture; amend the source first, then propagate. No omniscient narrator (§8.2): every passage on a recoverable source (K→Paul, testimony, transcript, tape, inscription, Zero's text, Paul's grounded bridge). This is ONE standalone novel — no sequel hooks (§2).

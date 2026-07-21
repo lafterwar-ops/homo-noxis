@@ -1,12 +1,12 @@
 # Chapters 4–6 — The Turn (K & Paul, room-dominant) — canon
 
-*Purpose: fix the architecture of the Ch4–6 stretch, decided in the 13 July 2026 brainstorm. This is where the book flips figure and ground — the 1998 interview (K↔Paul) becomes the **main** story and the Mountain account becomes the **side** story — where K proves himself and Paul begins to believe, and where the conspiracy is seeded and begins to escalate. Supersedes the Reveal Sequence's stale Ch3–5 mapping (Oasis is Ch3; the beam-trace is now compressed, not a chapter of its own).*
+*Purpose: fix the architecture of the Ch4–6 stretch, decided in the 13 July 2026 brainstorm. This is where the book flips figure and ground — the 2026 interview (K↔Paul) becomes the **main** story and the Mountain account becomes the **side** story — where K proves himself and Paul begins to believe, and where the conspiracy is seeded and begins to escalate. Supersedes the Reveal Sequence's stale Ch3–5 mapping (Oasis is Ch3; the beam-trace is now compressed, not a chapter of its own).*
 
 ---
 
 ## 0. Governing principles (the three that hold the stretch together)
 
-1. **Flip the figure and the ground.** Through Ch3 the Mountain account was the main story and the room its interlude. From Ch4 it inverts: the **room (K & Paul, 1998) is the main story**; the **Mountain account is the side story, fast-forwarded.** Ch4 is roughly **80% room.** The inversion is not merely pacing — it dramatizes K's attention turning outward, and it quietly **starves Paul's extraction mission** (K races past the very mechanism Paul was hired to take).
+1. **Flip the figure and the ground.** Through Ch3 the Mountain account was the main story and the room its interlude. From Ch4 it inverts: the **room (K & Paul, 2026) is the main story**; the **Mountain account is the side story, fast-forwarded.** Ch4 is roughly **80% room.** The inversion is not merely pacing — it dramatizes K's attention turning outward, and it quietly **starves Paul's extraction mission** (K races past the very mechanism Paul was hired to take).
 
 2. **Warmth before paranoia.** Two engines pull K and Paul from adversaries to allies: the *bonding* engine (K proving he is real, Paul beginning to believe) and the *threat* engine (the mirror, the watchers, the op). **Lead with bonding; escalate threat after.** Paranoia is cheap before the reader loves the two men and devastating once there is something to lose. Proof and warmth in 4–5; conspiracy escalating from 6.
 
@@ -83,7 +83,7 @@ Opens in the new closeness: Paul, cracked by the Denisovan, is warmer, less the 
 Two binned ideas are revived for this architecture; The Bin annotates both midden entries `RESURRECTED →` rather than deleting them.
 
 - **"Sa-Kilian of Horizon"** — the frozen-draft *operational rename* ("Sa-Kylian") was binned as belonging to the exiled-operative ending. **New use is distinct:** not a field alias for an exile, but K's **intake designation as a Horizon specimen** — the former Va-Kailan filed back down to a *Sa-* (candidate) — which he throws in Paul's face to show he sees the apparatus. The binning reason does not touch the new use.
-- **"Va-Elise de Montgolfier"** — Élise de Montgolfier was binned as a creature of the dead 2020s frame (surviving only as bare "Va-Elise"). **New use is distinct:** a **1998 Horizon intake figure**, part of K's recruitment chain (Ka-Sarah → Va-Elise → JC). The name earns its keep — *Montgolfier*, the balloonists, ascension, the view from above — rhyming with Ascension (Ch1), with Horizon (the far line seen only from altitude), and with the Mirror/panopticon.
+- **"Va-Elise de Montgolfier"** — Élise de Montgolfier was binned as a creature of the dead 2020s frame (surviving only as bare "Va-Elise"). **New use is distinct:** a **2026 Horizon intake figure**, part of K's recruitment chain (Ka-Sarah → Va-Elise → JC). The name earns its keep — *Montgolfier*, the balloonists, ascension, the view from above — rhyming with Ascension (Ch1), with Horizon (the far line seen only from altitude), and with the Mirror/panopticon.
 
 ---
 
@@ -118,7 +118,7 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 *What the architecture above planned, the drafted chapter now fixes. Where a beat below sharpens or overrides the plan, this section governs for Ch4. (For the offices-as-sciences reading behind the optics, salt-house, and Sa-Tavan's method, see `The Kahirs as Disciplines — Sigils & Sciences — canon (EMBARGOED background)`.)*
 
-**Frame & cadence.** This is **Interview 3, 21 Nov 1998.** The interviews run **every other day — 17 / 19 / 21.** Ch4's account is the **beam-walk day** — the **morning after the Oasis** (the Oasis was the whole of the previous day). The beam was *given* the morning after the Mirror; the Oasis intervened; K returns now to walk it. So the account's own clock: Mirror → (beam given) → Oasis (a full day) → **the beam-walk of this chapter.**
+**Frame & cadence.** This is **Interview 3, 21 Nov 2026.** The interviews run **every other day — 17 / 19 / 21.** Ch4's account is the **beam-walk day** — the **morning after the Oasis** (the Oasis was the whole of the previous day). The beam was *given* the morning after the Mirror; the Oasis intervened; K returns now to walk it. So the account's own clock: Mirror → (beam given) → Oasis (a full day) → **the beam-walk of this chapter.**
 
 **Population & standing.** The Mountain holds **~3,000 souls.** Among the **first ~thirty** stands a **Candidate of Light.** K's own standing: **servant of Light from age 12**, and **ascended to Candidate two days before** this day. He therefore has both **the hands** (the menial habits of the servant he was) **and the doctrine and the robe** (the Candidate he now is). His servants — **Oren (20)** and **Sela (14)** — teach him nothing; **he commands and corrects them.** Crucially, he does *not* command them in the **cryptic, withholding** way the office speaks *downward* to him: he gives the order and, unlike his betters, is not miserly with the reason.
 
@@ -148,7 +148,7 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 **The forest / the wrath.** Per scripture the **forest was destroyed in a single day by "the wrath"** (the alleged **first-and-only Cataclysm**) — **not** gradual aridification. New scripture line: **"And when the wrath had passed… the land around the Mountain became desert."** K **deflects on the beast**, citing the **"Book of the Beast"** (recited in full later). **Deep-time survives only as Paul's geologist unease** (the gradual-forest reading is binned — see midden).
 
-**The token (candidate quarters).** The **platinum-group disc** (see the Disciplines canon, §5): pale and cold, heavier than gold its size, untarnished, unmarkable, machined impossibly fine, a central pinhole ringed by many even concentric circles. **K cannot read it;** he **drops it in water and stumbles on refraction** — ironic, because the token has nothing to do with refraction (it ties instead to Ch5's optics). In the **1998 room**, **Paul recognises the ring-pattern** from a **printed, redacted plate** (*"[—]"*) — **"yours is red, mine was pale upon pale."**
+**The token (candidate quarters).** The **platinum-group disc** (see the Disciplines canon, §5): pale and cold, heavier than gold its size, untarnished, unmarkable, machined impossibly fine, a central pinhole ringed by many even concentric circles. **K cannot read it;** he **drops it in water and stumbles on refraction** — ironic, because the token has nothing to do with refraction (it ties instead to Ch5's optics). In the **2026 room**, **Paul recognises the ring-pattern** from a **printed, redacted plate** (*"[—]"*) — **"yours is red, mine was pale upon pale."**
 
 **The covenant / lawn gambit (climax).** K's accusation **escalates**: he charges a **"Mirror in this house"** — **optical surveillance, not a person** (K reads watchers; *"a thing that has a shape may be found"*). **For whom is unknown** (you / me / Sarah / another). The **Sarah reframe:** *Sarah's own people watching — or another eye set upon Sarah herself?* **Tradecraft:** *if you find it, keep your face — the advantage that the watcher not know you know.* The **covenant:** **"if there are men behind that glass, then you are mine, Paul."** **Paul swears lightly** — *"it costs me nothing to promise what cannot come to pass"* — **arming his defection** (the falsifiable pact of §1, spoken onto the magneto). The **chapter closes on "keep your face."**
 
@@ -163,7 +163,7 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 **In the Ch5 account, K is nineteen.** Learning the whole Mirror took **four years** (the account resumes: *"Four years: Va-Raedin of Light had not lied… I am now nineteen years old."*). The account timeline therefore runs: **servant of Light from twelve → ascended Candidate at fifteen** (Ch4, the beam-walk) → **four years learning every beam of the Mirror** → **nineteen**, the morning Va-Raedin judges him worthy to be taught **the five ways that light can lie** (the Ch5 optics lesson).
 
-**LOCK: from the "five ways light can lie" lesson onward, the account's K is nineteen, not fifteen.** The salt/spectroscopy lesson, the Shadow bargain in K's telling, and everything the Mountain later tries him for belong to the **nineteen-year-old.** (The 1998 frame age — old, extracted K in the interview room — is unaffected.) The Va-Sheva wound and Zero-rhyme thus sit with a young man of nineteen, not a boy.
+**LOCK: from the "five ways light can lie" lesson onward, the account's K is nineteen, not fifteen.** The salt/spectroscopy lesson, the Shadow bargain in K's telling, and everything the Mountain later tries him for belong to the **nineteen-year-old.** (The 2026 frame age — old, extracted K in the interview room — is unaffected.) The Va-Sheva wound and Zero-rhyme thus sit with a young man of nineteen, not a boy.
 
 ---
 

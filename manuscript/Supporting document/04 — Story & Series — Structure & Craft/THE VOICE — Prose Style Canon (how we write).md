@@ -111,7 +111,7 @@ The world is present everywhere and lectured nowhere. When seeding survival/worl
 
 ## 6. The room (dialogue) mechanics
 
-Inside `\begin{room}…\end{room}` (the 1998 interview frame, Paul Morgan ↔ K):
+Inside `\begin{room}…\end{room}` (the 2026 interview frame, Paul Morgan ↔ K):
 
 - **Turn marker:** each speech begins `--- ` (space after). No speaker attributions, no quotation marks around turns.
 - **Paul uses NO contractions.** Ever. ("do not," "I am," "you are.")

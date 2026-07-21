@@ -89,7 +89,7 @@ An ancient **platinum-group disc** — of the metals K has no name for:
 1. **The rings echo the Richat Structure** — the **Eye of the Sahara = Atlantis, due WEST** (per *Geography & Orientation* and *The Last Cataclysm*). Paul's printed, redacted plate is a **photograph of the real thing** — *"yours is red, mine was pale upon pale"* — the paper image against the platinum master.
 2. **It reads toward a PAL / key** — the physical link of the weapons-custody floor (§4.2). The concentric geometry is doing double duty: the Richat rhyme *and* the key.
 
-**In-account:** K **cannot name the metal** (platinum-group is outside his world) and **cannot read the token**; he drops it in water and stumbles on refraction — which has nothing to do with it (the irony: the token is a key and a map, and the boy learns only that water bends light). The reveal of what it *is* comes later. *(For the Ch4 beats and the 1998-room recognition, see the Ch4 canon.)*
+**In-account:** K **cannot name the metal** (platinum-group is outside his world) and **cannot read the token**; he drops it in water and stumbles on refraction — which has nothing to do with it (the irony: the token is a key and a map, and the boy learns only that water bends light). The reveal of what it *is* comes later. *(For the Ch4 beats and the 2026-room recognition, see the Ch4 canon.)*
 
 ---
 

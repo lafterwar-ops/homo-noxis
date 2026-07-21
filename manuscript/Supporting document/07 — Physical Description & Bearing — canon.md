@@ -1,0 +1,64 @@
+# 07 — Physical Description & Bearing — canon
+
+*Purpose (§21, §24.7): a single reference for how each figure looks, ages, and — above all — is **recognised through bearing and repeated gesture**, so the prose pass can reintroduce appearance through changing context instead of generic beauty or repeated eye/hair inventories. Built by auditing the manuscript as it currently stands (chapter evidence cited). Where the page is deliberately silent (Zero, Ithe), that silence is canon and must be preserved.*
+
+**House rule (from §24.7, and already the book's practice):** describe people by what they *do* with their bodies under office — the closed hand, the flat palm on a chest, the turning machine in a coat — not by cataloguing eyes and hair. The audit below confirms the manuscript already works this way; keep it.
+
+---
+
+## Principals
+
+### Kailan (Sa-Kailan → Va-Kailan; operational "Kylian / Sa-Kylian")
+- **Age/arc:** boy apprentice → Veil of Light → exile in his prime → the aged narrator of the present frame. Voice ages; body is shown chiefly through office and injury.
+- **Signature marks:** the **white Veil-of-Light knot/cloth bound at the wrist** (Ch8, Ch10, Ch12) — his rank made visible; in exile **Va-Sheva ties a dark cord over the covered white knot** to hide it (Ch14), and it "kept pressing at the skin, reminding me it was still there" (Ch14 l636). The wrist is his recurring self-locating detail.
+- **Bearing:** ceremonial composure drilled over fear ("washed, robed, composed, no visible dust on my sandals," Ch10); the trained eye that "sees the seam others walk over" (Ch13) — his identity is his *gaze/reading*, not his face.
+- **Do not:** give him a static beauty inventory. He is the narrator; we rarely see his own face — keep it that way (form: he never narrates himself into a mirror).
+
+### Paul Morgan (the fact-checker; "Va-Paul" of his invented order)
+- **Age/build:** modern outsider, middle-aged; plain. Northern/British register ("swore in his northern tongue," Ch17).
+- **Signature object/gesture:** the **little turning recording machine, kept in his coat**, forever running (Ch18, Ch19, Ch20, Ch21) — his whole character is condensed into that object and the flat voice he keeps "for true things" (Ch19 l117). He "refuse[s] to reach for grandeur" (Ch18).
+- **Recurring gesture:** looks "down at his own hand as though it had been lent to him for the evening" (Ch16) — dry self-detachment; the palm-prick oath under the tree (Ch16).
+- **Do not:** ornate description; his force comes from plainness.
+
+### Sarah Blackwood (present frame: "the woman who pays for the tea"; Horizon style "Ka-Sarah")
+- **Canon (Blackwood canon):** b. **1933**, London; Edward Blackwood's daughter/heir; **seismic researcher**; found the Mountain by its resonance signature **~1960, age 27**; matriarch; Declaration addressee.
+- **Across time:** **27 under desert light** at Reggane, "young under desert light" in the tomb photograph (Ch10 l544, Ch14 l152); **very old** in the present interview — imperial, controlled, "old age and long memory," speaks of "the time we have left."
+- **Bearing/gesture:** imperial stillness; **works documents fast with her hands** ("went through it fast with her hands… came to a single page and stop," Ch17); **listens with her eyes shut** (Ch17); in the aftermath **stands with a palm flat on the Faith stone reading absences** — "her weeping, done in the only language she had ever let herself learn, which was the reading of an absence" (Ch20 l37). **Never seen to weep.**
+- **Age — RULED (see 08 — Chronology ledger):** present frame is **2026** (author ruling). Sarah is **27 at Reggane (1960) → 93 today**, and ~93 through the firing and 90-day seal. Her "before I died / the time we have left" register fits a 93-year-old at the world's end. Render her accordingly: **very old** — the imperial control now laid over real frailty.
+
+### Va-Sheva (Keeper/Veil of Shield)
+- **Bearing:** economy and control; "nothing in her face softened" even after danger passed (Ch3 l545). Feeling shows only through **breach of control** (§24.2) — "her voice gone hard with the first real fear I had heard in it" (Ch17).
+- **Signature gesture (load-bearing across the book):** **the flat hand laid on a chest, over the heart, "the way Shield counts a living man"** — used to name Jean-Charles Mountain ("Then you are Mountain now, until you die," Ch18 l—), and echoed at the cold vent in the aftermath (Ch20 l53). Also her **field hand-signals**: "two fingers low, the palm closed, the hand cut toward the outer path" (Ch3 l489); "her hand closed once in warning" (Ch14).
+- **Do not:** soften her with description; she is all controlled motion.
+
+### Jean-Charles (French intelligence operator; later Mountain by Va-Sheva's naming)
+- **Bearing:** **always smiling** — the tell that he has stopped ("he was not smiling, which frightened me more than the drums," Ch16 l—); relaxed competence, charm as instrument (§24.2).
+- **Signature gesture:** the **hand on the shoulder** — first in the desert when K "was a bundle under a cloth," repeated later (Ch16, Ch7) — a gesture that reads as warmth and is, in origin, an operator's management. Its recurrence is the point (§24.7).
+- **Arc cost:** by the aftermath the lightness is spent — the Mountain "turns your lightness into labour" (Ch20 l7).
+
+### Noxius Zero (the founder) & Ithe — **DELIBERATELY WITHHELD**
+- **Zero:** canon fixes him as **"a very bright, very young man, rich and powerful… the same man as Kailan"** (Noxis Zero canon l13) — *and that is all the appearance he is given by design.* The reader must feel Zero and Kailan are one before anyone says so; a distinct physical portrait would break the fractal. **Give him bearing (a young man's certainty, a father's empire behind him) but no distinguishing face.**
+- **Ithe:** "stays partly unknowable… seen almost entirely through Zero, and therefore probably wrongly" (canon l54). **Do not manufacture a full physical portrait.** Withholding is the meaning.
+- **Embargo:** both appear only in the Forbidden Archive (Ch21+). No earlier chapter describes them.
+
+---
+
+## Secondary (office-carried description)
+
+- **Ka-Syphiron** (senior Keeper of Light, martyr): **pale eyes** that "look through the excuses a thing prepares" (Ch1); "remote and pale, his face unreadable above folded hands" (Ch6); warmth+appetite+mischief off-office — sleeves "rolled to the wrist," a low stool "with one uneven leg" (Ch7); breaks bread **with both hands**. Dies opening his own robe below the ribs (Ch10) — his hands are the through-line.
+- **Ka-Raedin** (K's Keeper of Light, Syphiron's successor): the **lamp-holding hand** (Ch13, Ch19); "his face was white" at the Ascension (Ch8); disciplined precision; abdicates by degrees to K in the aftermath (Ch20).
+- **Ka-Leth** (Keeper of Balance, female): "**broad and grave, her hands stained faintly green**" (Ch4) — Balance's labour written on the hands; closes valves "the way you put a great animal to sleep" (Ch19).
+- **Ka-Dhavar** (Keeper of Shield): raises the Seal, gives the closing order; grows "very quiet and very gentle" in the aftermath, paying it down "one comforted person at a time" (Ch20).
+- **Ka-Orun** (Keeper of Justice): hunts his own records "night after night… for the flaw" (Ch20) — bearing = the weighing man.
+- **Ka-Xhian** (blind predecessor Keeper of Shield): **the ruined, sightless face** he "turn[s] toward the sound of a voice as though he could weigh it in his hands" (Ch11) — recruited Sarah; his blindness is the recurring image.
+- **Sa-Tavan** (Justice recorder at the firing): the stylus set down "square, the way you set down a tool you know you will not need again" (Ch19).
+- **Urs** (Paul's Swiss associate): comic register (whisky/package interruption, Ch5 line of business) — trading-floor sensibility; keep light.
+
+---
+
+## Audit notes / obligations created
+1. **§24.7 compliance is already high** — the manuscript describes through gesture/office, not eye-hair catalogues. The prose pass should *protect* this, not add inventories.
+2. **Recurring recognisable gestures to keep consistent** (do not let them drift): Va-Sheva's flat-hand-on-chest count; Jean-Charles's hand-on-shoulder; Paul's turning machine; K's wrist knot/cord; Ka-Xhian's blind face turned toward sound; Ka-Leth's green-stained hands.
+3. **Withholding to protect:** Zero = Kailan (no separate face); Ithe unknowable. Flag any future draft that over-describes either.
+4. **Open continuity flag:** Sarah is 93 in the 2026 frame (author ruling); resolved in 08 — Chronology ledger.
+5. **Thin spots (future work):** ordinary Mountain citizens (the salt-fish woman, water-listeners, vent-keeper Sa-Orin) are described by task, not person — adequate for now; enrich only if a scene needs it (§24.7, §22).

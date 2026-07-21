@@ -89,7 +89,7 @@ What the archive does, once they are inside during the 90-day lock:
 - **Beast = deep magma reached by seismic resonance.** Not fission, not metaphor. "Fire on the left" of the gravure and the drowned-green-Sahara imagery are the method's signature.
 - **Atlantis / Richat** = a *victim of a prior burn* (a Sapiens high-water civilization reset in an earlier cycle), **not** Noxius's origin or kin. The gravure shows it as evidence of the method, a scorch mark — the Richat is a burn scar, not a cradle.
 - **Equinox beam** (Geography lock: noon, due south, alt ≈ 68.4°, on the south Genesis gravure) is the **annual synchronizer of the Year-Clock.** One equinox indexes the year; the festival keeps the other.
-- **Paul frame (1998, Blackwood Estate):** Paul is the first of the *winning* species to be told his civilization has been gardened five times, taking dictation from the machine as it lays down the torch. His "doubting eye" is the reader's.
+- **Paul frame (2026, Blackwood Estate):** Paul is the first of the *winning* species to be told his civilization has been gardened five times, taking dictation from the machine as it lays down the torch. His "doubting eye" is the reader's.
 - **The runbook/theology:** the religion is the error-correcting encoding that carried an operating manual across deep time; the Archive is where a few finally read the manual as a manual (and, per §4.3, perhaps still cannot fully understand the engine — only the span).
 
 ---

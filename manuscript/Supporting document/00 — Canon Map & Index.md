@@ -52,6 +52,16 @@
 - **THE MIDDEN — Recycle Bin of Discarded Ideas** — what was cut and why (so nothing good is lost twice).
 - **Beta Reader — Dorothee (Ch1-3 read, July 2026)** — reader feedback, prioritised.
 
+## 07 — Characters & Description
+*How the people look, age, and are recognised on the page.*
+
+- **07 — Physical Description & Bearing — canon** — ★ the appearance/bearing bible (§21, §24.7): each figure's canonical marks and, above all, the recurring gestures that identify them (Va-Sheva's flat hand on a chest, Paul's turning machine, K's wrist-knot, Ka-Xhian's blind face turned to sound). Includes the Zero=Kailan / Ithe-unknowable **withholding rules**. **Read alongside THE VOICE before any description pass.**
+
+## 08 — Continuity & Audits
+*The §26 ledgers: dates, custody, knowledge-states, setups/payoffs. Governs the chapters where they conflict.*
+
+- **08 — Chronology & Timeline — continuity ledger** (§26.1) — the two clocks (outside frame anchored to **2026** vs Mountain "eleven thousand years" / hidden 145k), the full dated spine (Reggane 1960 → extraction & first interview Nov 2026 → return → firing → 90-day seal → aftermath), Kailan's relative ages, and resolved/open flags (Sarah = 93 in 2026, **resolved**). *Roadmap: object-custody, knowledge-state, setup/payoff ledgers still to build.*
+
 ---
 
 *Maintenance: when a new canon doc is written, drop it in the folder whose theme it serves and add a one-line entry here. Keep number-of-folder = distance-from-spoiler.*

@@ -1,6 +1,6 @@
 # Homo Noxius — Species, the Intimate Loss & the Engine of the Mountain — Canon (EMBARGOED)
 
-*Purpose: fix what Noxius actually is, how it truly lost (not on the battlefield but through its daughters), and why that loss is the hidden engine behind everything the Mountain does — its control, its doctrine, and finally its willingness to reset the world. EMBARGOED: this is deep-reveal material. On the page it is seeded and mythologized, never stated flat. The reader assembles it; K arrives at it late; Paul, in 1998, cannot get all the way there.*
+*Purpose: fix what Noxius actually is, how it truly lost (not on the battlefield but through its daughters), and why that loss is the hidden engine behind everything the Mountain does — its control, its doctrine, and finally its willingness to reset the world. EMBARGOED: this is deep-reveal material. On the page it is seeded and mythologized, never stated flat. The reader assembles it; K arrives at it late; Paul (2026) can place the branch but not the deeper loss (absorption / last remnant / the Intimate Loss).*
 
 ---
 
@@ -10,11 +10,11 @@
 - **Native to Africa** (so the Saharan Mountain is home ground, not exile), and **never recognized in the fossil record** — a ghost, detectable in the reader's era only as faint archaic DNA in living Africans. This buys maximum freedom (ghosts leave almost no bones) while staying inside current science.
 - The governing theme: **absorbed, not merely extinct — and therefore still inside the winners.** Living humans carry archaic (Neanderthal/Denisovan) DNA. Noxius did not vanish; most of it was *dissolved into Sapiens.* The Mountain is the last un-absorbed remnant. Sapiens holds 99.99% of the earth partly because most of Noxius is *in* Sapiens.
 
-## 2. Paul's 1998 misclassification (reader ahead of narrator)
+## 2. Paul CAN place the lineage (frame = 2026 — author ruling, S26)
 
-- **"Denisovan" does not exist as a category in 1998** (discovered 2010; the Harbin skull confirmed Denisovan only in 2025; "ghost population" genetics later still). So Paul, an Oxford anthropologist, **cannot name what Noxius is.**
-- He reaches for what his decade offered: **Neanderthal (no), _Homo heidelbergensis_ / _rhodesiensis_, "archaic sapiens."** Let **heidelbergensis be Paul's period-honest, slightly-wrong hypothesis** — the best 1998 could do — while the modern reader sees the truer, un-nameable shape. Paul can honestly say something like *heidelbergensis, perhaps — I cannot place it,* and be wrong in exactly the way his era was wrong.
-- Note the real taxonomy helps: heidelbergensis is the contested "muddle in the middle," now widely read as *not* a clean ancestor of sapiens and largely gone by ~200 ka — so as the *surviving rival to 1998* it fails, which is precisely why Paul's guess should feel almost-right and land wrong.
+- **Frame is 2026** (chronology ledger 08). Denisovans (named 2010), the **Harbin / "Dragon Man" confirmation (2025)**, and ghost-population genetics are all **known** to a working anthropologist. Paul is **no longer era-blocked** — he can place K taxonomically: an archaic **cousin lineage that split older than the Neanderthals**, of the Denisovan-grade "ghost" kind long readable only as a stain in living DNA and now surfacing as bones in Asia. On-page (**Ch5 l545**) Paul does exactly this — competently — and it frightens him **more** than not-placing did ("So I can place you now. I had rather I could not… What the world does not have, anywhere, is a living one. It has you.").
+- **Reveal restraint still holds:** Paul places the *branch* only. He does **not** state the deeper engine — that most of the species was **absorbed into Sapiens**, that K is the **last un-absorbed remnant**, and the **Intimate Loss** behind it. Those stay seeded-not-stated, assembled late (§3+). **Never use the word "Denisovan" on the page** (K has no referent); render it as bones-in-the-East, a cousin humanity, a ghost in the blood — the reader recognises the shape.
+- **Reader-ahead engine RELOCATED:** with Paul able to name the species, the reader-ahead-of-narrator device now rests on the **deeper reveals** — the Beast's true purpose, the six cycles / deep age, and **Noxius Zero** — where K and the folk-Mountain hold a mythologised version the reader out-reads. (The old "heidelbergensis, cannot place it" period-honest device is **retired**.)
 
 ## 3. The Intimate Loss — the true engine
 
@@ -55,7 +55,7 @@ In each, the grievance is sincere, total, and wrong — and it founds a throne, 
 
 ## 8. On-page handling
 
-- **Breadcrumbs and myth, never exposition.** In the halls the loss lives as scripture, proverb, and grievance ("they stole our women / beyond the forest thou shalt not wander"), not as anthropology. The *truth* (the daughters chose; the line failed; the species is a Denisovan-grade ghost living on in Sapiens) is a **late reveal**, earned across books, and Paul's 1998 misnaming is the reader's window onto how close-yet-wrong the outside world is.
+- **Breadcrumbs and myth, never exposition.** In the halls the loss lives as scripture, proverb, and grievance ("they stole our women / beyond the forest thou shalt not wander"), not as anthropology. The *truth* (the daughters chose; the line failed; the species is a Denisovan-grade ghost living on in Sapiens) is a **late reveal**, earned across books, and, Paul now being able to place the branch (2026), the reader-ahead rests on the deeper reveals (Beast, cycles, Zero), not on species-naming.
 - Keep the species identity and the intimate-loss engine **out of Book 1's plain text**; seed the grievance and the control, let the reader feel the wound before it is named.
 
 ## 9. Consistency hooks (must not contradict)
@@ -63,7 +63,7 @@ In each, the grievance is sincere, total, and wrong — and it founds a throne, 
 - **Origin / deterrent canon:** the reset-strategy now has its *why* — the intimate loss. The Mountain as nuclear-bunker/husbandry is downstream of losing the daughters. (Ties to the "second draft / deterrent" origin and Book 5.)
 - **"No hand holds the whole":** doubles as a doctrine of *cohesion* (holding the people together) as well as command-and-control of the weapon.
 - **Timeline:** Denisovan/Harbin ~146 ka rhymes with the ~135 ka founding; cycles counted from the first burn (design pre-history runs earlier).
-- **Paul frame:** 1998 knowledge horizon — no Denisovans, no ghost populations; heidelbergensis/rhodesiensis is his ceiling. Consistent with the "reader ahead of the narrator" device used for Blackwood/Horizon.
+- **Paul frame:** 2026 — Denisovans, Harbin/"Dragon Man" (2025), ghost-population genetics all known; Paul CAN place K's branch (Ch5 l545). Reader-ahead moved to the Beast/cycles/Zero reveals. Never name "Denisovan" on the page.
 - **Geography:** African native range keeps the Saharan Mountain as home ground, not exile.
 
 ## 10. Quick-reference card
@@ -72,7 +72,7 @@ In each, the grievance is sincere, total, and wrong — and it founds a throne, 
 |---|---|
 | What Noxius is (truth) | Late-surviving **African "ghost" lineage, Denisovan in grade** — large-brained, capable, *absorbed not extinct* |
 | In living humans | Archaic **autosomal** DNA yes; **no** archaic mtDNA / Y — merger broken, messier than the myth |
-| Paul's 1998 label | **_heidelbergensis_ / _rhodesiensis_** — period-honest, slightly wrong (Denisovan uncoined until 2010) |
+| Paul's placement (2026) | **archaic ghost-cousin lineage** — older split than Neanderthal, Denisovan-grade, bones-in-Asia; Paul CAN name the branch. The *absorption / last-remnant / Intimate-Loss* truth stays a late reveal (never "Denisovan" on the page) |
 | The true loss | **Attrition by assimilation** — lost daughters, not lost battles |
 | The myth | **"They stole / raped our women."** Proud grievance, founds the hatred of the Outsider |
 | The truth | **The daughters chose** Sapiens' warmth/freedom over Noxius cold/control; the line then failed |

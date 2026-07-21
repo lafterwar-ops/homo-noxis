@@ -1,6 +1,6 @@
 # Reveal Sequence — The Hero & Paul (Book 1)
 
-*A chapter-by-chapter map of the second plot: what passes between K and Paul in the 1998 room, underneath the account. Working draft — a compass for the loop's frame propagation, not locked prose.*
+*A chapter-by-chapter map of the second plot: what passes between K and Paul in the 2026 room, underneath the account. Working draft — a compass for the loop's frame propagation, not locked prose.*
 
 ---
 

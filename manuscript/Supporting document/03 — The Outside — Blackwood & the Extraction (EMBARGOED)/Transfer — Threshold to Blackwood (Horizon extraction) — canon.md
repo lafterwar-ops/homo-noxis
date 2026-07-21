@@ -1,6 +1,6 @@
 # Transfer — The Threshold to the Blackwood Estate (Horizon extraction) — Canon
 
-*Purpose: fix the route, timing, cover, and condition of Kailan's journey out of the Mountain to the Blackwood Estate, so any chapter that touches the extraction (the 1998 interview frame, the prologue, Ch13's airfield glimpse) stops drifting. This is a side-side-side plot. On the page we leave **breadcrumbs, not explanations**; this doc holds the full truth so the breadcrumbs stay consistent and a curious reader can reconstruct the how — but the manuscript never over-explains it. What matters dramatically is only that K arrives safely at Blackwood, days out, composed over authority and raw beneath.*
+*Purpose: fix the route, timing, cover, and condition of Kailan's journey out of the Mountain to the Blackwood Estate, so any chapter that touches the extraction (the 2026 interview frame, the prologue, Ch13's airfield glimpse) stops drifting. This is a side-side-side plot. On the page we leave **breadcrumbs, not explanations**; this doc holds the full truth so the breadcrumbs stay consistent and a curious reader can reconstruct the how — but the manuscript never over-explains it. What matters dramatically is only that K arrives safely at Blackwood, days out, composed over authority and raw beneath.*
 
 ---
 
@@ -38,7 +38,7 @@ The transfer is scaffolding, not story. The reader should be able to *reconstruc
 ## 5. The Jamaica favour (the debt — breadcrumb only)
 
 - **Blackwood kept the lights on in Kingston in the 1980s when no one else would**: a Rich-type alumina-for-oil rescue — emergency oil delivered on trust the night the central bank was hours from collapse, repaid with a long alumina offtake. A debt of national survival.
-- By 1998 it is fifteen years stale, but exactly the kind of debt a small state settles quietly — one diplomatic flight, no questions asked. **On the page: a single breadcrumb** (alumina; the eighties; "when no one else would"). Never the ledger.
+- By 2026 it is a decades-old favour, but exactly the kind of debt a small state settles quietly — one diplomatic flight, no questions asked. **On the page: a single breadcrumb** (alumina; the eighties; "when no one else would"). Never the ledger.
 - **Real-world source of truth:** the Marc Rich / Jamaica alumina–oil story as told in *The World for Sale* (Blas & Farchy). Blackwood stands in that archetype's shoes. (Historical colour, kept off-page: the same trader famously bankrolled the 1988 Jamaican bobsled team — *Cool Runnings / Rasta Rocket.* Useful to know; never to say.)
 
 ---
@@ -47,7 +47,7 @@ The transfer is scaffolding, not story. The reader should be able to *reconstruc
 
 - **T0** — K leaves the Mountain at the threshold, handed to Horizon.
 - **T0 → T+ ~4–8 days** — transfer (mostly sedated) + remise en forme at the estate.
-- **1998-11-17, 09:00** — the first interview begins (prologue dateline). So the extraction falls in **the second week of November 1998**.
+- **2026-11-17, 09:00** — the first interview begins (prologue dateline). So the extraction falls in **the second week of November 2026**.
 - Cadence thereafter: **mornings = interviews** (the account set down); **afternoons = luncheon + instruction "with another."**
 
 ---
@@ -84,7 +84,7 @@ The transfer is scaffolding, not story. The reader should be able to *reconstruc
 | Condition | **Sedated** through transport (route secrecy + care); crossing is a fog to him |
 | Destination | **Blackwood Estate**, Saanenland above Gstaad; helipad on-site |
 | Recovery | ~**4 days** remise en forme before interviews |
-| First interview | **1998-11-17, 09:00**; extraction ≈ second week of Nov 1998 |
+| First interview | **2026-11-17, 09:00**; extraction ≈ second week of Nov 2026 |
 | On-page rule | **Breadcrumbs, not exposition** — searchable, never explained |
 
 ---
