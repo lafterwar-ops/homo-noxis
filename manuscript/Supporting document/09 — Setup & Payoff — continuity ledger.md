@@ -1,0 +1,43 @@
+# 09 — Setup & Payoff — continuity ledger (§26.7)
+
+*Purpose: track every major/medium setup to its payoff, so nothing fires early, late, or twice. Built by scanning the manuscript (chapter distribution verified by grep). Columns: **Setup** (first appearance + first meaning) · **Payoff** (transformed meaning) · **Status/flag**. "Explain?" = whether the callback needs stating (default: NO — let image/procedure carry it, §26.7). Governs; where a chapter contradicts a locked chain here, the chapter is wrong.*
+
+> Read with **08 — Chronology** (dates) and the **Reveal Sequence** doc (reader-knowledge order). This ledger is about *object/motif* payoff, not date or knowledge-state.
+
+---
+
+## Priority chains (the §26.7 list)
+
+| Chain | Setup → first meaning | Payoff → transformed meaning | Status |
+|---|---|---|---|
+| **Pendulum / Thread / disk** | Ch1 — sacred object, clock, God/Beast on two faces, image of Earth's turning; witnesses the five strokes + the Earth's answer | Ch24 — the final Pendulum restart (the book's closing image); Ch21 Clock ties it to the year-count. Rides every disturbance and "does not stop, does not fall" (Ch1) → survives the firing. | ✅ intact; opening & closing image locked |
+| **Bowl of the Last Prayer (Ear/Mouth)** | Ch1 — a note in the Ear returns off the Mouth; "The Mountain answers"; Faith recognises | **Ch16 (Mock)** — K: "the shape was the Bowl… the whole Mountain was such a bowl," a stranger trying notes until the stone rings. The Bowl = the whole Mountain at planetary scale. | ✅ **fixed S29/S-setup:** Ch1's M6 Bowl-echo softened to *implicit* (was "struck like the little bowl") so the explicit payoff stays at Ch16 (spec §5). |
+| **Five strokes / the Earth answers** | **Ch1 (readiness rite)** — five deliberate strokes → wait → the Earth's broad low answer from below → Covenant renewed only after; "The Earth answers" (echoes the Bowl's "The Mountain answers") | Ch9 (Sarah's Reggane trace = the same five + a roll she dismissed); Ch15 (the sound left the Mountain); Ch16 (counterfeit); Ch19 (the real firing uses the same call, at full flow). | ✅ intact post-reconstruction (S27–S29). *Local vs global signature:* five = sharp/near/from-under-one-floor; answer = broad/slow/from-below-deep. Ch16 detects the counterfeit because it answers "from around," not "from under." |
+| **The knock / counterfeit** | Ch1 — the strokes felt through the floor; K counts them, calls it holy | Ch15 (Knocks) — the knock *left the Mountain*; it is the succession-calendar; an outsider recorded it. **K's flaw re-anchored (S27):** not "I called it settling" (he counts it in Ch1) but "I never asked how far the sound carried." → Ch16 (Mock): the live counterfeit. | ✅ **repaired S27** (Ch15 premise re-anchored to Ch1's full telling). |
+| **Reggane** | Ch1 corridor — Sarah names it *once*, realises the marks were a call and the roll the answer (readiness test, planetary) | Ch9 — full 1960 history, Sarah at 27, the trace, Edward/Amastan, sixty-six years of not understanding. **Ch9 l49 fixed (S28):** she "read only the half of it" and understood only "these last days, in this house" — defers to the corridor, does not re-discover. | ✅ **repaired S28.** Corridor = recognition; Ch9 = deepening. No double-discovery. |
+| **Tomb / the Sarah Blackwood photograph** | Ch10 — boy/Veil K finds "Sarah Blackwood · Amastan · Reggane" in his own people's Shield archive; understands nothing | Ch12 (the Claim — the scrap he carries); Ch14 l310 (K recognises the name when he meets Ka-Sarah at Horizon); Ch11 (K↔Sarah "you are the woman in the drawer"). **Paul-name contradiction fixed S22.** | ✅ **repaired S22** (no feigned ignorance; drawer told once in Ch10, confronted in Ch11). |
+| **Faith listening / Ka-Elun** | **Ch1** — Ka-Elun ascends; her **first true act as Keeper of Faith = to hear/certify the Earth's answer** (Faith = the ear) | Ch13 (she presides/reads Covenant at the Trial); **Ch18–19 — she dies in the siege ("the roof took her"), and her death removes Faith's ear at the real firing.** Ch1 showed exactly what the crisis lacks. | ✅ intact & strengthened by the Ch1 reconstruction (spec §17). *Verify no Faith succession between Ch1 and the crisis — none on-page; Ka-Elun holds throughout.* |
+| **Chains of Hell / Beast bound** | Covenant scripture + Ch1 lament (pleas the Chains hold, the Beast keep to Hell) | Ch13 (the gravure/Trial), Ch18–19 (the Seal, the firing = the Beast loosed), Ch24. The readiness rite (Ch1) = the drill for the real firing. | ✅ §10.4 drill integrated (S27). |
+| **Threshold Exception** | Ch10/Ch12 — the sealed category K finds with the photo | Ch18 — Paul made the whole-holder under the Threshold Exception; his death (Ch24). | ✅ (built earlier passes S-VI). |
+| **Mirror / five ways light can lie** | Ch2 (Mirror) — the instruction begins; the panopticon/surveillance double meaning | Ch5 (Shadow — the five ways light can lie), Ch6 (diffraction), and the Sarah-monitoring frame (Ch1 corridor → Ch9 "behind the glass"). | ✅ |
+| **Diffraction / red-glass token** | Ch4 (the platinum token; K drops it in water, stumbles on refraction — ironic) | Ch6 (Veil's Chamber diffraction reveal); Ch19 (Light bends the Beast's shot by the same optics — "the way I had cut the red glass into a beam"). | ✅ |
+| **Bayesian Justice / the Number** | Ch13 (Trial — Justice weighs the unprecedented; "a handful of times in eleven thousand years") | Ch18 (the firing decision — Justice states the distinction and rules), Ch21. | 🟡 present; a fuller "blackjack/Bayes" payoff in the Seal (§32.12) could be sharpened — flag. |
+| **Sphere / geometry / deep time** | Ch3 (red-canyon descent = deep time), Ch13 (the Pendulum proves the spinning ball) | Ch21 (the Clock / cycles / deep age); §23.3 office-knowledge of the sphere. | ✅ |
+| **Sarah's cameras / monitoring / the beam** | Ch5 (the recording device behind the glass; Martinez) | Ch1 corridor (Sarah monitoring the interview) → Ch9 ("behind the glass, morning after morning"). Festival/equinox beam = Clock-bound (08 §D). | ✅ (Sarah-presence solved S21 + Ch1 corridor S27). |
+| **Great Door / five-office lock / Seal / whole-holder** | Covenant ("let no one hand hold the whole") + Ch1 (five Keepers withdraw, no one holds the whole) | Ch18 (the Greater Seal; Paul made whole-holder), Ch19 ("no single one of us the whole of it"), Ch23 (Zero's flaw = the machine kept by persons). | ✅ |
+| **Clock / cycles / Zero / Ithe** | Seeded implicitly (Ch1 "eleven thousand years"); embargoed | Ch21 (Year-Clock, six cycles, 145k reveal), Ch22–23 (Noxius Zero / Ithe — the Archive). Zero=Kailan fractal. | ✅ (deep-reveal, late). |
+| **Jean-Charles gifts / mission / betrayal** | Ch14 (Horizon intake; the charm as instrument), Ch16 | Ch17 (the hand that turned the key was his), Ch20 (Va-Sheva's audit; she keeps him Mountain). Ithe-mirror. | ✅ (§VIII built). |
+| **Outsider Copy / Paul's record** | Prologue (the self-writing tablet) | Ch24 (Paul dies completing the record; the Copy that leaves = the book in the reader's hands = the Declaration). | ✅ |
+| **Paul's promise** | Ch5 (the palm-prick oath; "Va-Paul") | Ch18–24 (he holds the whole; keeps the record; dies for it). | ✅ |
+
+---
+
+## Defects found & actions
+1. **Bowl↔Earth over-explicit in Ch1 M6 (spec §5)** → **FIXED** this session: softened both similes to implicit; explicit payoff remains at Ch16.
+2. **Ka-Elun chain** — confirmed load-bearing: Ch1 first-act (hear the answer) → Ch19 death (Faith's ear gone at the firing). No Faith succession between. Locked.
+3. **"Then the five withdrew, and returned"** — deleted from Ch1 (reconstruction), retained in Ch8 for the *second* Ascension (grief-glossed); Ch15 no longer quotes it. No dangling reference (grep-clean).
+
+## Open / to sharpen (flags, not contradictions)
+- **Bayesian Justice payoff (§32.12):** present in Ch13/18 but the "blackjack/Bayes" beat could be sharpened in the Seal decision.
+- **Object-custody ledger (§26.4)** still to build (keys/tokens/tapes/photograph/blade/knives) — the natural companion to this doc.
+- Setup/payoff of **medium** echoes (parents, Ka-Raedin, Ka-Syphiron, Urs, Martinez) not yet itemised — a later pass.
