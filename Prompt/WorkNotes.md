@@ -1286,3 +1286,151 @@ Ch23 converted on the same rule, continuing the numbering: **movements xv–xlii
 
 **STILL NOT DONE:** physics §29.3b (pendulum drive/Charron ring; genetics→mutational load) · S45 §E objections (JC's gate run undercuts Va-Sheva's refusal; Ch17 captured-guard interrogation; Martinez; Sarah's Ch24 deterrence vs an annihilated world; forest logistics; **Ka-Orun's clay tablet silently discarded**) · 🟡 §13.3 · 🟡 "a hundred thousand years" ×27.
 **Next:** re-read both Zero chapters cold, end to end, for places where the metre forces a word or the rhyme goes slack — verse needs a pass prose does not.
+
+---
+
+## PASS 2 — SESSION 49 — Zero's verse cold-read + repaired · Ch6 Eris scene (author draft, amplified) · honest completion estimate
+
+**Repo verified first:** S48 Zero-poem present; S46/47 physics present; Ch6 opening = the author's Eris scene, amplified this session.
+
+### A. ZERO'S VERSE — cold-read then repaired (the pass verse needs and prose does not)
+A hostile poetry cold-read found the central failure: **ABCB held through movements i–v and then effectively died — vi–xlii had almost no functioning line-2/4 rhyme**, while the surrounding prose *asserts* the confession rhymes. Broken promise on the page. It also caught a **load-bearing fact softened** (the 40,000 dead had drifted to ~27,000) and several genuine laugh-risks ("put his head / between his knees"; "workforce… in ale"; register breaks — "jobs", "government", "audit", "cover-grammar", "bomb").
+**Repaired (agent, full findings as brief):** working chime restored to ~27/28 quatrains in Ch22 and ~50+/55 in Ch23; the deliberate bare line **ix "I had the means. I did not ask."** preserved unrhymed; the 40,000 restored and made explicit — *"Do the subtraction. It is a kind of death: / twenty-seven thousand stayed / inside the rock they cut."* Every register break replaced; all do-not-touch movements (xxii, xxvi, xxviii–xxx, xxxiii, xxxv, xxxvi, xxxix, xlii) kept sense and images ("a warning that is worshipped is / a warning that is never read" verbatim; "left a door, and left it for you"). §6.3 clean.
+**Lesson (standing):** verse requires a dedicated metre/rhyme cold-read that prose passes do not — writing 42 movements in one sitting produced a real broken-rhyme defect that no prior QC would have caught. Any future verse must be cold-read for chime before it is called done.
+
+### B. Ch6 — the Eris / interpretive-freedom scene (author-initiated)
+Author supplied a new Ch6 opening: Kailan reads the Judgement of Paris as the five Kahirs before the war, and grasps that Sapiens may *make and dispute its own meanings*. Amplified per the house voice: **Eris kept as flaw** (spurned, left off the guest list — Zero's biography; Paul corrects the fact and declines the reading, firing the reader-ahead engine); **Paul plain/factual, argues back** ("That freedom is about three hundred years old… a settlement. It was paid for, and it can be taken back"); the **wound made the stake** (Kailan was sentenced to death for reading a seam a tutor here crosses before lunch); self-annotation cut; the **Genesis-gravure payoff** ("a room with no second wall") launches the Festival. Voice separation measured: Paul 21.8 words/line vs Kailan 54.4. **Author then hand-edited it** (tightened Kailan's opening, fixed the gravure to the **south** wall — canon-correct per Geography lock, my draft's "north" was wrong, now consistent with Ch1). Left as the author set it.
+
+### C. VALIDATION
+Compiles EXIT 0, **443 pp**. Book ≈ **138,300 words** (Ch6 Eris scene +~800; Zero verse repair roughly neutral). Over the 137k ceiling by ~1.3k; the Ch20 ashkeeper-catalogue / Ch23-glossary offsets (~1.5k) remain available if the author wants it held. All environments + quotes balanced; §6.3 clean on new text.
+
+### D. HONEST COMPLETION ESTIMATE (answer to "are we done soon?")
+**All ten §27 adversarial passes are run; all FATALs found are now closed; all four §26 continuity ledgers exist and are re-verified; the braid, physics, and voice-collapse are done; Zero is the poem the author wanted.** What remains is a finite, mostly-SERIOUS-or-lower punch list — **estimated 3–5 more focused sessions**, not an open horizon:
+1. **S45 §E objections (SERIOUS, ~1–2 sessions):** Jean-Charles's gate run undercuts Va-Sheva's refusal (degrade the run) · the Ch17 captured-guard interrogation is the most imported page (route it through the divided-knowledge law instead of charm) · Martinez is a CV who never reappears (cut or give one scene) · Sarah's Ch24 deterrence argument aimed at a world Ch20 annihilated (4 sentences: she bets on the rebuild) · forest-seeding logistics (give Amastan's line a body) · **Ka-Orun's clay tablet silently discarded** (it survives as unread liturgy).
+2. **Physics §29.3b (MINOR, ~½ session):** pendulum drive + Charron ring; genetics → deleterious-mutation load.
+3. **Prose tics (MINOR):** "a hundred thousand years" ×27; final light "not X but Y" residue sweep of the whole book (regression guard).
+4. **§13.3** instruction-programme shape (author-facing, may be fine as is).
+5. **A final cold read of the whole book end-to-end**, then §28 full validation.
+**Genuinely open author decisions (not blockers, but they gate a "100/100" claim):** the S43 structural proposals (hook at ~48k; Ch2/3/4 without irreversible events; Ch14/Ch7 length; a third Sarah chapter) · Ch17–24 narrating vantage · whether to hold the 137k ceiling. None of these is a *defect*; they are judgment calls I have declined to make unilaterally.
+
+**Next exact action:** the S45 §E objections, starting with the two that are pure gain and need no ruling — **Ka-Orun's tablet surviving as unread liturgy** (closes the standalone pass's last real thread, rhymes with Zero's "a warning that is worshipped") and **degrading Jean-Charles's gate run** (restores the weight of Va-Sheva's refusal, the book's thematic hinge).
+
+---
+
+## PASS 2 — SESSION 50 — two S45 §E objections closed (pure gain, no ruling needed)
+
+**Repo verified first:** S49 Eris ✅ · S49 verse repair ✅.
+
+### A. Ka-Orun's clay tablet — the standalone pass's last real loose thread — **CLOSED**
+Ch21 l67 builds the tablet as an explicit anti-forgetting act (*"let me at least decide the one thing the machine did not build me to decide, which is to write down that I was fooled… he is not the first"*) — one of the book's peaks. Ch24 l5 then asserted total forgetting (*"Within three generations Justice would once more not know the Archive was there"*) as if it had never been made. A built counter-mechanism silently reverted to the wheel.
+**Fix (Ch24 l5):** the tablet is **not destroyed** — the Mountain does not destroy a Keeper's permanent record — but *"it would be worse than destroyed. It would be kept."* A later Justice, untaught, finds it *"too holy to read and too old to move,"* sets a lamp before it, and folds it into liturgy *"as a thing recited and never understood, exactly as Zero had folded the Cataclysm into a prophecy."* This **closes the thread AND rhymes it into the book's spine** — Zero's *"a warning that is worshipped is a warning that is never read"* now has a second instance, one cycle later, in Justice's own office. The forgetting is now specific and mechanical, not a hand-wave. Per the standalone pass, this was one of two fixes it named as what makes the seventh cycle stop *looking* sequel-shaped; both are now done (the other was the S45 colophon).
+
+### B. Jean-Charles's gate run — undercut Va-Sheva's refusal — **DEGRADED**
+The moral-sceptic + originality passes agreed: Va-Sheva's refusal to interrogate him (Ch20/Ch24, the book's thematic hinge) only carries weight if his allegiance is genuinely unknowable — but the Ch18 gate run **answered it in his favour two chapters earlier**, with the narrator's full endorsement (*"cut it too fine on purpose, because that is the kind of man he is"*; *"turned a network against soldiers"* — the stock redemption sprint).
+**Fix (Ch18 l147–149):** the run is now **ambiguous evidence, not proof.** *"None of us who lived ever learned with certainty what he did out there or why… Whether he had gone back to strike a last blow at the seizure cell, or to warn it, or to try to reach it and been shut out by it, or only to stand once more under an open sky he had helped to close, he did not say, then or ever."* He comes back *"empty-handed."* And Kailan now flags the naming itself: *"I will not tidy it afterward into a proof of him, because it was not one; it was a woman deciding what he would be, over a thing she did not yet know."* Removed the two endorsement phrases (grep-confirmed 0 remaining). **Va-Sheva's later refusal now has a real unknown to refuse** — the Ithe mirror (Ch22) is restored to load-bearing, because his heart is now as unreadable as hers.
+
+### C. VALIDATION
+Compiles EXIT 0, **443 pp**. All environments + quotes balanced. §6.3 clean on both new passages (the "not their way, but she laid her hand" hit is the pre-existing sanctioned action-contrast, both events real). Va-Sheva's refusal (Ch24 "carry the not-knowing than manufacture the verdict") and audit (Ch20 "She did not open him") verified intact and now un-undercut.
+
+### D. STILL NOT DONE — completion NOT declared
+**S45 §E remaining (SERIOUS):** Ch17 captured-guard interrogation (most imported page — route through the divided-knowledge law, not charm) · Martinez is a CV who never reappears (cut or give one scene) · Sarah's Ch24 deterrence argument aimed at a world Ch20 annihilated (≈4 sentences: she bets on the rebuild) · forest-seeding logistics (give Amastan's line + southern caches a body).
+**Physics §29.3b (MINOR):** pendulum drive/Charron ring; genetics → mutational load.
+**Prose (MINOR):** "a hundred thousand years" ×27 thinning; whole-book §6.3 regression sweep.
+**Then:** whole-book cold read + §28 validation.
+**AUTHOR RULINGS still pending (not defects):** S43 structural proposals; Ch17–24 narrating vantage; the ~138.3k ceiling.
+
+**Next exact action:** the remaining two §E items that need no ruling — **Sarah's Ch24 deterrence argument** (add the rebuild-bet so it stops addressing an annihilated world) and the **forest logistics** (one clause giving Amastan's line / southern caches survival, so the greening has a body while the God/Sarah theological ambiguity stays). Then the Ch17 captured-guard rewrite.
+
+---
+
+## PASS 2 — SESSION 51 — Ch6 solids merged into the Eris scene (author idea; pays off Ch5)
+Author threaded the **five Kepler solids** (Ch5 gift) through the Judgement-of-Paris mapping. Ch5 l11 had K place three by feel (tetra→Light, cube→Shield, beauty→Faith) then admit *"the other two I cannot yet place… Balance the fourth, Justice the largest."* Ch6 now **completes that assignment by reading the myth**: icosahedron (many equal faces, none governing)→Zeus→Balance; dodecahedron (the largest)→Hera→Justice — geometry-consistent with Ch5 (dodeca > icosa by volume-per-edge; icosa has most faces). Best new beat (author's): Hera inverts K's Ch5 assumption — *"I had been certain Justice must come last… I had it backwards. She is queen; she must be named first"* — and lands on the wound (*"I have watched it done in a sealed room, and I was the thing it did it to"*). **Eris-as-flaw preserved** (Paul still corrects "She was not at the wedding… left her off the list"), keeping the Zero-mirror / reader-ahead engine. Compiles 445 pp; voice split Paul 20.7 / Kailan 73.9 w/line; §6.3 clean; Ch5↔Ch6 mapping verified. +~600 w → book ~138,900.
+
+---
+
+## PASS 2 — SESSION 52 — batch: remaining S45 §E objections + physics §29.3b + motif thinning
+Five items this turn (author asked for a fuller batch), all validated together — compiles 447 pp, environments/quotes balanced, §6.3 clean after fixing one self-introduced violation.
+
+**(A) Sarah's Ch24 deterrence argument — reframed for the world Ch20 actually left.** It had addressed functioning states/rivals/press that Ch20 annihilated ("Geneva is gone, or dark, or drowned"; threads dark by day 60). Now she names the ruin first — *"do not flatter me by imagining there is a world up there still to deter… scarcely a state left standing"* — and pivots to the **real** wall: a bet on the rebuild. *"Whatever climbs back up out of the ash… will do again exactly what you did: forget, invent a kindly story… I will carry it out and lodge it where the next world will trip over it while it is still young enough to be changed by it… before the survivors write their own Genesis over the top of yours."* Colder, stronger, in character (§15.1). Kept "the carrying is the wall" logic; removed the false present-state premise.
+
+**(B) Forest-seeding logistics — given a body, ambiguity preserved.** The greening was run by "a hand… that could move across borders without being seen" — impossible in the blacked-out world of Ch20. Now it has a mechanism: seed, hidden water caches, help *"carried the one way into that desert that still worked… by the guides of Amastan's line, who had never once been on the map the enemy rolled up, because Sarah had kept her oldest road off every ledger but her own."* The **God/Sarah theological ambiguity is untouched** (l72's "Whether that hand was God's instrument or only Sarah's… open, in the dark, under a hymn"). Pays off Amastan's line (Ch11/17) and Sarah's compartmentalised-network discipline.
+
+**(C) Ch17 captured-guard interrogation — the most imported page, rerouted through the book's own law.** Was the stock humane-interrogator beat (charm extracts the whole picture in an hour). Now the guard *"gave Jean-Charles very little… because he was a man kept as ignorant as the enemy could contrive; and that ignorance, laid out, was the thing that told me everything."* **Kailan** reads the shape of the ignorance — asks three questions "not for their answers but for the walls they would strike," draws the enemy's ring *"in the negative, the way a Veil is taught to read a room by the routes that are closed to him"* — and makes the "five, by function" deduction himself (was Sarah's). *"The enemy had rebuilt my own Mountain up there on the sand, faster, out of soldiers, in order to break into it."* Uses the **divided-knowledge law** as the instrument (§6.9), not the Frenchman's manner; also lands the originality-pass MINOR (K marks "primitive" as his own scripture's word for the outside, aimed the other way — *"two peoples had spent a hundred thousand years calling each other the same name"*). Fixed the now-stale l49 "talk when we can afford" (he talks immediately) and a self-introduced §6.3 violation in (A).
+
+**(D) Physics §29.3b — CLOSED at canon + one on-page touch.** Beast canon §29.3b now governs: **pendulum drive + Charron ring** (Faith winds it, latent in Ch5 l29; free theme *"the one clock they trust needs a person awake beside it forever"*); and the **genetics upgrade to deleterious-mutation load** — the studbook manages inbreeding/heterozygosity (near-term, survivable) but **cannot** purge the mutational load fixing across 5,800+ generations, so the Mountain's greatest competence is the thing that cannot save it, and the people winds down at the genome the way the fire winds down in the rock (cross-refs the S47 "one firing"). Rendered once on-page (Ch20 Ka-Leth's ninety-year ledger, a line with no number: *"the seed comes up a little wronger every reset, and the blood, and no register I keep will buy that back"* — quartermaster's foreboding, not a genetics lecture).
+
+**(E) "a hundred thousand years" motif thinned 27→22.** Cut four incidental time-filler uses (Ch21 ×3, Ch24 ×1) to "an age"/"the cycles"/dropped, breaking the worst cluster (Ch21 9→6). **Kept every load-bearing echo:** "a man a hundred thousand years dead" (Zero's signature), Va-Sheva's "watched the wrong direction," Ka-Orun's "lied for," the closing "never happened in a hundred thousand years," and the new S52 lines. Still 22 — a further gentle thin is possible but each remaining use now earns its place; recorded, not forced.
+
+**Book now ~139,400** (net +~500 across the five, mostly the Ch17 rework). Over the 137k ceiling; offsets still available.
+
+### STILL NOT DONE — completion NOT declared
+❌ **S45 §E — Martinez** (a CV who never reappears after the Ch2 tea tray): cut, or give one scene where he reached for the whole *for Sarah's own reasons* (the law's second illustration). The last §E item.
+🟡 whole-book **§6.3 regression sweep** (guard against the re-infection demonstrated twice); 🟡 final **"a hundred thousand years" / "sixty-six years"** gentle thin; 🟡 §13.3 instruction-programme shape.
+**THEN:** whole-book cold read + §28 full validation.
+**AUTHOR RULINGS pending (not defects):** S43 structural proposals; Ch17–24 narrating vantage; the ~139.4k ceiling.
+**Next exact action:** the Martinez decision (last §E), then the whole-book §6.3 regression sweep, then the cold read.
+
+---
+
+## PASS 2 — SESSION 53 — last §E item (Martinez) CLOSED + whole-book §6.3 regression sweep
+
+**Repo verified first:** S52 forest/guard/genetics all present.
+
+### A. MARTINEZ — the last S45 §E objection — **RESOLVED (fate closed, not cut, not bloated)**
+Re-audit corrected the originality pass, which said "he never appears after the Ch2 tea tray" — **false.** Martinez is substantively worked across **Ch2, Ch5 (the surveillance/uranium/Chad-Niamey reveal), Ch9, Ch11 (found Amastan), Ch16 (the 66-yr French channel; his obsolescence = why France escalated)** and satisfies most of §13.8 (inherited Blackwood shadow · divided loyalty "never quite Blackwood and never quite France" · the recording mechanism · Sarah's knowledge of him · French connection · fair clues). **Deleting him would break real causal machinery** (the 66-year managed channel and the escalation cause), so "cut" was wrong.
+**The one genuine gap:** his personal fate was a dangling thread — Ch9 promises "a thing I will come back to," Ch16 pays the *plot* half, but the man vanishes. **Closed in Ch20** (Sarah's outside-death catalogue, the natural home), source-legal (Kailan: "a name I had heard only from her"), and it makes his own Ch16 line come literally true: *"They took my grids in the spring and had no further use for the old man who fetched them… He spent sixty years holding a door open for whichever master came first, and in the end he held it open for the thing that killed them both."* Pays off Ch9's "You will not meet him" (K never does — he only hears the end). **Sarah stays cold and un-redeemed** (§15.1): *"Do not mistake that for grief. I have none to spare for Roger. I only find I dislike being proved right about a man on the day the whole world proves me right at once."* **All S45 §E objections are now closed.**
+
+### B. WHOLE-BOOK §6.3 REGRESSION SWEEP — the guard pass (ban has re-infected 3×)
+Ran a tight label-substitution regex over all 24 chapters. **11 candidates → 10 adjudicated legitimate, 1 real violation fixed.**
+- **Legitimate (leave):** Ch13 ×2 legal formulas ("It is not named false. It is set beyond pursuit"; the fire-carried maxim) · Ch7 dialogue contradicting a prior speaker ("Then it is not a feast. It is institutional collapse") · Ch22 Paul's temporal "He is not raging *yet*" · Ch21/Ch24 candidate-elimination ("not a Keeper, not me"; "not the first" vs a different subject) · Ch3/Ch21 plain negation ("not sure"; "not paper and not stone").
+- **Justified verse exception (logged per §6.3):** Ch22 movement **i**, *"This was not given. This was done."* — Zero's opening thesis in verse, echoing the prose "chosen and not received"; irreplaceable, deliberate, kept.
+- **Real violation FIXED:** Ch18 (my own S50 text) *"it was not one; it was a woman deciding"* → *"the naming proved nothing. It was a woman deciding…"* Positive, no substitution.
+**Book-wide ban status: clean** (only justified exceptions remain, all listed here + the S40 preserves).
+
+### C. VALIDATION
+Compiles EXIT 0, **447 pp**; all environments + quotes balanced. Book **~139,600**.
+
+### D. STILL NOT DONE — completion NOT declared
+✅ **All §27 adversarial passes run; all their FATALs and SERIOUS objections now closed** (Copy provenance, physics ×4, Zero over-confession, Ch24 self-annotation, my Ch18 rebuttal, JC gate run, guard interrogation, tablet-as-liturgy, Sarah deterrence, forest logistics, Martinez). §26 ledgers exist+verified. Braid, physics, voice-collapse, Zero-poem all done.
+❌ **Whole-book cold read (end-to-end, as a reader) + §28 full validation** — the last substantive step; a cold read reliably surfaces small things no targeted pass catches (proven by the Zero-verse cold-read). ~1–2 sessions.
+🟡 final gentle motif thin ("sixty-six years" 23; "hundred thousand years" 22 — each remaining use now earns its place); 🟡 §13.3 instruction-programme shape (may be fine as is).
+**AUTHOR RULINGS pending (not defects, but they gate a "submit-now" claim):** S43 structural proposals (hook at ~48k; Ch2/3/4 without irreversible events; merge Ch22+23; a third Sarah chapter) · Ch17–24 narrating vantage · the ~139.6k ceiling vs the ~1.5k of named offsets.
+
+**Next exact action:** the **whole-book cold read** — dispatch readers across the four movements to read end-to-end for anything a targeted pass would miss (pacing dead spots, a fact that drifted, a repeated image, a transition that jars, a beat that no longer lands after all the surgery), then triage and fix, then run the §28 checklist. This is the last thing on my side before it becomes the author's structural calls.
+
+---
+
+## PASS 2 — SESSION 54 — whole-book cold read RUN (4 readers) + all defects triaged & fixed
+
+Dispatched four end-to-end cold readers (Movements I–IV). All four reported. Triaged every finding; fixed the BLOCKER + all SHOULD-FIX; verified the two "possible seams" were false alarms. Compiles EXIT 0, 447 pp, ban clean.
+
+### BLOCKER — colophon vs Ch24 collision — **FIXED**
+The S45 colophon ("Note on the Assembly") said the **founder's record** and the Archive were carried out *after* Sarah's departure by Amastan's line — but Ch24's whole climax is Sarah bargaining to carry **exactly that** (the confession, mechanism, year-clock, six seams) out as the price of letting the enemy live. Colophon rewritten: the founder's record and the account she came for **leave in her hand, by her bargain**; only **Sa-Kailan's genuinely post-departure completion** (Archive sealing, Paul's death, the 90th day, the greening years) comes out later via Amastan. No longer contradicts the ending.
+
+### SHOULD-FIX — all closed
+- **Zero verse — 5 broken ABCB quatrains** (rhyme is the whole conceit; breaks read as unfinished). Repaired via a focused poetry-editor agent, sense preserved, register kept, ban-clean:
+  - Ch22 **iv** dusk/ask → **dusk/husk** ("their asking worn to husk")
+  - Ch23 **xxxii** faith/beneath → **faith/faith** ("came to faith"; recast the enjambment landing)
+  - Ch23 **xxxiv** (the decoded-stones catalogue) ×3: fetish/owed → **bowed/owed**; silence/prayer → **bare/prayer**; turned/I → **turned/burned** ("built so that I, who burned")
+  - Untouched: the deliberate bare/frayed movements **ix, xxxix, xlii**.
+- **Ch24 count error:** "for the sixth **generation** to become the seventh" → "sixth **cycle**" (it's the ~25k-yr thermal cycle, not a human generation).
+- **Ch16 physics reconciled with rebuilt Ch19:** killed the last literal **"resonance"** (→ "a thing built this way"), "echo"→**"swing"**, and — critically — the old "the perfecting becomes the arming" wrongly implied the surveyor's surface thumps could **fire** the Beast. Now explicit: *his charges cannot loose it (that takes the five + the internal engine he'll never find); what his rhythm can do is **wake** it* — ring the sleeping mode audibly, which tells a listener it's real, where its heart is, and that it can be reached (this now seeds the seizure, consistent with §29 canon).
+- **Two live §6.3 ban survivors** the regex had missed: Ch5 "not one girl but a world of them" → "a whole world of them"; Ch4 "Light did not fall upon them but let them run" → "Light let them run untouched".
+- **"sixty-six years" over-attached to post-1968 events** (Sarah entered ~1968, not 1960 → those are ~58 yrs). Ch11 ×3 varied to thin the motif too: "kept two of them **the best part of sixty years**"; "a machine **the length of a life**"; "**the best part of sixty years** to find the flaw". "Sixty-six" now reserved for the true 1960→now span.
+- **Ch6 population contradiction:** l352 "heat of **a thousand** bodies" vs l404/l632 "**five thousand** people" (whole-Mountain Festival) → fixed to five thousand.
+- **Ch13** broken sentence "And Ka-Elun" (no verb) before scripture → "And Ka-Elun **read on**."; "Ka-**elun**" → "Ka-**Elun**". **Ch8** "marked.Over" → "marked. Over".
+- **Frame verse-promise:** Ch22 opener "he kept it [the rhyme] **to the end**" over-promised (xlii deliberately frays) → "**almost** to the end".
+
+### FALSE ALARMS verified (no change needed)
+- **"Homo Noxius" pre-spoiled by 'In Noxius' labels since Ch2** — the tongue-labels are a **frame/assembly apparatus** (the assembler labels both languages consistently throughout a bilingual transcript, exactly as a published edition would use the settled name everywhere); the Ch5 christening is an in-**scene** event on a different level. Real but a frame-convention call → **left for author**, not unilaterally rewritten.
+- **Ch2 "orphaned" opening sentence** (mirror-chamber / unguarded water-bowl) — it is a deliberate **cold-open** that pays off hard later in the same chapter (the bowl-refraction lesson, "the water answers after the hand has stopped touching it," l139–164). Kept.
+- **Ch18:41 "recap sag"** — the "I will not set it all down again" line **pivots to fresh dramatized cross-examination**, it does not re-dump. Holds.
+
+### VALIDATION
+Compiles **EXIT 0, 447 pp**; environments + quotes balanced; §6.3 re-swept the new Ch16 + colophon prose and the 5 repaired quatrains — **clean**. Book ~139,600.
+
+### STATUS — completion still NOT declared
+✅ Whole-book cold read **run and actioned** (the item S53 named as "the last substantive step"). ✅ BLOCKER closed. ✅ all SHOULD-FIX closed. 
+🟡 Remaining are **MINOR/taste** items the readers flagged (recorder-ending fatigue Ch17/18/19; "no single hand" leitmotif density Ch19:71–75; a few significance-labels Ch24; Ch20 guilt round-robin) — polish, not defects; several shade into author taste.
+**AUTHOR RULINGS still pending (gate a "submit-now" claim, not defects):** S43 structural proposals (early hook; merge Ch22+23; a third Sarah chapter) · Ch17–24 narrating vantage · the ~139.6k ceiling vs named offsets · the frame tongue-label convention (above). 
+**Next exact action:** run the **§28 full validation checklist** as the final gate, then surface the author-ruling list for Francois's decisions.
