@@ -402,3 +402,35 @@ Renames done: Trial 14→13, Horizon 16→14, Knocks 13→15, Mock 15→16 (4-cy
 - **Known residual risk:** the front-matter absolute paths contain the space in **"00 Intro"**. LaTeX's braced `\input{...}` should handle spaces (the space-breaks-input rule is for the bare primitive, not `\input{}`); if the author's next compile errors on a front-matter file, **fallback = rename the folder `00 Intro` → `00Intro`** (no space) and update those 5 paths. Flagged to author.
 
 **Next:** author recompiles the master (`00 Intro/chapter001-latexIntro.tex`, or its pasted content). If it errors on the "00 Intro" space, do the folder-rename fallback. Also still recommend removing/neutralizing the stale competing root `main.tex`.
+
+### ✅ AUTHOR CONFIRMED: "Latex compile works." — the build is DONE.
+Absolute paths resolved cleanly (the "00 Intro" space was fine in braced `\input`). The 24-chapter book now assembles and compiles.
+
+---
+
+## PROJECT COMPLETE
+
+Every charter mandate is realized and every gate is cleared:
+- Structure locked (24-ch; Fable5 One-Volume disregarded per author).
+- §6.7 case-against-firing realized (author-approved Option B).
+- All §XVII.5 + §3.5 QC dimensions verified clean; LaTeX integrity clean.
+- Final report delivered (`REBUILD-REPORT.md`).
+- **Build wired and CONFIRMED COMPILING by the author.**
+
+**Optional / author-discretion only (no autonomous action needed):** Declaration placement (S9 flag, preserved per §8.1); removing the stale `main.tex`; the Ch11-tail→Mock detachment (`REORDER-PROTOTYPE.md` recommended variant). None are defects; all are judgment calls.
+
+**No further safe autonomous edit of material value exists.** The manuscript is converged, validated, submission-grade, and compilable.
+
+---
+
+## PASS 2 — SESSION 21 — {room} FRAME ADAPTED FOR THE REORDER + "why Sarah is here"
+
+**Author task:** adapt all `{room}` so the reordered chapters cohere, and explain in the room dialogue why Sarah is now present. Mapped the whole interview frame (subagent) first: Sarah's account (Ch9 Reggane, Ch11 Infiltration) and her in-room presence had been dropped in with NO staging of the absent patron joining; Ch10's "Paul feigns ignorance about Sarah Blackwood" now contradicted Ch9.
+
+**Four edits (all validated: room envs balanced, braces/quotes even):**
+1. **Ch9 Reggane — added an opening `{room}` that stages + EXPLAINS Sarah's presence.** She has watched the debrief from behind the observation glass (pays off the Ch6 promise she'd witness his raising into Light — "the raising into Light I asked to be allowed to see and saw, through the glass"); their two lives are converging on the same desert; the record is worth nothing unless "both hands that touched the thing" are in it; so she comes round to the door to give her own half, in K's hearing. K's reply echoes Ch2 ("the woman who pays for the tea") and the Prologue ("Begin where it begins"). **This is the core "why Sarah is now here."**
+2. **Ch10 Tomb — rewrote the now-impossible feigned-ignorance beat into RECOGNITION.** Since Sarah has appeared (Ch9), Paul can't pretend not to know her; instead K realizes the tomb-name is the patron he has since met, and Paul admits honestly he "did not know what those two words were to you." Turns a contradiction into a dramatic-irony payoff.
+3. **Ch11 Infiltration — added a light opening `{room}` bridge** (Paul: "You stopped, the other evening, in a cellar in Adrar…"; Sarah resumes with Amastan) so her account resuming *after* K's Ch10 session reads as a continued alternation.
+4. **Ch11 crisis-tail — added Sarah's urgency pivot** ("this stopped being a debrief the moment it drew twice… you will give me the rest: tonight, and the nights after… and then we will go and look at the thing itself") → motivates the account continuing through Ch12–14 despite the alarm, and sets up the departure.
+
+**Residual (minor, documented):** the present-day crisis thread (Ch11-tail alarm ↔ Ch16 Mock "eleven minutes") is now *motivated* but not fully merged; the cleanest full fix remains the `REORDER-PROTOTYPE.md` move of Ch11's cliffhanger tail to the head of Ch16 Mock, plus a light touch on Ch15's calm opening. Left for author (structural, beyond `{room}` dialogue). Also softened "eight mornings/days" → vague ("morning after morning") to avoid a session-count clash with the dated Nov interviews.
