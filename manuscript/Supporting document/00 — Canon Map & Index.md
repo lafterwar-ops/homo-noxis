@@ -10,9 +10,11 @@
 - **Geography & Orientation — canon lock** — where the Mountain stands (≈21.3° N, gates south, Light north), the equinox beam, the number locks.
 - **The Mountain — Mass, Energy, Water, Air & the Balance Quarter** — the ledger that closes: food/energy/water/air/waste, the hidden farm apron, the demultiplied downstairs Oasis, the two water reserves, and the Balance quarter room-by-room.
 - **THE MOUNTAIN AS ORGANISM — World-Life** — the resource loops and orthogonal food sources; the "living Mountain" texture bible.
+- **Population, Genetics & Reproduction** (§22.4/§22.5) — how 5,000 sealed Noxius stay viable across deep time: large founding (10k–50k) → managed 5,000; the **marriage/office/movement doctrine is a disguised kinship-studbook** (Justice's lineage record) + birth-cap (Balance) + sanctification (Faith); office **earned** not inherited, with a soft "bred-to-office" aptitude layer; the gendered clamp = guarding the daughters = the self-indictment (the rigidity that lost them); the Denisovan-grade ghost + mtDNA/Y mismatch; the reproduction-clamp and the reset share one root (the Intimate Loss). **Seeded, never stated.**
 - **Pendulum — the Split of the Hours** — how a 2.75-day precession gives five daily gongs (the clock mechanism).
 - **Veil's Chamber — the Diffraction Reveal (optics)** — the red glass + pierced-token diffraction rings ("light does what water does").
 - **The Kahirs as Disciplines — Sigils & Sciences** *(EMBARGOED background)* — the five offices as competing sciences/epistemologies.
+- **Beast — Energy Model & Mechanism** (§18/§23.2/§31) — ★ the defensible physics behind the Beast so "resonance" is a mechanism, not magic: **trigger not bomb** (Mountain spends a match, the Earth burns the house); source (flash-steam strokes) → three amplifiers (antipodal focusing / **resonant in-phase driving** / a critical target) → ~44-min antipodal return → ring-of-fire cascade → made winter. Energy budget, timing locks, bounded-speculation boundary, and the office-map (each office owns one piece). **Read before writing any Beast/firing/Reggane/Mock beat.**
 - **Noxis Divided Knowlege.xlsx** — the knowledge-division matrix (who may hold what).
 - **Blueprints/** — the technical drawings: Hall-of-Ceremony geometry (horizontal & vertical), the corrected Foucault-pendulum hall.
 
