@@ -1220,3 +1220,69 @@ Compiles EXIT 0, **439 pp**. §6.3 clean on all S47 text after the fix. All 24 c
 **AUTHOR RULINGS PENDING:** the S43 structural proposals (hook at ~48k; Ch2/3/4 without irreversible events; Ch14/Ch7 length; merge Ch22+23; a third Sarah chapter) · Ch17–24 narrating vantage.
 
 **Next exact action:** the **Ch17–24 voice-collapse pass** — give Zero a *structural* deficit (paratactic, ledger-nouns, near-zero polysyndeton; target ≤18-word mean vs Kailan's ~31), then a triad-to-pair conversion across Ch17–19 and Ch23–24 to bring the back half from 21% down toward the front half's 9%.
+
+---
+
+## PASS 2 — SESSION 48 — voice-collapse pass: Ch17–21/24 FIXED · **Zero pass REVERSED BY AUTHOR RULING mid-session**
+
+### A. THE MEASURED DEFECT (S43, re-measured S48)
+Narration only, dialogue stripped. Front half Ch1–8: mean 10–22 words, polysyndeton (4+ "and") 0–3%, 40+-word sentences 1–11%. Back half before this pass: **Ch17 30.6/10.6%/32.3% · Ch18 28.1/8.9%/27.0% · Ch19 30.5/11.1%/31.6% · Ch20 32.3/10.3%/35.6% · Ch21 27.0/7.6%/25.0% · Ch22 25.1/7.2%/21.6% · Ch23 31.5/14.0%/32.8% · Ch24 28.2/10.5%/31.6%.** A floor and a ceiling with nothing outside them — a groove, not escalation.
+
+### B. Ch17–21 + Ch24 — **FIXED, and this part stands**
+| | mean | poly | 40w+ |
+|---|---|---|---|
+| Ch17 | 30.6 → **23.8** | 10.6 → **1.0%** | 32.3 → **15.8%** |
+| Ch18 | 28.1 → **22.9** | 8.9 → **2.1%** | 27.0 → **13.8%** |
+| Ch19 | 30.5 → **25.1** | 11.1 → **2.6%** | 31.6 → **17.2%** |
+| Ch20 | 32.3 → **22.7** | 10.3 → **0.0%** | 35.6 → **14.6%** |
+| Ch21 | 27.0 → **21.4** | 7.6 → **2.3%** | 25.0 → **12.4%** |
+| Ch24 | 28.2 → **21.6** | 10.5 → **0.6%** | 31.6 → **11.7%** |
+Method was surgical: cut the **terminal and-clause** (promoted to its own sentence, so no content lost), split long sentences asymmetrically so a **short** sentence falls out, triads→pairs only where the third item was cadence make-weight. **Variance restored** — stdev now 14–16, min 3 words, max 63–100; 42–58 sentences under 12 words per chapter where previously almost none. Long accumulative sentences kept where they earn it (the Greater Seal, the last stroke, the crown closing).
+**Bonus: 13 pre-existing §6.3 ban violations found and repaired** while splitting (Ch17 ×3, Ch18 ×1, Ch19 ×2, Ch20/21/24 ×3, Ch22/23 ×3, plus the "not only… but" family). All agents re-scanned their own output clean.
+**All preserves verified verbatim:** Ch19 siting/"The Earth does the aiming"/survey/green sign/"the four before it dug its throat"/finite-heat/"Let them fall"/"stop at five"/metronome · Ch18 "murder with paperwork"/"the sky is a table nobody can smash"/"five thousand and eleven souls… It does not help." · Ch24 Va-Sheva's refusal/"I am not a reason"/"I did not become him"/"Whether it is enough, I do not know"/dedication scripture/final Pendulum/"Keep your distance. Live." · Ch21 Year-Clock/145k/five seams/Ka-Orun's clay/Sarah's warning · Ch20 the radio woman (untouched character for character).
+
+### C. ⚑ ZERO — **AUTHOR RULING RECEIVED MID-SESSION, MY PASS WAS WRONG**
+The same method was applied to Zero (Ch22/Ch23), taking him to **Ch22 17.5/2.3% · Ch23 19.7/3.5%** — blunt, paratactic, ledger-nouns, verdict-first. **The author intervened:** *"I think Zero, having built a cathedral of a mountain, would have written a poem — not a simple autobiography."*
+
+**The author is right and the audit's prescription was wrong.** The diagnosis (Zero metrically identical to Kailan) was correct; the **cure** was not. Zero **wrote the Genesis** — Ch23 itself describes him composing "a scripture that was an operating manual set to hymns." A man who authored a religion's holy book does not render his own confession as a flat memo. Making him *blunt* differentiates him from Kailan but at the cost of the character.
+
+**The better axis of differentiation is FORM, not sentence length:** Kailan *speaks* (oral testimony into a machine — accumulating, self-correcting, unrevised); Zero *composed* (written, shaped, revised, cut for permanence). That separates them completely while making Zero more himself, and it solves the original defect better than my pass did.
+
+**STATUS: Ch22/Ch23 are currently in the WRONG register and must be rebuilt.** The blunt pass is to be treated as a discarded prototype. Awaiting the author's ruling on which concrete form the composed record takes (liturgical/scriptural · architectural/five-movement · sustained elevated prose-poem · composed-but-cracking-at-the-wound). **Do NOT propagate the ledger register anywhere.**
+
+### D. VALIDATION
+Compiles EXIT 0, **437 pp**. All 24 chapters environments + quotes balanced. Ch17–21/24 metrics verified above.
+
+### E. STILL NOT DONE
+❌ **Zero's voice rebuild (Ch22/23) — blocked on author ruling on form.** ❌ physics §29.3b (pendulum drive/Charron ring; genetics → deleterious-mutation load) · ❌ S45 §E objections (JC's gate run cancels Va-Sheva's refusal; Ch17 captured-guard interrogation; Martinez; Sarah's Ch24 deterrence vs an annihilated world; forest logistics; **Ka-Orun's clay tablet silently discarded**) · 🟡 §13.3 · 🟡 "a hundred thousand years" ×27.
+
+### F. ⚑ AUTHOR RULING EXECUTED — ZERO IS NOW A LITURGICAL POEM (Ch22 done; Ch23 next)
+**Ruling:** *"liturgical — the guy has a god complex and is not about to change — and in the shape of a rhyming poem. This means it can also be reduced in size (as we know a short poem can tell so much more than text)."*
+
+**Form chosen and implemented:** numbered movements (**i–xiv**) in **hymn measure — ABCB quatrains**. Chosen deliberately: ABCB is natural in English (only lines 2/4 rhyme), so it carries grave material without forcing rhyme or tipping into doggerel, and it *is* the metre of worship. Set inside the manuscript's existing `{scripture}` environment, so **Zero's confession renders on the page exactly like the holy book he wrote** — the reader has been seeing that typeface all novel. He cannot speak of his own crime except in the liturgy he invented. That is the god complex made structural.
+
+**Why this is the better fix (superseding S48-C):** the audit's diagnosis (Zero metrically identical to Kailan) was right; its cure (make him blunt) was wrong. Differentiating on **form** rather than sentence length separates them absolutely — **Kailan speaks** (oral, accumulating, self-correcting, into a machine); **Zero composed** (measured, numbered, rhymed, cut for permanence) — while making Zero *more* himself. It also fixes three earlier audit findings at once: a poem **states rather than diagnoses** (killing the last of the over-confession problem); compression answers the cold-ending pass's "10,000 words of document after the climax"; and the recovered space leaves the frame readers room to **contest** the document, which that pass said nobody ever does.
+
+**Refrain built as the spine:** *"I did not ask."* — falls bare and unrhymed at the centre of movement **ix** (breaking the quatrain, the only place the measure fails him), then returns as the closing line of **x**: *"I arranged her to stay so. / I did not ask."* Per §4.1, a refrain that gains meaning through changed context.
+
+**Ch22: 3,903 → 2,912 words (−991, −25%).** Compiles EXIT 0 (437 pp); `{scripture}` 4/4 balanced; quotes balanced.
+**Verified surviving in verse:** the summit-people and the brutes-with-clubs lie · the library of persons and its flaw ("built our whole forever out of what can rise and walk again") · assimilation-not-war ("They walked downhill, and they were glad") · **"I was the one who said no"** · Ithe and "a beautiful and perfect room / that had been made without a door" · the door pride leaves open · the pass · **"You were right"** · the **relief** ("Do you know what a rest it is / to be at last permitted hate?") · the refused question and its full reasoning · the particular wound grown to the size of a species · the children taken · the road south · **"a grief that says only true things / you will follow to the end of the world."**
+**Verified surviving in prose (the frame is untouched and now proportionally stronger):** Sarah on demographic collapse · Paul's "he is not raging yet" · Sarah's unasked-question/her father · Paul's "most dangerous document… nearly true" · Kailan's **"He sounds like me"** and Va-Sheva's "warning to you or a permission."
+
+**NEXT: Ch23 (Build) — same conversion, ~5,841 words.** It carries: the site's perfections · the build as labour and the >40,000 dead · **divided knowledge as a labour-management technique later sanctified** · the five works becoming five lines/offices · the covers (real sciences arranged around a hole) · the readiness rite as succession test · the Genesis lie and the quarter-turn · the decoded holy objects (Pendulum/Bowl/tokens/forbidden centre/gravures/Seal) · why he kept the record · **the door left for the heretic** and "Judge me." Expect similar ~25% compression; the decoded-objects catalogue (flagged by two audits as "an appendix inside a chapter") should compress hardest, since verse will not tolerate a glossary.
+
+### G. ZERO'S POEM COMPLETE — Ch23 converted (S48 cont.)
+Ch23 converted on the same rule, continuing the numbering: **movements xv–xlii**, hymn measure, ABCB, inside `{scripture}`.
+**Ch23: 5,841 → 5,163 words. Ch22: 3,903 → 2,912. Zero total −1,669.**
+**BOOK NOW 137,298** — the S39/S44/S46/S47 overshoot is absorbed and the manuscript is back inside the 130–137k band without cutting a single required thing. The poem paid for the moral counterweight and the physics repair.
+
+**Everything load-bearing survived the conversion** (grep-verified): the refusable ground and "it offered nothing" · water/heat/ways · **the joy** ("the rock kept saying yes… A man who finds the world has laid / its tools out ready to his hand / feels *chosen*") · the hand that was "only ever a defence" · the build as labour · learning by failing · **the number** (forty thousand; fewer than a third went up; the floor of their bones; the chief who stopped loving him) · **divided knowledge as labour-management** ("I did not divide it to keep the outside out. / I divided it to keep the work / safe from the men whose hands were in it") · the five works becoming Balance/Faith/Light/Justice/Shield · "convince him that the task is a self" · the covers, the ring of truths about a hole, **the trained flinch** ("the piece I am proudest of") · the flaw of persons · **the readiness rite** and its measure · the heartbeat, one beat to a generation, and the ear that would come · building a people to be the keeping · **the Genesis quarter-turn** (brother for father, the woman as blameless spoil, the buried question) · the decoded stones · **"A warning that is worshipped is / a warning that is never read."** · the three reasons for the record · **"at the very bottom of / the worst thing ever made, its maker / left a door, and left it for you."** · the disposal and "I did it through others, and looked away" · the first morning of the sealed world · "Judge me… Say what it is for" · the signature.
+
+**The decoded-objects catalogue — the passage two audits called "an appendix inside a chapter" — was the biggest winner.** Verse refused to carry a glossary, so it compressed hardest and now moves: Pendulum→"a fuse / dressed as a prayer"; the forbidden centre→"they have knelt around its edge / a hundred thousand years, and worshipped / the one spot in the Mountain that would kill them, / and been kept alive by worshipping it."
+
+**One frame line rewritten to register the change of form** — Paul now reacts to *how* it is written, not only what it says: *"He is singing it… he has set the confession of it to the metre they sing on feast days."* That converts the reader's own recognition (this looks like the scripture blocks I have been reading all novel) into an event inside the scene.
+
+**Validation:** compiles EXIT 0, **441 pp**; `{scripture}` 8/8 in Ch23, 4/4 in Ch22; quotes balanced; all frame prose (Sarah's Reggane recognition, Va-Sheva's "I was one of those children," Kailan's "refuse a design," the closing weeping) intact.
+
+**STILL NOT DONE:** physics §29.3b (pendulum drive/Charron ring; genetics→mutational load) · S45 §E objections (JC's gate run undercuts Va-Sheva's refusal; Ch17 captured-guard interrogation; Martinez; Sarah's Ch24 deterrence vs an annihilated world; forest logistics; **Ka-Orun's clay tablet silently discarded**) · 🟡 §13.3 · 🟡 "a hundred thousand years" ×27.
+**Next:** re-read both Zero chapters cold, end to end, for places where the metre forces a word or the rhyme goes slack — verse needs a pass prose does not.
