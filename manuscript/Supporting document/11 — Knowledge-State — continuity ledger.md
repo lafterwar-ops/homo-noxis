@@ -45,3 +45,14 @@
 
 ## Open
 - The **Doubt curve** (K's suspicion of Paul/his own side) is a Reveal-Sequence engine idea that, under the **standalone** ruling, no longer resolves in a "Book 2." Confirm on a future read that K's doubt reaches a satisfying *standalone* terminus (he gives the account knowingly — "he sees the trap and walks in anyway") rather than a dangling sequel hook.
+
+---
+
+## ⚑ POST-S41 RE-VERIFICATION STAMP (Session 42)
+These ledgers were built **before** the large downstream passes: the whole-book compression (**−20k words**), the §6.3 global ban sweep (**97 sentence rewrites**), the S37 braid repair, the S39 §19.2 alternatives insert, and the S41 chronology/motif fixes. Any of those could have deleted or reworded a tracked anchor.
+
+**Re-verified against the current manuscript (S42): all 15 load-bearing anchors intact.**
+Object custody — Ch19 Shield holds the Light token to K's palm · Ch14 token surrendered at exile ("no private token") · Ch19 the abort · Ch18 Va-Sheva calling the gates down · Ch24 Archive counterweight · Ch6 the token put into K's hand.
+Setup/payoff — Ch16 Bowl payoff · Ch15 "where do you imagine it stopped" · Ch9 "read only the half of it" · Ch19 red-glass optics · Ch19 "no single one of us the whole" · Ch1 "let no one hand hold the whole" · Ch5 palm-prick oath / Va-Paul · Ch18 the palm scar answering the Threshold · Ch24 Paul completing the record.
+
+**No chain was broken by compression or the ban sweep.** Rule for future sessions: any pass that deletes or rewrites at scale must re-run this stamp before closing.

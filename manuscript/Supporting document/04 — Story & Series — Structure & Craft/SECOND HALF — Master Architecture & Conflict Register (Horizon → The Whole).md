@@ -2,7 +2,7 @@
 
 *Stage One build packet for the complete second half. Governs the drafting of the chapters from Horizon through The Whole. Written under the source-priority hierarchy: (1) the new macro-truth in the active build prompt; (2) latest explicit decisions; (3) current prose; (4) recent canon; (5) older blueprints; (6) the Midden as graveyard only. Where a "canon" doc is now caduc, it is marked. Contains DEEPEST-EMBARGO spoilers (Noxius Zero, the Beast, the Archive).*
 
-*Frame is a floating **PRESENT** — undated. Drop every "1998" and every age-pegged-to-1998; keep technology grounded (reel-to-reel, seismographs, helicopters, satellites, vibroseis) and never flashy/futuristic.*
+*Frame is **undated ON THE PAGE** (the manuscript prints only "the seventeenth of November," "the nineteenth," etc. — never a year). **In canon the present frame is 2026** per the standing author ruling; see `08 — Chronology & Timeline`. Drop every "1998" and every age-pegged-to-1998; keep technology grounded (reel-to-reel, seismographs, helicopters, satellites, vibroseis) and never flashy/futuristic.*
 
 ---
 

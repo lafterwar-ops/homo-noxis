@@ -36,6 +36,7 @@
 ## 04 — Story & Series — Structure & Craft
 *Narrative architecture and planning (not in-world facts).*
 
+- **09 — Scene-Function, Source & Architecture Map (all 24 chapters)** — ★ the §9/§32.1 map, built S38 from a full read: per chapter, the source/form, frame location, narrated time, objective, unique revelation, setups, payoffs, irreversible event, word count and earns-its-place verdict, plus the source ledger and the surfaced-defect register. **Read before proposing any reorder, cut, or merge.**
 - **THE VOICE — Prose Style Canon (how we write)** — ★ the standing law of the prose: state-and-stop narration, the interpretation purge, the three zones, world-texture craft, room mechanics. **Read before drafting or editing any chapter.**
 - **Reveal Sequence — Hero & Paul (Book 1)** — the order in which the reader learns things.
 - **Chapters 4–6 — The Turn (K & Paul, room-dominant)** — the mid-book structural canon.

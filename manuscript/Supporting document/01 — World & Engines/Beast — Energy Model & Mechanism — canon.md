@@ -136,3 +136,35 @@ Zero disguised every operational instrument as a devotion. The reader meets the 
 
 ## 28. AFFECTED MANUSCRIPT FILES
 Prologue · **Ch1 Ascension (timing → done S36)** · Ch2 corridor transition · Ch3 Oasis (water) · Ch4 Mountain (deep reserve/heat) · Ch8 2nd Ascension (readiness confirm) · Ch13 Trial (Hall geometry) · Ch15 **Knocks (redesign)** · Ch9 **Reggane** · **Ch16 Mock (11-min → done S36)** · Ch17 Return · Ch18 Seal (Hall/gates) · **Ch19 Beast (full architectural rewrite — RESIDUAL)** · Ch20 aftermath (water) · Ch21 Clock · Ch23 Build/Zero (origin rationale) · Covenant scripture · the ledgers (08/09/10/11). **Status per file: WorkNotes S36.**
+
+---
+
+# ⚑ §29. PHYSICS REVISION — S46. **THIS SECTION GOVERNS AND SUPERSEDES §§10–14, §24, §26 WHERE THEY CONFLICT.**
+
+Triggered by the §27 Pass-3 scientist/engineer audit, which established with numbers that the previous model was **spending six impossibilities while declaring one**, five of them hidden. Prompt §18.3 requires the mechanism be revised openly rather than hidden under vague "resonance." Implemented in the manuscript S46.
+
+## 29.1 What was WRONG (do not resurrect)
+1. **₀S₀ cannot be aimed.** ₀S₀ is degree ℓ=0 — spherically symmetric *by definition*, identical radial motion everywhere simultaneously. Aiming it at a target is incoherent.
+2. **The stone mirrors were incoherent at every wavelength.** Mantle P-wavelength ≈ 8–10 km; a 5 m slab is λ/2000 (scattering cross-section ~6×10⁻¹⁴); surface figure matters only to ~±800 m, so *"trued to a hair"* was **ten orders of magnitude** finer than physics notices. No crustal reflector steers a ray crossing a **fluid outer core**.
+3. **Resonance is closed by Q, not by ambition.** ₀S₀ Q≈5,300 → saturation at N≈Q/π≈**1,750** coherent pulses. Driven perfectly for 25 days (~9×10⁸ m³) the radial amplitude reaches ~**20 nm**. Five strokes ≈ 5×10⁻¹¹ m. Moment ratio to Tohoku ≈ 2×10⁻⁶. **No stroke count rescues it.**
+4. **The heat budget was never checked:** ~2.1×10⁶ m³ of rock must be quenched per stroke, but thermal diffusion moves heat only **3.5 cm** in one 1,228 s period. Strokes 2–5 would land on a cold wet face.
+
+## 29.2 THE MODEL THAT NOW GOVERNS
+- **AIMING = SITING, decided once.** Antipodal focusing is **geometrically automatic**: every great-circle path leaving a point reconverges at the point opposite. Zero did not build mirrors — **he chose where to stand.** The Mountain sits where it sits because its antipode is the Lau Basin (21.3°S/180°), crust already broken inside the Ring of Fire. *(Ch19: "The Earth does the aiming… What a hand can do is choose where to stand when it lets go.")*
+- **LIGHT'S OFFICE = SURVEY, not optics.** Light keeps the Mountain's position true across deep time against plate motion (~24 cm/yr at the target; **thirty paces a century** — the old "thousand steps per century" was 30× wrong and is retired). Sunk marks, sight-lines, tables, and the **equinox mark down the Archive shaft that the sun trues once a year** — which pays off the Year-Clock (Ch21).
+- **THE FIVE STROKES = PROGRESSIVE FRACTURE**, not resonance build-up. Each load breaks the deep hot rock further, drives water into the cracks, and leaves it shattered, flooded and pressurised, so each successive blow "speaks into the body of the Earth with a larger mouth." **The fifth is the shot; the first four dig its throat.**
+- **FAITH'S TIMING SURVIVES AND STILL MATTERS.** The next load must fall **while the deep place is still open**, before the weight of the world closes the rock again. Too late = a load spent on healed ground; too early = driven into rock moving the wrong way, and it cancels. Faith reads *from the shape of the returning echo whether the deep place is still open.* Her death remains the crisis; "That is why we stop at five" still holds.
+- **₀S₀ IS RETAINED AS DIAGNOSTIC ONLY** — the slow phase-coherent return by which Faith confirms the coupling is live. It is **no longer the destructive mechanism.**
+- **THE ONE DECLARED IMPOSSIBILITY** is now single and honest: *a source of this scale, at the antipode, **dynamically triggers an already-critical arc.*** Dynamic triggering at ~kPa is **observed physics** — the book now leans on real mechanism instead of fighting it.
+
+## 29.3 RESIDUALS — **IMPLEMENTED S47**
+- ✅ **The heat is finite → there can never be a second firing.** On the page in Ka-Leth's voice (Ch19): *"Picture a debt... There is one firing in this machine. After tonight it is a cold hole in the ground, and it will be warm again when it is warm again."* **BONUS UNIFICATION:** the thermal recharge time *is* the cycle period — this now silently explains why the wheel turns on a ~25,000-year interval. Ka-Leth states it innocently (he does not know about the prior cycles); Kailan records it as arithmetic and notes *"It was eighty days before I learned what I had been told"* — which sets up Ch21's cycle reveal as dramatic irony without explaining it.
+- ✅ **Conversion interface moved deep.** Ch19: the fire lies *"miles below the Hall of Cataclysm, at the foot of a shaft that runs on past the last worked stone"*; the Hall is *"a room a very long way above the thing it works, the way a man at the head of a well stands a long way above the water."* Ka-Leth: *"Were it near, we should be having no conversation at all, and this Mountain would be a bowl in the sand with a story attached to it."* The survivors are now plausible.
+- ✅ **Drills cavity-decoupled.** Ch15, in Sarah's voice: *"They fire it into a hole. Not against the rock --- into a great empty room cut for the purpose... My own trade learned that trick in the fifties and used it to hide bombs from women like me. Your Mountain has been doing it since before Ur."* Global networks miss a whisper; Sarah catches it only because she had a good instrument 40 km off on the one morning it mattered and then never put it down. **Her sixty-six-year isolation is now physically correct rather than lucky.** Canon §25's "hid under the bomb's coda" is retired by this (a 100 m tower airburst cannot mask an 82-minute sequence).
+
+## 29.3b STILL TO IMPLEMENT
+- **Pendulum needs a nightly drive + Charron ring** (T=22.42 s ✅ and P=65.9 h=2.745 d ✅ both verified correct; but a free 125 m bob damps).
+- **Genetics upgrade offered:** swap heterozygosity decay for **fixation of mildly deleterious mutations** — no studbook can purge it, so the Mountain's core competence becomes the thing that cannot save it.
+
+## 29.4 VERIFIED CORRECT (scientist pass)
+Lau Basin antipode ✅ · Reggane 600 km due north ✅ · Richat due west ✅ · ₀S₀=1227.5 s ✅ · PKIKP ~20 min ✅ · §14 energy bookkeeping honest ✅ · population genetics at Ne≈5,000 over 5,800 generations retains 56% founding heterozygosity ✅ · the mtDNA/Y-vs-autosomal mismatch — *"the best single scientific detail in the manuscript"* ✅ · the "never a sloshing magma ocean" discipline observed throughout ✅.

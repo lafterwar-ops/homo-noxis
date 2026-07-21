@@ -1,23 +1,40 @@
-﻿\documentclass[12pt]{book}
-
-\input{manuscript/preamble}
-
+% =====================================================================
+% ⚠ THIS IS NOT THE MASTER FILE. DO NOT COMPILE THIS FILE.
+%
+% This root-level main.tex is a legacy stub left over from the old
+% 12-chapter era of the project. Every \input it used to carry pointed
+% at files that no longer exist:
+%     manuscript/scripture/covenant
+%     manuscript/chapters/prologue-door-opens-both-ways
+%     manuscript/chapters/chapter01-ascension
+%     manuscript/chapters/chapter02-mirror-lessons
+%     ... through chapter12-horizon
+% All 14 of those targets are MISSING from the repository. Compiling
+% this file fails or produces a broken/empty book.
+%
+% ---------------------------------------------------------------------
+% THE REAL MASTER (root document) IS:
+%
+%     manuscript/00 Intro/chapter001-latexIntro.tex
+%
+% It holds the preamble (fonts, geometry, and the custom environments
+% room / roombar / scripture / declaration, plus \typesetchapter,
+% \typeprologue, \typebook, \typethresholdexception, ...) and then
+% assembles the book in final order:
+%     5 front-matter files  (00 Intro/chapter001-outsiderManuscript
+%                            ... chapter005-prologue)
+%   + 24 chapters           (chapters/chapter1-Ascension
+%                            ... chapters/chapter24-Whole)
+%
+% It uses ABSOLUTE paths (C:/Francois/Writting/HomoNoxisGithub/...) that
+% match the absolute EB Garamond font path, so it builds from any working
+% directory. It must be compiled with XeLaTeX.
+% ---------------------------------------------------------------------
+%
+% This stub is kept rather than deleted so Git history stays legible.
+% If you compile it by mistake, it stops immediately with a message.
+% =====================================================================
+\documentclass{article}
 \begin{document}
-
-\input{manuscript/scripture/covenant}
-
-\input{manuscript/chapters/prologue-door-opens-both-ways}
-\input{manuscript/chapters/chapter01-ascension}
-\input{manuscript/chapters/chapter02-mirror-lessons}
-\input{manuscript/chapters/chapter03-living-mountain}
-\input{manuscript/chapters/chapter04-oasis}
-\input{manuscript/chapters/chapter05-five-shadows}
-\input{manuscript/chapters/chapter06-festival}
-\input{manuscript/chapters/chapter07-veils-chamber}
-\input{manuscript/chapters/chapter08-martyrdom}
-\input{manuscript/chapters/chapter09-tomb}
-\input{manuscript/chapters/chapter10-wrong-confession}
-\input{manuscript/chapters/chapter11-trial}
-\input{manuscript/chapters/chapter12-horizon}
-
+\errmessage{main.tex is NOT the master file. Compile "manuscript/00 Intro/chapter001-latexIntro.tex" with XeLaTeX instead.}
 \end{document}
