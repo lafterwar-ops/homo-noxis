@@ -1,5 +1,7 @@
 # Reveal Sequence — The Hero & Paul (Book 1)
 
+> **⚠ STALE CHAPTER MAP — do not trust the chapter-by-chapter below.** It reflects an older order (Ch9 "Martyrdom," Book-1 ending at Ch13 Horizon, "tapes seized in Book 2") that predates the reorder and the **standalone** ruling (§31, no sequel). For current knowledge-state, **use `11 — Knowledge-State — continuity ledger`.** Keep this doc only for its *engine ideas*: reader-ahead-of-Kailan, the disarm-then-precise-question tactic, and the doubt curve.
+
 *A chapter-by-chapter map of the second plot: what passes between K and Paul in the 2026 room, underneath the account. Working draft — a compass for the loop's frame propagation, not locked prose.*
 
 ---
