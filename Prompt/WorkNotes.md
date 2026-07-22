@@ -1624,3 +1624,26 @@ The Beast physics was already rebuilt honestly (S46–47: siting/partial-focus/f
 
 ### NOT executed this session (brief passes 3–4, 12)
 Voice-differentiation (3), human-particularity inserts (4), cataclysm-necessity rebalance (5), Sarah-omnipotence (6), JC-causality chronology (7), Paul's-death necessity (9), science-calibration hedging (10), ending de-duplication (12). Several are **likely already satisfied in-repo** (composite Faith Ch19; alternatives dramatised Ch18; Paul death Ch18/24; Sarah cost/misjudgement Ch16/18) — need a verification pass rather than fresh construction. Ch24 (PASS 12 ending) intentionally held for the author's hand given "state the refusal once" is a taste call.
+
+---
+
+## Session 59 — Ch8 forbidden-circle geometry + opening "Memory of Light" room
+
+**Geometry fix (Ch8 ceremony).** Corrected the succession staging so it matches canon: the dome's base and the forbidden circle are the *same ring*. Both Keepers now take their places **within** the forbidden circle ("the great ring of dark stone... forbidden to every foot, that held now only theirs... wide as a house, and the Pendulum swings the length of it") — Syphiron at its far/god's edge, Va-Raedin kneeling at its near/beast's edge. Removed the "black mouth" (pit) reading. Dome descent now closes ring-to-ring: "its rim came down to the very round of the forbidden circle, so that the ring cut in the floor and the mouth of the falling stone stood one circle, closing"; at landing, "its rim settled upon the ring of the circle, stone meeting stone."
+
+**New opening {room} (Paul's gift — the memory of light).** Installed at the head of Ch8, before the ceremony. Pitch-black Swiss-house session (7th interview, 2 Dec, after dark — the logistical cost is Paul's gift). Paul demonstrates **phosphorescence** first, explains after: a pale board keeps a flash and glows green in the dark; Kailan's hand leaves a persistent shadow-print. Explanation via callback to the **Cosmos lesson** (very great: dead stars still arriving; very small: electrons on quantized steps) — climb by swallowing light, held as height, slow fall, one fixed colour "however white the flash." Kailan slow to understand (per instruction). **Role-reversal close:** Kailan keeps the dark, lights a single candle, and hands Paul the *scale* — "make it one of your cathedrals... put out every light but this one... stand five thousand people in it" — seeding the Hall's one-flame image. Escalation rendered without the banned "not X but Y."
+- Canon note: `Supporting document/01 — World & Engines/Memory of Light — Phosphorescence & the Quantized Ladder (optics) — canon.md` (mechanism, large↔small tie, staging, accuracy guards, resonances).
+
+**Incidental blocker fixed.** `chapter6-Festival.tex` had a compile-breaking typo `\texit{Pythagoras}` → `\textit{Pythagoras}` (new since S58; halted the whole build). One-character command fix only; wording untouched.
+
+**Validation.** Rule-sweep clean (no "not X but Y" in Ch8 narration; room balanced). Full book compiles **EXIT 0, 439 pp** (DejaVu harness).
+
+---
+
+## Session 60 — Zero's confession re-Perse'd (Ch22 Loss + Ch23 Build)
+
+**Full rewrite of every {scripture} block** (4 in Loss, 8 in Build) toward a true Saint-John Perse prose poem, per author brief: (a) even-breath unrhymed versets — removed the pervasive couplet/internal rhyme; (b) **no self-psychoanalysis, not once** — stripped every hindsight self-diagnosis ("the door where I stopped being a man and became the founder of a law," "that question was the worst thing in me," "the family failing," "the whole genius of the method," "the not-knowing is the whole of the betrayal," etc.); Zero now only recounts the deed and the thought he had **in the instant**; (c) **no future-knowledge** — Zero can't know the 100k-year span, so "they have flinched a hundred thousand years" → "in all the long line of them" (the numeric span survives only in the readers' frame, which is correct). Preserved every load-bearing event + in-moment feeling the frame depends on (the daughters' preference; "I had the means, I did not ask"; the pass and "you were right" and the relief; the five-drop / five-blow / long-roll succession = Reggane signature for Sarah's frame; the divided knowledge; the five offices named; the flinch; the Genesis quarter-turn and the drowned question; the decoded stones; the door; the sealed first morning; "Judge me… say what it is for… I chose certainty"). The analytic layer stays entirely with Paul/Sarah/Kailan in the frame — Zero is now pure mystic recount.
+
+**Line measure.** Redefined the `scripture` environment (`chapter001-latexIntro.tex`) with `\rightskip=0.15\textwidth plus 1fil` — ragged right, measure capped so no verset line exceeds ~¾ page (author request: each line 2/3–3/4 page, no more).
+
+**Validation.** No "not X but Y" in either chapter's scripture; no self-analysis/future-number markers inside scripture; scripture blocks balanced (4/4, 8/8). Full book compiles **EXIT 0, 445 pp** (+6 pp from the narrower measure). Note: author independently edited Ch6 (Judgment-of-Paris solids, now incorporating the Balance line) and Ch8 (added "the memory of light" callback) — left intact.
