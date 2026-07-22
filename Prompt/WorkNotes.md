@@ -1647,3 +1647,25 @@ Voice-differentiation (3), human-particularity inserts (4), cataclysm-necessity 
 **Line measure.** Redefined the `scripture` environment (`chapter001-latexIntro.tex`) with `\rightskip=0.15\textwidth plus 1fil` — ragged right, measure capped so no verset line exceeds ~¾ page (author request: each line 2/3–3/4 page, no more).
 
 **Validation.** No "not X but Y" in either chapter's scripture; no self-analysis/future-number markers inside scripture; scripture blocks balanced (4/4, 8/8). Full book compiles **EXIT 0, 445 pp** (+6 pp from the narrower measure). Note: author independently edited Ch6 (Judgment-of-Paris solids, now incorporating the Balance line) and Ch8 (added "the memory of light" callback) — left intact.
+
+---
+
+## Session 61 — Zero's confession set to metre (Ch22 + Ch23)
+
+**New prosody rule applied to every {scripture} line:** 16–22 syllables per line; lines grouped in **quatrains** (blank/`\medskip` every 4 lines); each scripture block a **multiple of 4** lines.
+
+**Method (no internet/libs available):** built a heuristic syllable counter in the sandbox (vowel-group base + silent-e/-es/-ed rules) with a **hand-verified override table** for the bounded scripture vocabulary (corrected ~40 words the heuristic missed: material=4, sanctuary=4, safeguard/lifetime/blameless/careful/coarsely/lately=2, violence/diagram=3, argue/rhythm/beyond/sacred/virtue/loyal/aloud=2, Noxius=3, etc.). Wrote a checker that extracts each scripture line, reports syllables, flags <16/>22, and verifies quatrain grouping + multiple-of-4. Re-lineated all 12 blocks against it, iterating until 0 out-of-range.
+
+**Result — all blocks pass (line counts):** Loss = 24 / 44 / 12 / 36. Build = 36 / 44 / 44 / 40 / 48 / 44 / 32 / 44. Content, in-the-instant voice (no self-analysis), and all frame-anchor phrases preserved (Reggane five-blow signature; "I had the means. I did not ask"; the children/actors; the decoded stones; "Judge me… I chose certainty"). Emphasis restored (\emph on preference / you were right / relief / I did not ask / chosen / the five office-names).
+
+**Cleaned** 5 introduced clause-level "but"s to equal-syllable swaps (just/and/yet) so the antithesis ban stays satisfied without disturbing counts; kept "nothing but true things" (= "only", the keystone line).
+
+**Validation.** 0 lines out of 16–22 in either chapter; every block multiple of 4; no "not X but Y"; full book compiles **EXIT 0, 451 pp**. Counter is heuristic+overrides — boundary lines (16/21/22) rely on a few ambiguous words (toward, listening, memory); flag any that misread by ear and I'll re-tune that line.
+
+---
+
+## Session 62 — Book of Promise read into Ch8 decrescendo
+
+Wove **Book 5 (Promise)** of the covenant — all five verses, **verbatim from `Supporting document/05 — Scripture & Texts/covenant.tex`** (lines 26–30) — through the decrescendo of light in Chapter 8. A voice takes up the Book of Promise as the Hall begins to give up its light; the Hall chants it back; each verse set in `{scripture}` and interleaved with the existing (approved) decrescendo narration beats, so the imagery aligns: V27 "the darkness shall be thy veil… the eye of Heaven shall not find thee" as the veil of dark falls and the carved eye of Heaven gutters out last; V29's promise of the desert withdrawing as the eye dies; V30 "the people shall be reborn… it was very good" into full dark, just before the one remaining flame. Kailan stays purely observational (no interpretation, per the Ch8 discipline); the "but" inside V28 is untouched (verbatim quoted scripture, exempt from the antithesis ban).
+
+Verified programmatically: all 5 verses byte-for-byte identical to covenant.tex, in order. Compiles **EXIT 0, 451 pp**.
