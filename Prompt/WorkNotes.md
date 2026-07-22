@@ -1,6 +1,74 @@
 # HOMO NOXIUS — WorkNotes (Pass 2)
 
-# ⚠ COMPLIANCE MATRIX vs FULL PROMPT (built after re-reading all 2,740 lines) — PROJECT NOT DONE
+# ⚠ COMPLIANCE MATRIX — CURRENT (Session 56 · 2026-07-22 · full re-read of all 2,740 prompt lines + live-repo inspection)
+
+Legend: ✅DONE · 🟡PARTIAL · ❌NOT DONE. Evidence = live repo, not memory. Compiles EXIT 0, 453 pp; all environments balanced (room 65/65, scripture 57/57, declaration 1/1). **No high-priority requirement is ❌ or 🟡.**
+
+## §30.1 Whole-book scope
+- ✅ Every chapter actively audited & revised — full 24-ch rebuild (S152–172); Ch1–6 rebuilt aggressively (S158–159); regional compressions (S167–172); 4-movement cold read (S54).
+- ✅ No chapter protected by revision history — the early "benchmark" protection of Ch1–6 was removed by the aggressive rebuild.
+- ✅ ≥1 substantive reorder implemented + validated — Sarah's testimony (Reggane Ch9, Infiltration Ch11, Horizon Ch14, Mock Ch16) **interleaved** into Kailan's sequence (away from the "Kailan block / Sarah block" arrangement §3.3 flags); braid validated end-to-end (S22/S37–38). Ch10 Tomb→Threshold (author, S55).
+- ✅ Final order = strongest tested — architecture maps (S138) + scene-function-source map for all 24 (S174).
+
+## §30.2 Structural readiness
+- ✅ Every chapter unique function — §9/§32.1 scene-function-source map built for all 24 (S174).
+- ✅ Reader questions evolve; reveals surprising + inevitable — validated in rebuild + cold read.
+- ✅ Sarah/Kailan testimony order coherent — braid repaired (Ch9 reason → Ch10 Paul's-name resolution → Ch11 infiltration → Ch12 claim); crisis thread resolved.
+- 🟡 Instruction programme intentionally complete/interrupted (§13.3) — functions as a compact essentials course (Cosmos Ch4, canyon/DNA, geometry/solids Ch5–7); reads as intentional but is not labeled as a finite syllabus. **Author-gate, low priority.**
+- ✅ Trial→Mock→return→Seal→Beast→Archive→ending = one causal chain.
+- ✅ No sequel dependency (standalone).
+
+## §30.3 Character readiness
+- ✅ Kailan wants/flaws/culpability/final distinction — culpability (Ch19/24), Zero distinction (Ch24).
+- 🟡 Va-Sheva independent early agency — distributed (Ch1 "Do not point," Ch10 arrest, Ch15/17 route command, Ch19 abort-hand); agency is real and present, no single added "showcase" scene. **Low priority.**
+- ✅ Jean-Charles particular/compromised/necessary — Ch11/16/17/18.
+- ✅ Paul transformation + death — Threshold Exception (Ch18), objection (Ch19), death (Ch24).
+- ✅ Sarah actions > self-analysis — cold register + incriminating choices (Ch9/16/18).
+- ✅ Ka-Raedin/Ka-Syphiron/Faith/Justice/Urs/Martinez payoff — martyrdom (Ch8), Martinez fate closed (Ch20, S53), Urs (Ch2/5), Faith (Ka-Elun/Ka-Leth), Bayesian Justice (Ka-Orun).
+- 🟡 Character bible + physical-description doc — `Supporting document/07 — Physical Description` exists; per-character field completeness (§21) not exhaustively verified. **Low priority.**
+
+## §30.4 Moral readiness
+- ✅ Case against firing — Paul Ch19 (author-approved Option B).
+- ✅ Alternatives considered seriously — Ch18 dramatizes evacuation / sealing / destroy-the-count / deterrence with specific failure reasons (S39/S44; Ka-Leth "five thousand and eleven… We counted. It does not help").
+- ✅ Outside not a category — §19.3 fragment (S23) + Ka-Leth "three thousand millions… every one owed something."
+- ✅ Kailan/Zero distinction true/small/non-exculpatory — Ch24.
+- ✅ Va-Sheva refusal ≠ refusing accountability — Ch20.
+
+## §30.5 World & science
+- ✅ Population/ecology/labour/genetics — pop 5,000 locked + propagated (Ch1 fixed S56); ecology bible; deleterious-load genetics on-page (Ch20, S52).
+- ✅ Beast mechanics — physics rebuilt (siting/antipode Lau Basin, progressive fracture, finite heat "one firing," cavity-decoupling); canon §29 (S46–47).
+- ✅ Deep age & cycles — 145k/11k two-layer, propagated grep-clean.
+- ✅ Reggane/seismology/Mock/logistics/aftermath — Ch9/11/15/16.
+- 🟡 Spatial-paths + object-custody — §26 ledgers exist (09 custody / 10 / 11 knowledge-state); not re-verified this pass. **Mostly done.**
+
+## §30.6 Form
+- ✅ Every event valid source / no omniscient 3P leakage — re-audited S56 (all first-person).
+- ✅ Documentary apparatus + language labels — front matter + colophon (S45/S54).
+- ✅ Room interruptions obey recorder rule.
+
+## §30.7 Prose
+- 🟡 Whole-book voice harmonisation (§24.1–24.2) — regional voice passes + cold read done; one **dedicated** final voice-matrix pass not separately logged. **Largely done.**
+- ✅ Revision-era style mismatch eliminated — Ch1–6 rebuilt; cold read found no era-seams.
+- ✅ Self-psychoanalysis / repeated explanation removed — §6.1 purge (S133–134).
+- 🟡 Aphoristic density controlled — de-aphorize passes (S118–122); some monumental density kept by design.
+- ✅ "not X, but Y" globally eliminated — full-book §6.3 sweep (S53) + re-sweep of every new passage (S54–56); only justified exceptions logged.
+- 🟡 Sensory-palette / crisis-dialogue sub-audits — world-life inserts done (S84–93); not separate exhaustive passes. **Low priority.**
+
+## §30.8 Continuity
+- ✅ Scripture exact — canonical `covenant.tex` + `notes/scripture-lock.md`; environments balanced (S56).
+- ✅ Chronology/ranks/names/geography/objects/knowledge — ledgers built; chronology anchored S56 (66 yr = Reggane 1960→2026; ~60 yr = 1968 entry).
+- ✅ Festival beam single location — no Archive/Clock beam (S56 grep clean).
+- 🟡 Emotional-choice scene history (§26.6) — prepared, not separately audited. **Low priority.**
+
+## §30.9 Submission audit (§27 Pass M — 10 adversarial passes)
+- ✅ All ten run: first-fifty, structural-editor, scientist/engineer, moral-sceptic, documentary-coherence, cold-ending, originality/thriller, AI-shortcut, standalone, full-compile — across S27-series + the 4-movement cold read (S54); every FATAL/SERIOUS objection closed.
+
+## ROLLUP
+**No high-priority ❌ or 🟡 remains.** Residual 🟡 are low-priority polish (final voice pass, char-bible field completeness, sensory/crisis-dialogue sub-audits, ledger re-verification) or **author-gated** (instruction-programme labeling · Va-Elise keep-vs-absorb §21.11 · word ceiling · frame tongue-label convention · S43 structural proposals). Per the standing rule, completion is **not declared** while any 🟡 stands — but nothing outstanding is high-priority.
+
+---
+
+# ⚠ COMPLIANCE MATRIX vs FULL PROMPT — ⓘ SUPERSEDED (Session ~21; retained for history — most ❌/🟡 below were closed in Sessions 22–56; see CURRENT matrix above)
 
 **Correction of record:** earlier "PROJECT COMPLETE" claims were made from a *truncated* read of Prompt.md (≈first 900 lines). The full prompt (§15–§32) contains many structural/character/world/prose requirements never addressed. Honest status below. Legend: ✅DONE · 🟡PARTIAL · ❌NOT DONE.
 
@@ -1434,3 +1502,67 @@ Compiles **EXIT 0, 447 pp**; environments + quotes balanced; §6.3 re-swept the 
 🟡 Remaining are **MINOR/taste** items the readers flagged (recorder-ending fatigue Ch17/18/19; "no single hand" leitmotif density Ch19:71–75; a few significance-labels Ch24; Ch20 guilt round-robin) — polish, not defects; several shade into author taste.
 **AUTHOR RULINGS still pending (gate a "submit-now" claim, not defects):** S43 structural proposals (early hook; merge Ch22+23; a third Sarah chapter) · Ch17–24 narrating vantage · the ~139.6k ceiling vs named offsets · the frame tongue-label convention (above). 
 **Next exact action:** run the **§28 full validation checklist** as the final gate, then surface the author-ruling list for Francois's decisions.
+
+---
+
+## PASS 2 — SESSION 55 — the CROSSING keystone (author-directed): Ch10 statement + Ch7 Genesis room installed
+
+Francois surfaced the book's deepest structural verb — **crossing a threshold that had defined the person / object / knowledge** — with three artefacts (a Genesis/Cain/Eve exegesis room; the "central crossing-chain" reduction; a 59-point crossing catalogue across Genesis, the Trojan cycle, the Odyssey, and the novel). Two directed changes:
+
+### A. Ch10 — the crossing STATEMENT — **added** (keyed off Shield's own name for the room)
+At the moment Kailan "let the full weight of it enter me," a two-paragraph narrator meditation now names what the whole Mountain **is**: *"an engine for the governing of crossings, and this room its hidden heart… kept each one by forbidding it to mean anything. The statue was admitted; its god was held at the door. Take in the body, and quarantine the meaning."* Then the thesis: *"A threshold runs one way. A man may cross it; he cannot cross back into the one who had not. The dust washes off. The flash does not… in the learning I had become the thing it was built to hold out… I was already the breach."* Pays off: the ending (the Mountain finally letting a crossing go **un-quarantined** — the account to Sarah, no leash) and Zero's inverse failure (quarantining one woman's crossing into species doctrine). Calls back the Oasis washing ("the flash does not [wash off]"). §6.3-clean.
+
+### A-bis. Ch10 file RENAMED by author: `chapter10-Tomb` → **`chapter10-Threshold`** (file + `\typesetchapter` title both now "Threshold"). This broke the build (master still `\input`-ed `chapter10-Tomb`). **Fixed** the master `\input` (line 166) to match. No other stale `chapter10-Tomb` refs in `manuscript/`. The title change strengthens the new passage (chapter "Threshold" → Kailan's in-prose Tomb → Chamber of Thresholds → "A threshold runs one way").
+
+### B. Ch7 — the Genesis/Cain/Eve room — **installed as the opening `{room}`** (author-drafted; polished + ban-swept)
+The pasted exegesis was NOT previously in the manuscript. Installed as Ch7's opening room, dated to slot the every-two-days interview cadence exactly: 19 Nov (2nd, Ch3) · 21 (3rd) · 23 (4th) · 25 (5th) · **27 Nov (6th) = Ch7**. Deliberate hinge preserved: room ends *"the reward I received for crossing a boundary"* → narration opens *"My reward was a small blackened room."* Pays off Ch6 l43 (tried "for laying two texts side by side and reading the seam"). Canon-checked against Ch3 Book of Blood (murderer = younger son of Shield; murdered elder = "broad in the shoulder, mighty before the beasts") — consistent; "Shield is Adam's son, so your line has lost a generation" is Kailan's mapping, coherently framed. Speaker attribution: Paul/Kailan alternating, Paul the complicating scholarly voice. **§6.3 fixes applied during transcription (4):** Paul's "translated the language, not certified the history" → "…; the history I have not certified"; serpent "does not put knowledge… it reveals" → "puts no knowledge…, and forces nothing; it reveals"; "perhaps not in the hour, but mortality enters" → "the dying is only slow to come, and it comes through what they have done"; "does not say merely… nor" → "says more than… and more than". All other wording is the author's, verbatim. Ch7 now ~5,771 words.
+
+### VALIDATION
+Compiles **EXIT 0, 453 pp**; new Ch7 room + Ch10 passage both §6.3-swept clean; environments balanced.
+
+### OPEN (author):
+- The Ch10 optional **{room} Eden-callback beat** (Paul: "the door your book sets behind the ones it drives out") — offered, not yet added; standalone Ch10 passage stands without it.
+- Whether to carry the crossing-motif touch into other chapters (the 59-point catalogue is a map for it) — held for Francois's direction.
+
+---
+
+## PASS 2 — SESSION 56 — full prompt re-read + refreshed compliance matrix + continuity fixes
+
+Re-read all 2,740 lines of Prompt.md and inspected the live repo (not memory). **Refreshed the stale top-of-file compliance matrix** (it was from S~21, predating the whole Ch13–24 rebuild); the CURRENT matrix now sits at the top with the old one marked SUPERSEDED. Net: **no high-priority ❌/🟡 remains.**
+
+### Braid re-verified COMPLETE in live repo (the standing "do this first")
+- Ch9: Sarah's reason to enter the record — *"I will have my half set down once in a machine I do not own, in front of a witness who owes me nothing"* (l9). ✅
+- Ch10 (Threshold): Paul's response to her name resolves the old feigned-ignorance contradiction — he knew Sarah as his employer, but *"What I did not know until this minute was that you had carried her name out of your own people's tomb as a boy… and put it back"* (l404). ✅
+- Reorder requirement (§3.3): Sarah chapters (9/11/14/16) are interleaved into Kailan's sequence — satisfied. ✅
+
+### Continuity fixes made this session
+- **Ch1 population contradiction** — the Ascension said "**a thousand people**" ×3 (l306/310/347) while it lifts *"all of us… the whole Mountain at once"* (l330) and Ch18 gives the precise roll as *"five thousand and eleven souls."* Same Hall / whole-Mountain rite as the Festival (already 5,000). → all three changed to **"five thousand people"** (replace_all; grep confirms 3 present, 0 "a thousand people" remain).
+- **Master `\input` case bug** — line 162 said `chapter6-festival` (lowercase) but the file is `chapter6-Festival.tex`. Compiles on the author's case-insensitive Windows mount but would **break on any case-sensitive system** (GitHub/Linux typesetting). → fixed to `chapter6-Festival`.
+
+### Audits run (live repo), all PASS / no action
+- **Chronology anchor confirmed:** "sixty-six years" (Ch1 ×4, Ch16 ×2, Ch17, Ch18) all correctly = Reggane 1960 → 2026 (Sarah 27→93, *"carried that trace since I was twenty-seven"*). The "sixty"/"best part of sixty" instances (Ch11) are the ~1968 entry-promises. Consistent.
+- **§6.3 global re-sweep:** two "less X than Y" hits (Ch3 "reaching less far than Eve"; Ch5 "turned less cleanly than through crystal") are legitimate literal magnitude comparisons between *different* subjects — not the banned label-substitution. Kept + logged.
+- **Festival-beam/Archive** contradiction: grep-clean (already resolved). ✅
+- **Omniscient 3P:** all chapters first-person sourced (Kailan/Sarah/room); no leakage. ✅
+- **Scripture source (§3.5):** canonical `Supporting document/05 — Scripture & Texts/covenant.tex` + `notes/scripture-lock.md` present; environments balanced (scripture 57/57). ✅
+- **Élise (§21.11):** present only in Ch14 as **Va-Elise**, the Horizon intake/custody officer (10 lines) — gives Horizon's institutional voice at Kailan's transfer, distinct from Shield's Va-Sheva. Retained-justified but flagged **author-gate** (keep as Horizon functionary vs absorb).
+
+### VALIDATION
+Compiles **EXIT 0, 453 pp**; environments balanced (room 65/65, scripture 57/57, declaration 1/1); §6.3 clean; Ch1 population now globally consistent.
+
+### Next exact action
+Two closable low-priority 🟡 if continuing: (1) scripture quote-level re-verification against `covenant.tex`; (2) one dedicated whole-book voice-harmonisation pass. Otherwise the outstanding items are **author-gated** (see ROLLUP in the CURRENT matrix). Completion **not** declared.
+
+---
+
+## PASS 2 — SESSION 57 — Zero's confession RE-FORMED: rhyming quatrains → Saint-John Perse prose poem (author-directed)
+
+**Author reversal (newest decision wins, §3.1):** "Drop the rhymes but not the musicality, and not the imagery. Borrow from St John Perse. A poem in prose." This supersedes the S48–49 liturgical-rhyme decision for Ch22+Ch23 (the S54 rhyme-repairs are now moot).
+
+- **Both chapters fully rewritten** (`chapter22-Loss.tex` i–xiv, `chapter23-Build.tex` xv–xlii) — all 42 movements converted from ABCB quatrains to **long unrhymed versets** in the manner of Perse (*Anabase*/*Exil*: desert march, founder-king, exile — a native fit for Zero). Kept: numbered movement structure (\textbf{i}…\textbf{xlii}), `{scripture}` container, every `\emph{}` emphasis, and **every load-bearing fact** — the numbers (40,000 came / fewer than a third returned / 27,000 stayed), the five-office christening, the readiness-drill signature (five blows + long roll, one wait behind the fifth = what Sarah heard at Reggane), the Genesis quarter-turn, the disk/Bowl/two-token/equinox-beam decodings, the death-radius sanctuary, the two gravures, the hidden room, the three reasons for the record, the door only a firing opens, the sealing, and the closing ("I was Noxius Zero… I chose certainty").
+- **Frame reformed** (the form was described as rhymed): Ch22 l5 "it rhymes; …the cadence of the scripture" → "moves in the long cadence… the unrhymed, rolling verse of the dawn office"; Ch23 l3 "numbered and rhymed and cut to be sung… the metre" → "numbered and cadenced and cut to be chanted… the versicles"; Ch23 l215 Paul "He is singing it… put that in a hymn… the metre they sing on feast days" → "He is chanting it… put this in the office… the versicles they chant on feast days". The liturgy point survives intact (psalms/canticles ARE unrhymed versets, so the form now fits the frame *better* than rhyme did). "He kept it almost to the end" retained — the cadence still loosens into direct address at xlii.
+- **All frame-reader reactions preserved verbatim** (Sarah/Paul/Va-Sheva/Kailan between movements).
+
+**VALIDATION:** compiles **EXIT 0, 447 pp** (−6 pp; versets slightly more compact than the quatrains); scripture envs balanced (Ch22 4/4, Ch23 8/8); movement count 14+28=42; §6.3 clean in both; no stray "rhyme/hymn/metre" references to the confession remain (the surviving "metre" = measurement metres Ch17/18; "hymn" = Faith's operating-liturgy Ch19/24, unrelated).
+
+**Next:** author to confirm the Perse register on a sample before this is considered settled; if the voice wants tuning, adjust and it is a contained re-pass on these two files only.
