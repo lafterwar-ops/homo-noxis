@@ -95,7 +95,7 @@ Reordered. **Oasis is now Ch3** ("the beam would have to wait"), Living Mountain
 The June blueprint ran to "Chapter 14 — End." Now **13** (Ascension → Horizon). *Contradiction:* an extra chapter with no home.
 
 **Book 5 = "the crossing."**
-Book 5 was once a Mad-Max journey — desert, Mediterranean, the Alps — to the Blackwood bunker. Displaced. **Book 5 is Noxius Zero's autobiography**, read inside the 90-day Great Seal by K and Paul in the Forbidden Archive; Book 4 is the Cataclysm. The physical crossing survives only as backstory/transfer, not as a book. *Contradiction:* two mutually exclusive definitions of the fifth book.
+Book 5 was once a Mad-Max journey — desert, Mediterranean, the Alps — to the Blackwood bunker. Displaced. **Book 5 is Ravar's autobiography**, read inside the 90-day Great Seal by K and Paul in the Forbidden Archive; Book 4 is the Cataclysm. The physical crossing survives only as backstory/transfer, not as a book. *Contradiction:* two mutually exclusive definitions of the fifth book.
 
 **The desert flash as Reggane 1960 — the "first longitude crumb."**
 The most load-bearing discard. The flash K sees at the Oasis was once the 1960 French nuclear test on the horizon, a checkable coordinate that made **Paul go very still** and consult his charts (*"non refellitur — it is not refuted"; "a real fire on my map at very nearly the right distance"*). Discarded whole. The flash is now a **reflection off a badly-oriented object inside the Tomb** (Shield's sealed chamber) that caught the sun and threw it to the boy; **Paul has no reaction** (it is no coordinate); and **Reggane / the longitude crumb belongs wholly to Chapter 10 (Tomb).** *Contradiction:* the old version fixes the Mountain's longitude two chapters early and gives Paul a reaction the new frame forbids. (Reveal Sequence, Geography lock, Blackwood doc all still carry the dead version.)
@@ -245,7 +245,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **Horizon as an internal Mountain office, held by Ka-Henry.** In the frozen draft "Horizon" is one of the Mountain's *own* offices, and "Ka-Henry, Keeper of Horizon" recovers Paul's document. Current canon abolishes both office and man: Horizon is Paul's (captured) *outside* organization; no Ka-Henry exists. *Why:* the double game requires Horizon to be an outside power wearing the Mountain's vestments, not a seat at its table.
 
-**The Covenant's fifth book as "Promise," and nothing beyond it.** The frozen fifth scripture is *Promise* (the Beast chained, the people reborn) — end of story. Current canon keeps *Promise* as scripture but adds a meta-layer: "Book 5" of the *series* becomes Noxius Zero's autobiography. *Why:* the founder-is-the-hero reveal did not yet exist. (cf. below)
+**The Covenant's fifth book as "Promise," and nothing beyond it.** The frozen fifth scripture is *Promise* (the Beast chained, the people reborn) — end of story. Current canon keeps *Promise* as scripture but adds a meta-layer: "Book 5" of the *series* becomes Ravar's autobiography. *Why:* the founder-is-the-hero reveal did not yet exist. (cf. below)
 
 ## Characters — discarded
 
@@ -263,7 +263,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **Reggane as only a 1960 blast photograph.** In the frozen Ch10 Tomb, "Reggane, 1960" is merely the caption under an archived photo of "a terrible flower of light rising from the horizon, too large to be flame" — an outsider atrocity relic, carrying **no geodesy at all.** Current canon promotes Reggane to the due-north longitude anchor of the triangulation. *Why:* the whole coordinate machinery was a later installation. *(Reggane's full arc, for the record: blast-photo-in-the-Tomb → geodetic anchor spread across chapters, briefly even the Oasis flash → and now, after the Ch3 rebuild, back to Ch10 only, but as an anchor rather than a snapshot.)*
 
-**The Horizon exit-pipeline ending.** The frozen Ch13 ends with K's name "held," his standing "ceased," his body carried out through a tunnel beneath a dead well fitted with "outsider materials: metal ribs, smooth white panels, glass bulbs that gave steady light without flame," where Jean-Charles and Elise take delivery of him as an exile-agent. Horizon here is the **Mountain's covert door to the outside** that turns K into an operative — not (current) Paul's captured identity. *Why:* superseded by innocent-Paul and the Noxius-Zero destiny.
+**The Horizon exit-pipeline ending.** The frozen Ch13 ends with K's name "held," his standing "ceased," his body carried out through a tunnel beneath a dead well fitted with "outsider materials: metal ribs, smooth white panels, glass bulbs that gave steady light without flame," where Jean-Charles and Elise take delivery of him as an exile-agent. Horizon here is the **Mountain's covert door to the outside** that turns K into an operative — not (current) Paul's captured identity. *Why:* superseded by innocent-Paul and the Noxius-Ravar destiny.
 
 ## World / Cosmology / Scripture — discarded
 
@@ -271,7 +271,7 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 **No geodetic layer at all.** The frozen draft has **no pendulum, no 21.6°N, no Richat, no Atlantis, no equinox beam, no magma** — zero hits across the whole repo. The entire latitude/longitude/period triangulation that now drives Paul's hunger was installed chapter-by-chapter in later passes. *Why:* the frozen book's threat is mythic, not checkable; the coordinate machinery is what makes the outsider tape *dangerous.*
 
-**No Noxius Zero.** The founder-is-the-hero reveal is nowhere in the frozen draft; it leaves K an exiled operative called "Kylian," not the once-and-future founder. *Why:* the terminal reveal had not been conceived. This is the single largest thing the current book *has* that the frozen one lacks.
+**No Ravar.** The founder-is-the-hero reveal is nowhere in the frozen draft; it leaves K an exiled operative called "Kylian," not the once-and-future founder. *Why:* the terminal reveal had not been conceived. This is the single largest thing the current book *has* that the frozen one lacks.
 
 ## Prose & Method — discarded
 
@@ -279,4 +279,4 @@ Kept only as the **Outsiders' myth / the Mountain's scripture** (the murderer "t
 
 ---
 
-*End of third stratum — bedrock, for now. The frozen repo is the book's most-abandoned self: same desert, same five offices, same doomed love, but a plainer enemy, a smaller cosmos, and a hero who ends as an exile rather than a god. Everything that makes the current book strange and large — the triangulation, the cycles, Noxius Zero, the captured friend — was dug up and carried in after this draft was frozen. Which is the whole argument of the heap: what a project throws away is the map of what it became.*
+*End of third stratum — bedrock, for now. The frozen repo is the book's most-abandoned self: same desert, same five offices, same doomed love, but a plainer enemy, a smaller cosmos, and a hero who ends as an exile rather than a god. Everything that makes the current book strange and large — the triangulation, the cycles, Ravar, the captured friend — was dug up and carried in after this draft was frozen. Which is the whole argument of the heap: what a project throws away is the map of what it became.*

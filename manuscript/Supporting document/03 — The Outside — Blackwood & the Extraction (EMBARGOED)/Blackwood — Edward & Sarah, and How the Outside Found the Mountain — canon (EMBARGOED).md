@@ -55,7 +55,7 @@ Whatever benevolence the house shows (the gifts, the scholarship, "for your prot
 - **Paul / Horizon:** existing canon (Reveal Sequence, "Paul Fully Horizon") — unchanged by this file.
 - **Amastan Ag Malick:** already canon as a name in the Ch10 Shield archive; the relic's "Tuareg outer-ring guardian" flavor is *optional* and not elaborated here.
 - **Reveal Sequence:** Sarah has the *where*; Paul is compartmentalized; the prize is the *whole*.
-- **Declaration / Noxius Zero:** Sarah is the addressee; K sends her the manuscript on recognizing Noxius Zero.
+- **Declaration / Ravar:** Sarah is the addressee; K sends her the manuscript on recognizing Ravar.
 - **Transfer canon:** the extraction and the Jamaica-favour sit downstream of the house Sarah runs.
 
 ## 9. Quick-reference card

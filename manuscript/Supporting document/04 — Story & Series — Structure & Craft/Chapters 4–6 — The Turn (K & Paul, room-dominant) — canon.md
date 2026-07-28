@@ -163,7 +163,7 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 **In the Ch5 account, K is nineteen.** Learning the whole Mirror took **four years** (the account resumes: *"Four years: Va-Raedin of Light had not lied… I am now nineteen years old."*). The account timeline therefore runs: **servant of Light from twelve → ascended Candidate at fifteen** (Ch4, the beam-walk) → **four years learning every beam of the Mirror** → **nineteen**, the morning Va-Raedin judges him worthy to be taught **the five ways that light can lie** (the Ch5 optics lesson).
 
-**LOCK: from the "five ways light can lie" lesson onward, the account's K is nineteen, not fifteen.** The salt/spectroscopy lesson, the Shadow bargain in K's telling, and everything the Mountain later tries him for belong to the **nineteen-year-old.** (The 2026 frame age — old, extracted K in the interview room — is unaffected.) The Va-Sheva wound and Zero-rhyme thus sit with a young man of nineteen, not a boy.
+**LOCK: from the "five ways light can lie" lesson onward, the account's K is nineteen, not fifteen.** The salt/spectroscopy lesson, the Shadow bargain in K's telling, and everything the Mountain later tries him for belong to the **nineteen-year-old.** (The 2026 frame age — old, extracted K in the interview room — is unaffected.) The Va-Sheva wound and Ravar-rhyme thus sit with a young man of nineteen, not a boy.
 
 ---
 

@@ -10,10 +10,10 @@
 
 | Party | KNOWS | Does NOT know (yet) | FALSE belief |
 |---|---|---|---|
-| **Kailan** (narrator; gives the account innocent of the frame) | his whole Mountain life; the Tomb (found "Sarah Blackwood" as a Veil, Ch10); Horizon (met Ka-Sarah = Sarah Blackwood, Ch14); the readiness rite (experienced & **counted**, Ch1); that he is at the Blackwood Estate among outsiders; **that Sarah Blackwood is the patron** (Ch2 — she appears, is named; K: "I know who she is") | Reggane / the outside seismic record; that the rite is a **planetary-weapon readiness test**; that Sarah found the Mountain by the five marks; that Sarah **watches every session from behind the glass**; that Sarah has **deduced** the meaning (the Ch1 corridor); the deep reveals (145k / cycles / Zero) until Ch21+ | the rite is **holy** ("the Mountain proving the Chains hold after a hand changed"); [early] the outside is death / a species-category |
+| **Kailan** (narrator; gives the account innocent of the frame) | his whole Mountain life; the Tomb (found "Sarah Blackwood" as a Veil, Ch10); Horizon (met Ka-Sarah = Sarah Blackwood, Ch14); the readiness rite (experienced & **counted**, Ch1); that he is at the Blackwood Estate among outsiders; **that Sarah Blackwood is the patron** (Ch2 — she appears, is named; K: "I know who she is") | Reggane / the outside seismic record; that the rite is a **planetary-weapon readiness test**; that Sarah found the Mountain by the five marks; that Sarah **watches every session from behind the glass**; that Sarah has **deduced** the meaning (the Ch1 corridor); the deep reveals (145k / cycles / Ravar) until Ch21+ | the rite is **holy** ("the Mountain proving the Chains hold after a hand changed"); [early] the outside is death / a species-category |
 | **Paul** | he serves Sarah's house; Reggane = French nuclear testing (public); **after the Ch1 extraction** — the *shape* (five strokes + delayed answer); **after the corridor** — that Sarah ties it to a Reggane trace & reads it as a readiness test. Conceals his reactions from K. | the full **whole** (assembles it across the account); the deep reveals until the Archive | — (his discipline is doubt; few false beliefs) |
 | **Sarah** | her entire history (Reggane, Horizon, the Mountain — she has *been* there); **after the corridor (Ch1)** — the readiness-test / planetary meaning; monitors every session secretly | — (she is the most-knowing party) | for 66 years: that the marks were the *event*, not the *call* (corrected in the corridor, S28/S27) |
-| **Reader** | **ahead of Kailan** on: the coordinates (handed over innocently), the readiness-test meaning (Ch1 corridor), Sarah's monitoring + deduction (corridor), Sarah's identity-as-hunter | **behind** on the deep reveals (145k / Zero=Kailan / Intimate Loss) until Ch21–23 | — |
+| **Reader** | **ahead of Kailan** on: the coordinates (handed over innocently), the readiness-test meaning (Ch1 corridor), Sarah's monitoring + deduction (corridor), Sarah's identity-as-hunter | **behind** on the deep reveals (145k / Ravar=Kailan / Intimate Loss) until Ch21–23 | — |
 
 ---
 
@@ -27,7 +27,7 @@
 | **Sarah monitors / is the hunter** | knows patron (Ch2); **not** the monitoring (Ch9 reveal) or the hunt (Ch9 account) | knows (employer + corridor) | — | corridor (monitor) + Ch9 (hunter) | frame |
 | **The whole** (operating manual to the Beast) | gives it innocently, chapter by chapter | **assembles it** — the true prize | has the WHERE, lacks the WHOLE | as Paul assembles | K's account |
 | **Jean-Charles turned the key** | Ch17 (at the burned camp) / fully Ch20 | Ch17 | **weeks before, in the dark** (tells K, Ch20 l59) | Ch17 | Sarah → K; Va-Sheva's audit (Ch20) |
-| **Deep age / six cycles / Zero = Kailan / Intimate Loss** | the **Archive**, Ch21–23 (K + Paul + Sarah read it together) | Archive | Archive | Ch21–23 (late, earned) | the Forbidden Archive autobiography |
+| **Deep age / six cycles / Ravar = Kailan / Intimate Loss** | the **Archive**, Ch21–23 (K + Paul + Sarah read it together) | Archive | Archive | Ch21–23 (late, earned) | the Forbidden Archive autobiography |
 
 ---
 

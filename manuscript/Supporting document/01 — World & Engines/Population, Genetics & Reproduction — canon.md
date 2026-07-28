@@ -5,7 +5,7 @@
 ---
 
 ## 1. THE NUMBERS
-- **Founding population:** Zero gathered "the sharpest engineers and scientists of the age, **~10,000–50,000**" (Species/Zero canon). So the gene pool **started large and diverse** — a whole city's worth of minds, not a handful of survivors.
+- **Founding population:** Ravar gathered "the sharpest engineers and scientists of the age, **~10,000–50,000**" (Species/Ravar canon). So the gene pool **started large and diverse** — a whole city's worth of minds, not a handful of survivors.
 - **Steady state:** **5,000 sealed residents** (locked), at the fixed carrying capacity of the farmed apron + galleries (Mass/Energy canon), plus a floating margin of field-hands/goatherds at the apron's edge.
 - **MVP context (real conservation genetics):** the **50 / 500 / 5,000 heuristic** — ~50 to avoid short-term inbreeding depression, ~500 to retain adaptive variation, **~5,000 for long-term evolutionary viability**. A **randomly-mating** 5,000 would still bleed diversity to drift over 10⁵ yr; a **deliberately-managed** 5,000, founded from 10k–50k, sits at the defensible edge. The Mountain therefore does not leave breeding to chance — and that management is the hidden engine of its whole marriage/office law.
 
@@ -66,5 +66,5 @@ The Intimate Loss was specifically the **loss of women** to Sapiens (Species §3
 - **Keep it a lever of the Intimate Loss**, not a footnote: every rule that binds a woman's body traces to the daughters who left.
 
 ## 9. CONSISTENCY CHECK
-- Population 5,000 locked (Mass/Energy) ✅ · founding 10k–50k (Zero) ✅ · earned Ascension (Ch1) preserved ✅ · "Veils bred to office" (Species §4) = §4 here ✅ · the clamp on reproduction/cohesion (Species §4) = §3/§5 here ✅ · mtDNA/Y mismatch (Species §6) = §6 here ✅ · goatherds/births seed (World-Life) = §3 ✅ · K's DNA placement (Ch5) = §6 (pure remnant) ✅.
+- Population 5,000 locked (Mass/Energy) ✅ · founding 10k–50k (Ravar) ✅ · earned Ascension (Ch1) preserved ✅ · "Veils bred to office" (Species §4) = §4 here ✅ · the clamp on reproduction/cohesion (Species §4) = §3/§5 here ✅ · mtDNA/Y mismatch (Species §6) = §6 here ✅ · goatherds/births seed (World-Life) = §3 ✅ · K's DNA placement (Ch5) = §6 (pure remnant) ✅.
 - **Cross-ref:** the reproduction-clamp and the reset are **the same terror** (Species §4: "control cannot out-breed them → knock the board over") — genetics and the Beast share one root.

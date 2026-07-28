@@ -21,7 +21,7 @@
 ## 02 — Deep Lore — The Secret History *(EMBARGOED)*
 *The Mountain's buried past and metaphysics. Spoilers.*
 
-- **Noxis Zero — The Founder & the Mirror at the Center** *(DEEPEST EMBARGO)*.
+- **Ravar — The Founder & the Mirror at the Center** *(DEEPEST EMBARGO)*.
 - **Homo Noxis — Species, Origin & the Intimate Loss** *(EMBARGOED)*.
 - **The Last Cataclysm & the Gravure** *(EMBARGOED)*.
 - **Book 5 — Forbidden Archive, the Year-Clock & the Declaration** *(EMBARGOED)*.
@@ -58,14 +58,14 @@
 ## 07 — Characters & Description
 *How the people look, age, and are recognised on the page.*
 
-- **07 — Physical Description & Bearing — canon** — ★ the appearance/bearing bible (§21, §24.7): each figure's canonical marks and, above all, the recurring gestures that identify them (Va-Sheva's flat hand on a chest, Paul's turning machine, K's wrist-knot, Ka-Xhian's blind face turned to sound). Includes the Zero=Kailan / Ithe-unknowable **withholding rules**. **Read alongside THE VOICE before any description pass.**
-- **08 — Core values / Character Core-Value Hierarchies — canon** — ★ every character's reverse-engineered value system in 3 levels (L1 super-core / L2 core / L3 sub-core), drawn from species·sociology·education·environment·arc, using the 192-value reference list. **The conflict rule:** higher level overrides lower. Each entry has a one-line WRITING TEST for resolving a choice on the page. Covers principals (Kailan/Paul/Sarah/Va-Sheva/Jean-Charles/Zero, Ithe left unresolved), the five offices as inherited value-sets, and named Keepers/secondaries. **Read before writing any decision scene.**
+- **07 — Physical Description & Bearing — canon** — ★ the appearance/bearing bible (§21, §24.7): each figure's canonical marks and, above all, the recurring gestures that identify them (Va-Sheva's flat hand on a chest, Paul's turning machine, K's wrist-knot, Ka-Xhian's blind face turned to sound). Includes the Ravar=Kailan / Ithe-unknowable **withholding rules**. **Read alongside THE VOICE before any description pass.**
+- **08 — Core values / Character Core-Value Hierarchies — canon** — ★ every character's reverse-engineered value system in 3 levels (L1 super-core / L2 core / L3 sub-core), drawn from species·sociology·education·environment·arc, using the 192-value reference list. **The conflict rule:** higher level overrides lower. Each entry has a one-line WRITING TEST for resolving a choice on the page. Covers principals (Kailan/Paul/Sarah/Va-Sheva/Jean-Charles/Ravar, Ithe left unresolved), the five offices as inherited value-sets, and named Keepers/secondaries. **Read before writing any decision scene.**
 
 ## 08 — Continuity & Audits
 *The §26 ledgers: dates, custody, knowledge-states, setups/payoffs. Governs the chapters where they conflict.*
 
 - **08 — Chronology & Timeline — continuity ledger** (§26.1) — the two clocks (outside frame anchored to **2026** vs Mountain "eleven thousand years" / hidden 145k), the full dated spine (Reggane 1960 → extraction & first interview Nov 2026 → return → firing → 90-day seal → aftermath), Kailan's relative ages, and resolved/open flags (Sarah = 93 in 2026, **resolved**).
-- **09 — Setup & Payoff — continuity ledger** (§26.7) — every major motif from setup to transformed payoff (Pendulum, Bowl→Mock, five-strokes→Earth's-answer→Reggane/Knocks/Mock/Beast, the knock, Tomb/photo, Ka-Elun→Faith's-ear-at-the-firing, Threshold Exception, tokens/optics, Great Door/whole-holder, Clock/Zero, Jean-Charles, Outsider Copy). Flags nothing firing early/late/twice.
+- **09 — Setup & Payoff — continuity ledger** (§26.7) — every major motif from setup to transformed payoff (Pendulum, Bowl→Mock, five-strokes→Earth's-answer→Reggane/Knocks/Mock/Beast, the knock, Tomb/photo, Ka-Elun→Faith's-ear-at-the-firing, Threshold Exception, tokens/optics, Great Door/whole-holder, Clock/Ravar, Jean-Charles, Outsider Copy). Flags nothing firing early/late/twice.
 - **10 — Object Custody — continuity ledger** (§26.4) — who holds each load-bearing object, when, why: the Light candidate token vs the firing PAL (distinct — K surrenders his at exile), the three photograph-artifacts (drawer/scrap/Sarah's copy), Paul's recorder→Outsider Copy, Sarah's drum-papers, the Seal/abort/counterweight, blades & injuries, rank-marks. Nothing in two hands at once.
 - **11 — Knowledge-State — continuity ledger** (§26.5) — the dramatic-irony engine: who knows what, when, from what source, and each party's false beliefs (Kailan / Paul / Sarah / Reader). Per-revelation matrix (location, rite=weapon, Reggane, Sarah-as-hunter, the whole, Jean-Charles, the deep reveals). **Supersedes the stale `04 — Reveal Sequence` chapter-map for knowledge-state.** *(The §26 ledger set — 08/09/10/11 — is now complete.)*
 

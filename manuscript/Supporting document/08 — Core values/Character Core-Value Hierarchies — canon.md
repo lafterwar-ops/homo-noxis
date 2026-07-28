@@ -16,11 +16,11 @@
 ## PRINCIPALS
 
 ### KAILAN (Sa-/Va-Kailan) — Homo Noxius; Mountain-raised; Veil of Light
-*Sociology/env:* sealed caste-Mountain, five-office order, scarcity and measure, oral scripture, the law "let no one hand hold the whole." *Education:* Light — trained to see where light falls, who placed it, and *what must remain dark*; to notice a thing set on purpose. *Arc:* proud boy → finds the enemy's name → forces the doors of his own doctrine → exile → the eye that fires the Beast → recognises himself in Zero → a small, non-exculpatory final distinction.
+*Sociology/env:* sealed caste-Mountain, five-office order, scarcity and measure, oral scripture, the law "let no one hand hold the whole." *Education:* Light — trained to see where light falls, who placed it, and *what must remain dark*; to notice a thing set on purpose. *Arc:* proud boy → finds the enemy's name → forces the doors of his own doctrine → exile → the eye that fires the Beast → recognises himself in Ravar → a small, non-exculpatory final distinction.
 - **L1 — SUPER-CORE:** **Curiosity · Knowledge** (the will to see the hidden shape — *"what is hidden still has shape, and if it has shape, it may be found"*; *"I have never been able not to count"*).
 - **L2 — CORE:** **Recognition** (to be the brilliant one, approved — his pride) · **Loyalty** (to the Mountain, to Va-Sheva, to Ka-Raedin's regard) · **Discipline / Order** (Light's placement, ceremony).
 - **L3 — SUB-CORE:** Mastery · Accuracy · Devotion · Courage · Dignity.
-- **Defining collision:** Curiosity/Knowledge (L1) **vs** Loyalty (L2). His seeing keeps betraying his belonging — he reads the enemy's name, forces the sealed door, becomes the eye. **L1 wins every time**, and it costs him everything; his one distinction from Zero is that he *saw the whole and did not own it* (a mercy of the Mountain's five-hand law more than of his virtue).
+- **Defining collision:** Curiosity/Knowledge (L1) **vs** Loyalty (L2). His seeing keeps betraying his belonging — he reads the enemy's name, forces the sealed door, becomes the eye. **L1 wins every time**, and it costs him everything; his one distinction from Ravar is that he *saw the whole and did not own it* (a mercy of the Mountain's five-hand law more than of his virtue).
 - **WRITING TEST:** *Between understanding a thing and staying safe/loyal/obedient, Kailan chooses to understand — he cannot leave a designed thing un-read.* His pride wants approval but yields to the truth of what he sees.
 
 ### PAUL MORGAN — Homo Sapiens; British/Oxford; geology, archaeology, anthropology
@@ -40,11 +40,11 @@
 - **WRITING TEST:** *Sarah reaches for her hand on the thing; she receives everything and gives nothing back.* When possession and safety/love collide, she possesses. Only the late recognition that sole possession *is* the crime can move her off L1.
 
 ### VA-SHEVA — Homo Noxius; Mountain; Veil/Keeper of Shield
-*Sociology/env:* Shield office — boundary, custody, threat, "the count of a living man"; "shaped before the rest of us had begun to set." *Education:* the noticing; the sequence of gates; custody and force held in reserve. *Arc:* competent Veil → runs the survival → audits Jean-Charles's betrayal and **chooses the man over the verdict** (keeps him Mountain, never asks the question) → carries the ending → the anti-Zero move: refusal of coercive certainty.
+*Sociology/env:* Shield office — boundary, custody, threat, "the count of a living man"; "shaped before the rest of us had begun to set." *Education:* the noticing; the sequence of gates; custody and force held in reserve. *Arc:* competent Veil → runs the survival → audits Jean-Charles's betrayal and **chooses the man over the verdict** (keeps him Mountain, never asks the question) → carries the ending → the anti-Ravar move: refusal of coercive certainty.
 - **L1 — SUPER-CORE:** **Loyalty · Fidelity** (she keeps faith with what she has named her own — the Mountain, and the person she has bound; she carries the two, unreconciled, to the end of her life).
 - **L2 — CORE:** **Security / Stewardship** (Shield: custody of the people, the threshold) · **Restraint / Respect** (she will **not coerce certainty** — she would sooner carry the not-knowing than manufacture the verdict; the exact refusal the Mountain was built from failing to make) · **Discipline / Control** (economy; no wasted motion).
 - **L3 — SUB-CORE:** Courage / Toughness · Competence / Skillfulness · Alertness / Attentiveness · Dignity · Silence.
-- **Defining collision:** office-Loyalty/Security (which says *destroy the traitor*) **vs** personal Fidelity + Restraint (*keep the man; do not violate him to end my own doubt*). She holds both unreconciled — refusing to let one annihilate the other. This is her heroism, and the mirror-answer to Zero.
+- **Defining collision:** office-Loyalty/Security (which says *destroy the traitor*) **vs** personal Fidelity + Restraint (*keep the man; do not violate him to end my own doubt*). She holds both unreconciled — refusing to let one annihilate the other. This is her heroism, and the mirror-answer to Ravar.
 - **WRITING TEST:** *Va-Sheva acts, never speechifies; feeling shows only through a breach of her control.* She will do her office ruthlessly **and** refuse to violate a person to resolve her own doubt. Between certainty and mercy, she carries the not-knowing.
 
 ### JEAN-CHARLES — Homo Sapiens; French; intelligence operator
@@ -61,10 +61,10 @@
 - **L2 — CORE:** **Power** (the father's empire; the will to build the total thing) · **Vision / Knowledge** (brilliance, the architect) · **Justice** *corrupted into vengeance* (the wrong must be answered forever).
 - **L3 — SUB-CORE:** Determination / Endurance · Leadership · Order / Structure · Loyalty (to the dead father).
 - **Defining collision:** Openness / coexistence (his early belief) **vs** Security/Certainty (after the attack). Security wins totally; he stops carrying the doubt and builds the eternal war. **His flaw is precisely Va-Sheva's virtue inverted:** he coerced certainty from an injury; she refuses to. **His flaw is Kailan's temptation realised:** he *owned* the whole he saw.
-- **WRITING TEST:** *Zero builds to escape doubt.* Monumental, founding, self-justifying; intimate and dangerous in grief. Between doubt and certainty he chooses the architecture that ends doubt forever. He commands systems and remembers persons selectively.
+- **WRITING TEST:** *Ravar builds to escape doubt.* Monumental, founding, self-justifying; intimate and dangerous in grief. Between doubt and certainty he chooses the architecture that ends doubt forever. He commands systems and remembers persons selectively.
 
 ### ITHE — **DELIBERATELY UNKNOWABLE (do not resolve)**
-Canon (Noxis Zero §): *"Ithe stays partly unknowable… seen almost entirely through Zero, and therefore probably wrongly. Do not manufacture a complete Ithe testimony."* Her hierarchy **must remain ambiguous by design** — the unresolved reality of her intent is the point. *If forced to imply values,* leave at least two readings live: (a) L1 **Survival / Family** under a Sapiens polity's coercion (she carried what she did not know would kill); (b) L1 **Love** turned, or never real. **Never lock her hierarchy.** The reader must not be able to decide.
+Canon (Ravar §): *"Ithe stays partly unknowable… seen almost entirely through Ravar, and therefore probably wrongly. Do not manufacture a complete Ithe testimony."* Her hierarchy **must remain ambiguous by design** — the unresolved reality of her intent is the point. *If forced to imply values,* leave at least two readings live: (a) L1 **Survival / Family** under a Sapiens polity's coercion (she carried what she did not know would kill); (b) L1 **Love** turned, or never real. **Never lock her hierarchy.** The reader must not be able to decide.
 
 ---
 
@@ -98,6 +98,6 @@ Canon (Noxis Zero §): *"Ithe stays partly unknowable… seen almost entirely th
 ## USING THIS DOC WHEN WRITING
 1. Find the character. Read L1 first.
 2. Ask the **WRITING TEST**. If the scene forces a value collision, resolve it **up the levels** (higher wins) — never let a character betray their L1 for an L3 convenience.
-3. The strongest scenes push the collision to L1-vs-L1 (Kailan's Knowledge vs Sarah's Control; Va-Sheva's Fidelity/Restraint vs Zero's Security/Control). Write those as the hinges.
+3. The strongest scenes push the collision to L1-vs-L1 (Kailan's Knowledge vs Sarah's Control; Va-Sheva's Fidelity/Restraint vs Ravar's Security/Control). Write those as the hinges.
 4. Do **not** flatten: a character acting on L2/L3 in a low-stakes scene is normal; the L1 only *takes over* when it is genuinely at stake.
-5. Keep **Ithe** unresolved. Keep **Zero = Kailan** felt but unstated until the Archive.
+5. Keep **Ithe** unresolved. Keep **Ravar = Kailan** felt but unstated until the Archive.

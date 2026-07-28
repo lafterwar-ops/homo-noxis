@@ -1,6 +1,6 @@
 # 07 — Physical Description & Bearing — canon
 
-*Purpose (§21, §24.7): a single reference for how each figure looks, ages, and — above all — is **recognised through bearing and repeated gesture**, so the prose pass can reintroduce appearance through changing context instead of generic beauty or repeated eye/hair inventories. Built by auditing the manuscript as it currently stands (chapter evidence cited). Where the page is deliberately silent (Zero, Ithe), that silence is canon and must be preserved.*
+*Purpose (§21, §24.7): a single reference for how each figure looks, ages, and — above all — is **recognised through bearing and repeated gesture**, so the prose pass can reintroduce appearance through changing context instead of generic beauty or repeated eye/hair inventories. Built by auditing the manuscript as it currently stands (chapter evidence cited). Where the page is deliberately silent (Ravar, Ithe), that silence is canon and must be preserved.*
 
 **House rule (from §24.7, and already the book's practice):** describe people by what they *do* with their bodies under office — the closed hand, the flat palm on a chest, the turning machine in a coat — not by cataloguing eyes and hair. The audit below confirms the manuscript already works this way; keep it.
 
@@ -36,9 +36,9 @@
 - **Signature gesture:** the **hand on the shoulder** — first in the desert when K "was a bundle under a cloth," repeated later (Ch16, Ch7) — a gesture that reads as warmth and is, in origin, an operator's management. Its recurrence is the point (§24.7).
 - **Arc cost:** by the aftermath the lightness is spent — the Mountain "turns your lightness into labour" (Ch20 l7).
 
-### Noxius Zero (the founder) & Ithe — **DELIBERATELY WITHHELD**
-- **Zero:** canon fixes him as **"a very bright, very young man, rich and powerful… the same man as Kailan"** (Noxis Zero canon l13) — *and that is all the appearance he is given by design.* The reader must feel Zero and Kailan are one before anyone says so; a distinct physical portrait would break the fractal. **Give him bearing (a young man's certainty, a father's empire behind him) but no distinguishing face.**
-- **Ithe:** "stays partly unknowable… seen almost entirely through Zero, and therefore probably wrongly" (canon l54). **Do not manufacture a full physical portrait.** Withholding is the meaning.
+### Ravar (the founder) & Ithe — **DELIBERATELY WITHHELD**
+- **Ravar:** canon fixes him as **"a very bright, very young man, rich and powerful… the same man as Kailan"** (Ravar canon l13) — *and that is all the appearance he is given by design.* The reader must feel Ravar and Kailan are one before anyone says so; a distinct physical portrait would break the fractal. **Give him bearing (a young man's certainty, a father's empire behind him) but no distinguishing face.**
+- **Ithe:** "stays partly unknowable… seen almost entirely through Ravar, and therefore probably wrongly" (canon l54). **Do not manufacture a full physical portrait.** Withholding is the meaning.
 - **Embargo:** both appear only in the Forbidden Archive (Ch21+). No earlier chapter describes them.
 
 ---
@@ -59,6 +59,6 @@
 ## Audit notes / obligations created
 1. **§24.7 compliance is already high** — the manuscript describes through gesture/office, not eye-hair catalogues. The prose pass should *protect* this, not add inventories.
 2. **Recurring recognisable gestures to keep consistent** (do not let them drift): Va-Sheva's flat-hand-on-chest count; Jean-Charles's hand-on-shoulder; Paul's turning machine; K's wrist knot/cord; Ka-Xhian's blind face turned toward sound; Ka-Leth's green-stained hands.
-3. **Withholding to protect:** Zero = Kailan (no separate face); Ithe unknowable. Flag any future draft that over-describes either.
+3. **Withholding to protect:** Ravar = Kailan (no separate face); Ithe unknowable. Flag any future draft that over-describes either.
 4. **Open continuity flag:** Sarah is 93 in the 2026 frame (author ruling); resolved in 08 — Chronology ledger.
 5. **Thin spots (future work):** ordinary Mountain citizens (the salt-fish woman, water-listeners, vent-keeper Sa-Orin) are described by task, not person — adequate for now; enrich only if a scene needs it (§24.7, §22).
