@@ -68,3 +68,11 @@ The Intimate Loss was specifically the **loss of women** to Sapiens (Species §3
 ## 9. CONSISTENCY CHECK
 - Population 5,000 locked (Mass/Energy) ✅ · founding 10k–50k (Ravar) ✅ · earned Ascension (Ch1) preserved ✅ · "Veils bred to office" (Species §4) = §4 here ✅ · the clamp on reproduction/cohesion (Species §4) = §3/§5 here ✅ · mtDNA/Y mismatch (Species §6) = §6 here ✅ · goatherds/births seed (World-Life) = §3 ✅ · K's DNA placement (Ch5) = §6 (pure remnant) ✅.
 - **Cross-ref:** the reproduction-clamp and the reset are **the same terror** (Species §4: "control cannot out-breed them → knock the board over") — genetics and the Beast share one root.
+
+---
+
+## ⚑ CANON ADD (2026-07-28) — mating is administered, not chosen
+
+Because the Old Kind died when the daughters *chose* the warm kind (the Many), Ravar's Mountain abolishes the choosing itself: **matches and births are made by Faith** (always a woman — see the sex-locked offices in the Kahirs doc), dressed as festival and rite. No one chooses their mate; you are told, in your season, whose you will be, and taught to be glad of it. This is the escalation the whole system exists to perform — the total regulation of desire down to the body (the Assemblywomen ladder: property → preference → choice → body).
+
+Its limit is the book's hope: you cannot legislate desire away. **Va-Sheva** — of Shield, the one un-locked seam, the boundary — chooses the enemy anyway, repeating Ithe; and **Kailan** refuses the doctrine. "The one thing he raised a hundred thousand years of Mountain to prevent, and could not" = a daughter choosing. Planted Ch6; confession quatrain in Ch23.

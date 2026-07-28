@@ -100,3 +100,16 @@ An ancient **platinum-group disc** — of the metals K has no name for:
 - **Ch5 onward should rhyme deliberately:** Light's **spectroscopy** against Balance's **gravimetry** (*"angle means salt"* / weigh the salt); Justice's **Bayes** already sounding under Sa-Tavan.
 - **Faith and Shield are the two disciplines still to pin.** Pin each before building a rhyme on it; the candidate readings (Faith ≡ timekeeping/rhythm/astronomy; Shield ≡ materials/containment/perimeter) are strong but not locked.
 - Consistent with: the midden's **nuclear command-and-control** reading of *let no hand hold the whole*; *The Last Cataclysm & the Gravure* (Richat = Atlantis, due west; the rings); *Geography & Orientation — canon lock*. **Cross-check `Noxius Divided Knowlege.xlsx`** — it may already tabulate which office holds which secret and could overlap this partition; reconcile there rather than here.
+
+---
+
+## ⚑ CANON ADD (2026-07-28) — the two sex-locked offices
+
+By Ravar's design, two of the five offices are permanently **sex-locked**, and they are the two halves of his own crime:
+
+- **Justice is always a man** — the *deed*: the law, the record, the leave-to-fire. The pole of his murdered father and the war he then permitted.
+- **Faith is always a woman** — the *body*: the calendar, the rhythm, the matches, the births, "whose the daughters are." The pole of Ithe and of the daughters who chose the Many.
+
+The other three — **Balance, Light, Shield** — are the crafts of the world (stone, sun, wall) and go to whoever has the gift, man or woman (hence Va-Sheva, a woman, as Shield; a woman Balance in Ka-Leth; men in Light).
+
+Cruelty (the reformer-is-not-the-enforcer point): women are made the permanent keepers of the office whose whole function is that no woman chooses — the cage wears a mother's face and calls itself the old way. On the page: Ravar names it in the confession ("*the deed I gave to men… the body I gave to women… so the hand that took their choosing wore a mother's face*"); planted in Ch6 (K notices Faith is always a woman, Justice always a man, and that no couple on the tiers chose the other). Consistent with all existing characters. See [[Population, Genetics & Reproduction — canon]].
