@@ -14,7 +14,7 @@
 - **Bearing:** ceremonial composure drilled over fear ("washed, robed, composed, no visible dust on my sandals," Ch10); the trained eye that "sees the seam others walk over" (Ch13) — his identity is his *gaze/reading*, not his face.
 - **Do not:** give him a static beauty inventory. He is the narrator; we rarely see his own face — keep it that way (form: he never narrates himself into a mirror).
 
-### Paul Morgan (the fact-checker; "Va-Paul" of his invented order)
+### Paul Morgan (archaeologist/anthropologist hired on a Noxius-studies brief; "Va-Paul" of his invented order)
 - **Age/build:** modern outsider, middle-aged; plain. Northern/British register ("swore in his northern tongue," Ch17).
 - **Signature object/gesture:** the **little turning recording machine, kept in his coat**, forever running (Ch18, Ch19, Ch20, Ch21) — his whole character is condensed into that object and the flat voice he keeps "for true things" (Ch19 l117). He "refuse[s] to reach for grandeur" (Ch18).
 - **Recurring gesture:** looks "down at his own hand as though it had been lent to him for the evening" (Ch16) — dry self-detachment; the palm-prick oath under the tree (Ch16).
