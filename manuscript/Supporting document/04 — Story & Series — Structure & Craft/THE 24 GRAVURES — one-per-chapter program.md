@@ -53,7 +53,7 @@ Read in order, the twenty-four are a gallery of unrelated objects. Read *again*,
 
 **XX · Cataclysm → THE PENDANT DROP.** A single drop of water hanging, about to fall, from the tip of a still finger. *Reveals:* the end of a hemisphere is begun by a thing this small, done on purpose. *Withholds:* the Beast, the arithmetic, the scale. — *water / the smallest gesture.*
 
-**XXI · Quarantine → THE WIZENED SEED.** One seed, shrunken and a little malformed, set alone. *Reveals:* whatever survives will come up *wronger* each time, and someone is counting that. *Withholds:* the ninety days, Ka-Leth's ledger, the door at day sixty, the stair down. — *seed / entropy.*
+**XXI · Quarantine → THE WIZENED SEED.** One seed, shrunken and a little malformed, set alone. *Reveals:* whatever survives will come up *wronger* each time, and someone is counting that. *Withholds:* the ninety days, Ka-Cheryn's ledger, the door at day sixty, the stair down. — *seed / entropy.*
 
 **XXII · Clock → THE WORN TOOTH.** One gear-tooth, alone, its face polished to a nub by uncountable turns. *Reveals:* the god is a machine, and this is the least, most patient part of it. *Withholds:* the odometer, the tally, the reveal, the name. — *gear / the machine's atom.*
 

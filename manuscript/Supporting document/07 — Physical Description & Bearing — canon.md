@@ -47,7 +47,7 @@
 
 - **Ka-Syphiron** (senior Keeper of Light, martyr): **pale eyes** that "look through the excuses a thing prepares" (Ch1); "remote and pale, his face unreadable above folded hands" (Ch6); warmth+appetite+mischief off-office — sleeves "rolled to the wrist," a low stool "with one uneven leg" (Ch7); breaks bread **with both hands**. Dies opening his own robe below the ribs (Ch10) — his hands are the through-line.
 - **Ka-Raedin** (K's Keeper of Light, Syphiron's successor): the **lamp-holding hand** (Ch13, Ch19); "his face was white" at the Ascension (Ch8); disciplined precision; abdicates by degrees to K in the aftermath (Ch20).
-- **Ka-Leth** (Keeper of Balance, female): "**broad and grave, her hands stained faintly green**" (Ch4) — Balance's labour written on the hands; closes valves "the way you put a great animal to sleep" (Ch19).
+- **Ka-Cheryn** (Keeper of Balance, female): "**broad and grave, her hands stained faintly green**" (Ch4) — Balance's labour written on the hands; closes valves "the way you put a great animal to sleep" (Ch19).
 - **Ka-Dhavar** (Keeper of Shield): raises the Seal, gives the closing order; grows "very quiet and very gentle" in the aftermath, paying it down "one comforted person at a time" (Ch20).
 - **Ka-Orun** (Keeper of Justice): hunts his own records "night after night… for the flaw" (Ch20) — bearing = the weighing man.
 - **Ka-Xhian** (blind predecessor Keeper of Shield): **the ruined, sightless face** he "turn[s] toward the sound of a voice as though he could weigh it in his hands" (Ch11) — recruited Sarah; his blindness is the recurring image.
@@ -58,7 +58,7 @@
 
 ## Audit notes / obligations created
 1. **§24.7 compliance is already high** — the manuscript describes through gesture/office, not eye-hair catalogues. The prose pass should *protect* this, not add inventories.
-2. **Recurring recognisable gestures to keep consistent** (do not let them drift): Va-Sheva's flat-hand-on-chest count; Jean-Charles's hand-on-shoulder; Paul's turning machine; K's wrist knot/cord; Ka-Xhian's blind face turned toward sound; Ka-Leth's green-stained hands.
+2. **Recurring recognisable gestures to keep consistent** (do not let them drift): Va-Sheva's flat-hand-on-chest count; Jean-Charles's hand-on-shoulder; Paul's turning machine; K's wrist knot/cord; Ka-Xhian's blind face turned toward sound; Ka-Cheryn's green-stained hands.
 3. **Withholding to protect:** Ravar = Kailan (no separate face); Ithe unknowable. Flag any future draft that over-describes either.
 4. **Open continuity flag:** Sarah is 93 in the 2026 frame (author ruling); resolved in 08 — Chronology ledger.
 5. **Thin spots (future work):** ordinary Mountain citizens (the salt-fish woman, water-listeners, vent-keeper Sa-Orin) are described by task, not person — adequate for now; enrich only if a scene needs it (§24.7, §22).

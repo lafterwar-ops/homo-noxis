@@ -110,6 +110,6 @@ By Ravar's design, two of the five offices are permanently **sex-locked**, and t
 - **Justice is always a man** — the *deed*: the law, the record, the leave-to-fire. The pole of his murdered father and the war he then permitted.
 - **Faith is always a woman** — the *body*: the calendar, the rhythm, the matches, the births, "whose the daughters are." The pole of Ithe and of the daughters who chose the Many.
 
-The other three — **Balance, Light, Shield** — are the crafts of the world (stone, sun, wall) and go to whoever has the gift, man or woman (hence Va-Sheva, a woman, as Shield; a woman Balance in Ka-Leth; men in Light).
+The other three — **Balance, Light, Shield** — are the crafts of the world (stone, sun, wall) and go to whoever has the gift, man or woman (hence Va-Sheva, a woman, as Shield; a woman Balance in Ka-Cheryn; men in Light).
 
 Cruelty (the reformer-is-not-the-enforcer point): women are made the permanent keepers of the office whose whole function is that no woman chooses — the cage wears a mother's face and calls itself the old way. On the page: Ravar names it in the confession ("*the deed I gave to men… the body I gave to women… so the hand that took their choosing wore a mother's face*"); planted in Ch6 (K notices Faith is always a woman, Justice always a man, and that no couple on the tiers chose the other). Consistent with all existing characters. See [[Population, Genetics & Reproduction — canon]].

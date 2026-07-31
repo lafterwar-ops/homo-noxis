@@ -36,17 +36,17 @@
 
 ### Plot & Structure — discarded
 
-**The cold ringed objects / Tomb-seed glimpse behind Ka-Leth's third gate.** Ka-Leth's room once offered a glimpse of cold ringed objects — a seed of the Tomb — behind a third gate. Cut. The Ka-Leth beat was **rebuilt around contraband light** (the stolen-light proof, beam in whole / out halved), and the **Tomb reveal stays Ch10** with no need of a Ch4 foretaste. *Why:* the glimpse spent a Ch10 payoff early and pulled the room off its new subject. **(Watch for resurrection.)** (cf. Stratum I/II/III, the Reggane/Tomb entries — the Tomb keeps hoarding its reveals.)
+**The cold ringed objects / Tomb-seed glimpse behind Ka-Cheryn's third gate.** Ka-Cheryn's room once offered a glimpse of cold ringed objects — a seed of the Tomb — behind a third gate. Cut. The Ka-Cheryn beat was **rebuilt around contraband light** (the stolen-light proof, beam in whole / out halved), and the **Tomb reveal stays Ch10** with no need of a Ch4 foretaste. *Why:* the glimpse spent a Ch10 payoff early and pulled the room off its new subject. **(Watch for resurrection.)** (cf. Stratum I/II/III, the Reggane/Tomb entries — the Tomb keeps hoarding its reveals.)
 
 **The lamp-corridors beat.** Oren teaching a junior servant lamp-care, on the maxim *"we give the order, not the reason."* Relocated/replaced by the **salt-house**, which now carries the chemistry theme, the order-without-reason point, and the **set-up for Ch5** (gravimetry vs spectroscopy). *Why:* one beat now does the work of two, and it does it as science rather than housekeeping.
 
 **The "Sa-Kilian of Horizon / we are colleagues, both owned by Horizon" reveal at Ch4's close.** The intake-designation tell once landed as a *reveal at the very close of Ch4* — the two men named as fellow property of Horizon. Trimmed for the ending (which now closes on *"keep your face"*). **May relocate to a later chapter.** *Why:* the close needed the covenant's blade, not a second reveal crowding it. (The name itself is live — cf. Stratum III, "Kylian / Sa-Kylian," RESURRECTED; this discards only its Ch4-closing *placement*.)
 
-**The source room.** A beat of K explaining the sun and the shafts to Paul — the shafts *"narrow as a needle."* Cut by the author. The shaft physics now live in the account as **wide throats with seasonally re-aimed source-mirrors**, and the creed (*"We divide the sun…"*) and the optics live in the Ka-Leth beat. *Why:* the explainer duplicated material the account and the Ka-Leth proof already carry — and "narrow as a needle" is the wrong optics (the throats are wide). (cf. above, "We multiply the sun.")
+**The source room.** A beat of K explaining the sun and the shafts to Paul — the shafts *"narrow as a needle."* Cut by the author. The shaft physics now live in the account as **wide throats with seasonally re-aimed source-mirrors**, and the creed (*"We divide the sun…"*) and the optics live in the Ka-Cheryn beat. *Why:* the explainer duplicated material the account and the Ka-Cheryn proof already carry — and "narrow as a needle" is the wrong optics (the throats are wide). (cf. above, "We multiply the sun.")
 
 ### Resurrections logged this pass
 
-**"Contraband light" (the phrase).** Earlier flagged for removal; no numbered-strata entry ever held it. **`RESURRECTED → Ch4, 2026-07-13`** — restored as **K's coinage, on the page**, for light kept off the ledger and taxed at no gate (the Ka-Leth proof; the account-mystery into Ch5). Logged here so the flag-for-removal does not resurface and re-cut it.
+**"Contraband light" (the phrase).** Earlier flagged for removal; no numbered-strata entry ever held it. **`RESURRECTED → Ch4, 2026-07-13`** — restored as **K's coinage, on the page**, for light kept off the ledger and taxed at no gate (the Ka-Cheryn proof; the account-mystery into Ch5). Logged here so the flag-for-removal does not resurface and re-cut it.
 
 ---
 
