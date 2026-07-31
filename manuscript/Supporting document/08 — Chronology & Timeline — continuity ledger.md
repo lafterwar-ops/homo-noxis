@@ -52,7 +52,7 @@
 1. **Present = 2026, Sarah = 93** — author-ruled; propagated (§A, §E). Description bible (07) updated.
 2. **Sarah's span "forty years" → "sixty years"** — recalibrated in 12 files (§E); this also fixed a **pre-existing forty/sixty inconsistency** (Ch18 already said "sixty years").
 3. **Reggane 1960** — fixed real event; two on-page hits agree (Ch10 l409, Ch13 l325). ✓
-4. **Kept as "forty years" (correctly NOT Sarah's present-span):** Edward's trading career (Ch9 l85), Ka-Orun's Justice tenure (Ch13 l394), a generic office-tenure line (Ch23 l43), Trial-era prospector encroachment (Ch13 l309). "forty kilometres" (Reggane distance, Ch9/11/23) untouched.
+4. **Kept as "forty years" (correctly NOT Sarah's present-span):** Edward's trading career (Ch9 l85), Ka-Leth's Justice tenure (Ch13 l394), a generic office-tenure line (Ch23 l43), Trial-era prospector encroachment (Ch13 l309). "forty kilometres" (Reggane distance, Ch9/11/23) untouched.
 5. **11k vs 145k** — deliberate two-layer design, not a contradiction. ✓
 6. **OPEN (intentional):** K's birth year / exact age at firing — unpinned by design.
 7. **⚑ NEW FLAG (minor, for a future pass):** with the frame at **2026**, the outside-world texture (radio/civil-frequency broadcasts, "a black instrument for speaking across distance," dish-on-a-mount satellite) reads more late-20th-century than 2026. Not a hard contradiction (mil/sat comms and radio still exist; the outside is glimpsed only briefly through Sarah's old-school seismic lens), but a **modernisation pass on outside tech** may be wanted. Left for author ruling — do not silently modernise.

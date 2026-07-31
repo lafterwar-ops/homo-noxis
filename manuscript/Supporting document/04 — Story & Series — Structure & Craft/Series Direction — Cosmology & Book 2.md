@@ -17,9 +17,9 @@ The mechanism:
 
 **Why it is airtight:** the prison is built out of *correct inferences.* This is not a people fooled by a lie; it is a people trapped by a truth. The Outsiders really come; the Beast really saves them; the faith is rational every single cycle. The only thing that could ever free them is the memory that it has all happened before — and that memory is precisely what is destroyed. They cannot escape the prison because they are never permitted to see that it *is* a prison.
 
-**The fractal.** Chapter 12 — Ka-Orun sealing the trial to his tomb, "the office of the record choosing not to record" — is the entire cosmology rendered at hand-scale. Kailan did not stumble onto a scandal; he stumbled onto the sixth iteration of the only thing that ever happens. The manuscript itself (Paul Morgan's testimony) is the **anti-erasure**: the one record carried *out*, past Justice, past the seal — the first time in six cycles the memory might reach the seventh.
+**The fractal.** Chapter 12 — Ka-Leth sealing the trial to his tomb, "the office of the record choosing not to record" — is the entire cosmology rendered at hand-scale. Kailan did not stumble onto a scandal; he stumbled onto the sixth iteration of the only thing that ever happens. The manuscript itself (Paul Morgan's testimony) is the **anti-erasure**: the one record carried *out*, past Justice, past the seal — the first time in six cycles the memory might reach the seventh.
 
-**Foreshadow horizon:** Ka-Orun's reaction to the round Earth in Book 1 is a plant that pays off ~four books ahead (assuming a five-book series). Book 1 is Genesis — the origin of the story.
+**Foreshadow horizon:** Ka-Leth's reaction to the round Earth in Book 1 is a plant that pays off ~four books ahead (assuming a five-book series). Book 1 is Genesis — the origin of the story.
 
 ---
 

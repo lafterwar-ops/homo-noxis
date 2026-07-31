@@ -49,7 +49,7 @@
 - **Ka-Raedin** (K's Keeper of Light, Syphiron's successor): the **lamp-holding hand** (Ch13, Ch19); "his face was white" at the Ascension (Ch8); disciplined precision; abdicates by degrees to K in the aftermath (Ch20).
 - **Ka-Cheryn** (Keeper of Balance, female): "**broad and grave, her hands stained faintly green**" (Ch4) — Balance's labour written on the hands; closes valves "the way you put a great animal to sleep" (Ch19).
 - **Ka-Dhavar** (Keeper of Shield): raises the Seal, gives the closing order; grows "very quiet and very gentle" in the aftermath, paying it down "one comforted person at a time" (Ch20).
-- **Ka-Orun** (Keeper of Justice): hunts his own records "night after night… for the flaw" (Ch20) — bearing = the weighing man.
+- **Ka-Leth** (Keeper of Justice): hunts his own records "night after night… for the flaw" (Ch20) — bearing = the weighing man.
 - **Ka-Xhian** (blind predecessor Keeper of Shield): **the ruined, sightless face** he "turn[s] toward the sound of a voice as though he could weigh it in his hands" (Ch11) — recruited Sarah; his blindness is the recurring image.
 - **Sa-Tavan** (Justice recorder at the firing): the stylus set down "square, the way you set down a tool you know you will not need again" (Ch19).
 - **Urs** (Paul's Swiss associate): comic register (whisky/package interruption, Ch5 line of business) — trading-floor sensibility; keep light.
