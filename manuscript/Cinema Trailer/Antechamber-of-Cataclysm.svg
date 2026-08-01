@@ -1,0 +1,139 @@
+<svg viewBox="0 0 1200 780" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New',monospace">
+  <defs>
+    <linearGradient id="void" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050608"/><stop offset="55%" stop-color="#0b0e13"/><stop offset="100%" stop-color="#14171d"/>
+    </linearGradient>
+    <radialGradient id="gateGlow" cx="50%" cy="52%" r="42%">
+      <stop offset="0%" stop-color="#3a2f20"/><stop offset="55%" stop-color="#191712"/><stop offset="100%" stop-color="#0b0e13" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="floorLight" cx="50%" cy="86%" r="60%">
+      <stop offset="0%" stop-color="#9c7748"/><stop offset="45%" stop-color="#5a4529"/><stop offset="100%" stop-color="#1a140c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pillarL" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse" x1b="0" y1b="120" x2b="0" y2b="720">
+      <stop offset="0%" stop-color="#0c0e12"/><stop offset="60%" stop-color="#2b2f36"/><stop offset="100%" stop-color="#3c414a"/>
+    </linearGradient>
+    <linearGradient id="pillarV" x1="0" y1="120" x2="0" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0c0e12"/><stop offset="58%" stop-color="#292d34"/><stop offset="100%" stop-color="#3d424b"/>
+    </linearGradient>
+    <linearGradient id="gateFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#33363c"/><stop offset="100%" stop-color="#1c1f24"/>
+    </linearGradient>
+  </defs>
+
+  <!-- void -->
+  <rect x="0" y="0" width="1200" height="780" fill="url(#void)"/>
+  <rect x="0" y="0" width="1200" height="640" fill="url(#gateGlow)"/>
+
+  <!-- "buried sky": pale mineral veins in the upper dark -->
+  <g stroke="#6a7c8a" stroke-width="1" opacity="0.28" fill="none">
+    <path d="M120,60 L260,150 L300,120"/><path d="M980,40 L900,150 L960,190"/>
+    <path d="M500,30 L560,120"/><path d="M700,50 L640,140"/><path d="M200,200 L120,240"/>
+    <path d="M1040,210 L1120,180"/><path d="M420,90 L360,40"/><path d="M760,110 L820,60"/>
+  </g>
+  <g fill="#8fa6b2" opacity="0.22">
+    <circle cx="260" cy="150" r="1.4"/><circle cx="900" cy="150" r="1.4"/><circle cx="560" cy="120" r="1.2"/><circle cx="640" cy="140" r="1.2"/>
+  </g>
+
+  <!-- pits (dark voids either side of the bridge) -->
+  <path d="M0,780 L0,470 L500,472 L300,780 Z" fill="#070809"/>
+  <path d="M1200,780 L1200,470 L700,472 L900,780 Z" fill="#070809"/>
+  <!-- faint gold city glimmer in the right pit -->
+  <g fill="#b8922e" opacity="0.5"><rect x="1010" y="700" width="6" height="14"/><rect x="1030" y="710" width="5" height="10"/><rect x="1052" y="695" width="7" height="20"/><rect x="1072" y="712" width="5" height="9"/></g>
+  <text x="1060" y="742" fill="#7a5f28" font-size="9" text-anchor="middle" opacity="0.7">the gold city</text>
+
+  <!-- ===== the far Gate (vanishing point) ===== -->
+  <g>
+    <rect x="503" y="298" width="194" height="176" fill="url(#gateFace)" stroke="#0c0e12" stroke-width="2"/>
+    <!-- tree-trunk chains from the rock into slots above -->
+    <g stroke="#4a4038" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.95">
+      <path d="M470,238 L520,300"/><path d="M730,238 L680,300"/>
+    </g>
+    <g stroke="#2a241e" stroke-width="10" stroke-dasharray="2 9" fill="none">
+      <path d="M470,238 L520,300"/><path d="M730,238 L680,300"/>
+    </g>
+    <rect x="512" y="292" width="24" height="12" fill="#0c0e12"/><rect x="664" y="292" width="24" height="12" fill="#0c0e12"/>
+    <!-- five rows of five signs -->
+    <g fill="#14161a" stroke="#454a52" stroke-width="1">
+      <rect x="516" y="312" width="17" height="15"/><rect x="547" y="312" width="17" height="15"/><rect x="578" y="312" width="17" height="15"/><rect x="609" y="312" width="17" height="15"/><rect x="640" y="312" width="17" height="15"/>
+      <rect x="516" y="334" width="17" height="15"/><rect x="547" y="334" width="17" height="15"/><rect x="578" y="334" width="17" height="15"/><rect x="609" y="334" width="17" height="15"/><rect x="640" y="334" width="17" height="15"/>
+      <rect x="668" y="312" width="17" height="15"/><rect x="668" y="334" width="17" height="15"/>
+    </g>
+    <!-- the central gravure -->
+    <rect x="536" y="360" width="128" height="96" fill="#22252b" stroke="#454a52" stroke-width="1.5"/>
+    <circle cx="600" cy="378" r="7" fill="none" stroke="#6a6256" stroke-width="1.4"/>
+    <g stroke="#4a463d" stroke-width="1"><path d="M556,398 L644,398"/><path d="M560,414 L640,414"/><path d="M572,432 L628,432"/></g>
+    <path d="M600,436 L610,452 L590,452 Z" fill="#15181c"/>
+    <!-- empty slot, low to one side -->
+    <rect x="512" y="440" width="16" height="22" fill="#050608" stroke="#3a3f46"/>
+    <text x="470" y="470" fill="#5a6570" font-size="8" text-anchor="end" opacity="0.8">empty slot →</text>
+  </g>
+  <text x="600" y="286" fill="#7a8794" font-size="11" letter-spacing="2" text-anchor="middle" opacity="0.8">GATE OF THE HALL OF CATACLYSM</text>
+
+  <!-- ===== pillars rising from the pits (far → near) ===== -->
+  <!-- far pair -->
+  <g stroke="#0a0c10" stroke-width="1.5">
+    <path d="M441,520 L437,150 L463,150 L459,520 Z" fill="url(#pillarV)"/>
+    <path d="M759,520 L737,150 L763,150 L741,520 Z" fill="url(#pillarV)"/>
+  </g>
+  <!-- mid pair -->
+  <g stroke="#0a0c10" stroke-width="1.5">
+    <path d="M330,610 L316,130 L360,130 L346,610 Z" fill="url(#pillarV)"/>
+    <path d="M870,610 L854,130 L898,130 L884,610 Z" fill="url(#pillarV)"/>
+  </g>
+  <!-- near pair (largest, overlap) -->
+  <g stroke="#080a0d" stroke-width="2">
+    <path d="M150,720 L120,110 L196,110 L176,720 Z" fill="url(#pillarV)"/>
+    <path d="M1050,720 L1004,110 L1080,110 L1050,720 Z" fill="url(#pillarV)"/>
+  </g>
+  <!-- pillar scarring + veins -->
+  <g stroke="#4c525b" stroke-width="1" opacity="0.5" fill="none">
+    <path d="M132,360 L188,352"/><path d="M128,500 L184,510"/><path d="M136,240 L182,232"/>
+    <path d="M1014,360 L1070,352"/><path d="M1012,500 L1068,510"/><path d="M1018,240 L1066,232"/>
+    <path d="M322,340 L354,336"/><path d="M862,340 L892,336"/>
+  </g>
+
+  <!-- ===== the bridge (a tongue of stone, ~30 men wide) ===== -->
+  <path d="M300,780 L500,472 L700,472 L900,780 Z" fill="#22201b"/>
+  <path d="M300,780 L500,472 L700,472 L900,780 Z" fill="url(#floorLight)" opacity="0.9"/>
+  <!-- bridge edge lines + a few plank/joint lines toward VP -->
+  <g stroke="#0a0906" stroke-width="2" fill="none"><path d="M300,780 L500,472"/><path d="M900,780 L700,472"/></g>
+  <g stroke="#3a2f1f" stroke-width="1" opacity="0.5" fill="none">
+    <path d="M360,780 L520,472"/><path d="M600,780 L600,472"/><path d="M840,780 L680,472"/>
+    <path d="M330,700 L870,700"/><path d="M380,620 L820,620"/><path d="M430,545 L770,545"/>
+  </g>
+
+  <!-- scale figure at the accused mark (a single person before the Gate) -->
+  <g fill="#050608">
+    <path d="M592,532 L588,506 Q600,498 612,506 L608,532 Z"/><circle cx="600" cy="498" r="6"/>
+  </g>
+  <text x="600" y="548" fill="#6a5a44" font-size="8" text-anchor="middle" opacity="0.8">the accused mark (one person; the chamber dwarfs all)</text>
+
+  <!-- ===== the five stone seats + the round stone (foreground tribunal) ===== -->
+  <!-- round stone in the middle -->
+  <ellipse cx="600" cy="648" rx="66" ry="22" fill="#2f2b25" stroke="#0a0906" stroke-width="2"/>
+  <ellipse cx="600" cy="644" rx="66" ry="20" fill="#494339"/>
+  <ellipse cx="600" cy="644" rx="46" ry="13" fill="none" stroke="#6a6256" stroke-width="1" opacity="0.6"/>
+  <text x="600" y="648" fill="#201d18" font-size="9" text-anchor="middle">the round stone</text>
+
+  <!-- five seats in a shallow arc, facing the Gate (we see their backs) -->
+  <g stroke="#0a0906" stroke-width="2">
+    <!-- far-left -->
+    <g fill="#33302a"><rect x="392" y="600" width="46" height="26" rx="2"/><rect x="396" y="560" width="38" height="46" rx="2"/></g>
+    <!-- left -->
+    <g fill="#3a362f"><rect x="470" y="606" width="52" height="30" rx="2"/><rect x="475" y="560" width="42" height="50" rx="2"/></g>
+    <!-- centre-ish left / centre kept open toward stone; place two centre seats flanking -->
+    <g fill="#403b33"><rect x="678" y="606" width="52" height="30" rx="2"/><rect x="683" y="560" width="42" height="50" rx="2"/></g>
+    <!-- far-right -->
+    <g fill="#33302a"><rect x="762" y="600" width="46" height="26" rx="2"/><rect x="766" y="560" width="38" height="46" rx="2"/></g>
+    <!-- fifth seat, centre-back (Justice stands beside the stone; the fifth seat set back) -->
+    <g fill="#37332c"><rect x="576" y="566" width="48" height="26" rx="2"/><rect x="580" y="528" width="40" height="42" rx="2"/></g>
+  </g>
+  <text x="600" y="712" fill="#7a6a52" font-size="10" text-anchor="middle" letter-spacing="1">FIVE STONE SEATS — equal, spaced so no Keeper may whisper to another</text>
+
+  <!-- vignette -->
+  <rect x="0" y="0" width="1200" height="780" fill="none" stroke="#000000" stroke-width="60" opacity="0.5"/>
+
+  <!-- caption -->
+  <rect x="0" y="744" width="1200" height="36" fill="#000000" opacity="0.55"/>
+  <text x="600" y="767" fill="#c9b48f" font-size="11.5" text-anchor="middle" letter-spacing="1">ANTECHAMBER OF THE HALL OF CATACLYSM — the bridge · pillars rising from the two pits · the chained Gate (5×5 signs, gravure, empty slot) · five seats &amp; the round stone (Ch14)</text>
+</svg>

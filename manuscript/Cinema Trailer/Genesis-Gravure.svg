@@ -1,0 +1,175 @@
+<svg viewBox="0 0 1000 1160" xmlns="http://www.w3.org/2000/svg" font-family="'Trajan Pro','Times New Roman',serif">
+  <defs>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d8c49a"/>
+      <stop offset="55%" stop-color="#c0a877"/>
+      <stop offset="100%" stop-color="#a48a5f"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f0d98a"/>
+      <stop offset="60%" stop-color="#d9b64e"/>
+      <stop offset="100%" stop-color="#b98f38"/>
+    </radialGradient>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(15)">
+      <circle cx="1.5" cy="1.5" r="0.6" fill="#6e5a3a" opacity="0.18"/>
+      <circle cx="4.5" cy="5" r="0.5" fill="#efe0be" opacity="0.15"/>
+    </pattern>
+    <clipPath id="panelClip">
+      <path d="M40,1020 L40,300 C40,120 300,60 500,60 C700,60 960,120 960,300 L960,1020 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- backing -->
+  <rect x="0" y="0" width="1000" height="1160" fill="#2a2016"/>
+  <!-- outer stone frame -->
+  <path d="M18,1044 L18,300 C18,96 296,34 500,34 C704,34 982,96 982,300 L982,1044 Z" fill="#8a7550"/>
+  <path d="M26,1032 L26,300 C26,108 300,44 500,44 C700,44 974,108 974,300 L974,1032 Z" fill="#6e5a3a"/>
+
+  <!-- ===================== the carved field ===================== -->
+  <g clip-path="url(#panelClip)">
+    <path d="M40,1020 L40,300 C40,120 300,60 500,60 C700,60 960,120 960,300 L960,1020 Z" fill="url(#stone)"/>
+    <rect x="40" y="40" width="920" height="990" fill="url(#grain)"/>
+
+    <!-- ===== THE MOUNTAIN (dark massif behind, embracing) ===== -->
+    <path d="M78,700 C150,410 330,230 500,222 C670,230 850,410 922,700
+             C770,610 630,582 500,582 C370,582 230,610 78,700 Z"
+          fill="#7d6644" stroke="#5a482c" stroke-width="3"/>
+    <!-- faint terrace contours on the shaded flank -->
+    <path d="M250,612 Q500,556 750,612" fill="none" stroke="#5a482c" stroke-width="1.4" opacity="0.55"/>
+    <path d="M300,636 Q500,590 700,636" fill="none" stroke="#5a482c" stroke-width="1.4" opacity="0.45"/>
+    <text x="500" y="300" fill="#efe0be" font-size="15" letter-spacing="6" text-anchor="middle" opacity="0.65">THE MOUNTAIN</text>
+
+    <!-- ===== THE EYE OF HEAVEN (apex) ===== -->
+    <g>
+      <!-- rays -->
+      <g stroke="#c9962f" stroke-width="2" opacity="0.75">
+        <line x1="500" y1="60" x2="500" y2="88"/><line x1="500" y1="212" x2="500" y2="240"/>
+        <line x1="420" y1="150" x2="392" y2="150"/><line x1="580" y1="150" x2="608" y2="150"/>
+        <line x1="443" y1="93" x2="423" y2="73"/><line x1="557" y1="93" x2="577" y2="73"/>
+        <line x1="443" y1="207" x2="423" y2="227"/><line x1="557" y1="207" x2="577" y2="227"/>
+        <line x1="465" y1="78" x2="452" y2="52"/><line x1="535" y1="78" x2="548" y2="52"/>
+        <line x1="408" y1="120" x2="380" y2="108"/><line x1="592" y1="120" x2="620" y2="108"/>
+        <line x1="408" y1="180" x2="380" y2="192"/><line x1="592" y1="180" x2="620" y2="192"/>
+      </g>
+      <circle cx="500" cy="150" r="44" fill="url(#halo)" stroke="#8a6a24" stroke-width="2"/>
+      <ellipse cx="500" cy="150" rx="30" ry="16" fill="#f4ead0" stroke="#6e5a3a" stroke-width="2"/>
+      <circle cx="500" cy="150" r="10" fill="#4a3c24"/>
+      <circle cx="504" cy="146" r="3" fill="#efe0be"/>
+      <text x="500" y="112" fill="#6e5a3a" font-size="12" letter-spacing="3" text-anchor="middle" opacity="0.7">THE EYE OF HEAVEN</text>
+    </g>
+
+    <!-- ===== THE OASIS: ring of trees + spring ===== -->
+    <!-- palms ringing the spring -->
+    <g stroke="#5c6a3a" stroke-width="3" fill="none" opacity="0.9">
+      <g transform="translate(360,650)"><line x1="0" y1="0" x2="0" y2="-46"/><path d="M0,-46 q-22,-6 -30,6 M0,-46 q22,-6 30,6 M0,-46 q-14,-16 -4,-24 M0,-46 q14,-16 4,-24"/></g>
+      <g transform="translate(640,650)"><line x1="0" y1="0" x2="0" y2="-46"/><path d="M0,-46 q-22,-6 -30,6 M0,-46 q22,-6 30,6 M0,-46 q-14,-16 -4,-24 M0,-46 q14,-16 4,-24"/></g>
+      <g transform="translate(315,700)"><line x1="0" y1="0" x2="0" y2="-40"/><path d="M0,-40 q-20,-6 -28,4 M0,-40 q20,-6 28,4 M0,-40 q-12,-14 -3,-22 M0,-40 q12,-14 3,-22"/></g>
+      <g transform="translate(685,700)"><line x1="0" y1="0" x2="0" y2="-40"/><path d="M0,-40 q-20,-6 -28,4 M0,-40 q20,-6 28,4 M0,-40 q-12,-14 -3,-22 M0,-40 q12,-14 3,-22"/></g>
+    </g>
+    <!-- oasis ground (faded green pigment) -->
+    <path d="M120,712 Q500,668 880,712 L880,742 Q500,700 120,742 Z" fill="#8a9a63" opacity="0.5"/>
+    <!-- the spring: basin + water + ripple rings -->
+    <ellipse cx="500" cy="700" rx="54" ry="16" fill="#9db9c8" stroke="#5a6b76" stroke-width="2"/>
+    <ellipse cx="500" cy="700" rx="34" ry="9" fill="none" stroke="#cfe0e8" stroke-width="1.5"/>
+    <ellipse cx="500" cy="700" rx="16" ry="4" fill="none" stroke="#cfe0e8" stroke-width="1.2"/>
+    <path d="M500,700 C494,660 506,626 500,596" fill="none" stroke="#cfe0e8" stroke-width="3"/>
+    <path d="M500,600 q-9,-8 -3,-18 M500,600 q9,-8 3,-18" fill="none" stroke="#cfe0e8" stroke-width="2"/>
+
+    <!-- ===== ADAM & EVE, flanking the spring ===== -->
+    <!-- shadows -->
+    <g fill="#6e5a3a" opacity="0.45">
+      <path d="M401,703 L413,607 Q433,595 453,607 L465,703 Z"/><circle cx="433" cy="587" r="16"/>
+      <path d="M541,703 L553,607 Q573,595 593,607 L605,703 Z"/><circle cx="573" cy="587" r="16"/>
+    </g>
+    <!-- Adam -->
+    <path d="M398,700 L410,604 Q430,592 450,604 L462,700 Z" fill="#b39a6e" stroke="#5c4a2e" stroke-width="2.5"/>
+    <circle cx="430" cy="584" r="16" fill="#b39a6e" stroke="#5c4a2e" stroke-width="2.5"/>
+    <path d="M412,616 Q470,636 492,672" fill="none" stroke="#5c4a2e" stroke-width="2.5"/>
+    <text x="430" y="726" fill="#6e5a3a" font-size="13" letter-spacing="2" text-anchor="middle">ADAM</text>
+    <!-- Eve -->
+    <path d="M538,700 L550,604 Q570,592 590,604 L602,700 Z" fill="#b39a6e" stroke="#5c4a2e" stroke-width="2.5"/>
+    <circle cx="570" cy="584" r="16" fill="#b39a6e" stroke="#5c4a2e" stroke-width="2.5"/>
+    <path d="M588,616 Q530,636 508,672" fill="none" stroke="#5c4a2e" stroke-width="2.5"/>
+    <text x="570" y="726" fill="#6e5a3a" font-size="13" letter-spacing="2" text-anchor="middle">EVE</text>
+
+    <!-- ===== register molding line ===== -->
+    <line x1="70" y1="756" x2="930" y2="756" stroke="#5a482c" stroke-width="3"/>
+    <line x1="70" y1="762" x2="930" y2="762" stroke="#8a7550" stroke-width="2"/>
+    <text x="500" y="784" fill="#6e5a3a" font-size="13" letter-spacing="4" text-anchor="middle" opacity="0.8">— AND GOD SET AMONG THEM FIVE CHILDREN —</text>
+
+    <!-- ===== THE FIVE CHILDREN (frieze) ===== -->
+    <!-- child bodies (shadow + fill) at x=180,340,500,660,820 base y=946 -->
+    <g>
+      <!-- shadows -->
+      <g fill="#6e5a3a" opacity="0.4">
+        <path d="M161,949 L170,885 Q183,876 196,885 L205,949 Z"/><circle cx="183" cy="867" r="11"/>
+        <path d="M321,949 L330,885 Q343,876 356,885 L365,949 Z"/><circle cx="343" cy="867" r="11"/>
+        <path d="M481,949 L490,885 Q503,876 516,885 L525,949 Z"/><circle cx="503" cy="867" r="11"/>
+        <path d="M641,949 L650,885 Q663,876 676,885 L685,949 Z"/><circle cx="663" cy="867" r="11"/>
+        <path d="M801,949 L810,885 Q823,876 836,885 L845,949 Z"/><circle cx="823" cy="867" r="11"/>
+      </g>
+      <!-- fills -->
+      <g fill="#c0a877" stroke="#5c4a2e" stroke-width="2">
+        <path d="M158,946 L167,882 Q180,872 193,882 L202,946 Z"/><circle cx="180" cy="864" r="11"/>
+        <path d="M318,946 L327,882 Q340,872 353,882 L362,946 Z"/><circle cx="340" cy="864" r="11"/>
+        <path d="M478,944 L487,876 Q500,865 513,876 L522,944 Z"/><circle cx="500" cy="858" r="12"/>
+        <path d="M638,946 L647,882 Q660,872 673,882 L682,946 Z"/><circle cx="660" cy="864" r="11"/>
+        <path d="M798,946 L807,882 Q820,872 833,882 L842,946 Z"/><circle cx="820" cy="864" r="11"/>
+      </g>
+    </g>
+
+    <!-- ===== emblem inserts above each child (faded pigment) ===== -->
+    <!-- SHIELD (180) -->
+    <g transform="translate(180,826)">
+      <circle r="18" fill="#8a7f6e" stroke="#4a3c24" stroke-width="2"/>
+      <path d="M-7,-8 L7,-8 L7,2 Q0,10 -7,2 Z" fill="#5c4a2e"/>
+      <line x1="9" y1="-9" x2="14" y2="-3" stroke="#3b3730" stroke-width="2"/>
+    </g>
+    <!-- BALANCE (340): scale -->
+    <g transform="translate(340,826)" stroke="#3f4a2a" stroke-width="2" fill="none">
+      <circle r="18" fill="#7a8a5a" stroke="#4a3c24"/>
+      <line x1="-11" y1="-6" x2="11" y2="-6"/><line x1="0" y1="-6" x2="0" y2="6"/>
+      <path d="M-11,-6 l-3,7 h6 z" fill="#3f4a2a"/><path d="M11,-6 l-3,7 h6 z" fill="#3f4a2a"/>
+    </g>
+    <!-- FAITH (500): cord of five knots -->
+    <g transform="translate(500,822)">
+      <circle r="19" fill="#e6e0cf" stroke="#4a3c24" stroke-width="2"/>
+      <line x1="0" y1="-13" x2="0" y2="13" stroke="#6e5a3a" stroke-width="1.5"/>
+      <g fill="#6e5a3a"><circle cx="0" cy="-11" r="2.4"/><circle cx="0" cy="-5.5" r="2.4"/><circle cx="0" cy="0" r="2.4"/><circle cx="0" cy="5.5" r="2.4"/><circle cx="0" cy="11" r="2.4"/></g>
+    </g>
+    <!-- LIGHT (660): mirror-sun -->
+    <g transform="translate(660,826)">
+      <circle r="18" fill="#b9c0c6" stroke="#4a3c24" stroke-width="2"/>
+      <circle r="6" fill="#efe0be" stroke="#5c4a2e" stroke-width="1.5"/>
+      <g stroke="#5c4a2e" stroke-width="1.6"><line x1="0" y1="-13" x2="0" y2="-9"/><line x1="0" y1="13" x2="0" y2="9"/><line x1="-13" y1="0" x2="-9" y2="0"/><line x1="13" y1="0" x2="9" y2="0"/><line x1="-9" y1="-9" x2="-6" y2="-6"/><line x1="9" y1="9" x2="6" y2="6"/><line x1="9" y1="-9" x2="6" y2="-6"/><line x1="-9" y1="9" x2="-6" y2="6"/></g>
+    </g>
+    <!-- JUSTICE (820): the sigil -->
+    <g transform="translate(820,826)">
+      <circle r="18" fill="#4a463d" stroke="#2b2822" stroke-width="2"/>
+      <rect x="-12" y="-8" width="24" height="16" fill="none" stroke="#d8d2c4" stroke-width="1.6"/>
+      <path d="M0,-8 L12,4 L0,8 L-12,4 Z" fill="none" stroke="#d8d2c4" stroke-width="1.4"/>
+      <circle cx="0" cy="3.5" r="3" fill="none" stroke="#efe0be" stroke-width="1.4"/>
+    </g>
+
+    <!-- office names under each child -->
+    <g fill="#5c4a2e" font-size="13" letter-spacing="2" text-anchor="middle">
+      <text x="180" y="972">SHIELD</text><text x="340" y="972">BALANCE</text><text x="500" y="972">FAITH</text><text x="660" y="972">LIGHT</text><text x="820" y="972">JUSTICE</text>
+    </g>
+    <g fill="#6e5a3a" font-size="10.5" text-anchor="middle" font-family="'Courier New',monospace">
+      <text x="180" y="988">strength · the Threshold</text>
+      <text x="340" y="988">water · the count</text>
+      <text x="500" y="988">the Gospel · rhythm</text>
+      <text x="660" y="988">brightness · the eye</text>
+      <text x="820" y="988">peace · the record</text>
+    </g>
+
+    <!-- edge vignette for carved depth -->
+    <path d="M40,1020 L40,300 C40,120 300,60 500,60 C700,60 960,120 960,300 L960,1020 Z" fill="none" stroke="#4a3c24" stroke-width="10" opacity="0.35"/>
+  </g>
+
+  <!-- ===================== caption plaque ===================== -->
+  <rect x="26" y="1052" width="948" height="88" fill="#0f0c08" stroke="#8a7550" stroke-width="1.5"/>
+  <text x="500" y="1080" fill="#e6d3a6" font-size="18" letter-spacing="4" text-anchor="middle">THE GENESIS GRAVURE</text>
+  <text x="500" y="1102" fill="#b6a274" font-size="12" text-anchor="middle" font-family="'Courier New',monospace">the south door-face of the Hall · lit head-on by the equinox noon sun (Ch3 · Ch6 · Geography lock)</text>
+  <text x="500" y="1122" fill="#9c895f" font-size="11.5" text-anchor="middle" font-family="'Courier New',monospace">Under the eye of Heaven, inside the Oasis, beneath the shadow of the Mountain: God sets among Adam &amp; Eve five children — the five Keepers.</text>
+</svg>

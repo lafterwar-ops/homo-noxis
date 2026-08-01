@@ -1,0 +1,164 @@
+<svg viewBox="0 0 1200 1120" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#12385c" stroke-width="1"/>
+    </pattern>
+    <pattern id="sand" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(20)">
+      <circle cx="3" cy="3" r="1" fill="#1c4a72"/>
+    </pattern>
+    <radialGradient id="oasisG" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#1e7256"/>
+      <stop offset="100%" stop-color="#0f4634"/>
+    </radialGradient>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#cfe8ff"/>
+    </marker>
+    <marker id="arrA" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#ffce6b"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="1120" fill="#0a2540"/>
+  <rect x="0" y="0" width="1200" height="1120" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="1120" fill="url(#sand)" opacity="0.5"/>
+  <rect x="14" y="14" width="1172" height="1092" fill="none" stroke="#7fb0d8" stroke-width="2"/>
+
+  <text x="30" y="46" fill="#cfe8ff" font-size="24" letter-spacing="2">HOMO NOXIUS — THE OASIS BASIN</text>
+  <text x="30" y="68" fill="#8fb8dc" font-size="13" letter-spacing="1">Plan view · north up · polar · Oasis at origin (0,0) — canon: Ch3 + Geography lock + Hall-compass lock</text>
+
+  <!-- ===================== TRIG CALLOUT ===================== -->
+  <rect x="30" y="86" width="360" height="120" fill="#0d2b52" stroke="#7fb0d8" stroke-width="1.2"/>
+  <text x="44" y="108" fill="#cfe8ff" font-size="13">THE WRAP (θ from +E, CCW):</text>
+  <text x="44" y="128" fill="#9fc4e6" font-size="12">Mountain massif spans  θ ∈ [ −π/4 , 5π/4 ]</text>
+  <text x="44" y="146" fill="#9fc4e6" font-size="12">= a 270° embrace, SE → over the top → SW.</text>
+  <text x="44" y="166" fill="#ffce6b" font-size="12">Opening = the southern 90°, centred on due S</text>
+  <text x="44" y="182" fill="#ffce6b" font-size="12">(θ = −π/2): the Exit, between Shield &amp; Balance.</text>
+  <text x="44" y="200" fill="#7fa6c8" font-size="11">Horns: Shield SE (−π/4) · Balance SW (5π/4).</text>
+
+  <!-- ===================== SCALE BAR (core basin only) ===================== -->
+  <g transform="translate(40,250)">
+    <line x1="0" y1="0" x2="374" y2="0" stroke="#cfe8ff" stroke-width="2"/>
+    <line x1="0" y1="-6" x2="0" y2="6" stroke="#cfe8ff" stroke-width="2"/>
+    <line x1="187" y1="-6" x2="187" y2="6" stroke="#cfe8ff" stroke-width="2"/>
+    <line x1="374" y1="-6" x2="374" y2="6" stroke="#cfe8ff" stroke-width="2"/>
+    <text x="0" y="22" fill="#9fc4e6" font-size="11" text-anchor="middle">0</text>
+    <text x="187" y="22" fill="#9fc4e6" font-size="11" text-anchor="middle">500 m</text>
+    <text x="374" y="22" fill="#9fc4e6" font-size="11" text-anchor="middle">1 km</text>
+    <text x="0" y="40" fill="#5f8fb8" font-size="10">SCALE — basin core only; off-map anchors NOT to scale</text>
+  </g>
+
+  <!-- compass -->
+  <g transform="translate(1092,150)">
+    <circle r="46" fill="#0d2b52" stroke="#7fb0d8" stroke-width="1.5"/>
+    <path d="M0,-40 L8,0 L0,40 L-8,0 Z" fill="#cfe8ff" opacity="0.25"/>
+    <path d="M0,-40 L8,0 L0,0 Z" fill="#cfe8ff"/>
+    <text x="0" y="-50" fill="#cfe8ff" font-size="15" text-anchor="middle">N</text>
+    <text x="0" y="62" fill="#8fb8dc" font-size="13" text-anchor="middle">S</text>
+    <text x="56" y="5" fill="#8fb8dc" font-size="13" text-anchor="middle">E</text>
+    <text x="-56" y="5" fill="#8fb8dc" font-size="13" text-anchor="middle">W</text>
+  </g>
+
+  <!-- ===================== off-map anchors (not to scale) ===================== -->
+  <line x1="600" y1="150" x2="600" y2="100" stroke="#cfe8ff" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="612" y="118" fill="#cfe8ff" font-size="13">REGGANE — due N · ~560 km (~4–5 weeks' walk) · 1960 test</text>
+  <line x1="150" y1="560" x2="100" y2="560" stroke="#cfe8ff" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="40" y="600" fill="#cfe8ff" font-size="12">← THE RICHAT (Eye of the Sahara)</text>
+  <text x="40" y="616" fill="#8fb8dc" font-size="11">due W · same parallel · ~1,200 km</text>
+
+  <!-- ===================== polar reference rings ===================== -->
+  <g stroke="#1e4a72" fill="none" stroke-width="1">
+    <circle cx="600" cy="500" r="165"/>
+    <circle cx="600" cy="500" r="245"/>
+  </g>
+  <!-- radial spokes at office angles (across the massif) -->
+  <g stroke="#2a5a86" stroke-width="1" opacity="0.7">
+    <line x1="600" y1="335" x2="600" y2="255"/>            <!-- N -->
+    <line x1="717" y1="383" x2="773" y2="327"/>            <!-- NE -->
+    <line x1="483" y1="383" x2="427" y2="327"/>            <!-- NW -->
+    <line x1="717" y1="617" x2="773" y2="673"/>            <!-- SE horn -->
+    <line x1="483" y1="617" x2="427" y2="673"/>            <!-- SW horn -->
+  </g>
+
+  <!-- ===================== THE MOUNTAIN (thinner 270° horseshoe, open S) ===================== -->
+  <path d="M773,673 A245,245 0 1 0 427,673 L483,617 A165,165 0 1 1 717,617 L773,673 Z"
+        fill="#16385c" stroke="#7fb0d8" stroke-width="2"/>
+  <!-- terrace contour arcs on the inner slope, all around -->
+  <path d="M473,627 A180,180 0 1 1 727,627" fill="none" stroke="#4f7ea8" stroke-width="1" opacity="0.7"/>
+  <path d="M455,645 A205,205 0 1 1 745,645" fill="none" stroke="#4f7ea8" stroke-width="1" opacity="0.55"/>
+
+  <text x="600" y="205" fill="#cfe8ff" font-size="22" text-anchor="middle" letter-spacing="3">THE MOUNTAIN</text>
+  <text x="600" y="223" fill="#9fc4e6" font-size="12" text-anchor="middle">a mined massif wrapping the hollow — "holds it in shade"; the Oasis lies at its foot &amp; under it</text>
+
+  <!-- office ring labels (INTERIOR / Hall-compass orientation) -->
+  <g fill="#bcd6ef" font-size="12" text-anchor="middle">
+    <text x="600" y="242">LIGHT · N</text>
+    <text x="792" y="315">JUSTICE · NE</text>
+    <text x="408" y="315">FAITH · NW</text>
+  </g>
+  <text x="820" y="700" fill="#ffce6b" font-size="12" text-anchor="middle">SHIELD · SE</text>
+  <text x="820" y="716" fill="#c9a24a" font-size="11" text-anchor="middle">θ = −π/4</text>
+  <text x="380" y="700" fill="#ffce6b" font-size="12" text-anchor="middle">BALANCE · SW</text>
+  <text x="380" y="716" fill="#c9a24a" font-size="11" text-anchor="middle">θ = 5π/4</text>
+
+  <!-- ===================== THE OASIS (origin) + dimension ===================== -->
+  <circle cx="600" cy="500" r="150" fill="url(#oasisG)" stroke="#4fd1a0" stroke-width="2"/>
+  <!-- spring + ring of trees -->
+  <circle cx="600" cy="500" r="15" fill="#2a7fd0" stroke="#7fd0ff" stroke-width="1.5"/>
+  <g fill="#6fe3b0">
+    <circle cx="600" cy="470" r="4"/><circle cx="628" cy="482" r="4"/><circle cx="636" cy="512" r="4"/>
+    <circle cx="622" cy="538" r="4"/><circle cx="600" cy="548" r="4"/><circle cx="578" cy="538" r="4"/>
+    <circle cx="564" cy="512" r="4"/><circle cx="572" cy="482" r="4"/>
+  </g>
+  <text x="600" y="456" fill="#bfeede" font-size="11" text-anchor="middle">the Spring · a ring of trees (holy hollow)</text>
+  <!-- dimension: oasis diameter -->
+  <line x1="480" y1="574" x2="720" y2="574" stroke="#efe3b0" stroke-width="1.3"/>
+  <path d="M472,574 L482,570 L482,578 Z" fill="#efe3b0"/>
+  <path d="M728,574 L718,570 L718,578 Z" fill="#efe3b0"/>
+  <line x1="472" y1="566" x2="472" y2="582" stroke="#efe3b0" stroke-width="1"/>
+  <line x1="728" y1="566" x2="728" y2="582" stroke="#efe3b0" stroke-width="1"/>
+  <text x="600" y="566" fill="#efe3b0" font-size="11" text-anchor="middle">⌀ ~600–1,000 m (visible core)</text>
+  <text x="600" y="610" fill="#bfeede" font-size="15" text-anchor="middle" letter-spacing="1">THE OASIS (0,0)</text>
+  <text x="600" y="628" fill="#8fb8dc" font-size="10" text-anchor="middle">terraces climb the flank all around</text>
+
+  <!-- ===================== EXIT / GATES / GRAVURE (south gap) ===================== -->
+  <circle cx="600" cy="676" r="5" fill="#ffce6b"/>
+  <text x="600" y="700" fill="#ffce6b" font-size="12" text-anchor="middle">EXIT · GATES · GENESIS GRAVURE · S</text>
+  <text x="600" y="716" fill="#c9a24a" font-size="11" text-anchor="middle">the only opening — the southern 90°, on the Shield–Balance axis</text>
+  <!-- 90 degree gap arc indicator -->
+  <path d="M427,673 A245,245 0 0 0 773,673" fill="none" stroke="#ffce6b" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.8"/>
+
+  <!-- ===================== THREE RIDGES that close the south ===================== -->
+  <ellipse cx="600" cy="866" rx="150" ry="52" fill="#26303e" stroke="#9fb3c8" stroke-width="2"/>
+  <text x="600" y="862" fill="#cfe8ff" font-size="14" text-anchor="middle">THE NEAR ROCK · S</text>
+  <text x="600" y="879" fill="#9fb3c8" font-size="11" text-anchor="middle">"second height" ~⅓ the Mountain — the other finger</text>
+  <path d="M792,880 Q920,824 1028,748 Q1044,828 964,896 Q876,948 792,880 Z" fill="#2b2f3a" stroke="#9fb3c8" stroke-width="2"/>
+  <text x="932" y="836" fill="#cfe8ff" font-size="12" text-anchor="middle" transform="rotate(-30 932 836)">THE FARTHER RIDGE · SE</text>
+  <g transform="translate(898,850)"><path d="M0,-11 L3,-3 L11,0 L3,3 L0,11 L-3,3 L-11,0 L-3,-3 Z" fill="#ffce6b"/></g>
+  <text x="898" y="882" fill="#ffce6b" font-size="9" text-anchor="middle">⚑ the watcher's flash</text>
+  <text x="600" y="964" fill="#bcd6ef" font-size="12" text-anchor="middle">"hidden by three ridges": (1) the Mountain wrap · (2) the near rock (S) · (3) the farther ridge (SE)</text>
+
+  <!-- ===================== the narrow SW sightline ===================== -->
+  <line x1="250" y1="880" x2="470" y2="690" stroke="#ffce6b" stroke-width="1.6" stroke-dasharray="6 5" marker-end="url(#arrA)"/>
+  <text x="150" y="906" fill="#ffce6b" font-size="12">the narrow SW sightline —</text>
+  <text x="150" y="922" fill="#c9a24a" font-size="11">"south-west markers"; the ONLY line the desert sees green (Mara)</text>
+
+  <!-- ===================== equinox sun (south) ===================== -->
+  <g transform="translate(600,1060)">
+    <circle r="13" fill="#ffd76b"/>
+    <g stroke="#ffd76b" stroke-width="2">
+      <line x1="0" y1="-19" x2="0" y2="-26"/><line x1="-16" y1="-9" x2="-22" y2="-13"/><line x1="16" y1="-9" x2="22" y2="-13"/>
+    </g>
+  </g>
+  <line x1="600" y1="1040" x2="600" y2="690" stroke="#ffd76b" stroke-width="1" stroke-dasharray="3 6" opacity="0.5"/>
+  <text x="600" y="1082" fill="#ffd76b" font-size="11" text-anchor="middle">equinox noon sun — due S, alt ~68.7°, strikes the S gravure (twice a year)</text>
+
+  <!-- ===================== dimensions / legend block ===================== -->
+  <rect x="878" y="966" width="308" height="128" fill="#0d2b52" stroke="#7fb0d8" stroke-width="1.5"/>
+  <text x="892" y="988" fill="#cfe8ff" font-size="12" letter-spacing="1">DIMENSIONS (canon)</text>
+  <text x="892" y="1007" fill="#9fc4e6" font-size="10">visible Oasis core ⌀ ~600–1,000 m (feeds ~1,000–1,500)</text>
+  <text x="892" y="1022" fill="#9fc4e6" font-size="10">hidden farm apron ≈ 2.6 km² (terraces · groves · wadi-fields)</text>
+  <text x="892" y="1037" fill="#9fc4e6" font-size="10">population ≈ 5,000 souls · latitude ≈ 21.3° N</text>
+  <text x="892" y="1052" fill="#9fc4e6" font-size="10">Reggane ~560 km N · Richat ~1,200 km W (not to scale)</text>
+  <text x="892" y="1070" fill="#7fa6c8" font-size="10">INTERIOR ring (Light=N … Exit=S) = Hall-compass lock;</text>
+  <text x="892" y="1084" fill="#7fa6c8" font-size="10">outside ridges/desert use real compass (share cardinals only).</text>
+</svg>
