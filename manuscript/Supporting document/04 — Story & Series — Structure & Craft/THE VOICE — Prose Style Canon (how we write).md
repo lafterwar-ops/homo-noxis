@@ -20,11 +20,11 @@ Every rule below turns on *which zone a sentence is in.* Get this right first, e
 
 | Zone | What it is | Governed by the bans? |
 |---|---|---|
-| **NARRATION** | K's past-tense account **and** Paul's present-tense interviewer frame (*"He stops to drink…", "I say…"*). | **YES — fully.** |
+| **NARRATION** | All unquoted narrative prose, whoever currently owns the telling: K's past-tense account, Paul's present-tense interviewer frame (*"He stops to drink…", "I say…"*), Sarah's recorded prose testimony, and any later ordering hand. | **YES — fully.** |
 | **DIALOGUE** | Anything inside `\begin{room}…\end{room}` turn exchanges; **and** in-account quoted speech in `` … '' spoken by a character within the account. | **NO — free.** |
 | **SCRIPTURE / FORMAL** | `\begin{scripture}`, `\begin{declaration}`, and italic attributed sayings/epigraphs (`\textit{…}` credited to a character). | **NO — free / formal register.** |
 
-**The disambiguation rule:** if it is the narrator's own voice describing, reflecting, or explaining — even Paul, even in present tense — it is **narration** and it is governed. Present-tense Paul-frame is the trap; treat it as narration.
+**The disambiguation rule:** if it is the current teller's own unquoted voice describing, reflecting, or explaining — Kailan, Paul, Sarah, or another ordering hand; past or present tense — it is **narration** and it is governed. A character telling a long account does not turn prose paragraphs into dialogue merely because a recorder is running. Only words physically enclosed as speech, room turns, or formal/scriptural environments enter the free zones.
 
 **Why the split exists:** characters are *allowed* to be aphoristic, antithetical, interpretive, prophetic, philosophical — that is *them*, and it's often the best writing in the book (Va-Raedin's maxims, Ka-Syphiron's jokes, the Covenant's cadence, Paul granting a point). The ban is on the **narrator doing it in his own voice.**
 

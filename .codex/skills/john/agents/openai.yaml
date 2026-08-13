@@ -1,0 +1,4 @@
+interface:
+  display_name: "John"
+  short_description: "Perfect one Homo Noxius chapter to freeze"
+  default_prompt: "Use $john to perfect a Homo Noxius chapter through architecture, up to five scored rewrites within a 10% word-count band, audits, and freeze."

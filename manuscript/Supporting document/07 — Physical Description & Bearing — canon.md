@@ -10,7 +10,7 @@
 
 ### Kailan (Sa-Kailan → Va-Kailan; operational "Kylian / Sa-Kylian")
 - **Age/arc:** boy apprentice → Veil of Light → exile in his prime → the aged narrator of the present frame. Voice ages; body is shown chiefly through office and injury.
-- **Signature marks:** the **white Veil-of-Light knot/cloth bound at the wrist** (Ch8, Ch10, Ch12) — his rank made visible; in exile **Va-Sheva ties a dark cord over the covered white knot** to hide it (Ch14), and it "kept pressing at the skin, reminding me it was still there" (Ch14 l636). The wrist is his recurring self-locating detail.
+- **Signature marks:** the **white Veil-of-Light knot/cloth bound at the wrist** (Ch8, Ch10, Ch12) — his rank made visible; after sentence in Ch14, **Va-Sheva covers the white knot with dark Shield cloth and secures it with a dark cord below**, exactly as Ch16 remembers it. The wrist is his recurring self-locating detail.
 - **Bearing:** ceremonial composure drilled over fear ("washed, robed, composed, no visible dust on my sandals," Ch10); the trained eye that "sees the seam others walk over" (Ch13) — his identity is his *gaze/reading*, not his face.
 - **Do not:** give him a static beauty inventory. He is the narrator; we rarely see his own face — keep it that way (form: he never narrates himself into a mirror).
 
@@ -21,8 +21,8 @@
 - **Do not:** ornate description; his force comes from plainness.
 
 ### Sarah Blackwood (present frame: "the woman who pays for the tea"; Horizon style "Ka-Sarah")
-- **Canon (Blackwood canon):** b. **1933**, London; Edward Blackwood's daughter/heir; **seismic researcher**; found the Mountain by its resonance signature **~1960, age 27**; matriarch; Declaration addressee.
-- **Across time:** **27 under desert light** at Reggane, "young under desert light" in the tomb photograph (Ch10 l544, Ch14 l152); **very old** in the present interview — imperial, controlled, "old age and long memory," speaks of "the time we have left."
+- **Canon (Blackwood canon):** b. **1933**, London; Edward Blackwood's daughter/heir; **seismic researcher**; detects the Mountain's resonance signature at Reggane in **1960, age 27**; reaches the folds and begins Horizon in **1974**; matriarch; Declaration addressee.
+- **Across time:** **27 under desert light** at Reggane; **41, fair-haired, in pale field clothes** in the 1974 tomb photograph; **very old** in the present interview — imperial control laid over real frailty, including a right-hand tremor she closes beneath the left (Ch13).
 - **Bearing/gesture:** imperial stillness; **works documents fast with her hands** ("went through it fast with her hands… came to a single page and stop," Ch17); **listens with her eyes shut** (Ch17); in the aftermath **stands with a palm flat on the Faith stone reading absences** — "her weeping, done in the only language she had ever let herself learn, which was the reading of an absence" (Ch20 l37). **Never seen to weep.**
 - **Age — RULED (see 08 — Chronology ledger):** present frame is **2026** (author ruling). Sarah is **27 at Reggane (1960) → 93 today**, and ~93 through the firing and 90-day seal. Her "before I died / the time we have left" register fits a 93-year-old at the world's end. Render her accordingly: **very old** — the imperial control now laid over real frailty.
 
@@ -33,7 +33,7 @@
 
 ### Jean-Charles (French intelligence operator; later Mountain by Va-Sheva's naming)
 - **Bearing:** **always smiling** — the tell that he has stopped ("he was not smiling, which frightened me more than the drums," Ch16 l—); relaxed competence, charm as instrument (§24.2).
-- **Signature gesture:** the **hand on the shoulder** — first in the desert when K "was a bundle under a cloth," repeated later (Ch16, Ch7) — a gesture that reads as warmth and is, in origin, an operator's management. Its recurrence is the point (§24.7).
+- **Signature gesture:** the **hand on the shoulder** — first below the dead well when Jean-Charles turns the conscious Kailan toward Horizon's inner passage (Ch16), repeated at departure (Ch17) and inside the sealed Mountain (Ch21) — a gesture that can carry warmth, direction, or an operator's management. Its recurrence is the point (§24.7).
 - **Arc cost:** by the aftermath the lightness is spent — the Mountain "turns your lightness into labour" (Ch20 l7).
 
 ### Ravar (the founder) & Ithe — **DELIBERATELY WITHHELD**

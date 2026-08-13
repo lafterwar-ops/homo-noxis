@@ -1,6 +1,6 @@
 # Book 5 — The Forbidden Archive, the Year-Clock & the Declaration — Canon (EMBARGOED)
 
-*Purpose: fix the machinery of the ending. Book 5 is the last book. Everything in the series converges on three linked objects — the trigger, the Forbidden Archive, and the Year-Clock — and on the act they make inevitable: the crew finally learns the true scale of its own confinement, and, rather than pull the fire a sixth time in the old silence, puts the torch down and speaks. That speaking is the Declaration.*
+*Purpose: fix the machinery of the ending. Book 5 is the last book. Everything converges on the trigger, the Forbidden Archive, the Year-Clock and the act they make inevitable: after pulling the fire a sixth time in the old silence, the crew learns the true scale of its confinement, refuses a seventh repetition and speaks. That speaking is the Declaration.*
 
 *This supersedes nothing in the physics/geography locks; it sits on top of them. EMBARGOED: none of this is stated plainly before Book 5. It is seeded, never shown.*
 
@@ -10,21 +10,17 @@
 
 **Book 4 = the Cataclysm.** The sixth burn. The books build to the crew committing to it and the Great Seal locking; the fire is pulled and the Mountain seals itself to ride out the winter it has just made. *(Working structure — "Cataclysm as Book 4," per François. See the fork below on whether the burn fires or is aborted.)*
 
-**Book 5 = the 90-day lock — and its text IS Ravar's autobiography.** Sealed in for the ninety days, with what they have done still warm, the crew reads the Forbidden Archive: the Cycle Ledger, the Year-Clock, and — the terminal reveal — **the autobiography of Ravar, the founder** (see the DEEPEST-EMBARGO canon). K reads it, recognizes himself, and that recognition produces the Declaration.
+**Book 5 = the 90-day lock and the descent to Ravar.** Sealed after the firing, with what they have done still warm, the crew enters the Forbidden Archive on day 79: the live Year-Clock, five captured prior-cycle readings, the five office reset rooms and — behind K's light-door — **the wall account of Ravar, the founder** (see the DEEPEST-EMBARGO canon). K reads it, recognizes himself, and that recognition produces the Declaration.
 
-**The form is the theme — two autobiographies.** Books 1–4 are *K's* autobiography, told to Paul in the account-plus-interview form. **Book 5 keeps that exact form but swaps the narrator: it is *Ravar's* autobiography, read by K and Paul together, with the discussion interludes intact.** The interviewer/interviewee gradient collapses — they are both *readers* now, side by side, undone by the same text, and only K yet knows whose face is in it. The reader spends four books inside one man's life, opens the fifth, finds another man's life in the identical shape, and realizes they are the same life. The mirror at the center becomes the book's own architecture: you do not *tell* the reader that K is Ravar — you make them read it twice and feel it.
+**The form is the theme — two autobiographies, formally distinct.** Books 1–4 are *K's* autobiography, told to Paul through testimony and recorded rooms. **Chapter 23 swaps the speaking source to Ravar's shrine wall and renders it as one uninterrupted Saint-John Perse–mode poem: 103 quatrains, approximately 12–16 syllables per line, no room or prose interlude.** K, Paul and the others are physically reading together, but the source reaches the reader without their commentary until the wall is finished. The mirror at the centre comes from reading the same wound twice in radically different preserved voices, not from duplicating the interview furniture.
 
-**FORK to settle — does the sixth burn fire in Book 4?**
-- *Fires (recommended):* fits "we press play at least once" and the Threshold Exception stamped *after* the sixth cataclysm triggers. Book 5 is then the sealed reckoning *after* an irreversible act — recognition too late to save the sixth cycle, in time to prevent a seventh. Harder, truer.
-- *Aborted:* the 90-day lock is the arming window; reading Ravar un-decides the burn before it fires. Cleaner, more hopeful; costs the "press play once" and softens the horror.
-
-Either way the structure locks the same: **Book 4 = Cataclysm; Book 5 = the sealed lock + Ravar's autobiography read by K and Paul; ending on the recognition and the Declaration.**
+**LOCKED:** the sixth burn fires in Book 4. Book 5 is the sealed reckoning after an irreversible act: recognition comes too late to save the sixth cycle and in time to refuse inheritance of a seventh. **Book 4 = Cataclysm; Book 5 = Vigil → Clock/reset → Ravar's wall account → Whole/Declaration.**
 
 ---
 
 ## 2. The trigger — what "pulling the fire" actually is
 
-- The weapon is the Beast reached by **seismic resonance**: the crust tuned, patiently, until the magmatic system tips. Not fission — the oldest bomb, the one under the crust. (See the resonance-culture note: pendulums, the 65-hour Long Return, the whole discipline of measuring how energy returns to where it began, is the *cover-grammar of the trigger*.)
+- The weapon is the Beast reached by **five progressively fracturing deep strokes from a fixed standing-place**. The first four break and flood the deep source wider; the fifth travels through the Earth and dynamically triggers the already-critical antipodal arc. Antipodal convergence is automatic: Ravar chose where the Mountain stood; Light preserves that standing-place across plate motion. The slow whole-Earth mode is a diagnostic return for Faith's timing, not the destructive amplifier. Not fission — the Mountain spends the match and the wounded Earth supplies the fire. (The full superseding model is Beast canon §29.2.)
 - The effect is a **world-reset** — eruption + volcanic winter — that knocks Sapiens back down while Noxius rides it out sealed in the Mountain. This is the "cataclysm," the "cycle" boundary.
 - Firing is **not** a single hand on a switch. It is a sequenced, quorum-gated, deliberately slow procedure — the whole point of the five offices, the two-key doctrine, the token. Which is why it has a **lock period** (below).
 
@@ -32,19 +28,20 @@ Either way the structure locks the same: **Book 4 = Cataclysm; Book 5 = the seal
 
 ## 3. The Great Seal and its 90-day lock
 
-- Triggering is gated behind the **Great Seal**: an arming/lock sequence that, once begun, runs a fixed **90 days** before the fire can be pulled. During those 90 days the Mountain is sealed and committed to the sequence (whether it completes or is stood down).
-- **The Forbidden Archive is accessible only during this 90-day window.** It is not a library one visits. It opens *because* the Seal is locked — by design, so that the crew about to pull the fire must first stand in the record of every hand that pulled it before them, log their own year, and only then proceed. The archive is the conscience the engineers built into the trigger.
-- Practical consequence for the plot: the reveal cannot happen until the characters are **inside the Great Seal** (per the §1 fork — either about to burn, or having just burned and sealed in to ride it out). What they find there — the Ledger, and above all **Ravar's autobiography** — is what breaks the protocol: the trap the founders built to make the crew *reflect* is the trap that, this once, makes them lay the torch down for good. *(If the burn has already fired, the archive does not un-make it; it makes this the **last** one.)*
+- The five offices bring down the **Greater Seal** before the firing. After the fifth full stroke, the Mountain remains sealed for a fixed **90-day survival/reset period** while the outside convulses and the internal works are stabilised.
+- The fifth stroke arms the hidden Archive road. The Earth's continuing motion holds its counterweight off until a diminished return falls below the scored limit on **day 79**. The Archive therefore opens only after a complete firing and leaves eleven full days before the compulsory reset on day 90.
+- On day 90 the current Year-Clock reading is captured into the sixth fixed register, the live face returns to its first mark, the office reset completes and the Archive closes. It cannot reopen before another complete firing.
+- Practical consequence: the reveal cannot unmake the sixth burn. It can make this the last one. The Archive is not a conscience read before action; it is the way back after the act, reached by the people who now know exactly what they have repeated.
 
 ---
 
 ## 4. The Forbidden Archive — contents
 
-Three things live inside. Two are certain; one is optional.
+The Archive is a reset mechanism, not a library and not an engine blueprint.
 
-1. **The Cycle Ledger (LOCKED).** The cumulative record of every prior cycle: the year each burn was pulled, by whom, against what. Reading it end to end is how the crew learns *how many times* and *across how long*. This is the instrument of the scale-reveal (§6).
-2. **The Year-Clock (LOCKED).** See §5. The living mechanical count of years-within-the-current-cycle, reset at each burn, its resets logged into the Ledger. Clock = the current cycle; Ledger = all cycles summed. Together they are the deep-time odometer.
-3. **The Engine Blueprint (POSSIBLE, not yet locked).** The founders' design of the resonance engine itself — the thing no living Keeper fully understands, only operates. If present, it is where a reader/character could finally see that the whole religion is an operating manual. *Decision pending: include, or leave the engine forever un-blueprinted (comprehension lost on purpose) so that even the archive cannot restore understanding — only scale.* The second option may be stronger: they learn *how long*, never fully *how*.
+1. **The Year-Clock and cycle captures (LOCKED).** One live base-twelve face counts years within the present cycle. Five disengaged iron registers preserve the five completed readings under Justice seals. A separate firing drum stands at six. The live face plus the five captures deliver the deep-time sum.
+2. **Five office reset rooms (LOCKED).** One low room belongs to Balance, Shield, Faith, Light and Justice. Each contains that office's part of the order of works for the day after Cataclysm: springs, deep fire, reserves, sealed roads, children, first rites, annual Watch, year reset and record. Each instruction is deliberately incomplete and calls for quantities or words held by another office. All five hands or none can raise the Mountain again.
+3. **Ravar's signature and light-door (LOCKED).** The repeated foundation/reset liturgy hides a displaced first person, the mirror-name `Ravar` and a pointer below. Past the reset rooms, K alone sees an unnamed anomaly in light which Ka-Raedin cannot see. The seam it releases opens to the shrine where Ravar's wall account begins.
 
 ---
 
@@ -56,10 +53,12 @@ Real-world anchor (for tone, not for lifting): the once-a-year-tick monumental c
 
 Locked mechanics:
 
-- **Tick rate: once per year.** The primary hand advances a single step per solar year. Slower registers accumulate the decades/centuries/millennia so the *span within a cycle* is legible at a glance.
-- **Annual synchronizer = the sky, not the escapement.** A once-a-year mechanism cannot be trusted to a mechanical escapement across ten thousand years — it will drift. So the clock is **corrected by the equinox beam**: the same due-south noon alignment already locked in the Geography canon. Once a year the sky itself advances/verifies the count. This ties the clock to canon already in force and makes it un-fakeable — the calendar is the sun, and the clock merely remembers between corrections. *(The equinox beam fires twice yearly, spring and autumn; the Year-Clock takes one of the two as its annual index — decision: which equinox is the "turn of the year" — the other remains the festival beam on the Genesis gravure.)*
-- **Reset on the burn.** At each triggering, the standing year-count is transcribed into the **Cycle Ledger** (permanent, cumulative) and the Year-Clock is returned to zero for the incoming cycle. The clock therefore always reads *"years since the last time we ended the world,"* and only the Ledger holds the sum.
-- **Visibility.** The clock is *visible* — it is meant to be stood before. Whether it stands in the Hall, in the Archive alone, or both (a public face reading only the current cycle, a true face in the Archive reading the sum) is a **decision pending**; the split is dramatically useful — the people live under a clock that lies by omission.
+- **Tick rate: once per year.** The primary hand advances a single step per solar year. Slower base-twelve faces accumulate the span within the current cycle.
+- **Annual synchronizer = the stellar Watch.** Light sights a single star at yearly culmination through a bored shaft and corrects the annual wheel against fine cuts. Axial precession is approximately 26,000 years and the star has proper motion: its current displacement can corroborate the mechanical count's phase, but cannot independently count completed precession circuits. The five sealed captures remain necessary to establish the total.
+- **Maintenance is partitioned.** Light millwrights service the quick lower train through a grate which hides the upper faces. Light candidates perform the Watch without access to the cycle captures. Justice seals each completed capture without maintaining the train. No office can forge or read the whole proof alone.
+- **Capture on the day-90 reset.** The fifth firing has already occurred when the Archive opens. On day 90 a fork captures the live sixth-cycle reading into its waiting register and returns the live faces to their first marks. The first captured span includes the long founding/build interval before Ravar's proof-firing; the sum is therefore founding-to-now rather than five times the later cycle length.
+- **Separate firing count.** A six-position drum advances at each complete firing. It does not reset with the year faces.
+- **Visibility.** The true faces and fixed captures stand only in the hidden Clock chamber. The serviced lower train and the annual Watch remain visible in fragments to Light.
 
 ---
 
@@ -67,7 +66,7 @@ Locked mechanics:
 
 What the archive does, once they are inside during the 90-day lock:
 
-- Ledger + Year-Clock together deliver **the scale**: five cycles, on the order of **~145,000 years** of a sealed, self-perpetuating society running one protocol, generation after generation, hand after hand, each having stood exactly here, having logged exactly this, having reset exactly this clock, and burned.
+- Five captured cycle readings + the live Year-Clock + the separate firing drum deliver **the scale**: five completed cycles, the sixth firing, and on the order of **~145,000 years** from founding to the present.
 - The horror is not the deaths outside. It is the **duration of their own confinement** — that they, the crew, are the fifth iteration of people who were born, raised, ranked, and spent entirely inside a machine that has been doing this since before Sapiens had cities, and that the machine's only output is *more of the machine.* They have been, in effect, a **145,000-year closed social experiment that no longer has an experimenter** — running because it runs.
 - The human response the engineers never designed for: **enough. We want out.** Not out of the bunker into the sixth burn — out of the *protocol itself.* And the only door out of a secret 145,000-year war is to **stop being secret** — to tell the other species it exists, and lay down the torch. Peace is not mercy toward Sapiens; it is escape for Noxius.
 
@@ -86,9 +85,9 @@ What the archive does, once they are inside during the 90-day lock:
 ## 8. Consistency hooks (must not contradict)
 
 - **Cycle count / timeline:** five burns; cycles ~10,000 years *as counted from the first burn*; the design/build pre-history runs tens of millennia earlier, so the ~145,000-year figure is *founding-to-now*, not five × ten thousand. (Seam already noted in origin discussion — keep the arithmetic honest for the reader who checks.)
-- **Beast = deep magma reached by seismic resonance.** Not fission, not metaphor. "Fire on the left" of the gravure and the drowned-green-Sahara imagery are the method's signature.
+- **Beast = progressively fractured deep source + automatic antipodal convergence + dynamic triggering of an already-critical distant arc.** The slow mode is diagnostic only. Not fission, not metaphor; Beast canon §29.2 governs.
 - **Atlantis / Richat** = a *victim of a prior burn* (a Sapiens high-water civilization reset in an earlier cycle), **not** Noxius's origin or kin. The gravure shows it as evidence of the method, a scorch mark — the Richat is a burn scar, not a cradle.
-- **Equinox beam** (Geography lock: noon, due south, alt ≈ 68.4°, on the south Genesis gravure) is the **annual synchronizer of the Year-Clock.** One equinox indexes the year; the festival keeps the other.
+- **Annual Watch:** the stellar shaft supersedes every old festival/equinox synchronizer. Precession checks phase only; the sealed mechanical captures carry the completed spans.
 - **Paul frame (2026, Blackwood Estate):** Paul is the first of the *winning* species to be told his civilization has been gardened five times, taking dictation from the machine as it lays down the torch. His "doubting eye" is the reader's.
 - **The runbook/theology:** the religion is the error-correcting encoding that carried an operating manual across deep time; the Archive is where a few finally read the manual as a manual (and, per §4.3, perhaps still cannot fully understand the engine — only the span).
 
@@ -99,12 +98,12 @@ What the archive does, once they are inside during the 90-day lock:
 | Item | Locked value |
 |---|---|
 | Book 5 role | **The end.** Trigger → Archive → scale-reveal → Declaration |
-| The weapon | Beast via **seismic resonance** → eruption + volcanic winter (world-reset) |
+| The weapon | Five progressive deep fractures from a fixed standing-place → automatic antipodal convergence → dynamic triggering of an already-critical arc → volcanic winter (world-reset) |
 | Firing gate | The **Great Seal**, a **90-day lock** once begun |
-| Forbidden Archive | Opens **only during the 90-day lock**; holds Ledger + Year-Clock (+ possibly the engine blueprint) |
-| Cycle Ledger | Cumulative record of **all** burns/years — instrument of the scale-reveal |
-| Year-Clock | **One tick per year**, mechanical, visible; **equinox-beam-synchronized**; **reset at each burn**, year logged to Ledger |
+| Forbidden Archive | Day-79 opening after complete firing; five office reset rooms + Clock/captures + Ravar pointer; closes at day-90 reset |
+| Cycle record | Five fixed Justice-sealed readings + live sixth-cycle face; separate firing drum at six |
+| Year-Clock | **One tick per year**, mechanical, hidden upper faces; stellar-Watch-corrected; live count captured and reset on day 90 |
 | The reveal | ~**145,000 years**, five cycles, a sealed self-running society — *"we want out"* |
 | The Declaration | Institution stands down; confession-as-peace to **Sarah Blackwood**, signed **"The Mountain"** |
 | Manuscript→Sarah | **RESOLVED** — K's own act, triggered by finding **Ravar** and recognizing himself; the copy *is this book* (see Ravar DEEPEST-EMBARGO canon) |
-| Still open | literal vs. existential "experiment"; blueprint in archive or not; which equinox = year-turn; clock public/true split |
+| Still open | literal vs. existential "experiment" only; no engine blueprint in the Archive |

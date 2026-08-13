@@ -12,9 +12,10 @@ The deep chamber under the Mountain is not a memory store. It is the **instructi
 The Festival-of-Equal-Light "beam" that trued the year-clock is **gone everywhere.** The firing of the Beast is **decoupled from any calendar day** — the cataclysm can be triggered whenever the Threshold condition is met; there is no reason it would fall on a festival.
 
 **Re-truing the year-clock (replaces the sun):** the wheel is driven mechanically by the deep works (geared down from the Pendulum), and trued once a year against a **single star** sighted straight up a **bored shaft** cut dead onto that star's yearly culmination. Light keeps this as a secret rite — the **Watch** (the star told to candidates as "the Eye that never closes," God looking in). 
-- **The un-forgeable proof survives, now stellar:** the star no longer sits true in the shaft. Over the count it has wandered off the shaft's line by exactly what the slow roll of the world's axis (precession, ~26,000-yr period) should carry a star through in such a span. Only Sarah can read it. This replaces the old "drift of where the beam landed" as the proof no forger could fake.
+- **The independent sky-check survives, now stellar:** the star no longer sits true in the shaft. Sarah can compare its current place with the slow roll of the world's axis (precession, ~26,000-year period), but the star has its own motion and the precessional phase repeats. The Watch therefore corroborates where the mechanical count puts the present within the current circuit; it does **not** independently count the completed circuits or produce 145,000 years by itself.
+- **The total requires the Clock record:** the live face carries the unfinished sixth-cycle span. Five Justice-sealed iron captures preserve completed spans; a separate drum counts six firings. The live face plus the five captures produce the founding-to-now total. On the day-90 reset the live reading enters the waiting sixth capture, the face returns to its first mark and the Archive closes.
 
-**Remaining sweep (NOT yet done — festival/equinox still referenced in):** ch2-Mirror (Festival of Equal Light, twice-a-year sun), ch6-Festival (whole chapter), ch9-Heaven ("borrowed sun"), ch18, ch19-Seal ("slot cut for the Festival light"), ch20-Beast ("equinox mark the sun trues once a year"), ch21 ("festival game"), ch25-Whole ("borrowed sun gone off the wall"). To be reconciled in a later pass.
+**Remaining sweep (NOT yet done — festival/equinox still referenced in):** ch2-Mirror (Festival of Equal Light, twice-a-year sun), ch6-Festival (whole chapter), ch9-Heaven ("borrowed sun"), ch18, ch19-Seal ("slot cut for the Festival light"), ch20-Beast ("equinox mark the sun trues once a year"), ch21 ("festival game"). To be reconciled in a later pass.
 
 ## 3. The Light-Door (K alone)
 Deep in the base recess, past the reset rooms, the founder left **one last door that only K can open.** Ravar withheld from every Light keeper a truth about how light behaves — 21st-century-grade knowledge his fallen high civilization held and his engineered priesthood was never taught. **We do not specify the physics.** In the text K simply *sees* something in the way light falls on the deepest stone that no keeper, not even Ka-Raedin (the finest light-master alive), can find — a thing K has no name for, and can perceive only because four years in the outside world taught him to distrust what a Mountain eye is trained to trust. He does the small thing it asks; a seam no one knew was a seam gives; a door comes away from the wall.
@@ -32,7 +33,32 @@ Then, knowing it would run without him forever, Ravar **left the Mountain** — 
 **The final line of the confession** is his collapse of God and Beast into himself: *"The Beast is not the fire, nor the water, nor the stone. I made it in my own image; it is me; and it is loosed… I am the Beast."* Build now ends on **"I am the Beast."**
 
 ## 4c. The loop/sphere (Poincaré) motif — origin in Ravar
-The Poincaré-conjecture image (a closed world's loops either draw shut to a single point, or ride a hole forever and never close; a "seamless world keeps no outside") **originates in Ravar's confession** (Loss, at the desert-search — "a thing that might not be on the whole earth"), and is later inherited/echoed by **Ka-Orun of Justice in the Trial (ch14)** ("I am told of worlds where a loop rides a throat worn clean through the whole…") and again in **ch25 Whole** ("a man who walks far enough draws the last road shut… a seamless world keeps no outside"). Reading Ravar loops the reader back to recognize Justice's source. Ravar states it unnamed, as his own geometer's intuition (no Sapiens attribution). Ties to Ravar's "I set the truths in a ring around a hole, and taught them the hole was God" (Build).
+The Poincaré-conjecture image (a closed world's loops either draw shut to a single point, or ride a hole forever and never close; a "seamless world keeps no outside") **originates in Ravar's confession** (Loss, at the desert-search — "a thing that might not be on the whole earth"), and is later inherited/echoed by **Ka-Orun of Justice in the Trial (ch14)** ("I am told of worlds where a loop rides a throat worn clean through the whole…"). Reading Ravar loops the reader back to recognize Justice's source. Ravar states it unnamed, as his own geometer's intuition (no Sapiens attribution). Ties to Ravar's "I set the truths in a ring around a hole, and taught them the hole was God" (Build).
 
 ## 5. Signature vs confession
 In the base **reset-liturgy** (the oldest, untranslatable drone) Ravar hid an **"I"** — a smuggled signature and pointer, ending in the two words **Ravar**, and a last line saying that the account itself is set apart and below, for the one reader who can reach it, by a way that cannot be told. The signature is in the Archive; the **confession is in the shrine.** (Clock ch22 ends on the name + the descent.)
+
+## 6. Chapter 24 retroactive ending lock (2026-08-13; supersedes conflicts above)
+
+### Keeper's chamber of Light
+The separate **Keeper's chamber of Light** is hidden inside the Mountain's great reserve. A Veil who understands that light makes waves eventually asks where the Mountain keeps its greatest body of water, enters Balance's forbidden reserve, discovers a drowned passage and teaches himself to swim the underwater tunnel. Inside is a sphere touched on every side by **liquid metal**. The viscous moving layer trains the Veil to aim a line through a dragging medium and keep the Mountain's fixed standing true while land and sky move. It is not a movable targeting device: Ravar fixed the destination by choosing the Mountain's site.
+
+K proves this deduction to Ka-Raedin by asking whether he taught himself to swim. Ka-Raedin does not answer. K leaves the chain of Light to him because K now holds too much cross-office knowledge to remain.
+
+### The two manuscripts and Horizon's new office
+Paul leaves two records with different temporal powers:
+
+- **The engraved Mountain account** survives every outside collapse, but the Archive can be opened only after a complete trigger. It is therefore a post-crime witness, never an advance warning.
+- **The Outsider Copy** leaves with Sarah, Kailan and Sela. It is the only account that can return before a future trigger, while refusal can still prevent the crime.
+
+Paul assembles the Outsider Copy through Ravar's final line. With a survivable three-day stone summary available, he freely chooses instead to spend all eleven remaining days engraving the complete causal witness beside Ravar. The day-90 reset closes the shrine's only stair; it has no well or independent air route, and Paul dies inside. Kailan orders and writes the final chapter from his own witness and later reports reaching Horizon.
+
+Sarah names Kailan heir to **Horizon and the surviving Blackwood empire**. Horizon's old mission — conceal the Mountain from the outside — is reversed. Its new office is to preserve Paul's manuscript outside, teach its danger across generations, and **bring it back to the Mountain before the next trigger**. If the next operator first learns the truth from Paul's engraving, Horizon has failed.
+
+### Character endings
+- **Kailan:** kneels once more beneath the Pendulum, then leaves with Sarah and Sela as Horizon's heir.
+- **Paul:** chooses the complete engraved witness over the survivable bounded record and dies sealed beyond the reset wall.
+- **Ka-Raedin:** receives Light's internal chain from Kailan and accepts the search for the underwater Keeper's chamber.
+- **Sela:** her old admiration and love become physical closeness under the fear of the Vigil, emotional intimacy during the ninety days, then declared romantic love; she and Kailan are inseparable by departure.
+- **Jean-Charles:** dies defending the inner Shield gate.
+- **Va-Sheva:** remains in the Mountain carrying Jean-Charles's child. At the farewell Va-Maera quietly speaks the Chapter 6 condemned-man prayer while Ka-Dhavar stands beside her. The surface reading is a grave blessing; the attentive reading is that Faith and Shield will kill Va-Sheva and the unborn child after the departure. The act itself is never shown.

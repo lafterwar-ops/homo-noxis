@@ -205,7 +205,7 @@ No new lore. Reuse Shot 2 grammar. [A] If a different lighting state is wanted, 
 # MOVEMENT 3 — SOMEBODY FOUND THEM
 
 ## SHOT 10 — THREE BLACK 4×4s
-**1. Explicit canon — the image is REAL, with one correction: it is the RETURN/counter-assault run to the Mountain (ch18), not a neutral expedition, and not the extraction (which K, sedated, cannot remember).**
+**1. Explicit canon — the image is REAL, with one correction: it is the RETURN/counter-assault run to the Mountain (Ch18), not a neutral expedition and not the extraction. Kailan remembers the conscious extraction in Chapter 16; it has its own dead-well / sealed-vehicle / aircraft image system.**
 - **Three** identical vehicles: "black, identical, square and armoured, built for country that has no roads." [A]
 - They move **in visible convoy at speed**: lead car ~100 m out, middle car guarded, third on the tail; drivers on night-vision. [A]
 - ~**fifteen** in the party; weapons aboard (raised and lowered at a checkpoint, unused). [A]

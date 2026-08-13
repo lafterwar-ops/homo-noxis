@@ -122,8 +122,8 @@ antipodal-round-trip as "the answer" (S34) → replaced by ₀S₀ phase-return 
 - **LOCKED:** ₀S₀ / T≈20:28; answer = phase-return; five strokes one period apart; readiness 4,096 m³; full payload 512,000 m³ (5 loads); five mutually-visible pentagon stations; two gates; steam-regenerative; first-load accumulators; one irreversible arming ("Let them fall"); office matrix; terminology.
 - **PROVISIONAL (verify/tune):** exact riser/throat diameters & fall time (§14 ranges); precise war-reserve capacity & condensation-recovery fraction vs Mass/Energy ledger; whether ₀S₀ excitation at this source scale is *quantitatively* sufficient (protected impossibility, §24). **Residual: a live IRIS/USGS/IPGP citation for ₀S₀=1227.5 s and PKIKP antipodal time (values used here are standard PREM/observed).**
 
-## 27b. HOLY OBJECTS ↔ TRUE FUNCTIONS (rendered in-manuscript at Ch23 l77–79; canon-locked)
-Ravar disguised every operational instrument as a devotion. The reader meets the holy object first and learns the function only at Build/Ravar.
+## 27b. HOLY OBJECTS ↔ TRUE FUNCTIONS (distributed across Ch1–22; canon-locked, not exhaustively decoded by Ravar)
+The operational functions below remain governing machine canon. Worship grew around some deliberately protected functions and some later accretions; Chapter 23 must not reduce every surviving devotion to a one-to-one explanation by Ravar. The reader assembles most functions materially across Ch1–22, while Ravar confesses the conditions he made and admits that rites and meanings were already exceeding his names before he left.
 
 | Holy object (as worshipped) | True function |
 |---|---|
@@ -135,7 +135,7 @@ Ravar disguised every operational instrument as a devotion. The reader meets the
 | **The Great Seal** (falling gates) | The plainest work — the containment/Lower-Earth-Gate + total sealing; "a wall even Ravar could not make holy." |
 
 ## 28. AFFECTED MANUSCRIPT FILES
-Prologue · **Ch1 Ascension (timing → done S36)** · Ch2 corridor transition · Ch3 Oasis (water) · Ch4 Mountain (deep reserve/heat) · Ch8 2nd Ascension (readiness confirm) · Ch13 Trial (Hall geometry) · Ch15 **Knocks (redesign)** · Ch9 **Reggane** · **Ch16 Mock (11-min → done S36)** · Ch17 Return · Ch18 Seal (Hall/gates) · **Ch19 Beast (full architectural rewrite — RESIDUAL)** · Ch20 aftermath (water) · Ch21 Clock · Ch23 Build/Ravar (origin rationale) · Covenant scripture · the ledgers (08/09/10/11). **Status per file: WorkNotes S36.**
+Prologue · Ch1 Ascension (timing) · Ch3 Oasis (water) · Ch4 Mountain (deep reserve/heat) · Ch8 Light (second Ascension/readiness confirmation) · Ch9 Heaven (sphere) · Ch11 Reggane · Ch14 Trial (Hall geometry) · Ch15 Knocks · Ch17 Mock (eleven-minute sounding) · Ch18 Return · Ch19 Seal (Hall/gates) · Ch20 Beast (full firing architecture) · Ch21 Vigil (aftermath/water) · Ch22 Clock · Ch23 Ravar (origin rationale) · Covenant scripture · ledgers 08/09/10/11.
 
 ---
 
@@ -150,8 +150,8 @@ Triggered by the §27 Pass-3 scientist/engineer audit, which established with nu
 4. **The heat budget was never checked:** ~2.1×10⁶ m³ of rock must be quenched per stroke, but thermal diffusion moves heat only **3.5 cm** in one 1,228 s period. Strokes 2–5 would land on a cold wet face.
 
 ## 29.2 THE MODEL THAT NOW GOVERNS
-- **AIMING = SITING, decided once.** Antipodal focusing is **geometrically automatic**: every great-circle path leaving a point reconverges at the point opposite. Ravar did not build mirrors — **he chose where to stand.** The Mountain sits where it sits because its antipode is the Lau Basin (21.3°S/180°), crust already broken inside the Ring of Fire. *(Ch19: "The Earth does the aiming… What a hand can do is choose where to stand when it lets go.")*
-- **LIGHT'S OFFICE = SURVEY, not optics.** Light keeps the Mountain's position true across deep time against plate motion (~24 cm/yr at the target; **thirty paces a century** — the old "thousand steps per century" was 30× wrong and is retired). Sunk marks, sight-lines, tables, and the **equinox mark down the Archive shaft that the sun trues once a year** — which pays off the Year-Clock (Ch21).
+- **AIMING = SITING, decided once.** Antipodal focusing is **geometrically automatic**: every great-circle path leaving a point reconverges at the point opposite. Ravar did not build mirrors — **he chose where to stand.** The Mountain sits where it sits because its antipode is the Lau Basin (21.3°S/180°), crust already broken inside the Ring of Fire. *(Ch20: "The Earth does the aiming… What a hand can do is choose where to stand when it lets go.")*
+- **LIGHT'S OFFICE = SURVEY, not optics.** Light keeps the Mountain's position true across deep time against plate motion (~24 cm/yr at the target; **thirty paces a century** — the old "thousand steps per century" was 30× wrong and is retired). Sunk marks, sight-lines, tables, and the **equinox mark down the Archive shaft that the sun trues once a year** — which pays off the Year-Clock (Ch22).
 - **THE FIVE STROKES = PROGRESSIVE FRACTURE**, not resonance build-up. Each load breaks the deep hot rock further, drives water into the cracks, and leaves it shattered, flooded and pressurised, so each successive blow "speaks into the body of the Earth with a larger mouth." **The fifth is the shot; the first four dig its throat.**
 - **FAITH'S TIMING SURVIVES AND STILL MATTERS.** The next load must fall **while the deep place is still open**, before the weight of the world closes the rock again. Too late = a load spent on healed ground; too early = driven into rock moving the wrong way, and it cancels. Faith reads *from the shape of the returning echo whether the deep place is still open.* Her death remains the crisis; "That is why we stop at five" still holds.
 - **₀S₀ IS RETAINED AS DIAGNOSTIC ONLY** — the slow phase-coherent return by which Faith confirms the coupling is live. It is **no longer the destructive mechanism.**
