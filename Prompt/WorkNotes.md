@@ -1669,3 +1669,19 @@ Voice-differentiation (3), human-particularity inserts (4), cataclysm-necessity 
 Wove **Book 5 (Promise)** of the covenant — all five verses, **verbatim from `Supporting document/05 — Scripture & Texts/covenant.tex`** (lines 26–30) — through the decrescendo of light in Chapter 8. A voice takes up the Book of Promise as the Hall begins to give up its light; the Hall chants it back; each verse set in `{scripture}` and interleaved with the existing (approved) decrescendo narration beats, so the imagery aligns: V27 "the darkness shall be thy veil… the eye of Heaven shall not find thee" as the veil of dark falls and the carved eye of Heaven gutters out last; V29's promise of the desert withdrawing as the eye dies; V30 "the people shall be reborn… it was very good" into full dark, just before the one remaining flame. Kailan stays purely observational (no interpretation, per the Ch8 discipline); the "but" inside V28 is untouched (verbatim quoted scripture, exempt from the antithesis ban).
 
 Verified programmatically: all 5 verses byte-for-byte identical to covenant.tex, in order. Compiles **EXIT 0, 451 pp**.
+
+---
+
+## Session 63 — Book-wide response to memoryless Pass 41
+
+Completed the first coordinated amendment cycle against the 92.30-average / 88-overall external verdict. The governing target was objective: final-third causal compression, reduced post-scene interpretation, sharper voice separation, concrete outside human cost, explicit narrator provenance, and scientifically bounded Beast language.
+
+**Manuscript amendments:** front-matter ordering-hand cue; light compression in Ch11 and Ch13; substantial causal compression in Ch19, Ch20, Ch21 and Ch24. Protected all five Justice rooms, Paul’s one-in-five road, the Hall interlock and five payloads, Vigil labour/transmissions, the Clock/Ravar form, Paul’s free choice, Horizon’s return duty, Sela’s consent, the Sheva rite and final Pendulum/warning. Added Paul’s nephew John at the final legal and operational human-cost points; repaired Ch16 so John is consistently the brother’s son. Restored Moussa by name in Sarah’s compact reckoning.
+
+**Physics/canon:** corrected stale Beast canon language. ₀S₀ is diagnostic only; propagation divides, attenuates and smears; observed dynamic triggering is distinguished from the novel’s speculative claim of a catastrophic antipodal cascade.
+
+**Measured result:** chapter-source count ~130,398 → ~126,300 (−4,098); Ch17–24 −3,605. In Ch19–24: `whole` 75→56, `hand` 241→210, `law` 54→41. This is the clean sentence-level compression available without removing protected scenes/events.
+
+**Validation:** narrator/provenance chain Ch17–24 checked; room 63/63, scripture 47/47, founder 1/1, raw braces balanced; no editorial placeholders; `git diff --check` clean; XeLaTeX twice EXIT 0, 343 pp, second pass with no unresolved references. Full ledger: `notes/book-wide-pass-41-status.md`.
+
+**Next exact action:** submit the rebuilt PDF to a fresh memoryless evaluator using the same rubric; act only on recurring objective criticism. If a further major length cut is required, it is now an author-level scene/beat decision. **No staging or commit performed.**
