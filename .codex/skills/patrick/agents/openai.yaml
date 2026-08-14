@@ -1,0 +1,4 @@
+interface:
+  display_name: "Patrick"
+  short_description: "Performance-first chapter rewriting"
+  default_prompt: "Use $patrick to rewrite Chapter N through playable objectives, spoken rhythm, blocking, and pressure."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Theo"
+  short_description: "Reader-memory and ambiguity rewriting"
+  default_prompt: "Use $theo to rewrite Chapter N through first-read experience, delayed recall, revelation, and ambiguity."

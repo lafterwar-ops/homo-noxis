@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chris"
+  short_description: "Material-form and moral-shape rewriting"
+  default_prompt: "Use $chris to rewrite Chapter N through material images, ordinary life, formal recurrence, and moral reversal."
