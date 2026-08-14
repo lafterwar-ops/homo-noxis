@@ -12,7 +12,7 @@
 
 ### The two triangulation landmarks (each pins one coordinate by its bearing, the other by its distance)
 
-- **Reggane — DUE NORTH, ~four to five weeks' walk (~560 km / ~5° of latitude).** Because it is due north, it shares the Mountain's **meridian → gives the longitude.** The march-distance north corroborates the latitude. (Reggane 1960 = the outside world's fire; the longitude crumb of Ch4/Ch10.)
+- **Reggane — DUE NORTH, ~four to five weeks' walk (~560 km / ~5° of latitude).** Because it is due north, it shares the Mountain's **meridian → gives the longitude.** The march-distance north corroborates the latitude. (Reggane 1960 = the outside world's fire; its archive image/name enters in Ch10 and its exact bearing/distance in Ch14. Ch3's ridge flash is a local Threshold-outcrop reflection and supplies no coordinate.)
 - **The Richat Structure (the Eye of the Sahara) — roughly DUE WEST, same parallel (~21° N, ~11.4° W, ~1,200 km).** Because it is due west, it shares the Mountain's **parallel → gives the latitude.** In the lore the Richat is **Atlantis** — the last people to defy the Mountain, drowned when the forest vanished; its ring is their grave and a fixed point to triangulate from.
 
 **Net:** latitude is doubly confirmed (pendulum period **and** the Richat due west); longitude comes from Reggane due north. A reader who has the pendulum's period, Reggane's bearing/distance, and the Richat's bearing can fix the place exactly — which is the whole danger of what K hands Paul.

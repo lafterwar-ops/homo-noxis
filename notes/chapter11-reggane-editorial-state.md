@@ -4,6 +4,8 @@
 **Scope:** Passes 30, 34, 37, 38 and 39; current `chapter11-Reggane.tex`; Chapters 10, 12 and 13; relevant continuity ledgers.  
 **Manuscript action taken:** none. This document diagnoses and arbitrates; it does not revise the chapter.
 
+> **John reconciliation, 14 August 2026:** the 1960 detection / 1974 first-contact chronology and Amastan identity have since been reconciled across Chapters 11 and 13 and the chronology ledger. The current Chapter 11 is 5,997 John-count words after a provenance/voice payment pass. The P0 chronology conflict, P1 camera clarification and P6 stale-ledger items below are retained as editorial history, not current open defects; the current John status governs the freeze.
+
 ## Executive verdict
 
 Chapter 11 has already completed its expansion pass. It is not waiting for more inventions.

@@ -1,20 +1,20 @@
-# Chapters 4–6 — The Turn (K & Paul, room-dominant) — canon
+# Chapters 4–6 — The Turn (room thread / account return) — canon
 
-*Purpose: fix the architecture of the Ch4–6 stretch, decided in the 13 July 2026 brainstorm. This is where the book flips figure and ground — the 2026 interview (K↔Paul) becomes the **main** story and the Mountain account becomes the **side** story — where K proves himself and Paul begins to believe, and where the conspiracy is seeded and begins to escalate. Supersedes the Reveal Sequence's stale Ch3–5 mapping (Oasis is Ch3; the beam-trace is now compressed, not a chapter of its own).*
+*Purpose: fix the architecture of the Ch4–6 stretch, decided in the 13 July 2026 brainstorm and reconciled to the current manuscript. Chapters 4–5 flip figure and ground: the 2026 interview (K↔Paul) becomes the main action while Kailan accelerates the Mountain account. Chapter 6 deliberately lets the Mountain account retake dramatic weight for the Festival and Veil's Chamber, while the room thread persists through the printed-book exchange and the bounded camera coda. This is where K proves himself, Paul begins to believe, and observed surveillance becomes patient investigation. Supersedes the Reveal Sequence's stale Ch3–8 mapping wherever that map disagrees with the current chapters or the Knowledge-State ledger.*
 
 ---
 
 ## 0. Governing principles (the three that hold the stretch together)
 
-1. **Flip the figure and the ground.** Through Ch3 the Mountain account was the main story and the room its interlude. From Ch4 it inverts: the **room (K & Paul, 2026) is the main story**; the **Mountain account is the side story, fast-forwarded.** Ch4 is roughly **80% room.** The inversion is not merely pacing — it dramatizes K's attention turning outward, and it quietly **starves Paul's extraction mission** (K races past the very mechanism Paul was hired to take).
+1. **Flip the figure and the ground, then let it breathe.** Through Ch3 the Mountain account was the main story and the room its interlude. Chapters 4–5 invert that relation: the **room (K & Paul, 2026) becomes the main action**, and the Mountain account accelerates under its pressure. The current Ch4 is ~55% literal room; this supersedes the old ~80% planning target. Chapter 6 is the earned counter-movement: the Festival and Veil's Chamber retake the page, but the room still changes the account through the Iliad, printed Genesis and final operational analogy. The turn is dramatic authority, not a permanent room-percentage quota.
 
-2. **Warmth before paranoia.** Two engines pull K and Paul from adversaries to allies: the *bonding* engine (K proving he is real, Paul beginning to believe) and the *threat* engine (the mirror, the watchers, the op). **Lead with bonding; escalate threat after.** Paranoia is cheap before the reader loves the two men and devastating once there is something to lose. Proof and warmth in 4–5; conspiracy escalating from 6.
+2. **Warmth before paranoia.** Two engines pull K and Paul from adversaries to allies: the *bonding* engine (K proving he is real, Paul beginning to believe) and the *threat* engine (the mirror, the watchers, the op). **Lead with bonding; escalate threat after.** Paranoia is cheap before the reader loves the two men and devastating once there is something to lose. Proof and warmth in 4–5; Chapter 6 converts the threat into patient observation; the visible investigation begins in Chapter 7.
 
 3. **The account continues as cover.** Once K and Paul assume the room is watched, the interview must go on *looking* normal — which is how the tape keeps rolling and how the remaining chapters exist at all. Beneath the surface account runs a **secret understanding** between the two. K's reason is pure Mountain doctrine turned survival tool: **facts first, defend first, understanding not required** — establish the fact (are we watched), act (the covenant, the cover), let understanding come later. From here the book is double-layered: what the ears hear, and what the two men mean.
 
 ---
 
-## 1. Chapter 4 — The Turn *(light, warm, ~80% room)*
+## 1. Chapter 4 — The Turn *(light, warm, room-dominant in dramatic authority)*
 
 The weakest chapter by design — the quiet one — and therefore the one that must be **enriched by everything standing behind it**, not by event of its own. We can tell the quiet story here only because there is so much loaded behind it.
 
@@ -28,7 +28,7 @@ The weakest chapter by design — the quiet one — and therefore the one that m
 
 **The account, fast-forwarded (the side story).** The Mountain material is delivered at a gallop, dismissive: *"a beam is a beam, Paul — do you want me to give you every beam and the measure of every angle? Balance did this, and that, and that other thing; and Sa-Tavan said an interesting thing; back to business."* Three or four vivid, concrete items thrown off at speed — the flavour of the ceaseless machine — with Paul, who needs the data, scrambling to slow him. **Race the texture; protect the load-bearing seeds** (K's own beam, the living-machine character, whatever Ch5+ leans on).
 
-**The "current name" seed (a tell, not the aha).** As a flat, friendly fact, K reveals he too wears a Horizon designation — **Sa-Kilian of Horizon**, recruited by **Ka-Sarah** via **Va-Elise** — which unsettles Paul: the prisoner knows their shared master better than the compartmentalized servant does. Plants Paul's doubt about his own house without breaking it. *(Resurrections — see §6.)*
+**The "current name" seed (a tell, not the aha).** As a flat fact, K reveals he too wears a Horizon designation — **Sa-Kylian of Horizon**, received by **Va-Elise** under **Ka-Sarah** — which unsettles Paul: the prisoner knows their shared master better than the compartmentalized servant does. Kailan refuses to define Horizon in this chapter. Plants Paul's doubt about his own house without breaking it. *(Resurrections — see §6.)*
 
 **Close: the two-day gap.** K threw himself at the swimming and diving; it was hard; he needs to rest and *wants to train further — to give the physician satisfaction on the health part.* So they reconvene not the next day but **two days after.** The training is genuine, is cover, and is a clean **win Paul banks** (*"Yes — I was told"*; his errand succeeded). The gap also **delays Paul's mirror-report**, holding the reader two days in the not-knowing.
 
@@ -38,25 +38,27 @@ The weakest chapter by design — the quiet one — and therefore the one that m
 
 **The lesson: human evolution.** Lucy to Homo sapiens — delivered through **Ascent of Man, ep. 1, "Lower than the Angels"** (Bronowski, 1973; period-safe, and the same series whose Auschwitz ending is the withheld-war reel of the curation device — it earns its place twice). No new documentary required.
 
-**The species reveal — the FACT.** K drops it without ceremony: **"Definitely a Denisovan, Paul — like last time you asked."** (Referring back to the earlier, *inconclusive* comparison.) The genome has spoken.
+**The species placement — the FACT.** Urs delivers the medical report in English; Paul then owes Kailan the result in Noxius. He discloses that the doctors used two blood tubes without first telling Kailan, places the readings on a visible branching figure and limits the conclusion to one man: Kailan's sample sits outside living open-world humanity and the two recovered archaic branches, nearest the ancient company and divided earlier than their later split. The word `Denisovan` never appears on the page. Sarah's `homo absconditus` is expressly a **working file label**, not a scientific verdict. The absorption history, last-remnant claim and Intimate Loss remain embargoed.
 
-**Paul's disbelief.** Not stubbornness — his gut losing to his own method in slow motion. The trust-rule he named in Ch4 obliges him to accept a test result; his instinct refuses. K reads the war on his face: **"Paul, say something. Paul, I can see disbelief in the face of anybody. I am not sure which game we are playing, but I think I am winning."** K has trapped Paul inside the rules Paul gave him.
+**Paul's disbelief.** Not stubbornness: his face lags behind his own method. The trust-rule he named in Ch4 obliges him to accept a repeated result while forbidding either man to make it bear the Mountain's whole history. Kailan reads the lag: **"Paul, I can see disbelief in anybody's face. I am not sure which game we are playing, but I think I am winning."** Paul concedes only the point the test bears. The crack is empirical and relational, not his full later yield.
 
-**The mirror-result (secondary, cold).** Paul's report from behind the glass: **there were men.** K is proven right on the *fact* of watchers — the covenant's first floor activates. But Paul is handed his off-ramp (see §7, the veil): *of course there are watchers — this is Blackwood; nations keep eyes on the empire.* He concedes the fact and disputes the meaning. This sits *underneath* the chapter; its heart is the species-crack, not the conspiracy.
+**The mirror-result (secondary, cold).** Paul's report from behind the glass separates two systems. Two Blackwood security men sit before Sarah's wired CCTV; their presence fulfils the literal Chapter 4 condition, and Paul explicitly refuses to withdraw `I am your man`. A second, disconnected camera records the interview room; Roger Martinez removes its memory without knowing Paul watches. This proves the eye and Roger's custody, not ownership, destination, allegiance or motive. Paul calls it suspicious and refuses to turn the trace into betrayal. The covenant's relational floor activates while the physical Shadow rite remains deferred.
 
 **What is NOT spent here.** The FACT lands; the **YIELD does not.** Paul saying *"I believe you exist — and now—"* is the later, massive beat where he *stops* resisting. Ch5 plants it; it does not fire it.
 
 ---
 
-## 3. Chapter 6 — The Warmth *(less adversarial)*
+## 3. Chapter 6 — Festival *(warmth converted into patience)*
 
-Opens in the new closeness: Paul, cracked by the Denisovan, is warmer, less the interrogator. The reader has fallen for the friendship — and *now* the darkness escalates, biting harder because there is something to lose.
+The room opens in intellectual play: Paul gives Kailan the Iliad, and Kailan gives back the five offices and Kepler's solids. Their argument is no longer an interrogation. The printed Genesis exchange then makes the friendship useful without making either man all-knowing: Kailan supplies the Mountain text; Paul supplies one outside text and promises a translation that will take several days.
 
-**The op begins in earnest.** Who were the men? Could someone be watching **Sarah** — not Sarah watching her staff, but Outsiders watching Sarah? K builds his **operation to defend Sarah** — the revered, distant, unavailable good Keeper — from a perceived internal threat.
+**The account owns the chapter's action.** Va-Maera's confrontation, the complete Mountain Genesis, the ordinary Festival and the timed equinox beam converge. Kailan follows reflection, shadow, focus, turning and threshold return into the Veil's Chamber. The pale token makes the first true ring pattern only there, in the narrow red beam; Raedin returns it to Kailan's hand. Success costs a broken witness seal and ends with Raedin naming Kailan's desire to be seen as the door through which future harm will enter.
 
-**The tragic misdirection (the engine of the whole back half).** K aims the op at the *wrong target.* He reveres Sarah; his suspicion points at spies and infiltrators, never at her. So he can be brilliant and vigilant and entirely wrong — **defending the very hand that is robbing him.** The man whose life was spent keeping any one hand from holding the whole is, by guarding the wrong castle, walking the whole into a single hand. **His defence is the breach.** His loyalty is the veil over the true reveal, and the eventual fall is the more devastating for it.
+**The room does not claim a known monitored channel.** At lunch Kailan takes only the operational lesson available from threshold return: remain still until a change in condition. He says he has found a way and is waiting for an occasion. He does not say the unknown camera is safe, controlled or still being observed, and he does not yet accuse or defend Sarah.
 
-**The intelligence layer — as veil, not plot.** The Blackwood empire (oil, metals, uranium; Sir Edward's entanglements *with* British intelligence and *against* it) is a genuine magnet for national services — MI6, the French, the Israelis, a Gulf service. Use this as the **plausible wrong answer** that lets Paul (and the reader, briefly) file the watchers as ordinary geopolitics and look away from the deeper horror. It is texture and red herring, **never a rival spy-plot with its own staged operatives.** The moment a Mossad officer gets a scene, you have written a different book.
+**The visible investigation moves to Chapter 7.** There Paul brings a map built from the pendulum and a bounded history of Roger Martinez. He can place French institutions around Martinez but refuses to call him an intelligence officer without proof; Sarah and Urs remain outside the enquiry. This preserves the later tragic misdirection: Kailan will defend the Keeper he reveres while refusing to let a suggestive trace become a verdict.
+
+**The intelligence layer remains a veil, not a rival plot.** The Blackwood empire and French desert history may make state attention plausible, but no named service owns the unexplained camera on inference alone.
 
 ---
 
@@ -73,7 +75,7 @@ Opens in the new closeness: Paul, cracked by the Denisovan, is warmer, less the 
 ## 5. Parked / reserved — do NOT spend in 4–6
 
 - **Paul's full yield** — *"I believe you exist. And now—"* — the beat where the sceptic stops resisting. Later.
-- **The Horizon = Outsiders aha** — Paul's recognition that his own employer is the cursed line's cunning return, using him to assemble the whole; Sarah its architect. The **Book-1 → Book-2 hinge**, triggered by the **Tomb and the Trial**, when Sarah Blackwood's name surfaces inside the Mountain's sealed Shield archive. Do not detonate early; K's misdirected loyalty is the veil that protects it.
+- **The Horizon = Outsiders recognition** — Paul's recognition that his own employer is the cursed line's cunning return, using him to assemble the whole; Sarah its architect. It belongs to the later standalone arc, after the Tomb and Sarah's testimony begin to join the two histories. Do not detonate in Chapters 4–6; K's misdirected loyalty is the veil that protects it.
 - **"Geometry is god himself"** (Kepler) — parked toward the **beam / Genesis-gravure** reveal, where the Mountain's divinity turns out to be an angle.
 
 ---
@@ -82,7 +84,7 @@ Opens in the new closeness: Paul, cracked by the Denisovan, is warmer, less the 
 
 Two binned ideas are revived for this architecture; The Bin annotates both midden entries `RESURRECTED →` rather than deleting them.
 
-- **"Sa-Kilian of Horizon"** — the frozen-draft *operational rename* ("Sa-Kylian") was binned as belonging to the exiled-operative ending. **New use is distinct:** not a field alias for an exile, but K's **intake designation as a Horizon specimen** — the former Va-Kailan filed back down to a *Sa-* (candidate) — which he throws in Paul's face to show he sees the apparatus. The binning reason does not touch the new use.
+- **"Sa-Kylian of Horizon"** — the frozen-draft operational rename was binned with an earlier ending, then restored by the current Horizon intake and Chapter 16 transfer canon. In Ch4 it functions as K's **intake designation** — the former Va-Kailan filed back down to *Sa-* (candidate) — and a compartmentalisation tell for Paul. The full intake remains narrated later.
 - **"Va-Elise de Montgolfier"** — Élise de Montgolfier was binned as a creature of the dead 2020s frame (surviving only as bare "Va-Elise"). **New use is distinct:** a **2026 Horizon intake figure**, part of K's recruitment chain (Ka-Sarah → Va-Elise → JC). The name earns its keep — *Montgolfier*, the balloonists, ascension, the view from above — rhyming with Ascension (Ch1), with Horizon (the far line seen only from altitude), and with the Mirror/panopticon.
 
 ---
@@ -92,7 +94,7 @@ Two binned ideas are revived for this architecture; The Bin annotates both midde
 The covenant's condition resolves on two levels, at two times — the gift that keeps the second from feeling telegraphed:
 
 - **Floor 1 (Ch5): proven right that there are watchers.** The op is justified; the covenant activates; the defence begins. Paul concedes the fact, disputes the meaning (the intelligence veil).
-- **Floor 2 (Book 2): proven right about a thing he never even suspected** — that the mission's own head, the Keeper he built the op to *protect*, is the enemy he built it *against*. The first proof arms the op; the second inverts it. Because K aimed everything at spies and never at Sarah, the second lands like the floor dropping, not like a promise being kept.
+- **Floor 2 (later in the standalone arc): proven right about a thing he never even suspected** — that the mission's own head, the Keeper he built the op to *protect*, is the enemy he built it *against*. The first proof arms the op; the second inverts it. Because K aimed everything at spies and never at Sarah, the second lands like the floor dropping, not like a promise being kept.
 
 ---
 
@@ -100,16 +102,16 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 | Item | Locked value |
 |---|---|
-| Ratio (Ch4) | ~80% room, ~20% account (account fast-forwarded) |
-| Governing law | Room = main story; account = side story; **warmth before paranoia**; account continues **as cover** |
-| Ch4 | The Turn — Cosmos; trust-methodology; the gift (open sky) + the playful mirror-check; covenant seeded; fast-forward account; "Sa-Kilian of Horizon" tell; 2-day training gap |
-| Ch5 | The Proof — Ascent of Man (human evolution); **"definitely a Denisovan, Paul"**; Paul's disbelief; "I think I am winning"; mirror-result ("there were men") underneath |
-| Ch6 | The Warmth — closeness, then the op to **defend Sarah** begins; intelligence layer as **veil** |
+| Ratio (Ch4) | **Current manuscript: ~55% literal room by John count.** This supersedes the old ~80/20 planning target: the room has dramatic authority because it interrupts, challenges and cashes every accelerated account block; do not pad dialogue or cut the account's evidence chain to chase a percentage. |
+| Governing law | Ch4–5 room action flips the figure; Ch6 returns weight to the account without dropping the room investigation; **warmth before paranoia**; testimony continues **as cover** |
+| Ch4 | The Turn — Cosmos; trust-methodology; the gift (open sky) + the playful mirror-check; covenant seeded; fast-forward account; "Sa-Kylian of Horizon" tell; 2-day training gap |
+| Ch5 | The Proof — human-evolution films; a repeated medical sample placed on Paul's branching figure; `homo absconditus` as Sarah's file label, never a scientific verdict; Paul's reason accepting what his face resists; `I think I am winning`; two CCTV men fulfil the lawn condition; the disconnected camera and Roger's custody remain bounded traces |
+| Ch6 | Festival — Iliad/five solids; Va-Maera and complete Genesis; printed-book collision; Festival beam and five-shadow descent; Veil's Chamber diffraction; Raedin's warning; lunch coda converts the unknown camera into **waiting for a change in condition**, not a controlled channel |
 | Sarah | Revered, offstage, unavailable; **no villain-tells**; K defends, never accuses |
-| Paul | Sincere, compartmentalized; method stated (Ch4), confronted (Ch5); seeded doubt, **no break in Book 1** |
+| Paul | Sincere, compartmentalized; method stated (Ch4), confronted (Ch5); seeded doubt, **no break in Chapters 4–6** |
 | K's method | Facts first, defend first, **understanding not required** |
 | The magneto | K's "private" covenant is on the tape the enemy seizes — the safe channel is the leak |
-| Parked | Paul's yield; the Horizon=Outsiders aha (Tomb/Trial, Book-2 hinge); "geometry is god" (→ the beam) |
+| Parked | Paul's yield; the later Horizon=Outsiders recognition; "geometry is god" (→ the beam) |
 | Reggane / flash | Unchanged: flash = Tomb-reflection (Ch3); Reggane / longitude **Ch10 only** |
 
 ---
@@ -118,9 +120,9 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 *What the architecture above planned, the drafted chapter now fixes. Where a beat below sharpens or overrides the plan, this section governs for Ch4. (For the offices-as-sciences reading behind the optics, salt-house, and Sa-Tavan's method, see `The Kahirs as Disciplines — Sigils & Sciences — canon (EMBARGOED background)`.)*
 
-**Frame & cadence.** This is **Interview 3, 21 Nov 2026.** The interviews run **every other day — 17 / 19 / 21.** Ch4's account is the **beam-walk day** — the **morning after the Oasis** (the Oasis was the whole of the previous day). The beam was *given* the morning after the Mirror; the Oasis intervened; K returns now to walk it. So the account's own clock: Mirror → (beam given) → Oasis (a full day) → **the beam-walk of this chapter.**
+**Frame & cadence.** This is **Interview 3, 21 March 2026.** The interviews run **every other day — 17 / 19 / 21.** Ch4's account is the **beam-walk day** — the **morning after the Oasis** (the Oasis was the whole of the previous day). The beam was *given* the morning after the Mirror; the Oasis intervened; K returns now to walk it. So the account's own clock: Mirror → (beam given) → Oasis (a full day) → **the beam-walk of this chapter.**
 
-**Population & standing.** The Mountain holds **~3,000 souls.** Among the **first ~thirty** stands a **Candidate of Light.** K's own standing: **servant of Light from age 12**, and **ascended to Candidate two days before** this day. He therefore has both **the hands** (the menial habits of the servant he was) **and the doctrine and the robe** (the Candidate he now is). His servants — **Oren (20)** and **Sela (14)** — teach him nothing; **he commands and corrects them.** Crucially, he does *not* command them in the **cryptic, withholding** way the office speaks *downward* to him: he gives the order and, unlike his betters, is not miserly with the reason.
+**Population & standing.** The Mountain holds **~5,000 souls.** Among the **first ~thirty** stands a **Candidate of Light.** K's own standing: **servant of Light from age 12**, and **ascended to Candidate two days before** this day. He therefore has both **the hands** (the menial habits of the servant he was) **and the doctrine and the robe** (the Candidate he now is). His servants — **Oren (20)** and **Sela (14)** — teach him nothing; **he commands and corrects them.** He gives Oren the reason for protecting the test-glass, then withholds the beam's purpose from Sela when rank gives him something she wants. The inconsistency is deliberate and is challenged by Paul in the room.
 
 **The craft (no "three laws").** There is **no formalised triad** of laws or questions. **Va-Raedin's instruction is the whole of it:** *keep hold of your own beam; mark whatever stands on its road that has no business there.* That single charge carries the discipline.
 
@@ -154,7 +156,7 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 **Continuity notes vs the plan above.**
 - The **documentary** planned for Ch4 was **Cosmos / the heavens** (§1); as written, the chapter's spine is the **beam-walk account** and the room's covenant gambit. The trust-methodology and Cosmos material stated in §1 remain the chapter's philosophical engine; the beats logged here are the *account* and *climax* as drafted.
-- **"Sa-Kilian of Horizon"** and the **Ka-Sarah → Va-Elise → JC** chain (§1 tell, §6 resurrection) are the recruitment-chain seed; the **contraband-light mystery** is the account-side load this chapter now carries into Ch5.
+- **"Sa-Kylian of Horizon"** and the **Ka-Sarah → Va-Elise** intake chain (§1 tell, §6) are the recruitment-chain seed; the **contraband-light mystery** is the account-side load this chapter now carries into Ch5.
 - The **mirror-check** is here escalated to the **"Mirror in this house"** accusation with full tradecraft and the Sarah reframe — a sharpening of §1's "still playful" framing toward the op that §3 (Ch6) opens.
 
 ---
@@ -167,10 +169,10 @@ The covenant's condition resolves on two levels, at two times — the gift that 
 
 ---
 
-## 7. Chapter 6 (Shadow induction) — opening image (planned; not yet written)
+## 7. Chapter 6 continuation — as written
 
-**Dominoes → chain reaction.** Ch6 is to open on **falling dominoes** as the picture of a **chain reaction** — one topple loosing the next, force propagating down a line that a single push began. **Tie it back to Ch3's age-of-the-rocks** (the deep-time decay K read in the Oasis stone): the very process that *dates* the rock (steady radioactive decay) is, when **chained**, the Beast. Seeds reactor/weapon logic without naming it, and rhymes physics-of-time (Ch3) with physics-of-fire (the Beast). *(Forward note from François; render when Ch6 is drafted.)*
+Chapter 6 opens with the Iliad/Discord interpretation and turns the five solids into a five-office reading before Kailan resumes the account. The five shadows then become the physical order of the Veil's Chamber road. The old falling-domino/chain-reaction opening was a planning option and is superseded; do not treat it as an unpaid Chapter 6 obligation.
 
 **Misuse as method (Ch5, now on the page).** Va-Raedin's *"Misuse teaches"* is expanded into the fuller doctrine — *the wrong instrument, in the wrong hand, in the wrong room, with an erring intent, is how a thing is found; whether the finder outlives his finding is a second lesson* — a deliberate **foreshadow of the Trial / the Tomb** (survival of the discovery). Keep the survival question live downstream.
 
-**Lens line → requoted at the Trial (Ch5 plant → Ch12 payoff).** The focus-station aside about the place closest to judgment — *"It is sometimes a place. You only learn its position too late."* — reads as generic wisdom in the optics lesson, then is **quoted back at K during the Trial**, where he learns judgment's position exactly too late (his own *mirage* surfaced, the division-of-knowledge verdict landing before he can move). Plant it plain and unremarkable in Ch5; let Ch12 return it as the blade. *(François line-pass note.)*
+**Doorway line → same-chapter payment.** Va-Raedin's current focus lesson is: *"You cannot judge a room from its doorway. You will spend your life in doorways. Move before you judge."* On the lawn Paul supplies the rest of the room: Sarah's lawful CCTV, the second disconnected camera, Roger's observed custody and the evidence limits. Kailan then recognises that he had enlarged one mark into a wound and withdraws the physical rite. The older planned `closest to judgment` / Trial quotation exists in neither current chapter and creates no dependency.

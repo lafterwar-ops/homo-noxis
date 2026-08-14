@@ -1,97 +1,63 @@
 # John — Chapter 15 — Status
 
 - Chapter: `manuscript/chapters/chapter15-Knocks.tex`
-- State: FROZEN
-- Phase: 13 — Validate and freeze
-- Last updated: 2026-08-13
-- User constraints: Run the full John process on Chapter 15; never stage, commit, or push; Chapters 1–14 are immutable incoming canon; any newly created obligation may move only into Chapter 16 or later.
-- Working-tree baseline: Chapter 15 is tracked and clean. Pre-existing modifications from earlier John passes affect Chapters 12–14 and Supporting Documents 01, 03, 04/09, 07, 08, 09, 10, and 11; `.codex/` and `notes/john/` are untracked. Preserve all of them.
-- John-start word count (W0): 1,831
-- Word-count method: deterministic PowerShell count after removing unescaped `%` comments and LaTeX command names/options, then counting Unicode letter/number tokens with internal apostrophes or hyphens; reuse the same function at every checkpoint.
-- Permitted word-count band: 1,648 to 2,014 words, inclusive
-- Current word count: 1,822
-- Rewrite iteration: 2
+- State: FROZEN (lawful pass, 2026-08-14; author-approved move list executed exactly)
+- Phase: 13 — validated and frozen (full-book compile pending on the author's machine)
+- Last updated: 2026-08-14
+- User constraints: **The source law governs absolutely: the chapter is the tape.** No prose narration of the present frame in any voice; staging enters only through recorded speech and the transcript conventions (`--- ` turns, vocatives, `\centerline{\textit{[\,…\,]}}` annotations as in Ch17, bare `[\,---\,]` for silence). Propose-first: every move was approved by the author before the file was touched. Never commit, push, or stage.
+- History: a 2026-08-14 pass that added K-voiced frame narration was **fully reverted by the author** as a source-law violation (see "Voided pass" below). This pass replaces it.
+- John-start word count (W0): 1,817 (original restored text)
+- Word-count method: deterministic Python LaTeX tokenizer (documented in the voided record; unchanged; script `tokenize.py`).
+- Final word count: **1,794** — inside the standard ±10% band (1,635–1,999). The earlier growth authorization (to ~2,500–3,000) went unused: under the source law the honest ceiling is the transcript itself, and dialogue was not padded to reach a number.
+- Rewrite iteration: single approved draft; no further iteration (remaining gains within the law would require stuffing recorded speech — declined).
 
-## Governing diagnosis
+## Approved moves executed (all seven; nothing else)
 
-The chapter already possesses a strong dramatic proof-chain and a distinct identity as the book's pure present-day room: Kailan's bodily memory becomes Paul's matched evidence; the evidence becomes Sarah's succession archive; the archive becomes a death calendar; the live double drawing then makes lawful succession impossible and forces the exile road. Its soul lies in Kailan recognising two deaths he loved on anonymous strips of paper, and in the Bowl analogy turning sacred memory into scientific method.
+1. **Four transcript annotations** in Ch17's exact form, recording only what the tape catches: `[\,Footsteps above with weight in them. Through the wall, the pen.\,]` (opening); `[\,A cord unwound. Two papers laid beneath the lamp beside the drum's sheet.\,]` (replacing the bare beat at the folder); `[\,Behind the wall the pen begins, draws, stops.\,]` (the silence before "Who."); `[\,The full reel cased. A new reel threaded.\,]` (close — hands Ch16 its road reel and keeps Ch17's Knocks-reel substitution evidence intact). The two other bare `[\,---\,]` beats remain bare.
+2. **Fog reduction in-room only:** Sarah's decoupling turn now opens "That is the whole of it, Mr Morgan." One vocative; no tags, no other changes.
+3. **Paul's folder turn rebuilt for agency** (the plant is public since Ch13 l227): "This folder was put into my hands the week I came here: two traces already inside it, dated down the margin in a hand that is not mine. Madame wished to see what I would do with it… So this is what I do with it: we open it now, before the road." His "Here." turn drops the duplicated origin sentences and goes straight to the traces.
+4. **The mornings deepened inside K's speech:** before "These two are mine," he speaks the typed margin — "There is a day typed down the margin, and an hour. At that hour the ceremony had worn down into prayer, and I stood among the elders with my feet on the stone, counting; and this pen was turning in the dark of another country while I counted." Everything after stands verbatim.
+5. **Ch16 duplicate and dangling antecedent removed:** "And no Keeper was near the chain. I said it when it drew… There was no morning due." is cut (Ch13's page shows him saying the opposite; Ch16's closing room and Ch17's opening own the rising-without-death argument). Sarah's stated-and-eliminated alternative ("One could still be an emergency readiness. Reggane taught us that.") and K's "It drew twice. Inside the single hour…" stand untouched.
+6. **"until this morning" → "until tonight"** (nocturnal scene).
+7. **Bowl recap trimmed to the recognition** ("The Bowl of the Last Prayer. … You are telling me the ground is a Bowl…"); the mechanics recap belongs to Ch1 and K's fuller Ear speech to Ch17. *(Presented as optional-recommended; author said go without striking it. The cut line — "You give its Ear the one true note… whether the note is the note." — is quoted here for one-line restoration if wanted.)*
 
-The draft nevertheless contains material defects. It compresses the locked readiness rite from roughly one hour and forty-two minutes to “a silence, two,” and says the Hall had half emptied before the answer even though Shield opens the exits only afterward. It repeatedly violates the room rule against mid-sentence em dashes. Paul and Sarah blur during the evidence sequence: the cavity-decoupling explanation belongs to Sarah's seismic history, while Paul's proper role is to delimit what two imperfect traces can prove. The live paper is called an actual succession instead of an apparent succession signature, weakening the later Mock reveal. Finally, “the one hour we are weakest” and “out here in your country” are causally or geographically imprecise.
+Explicitly NOT done: Sarah's 1960 Reggane fold stays in her coat — Ch17's "Bring me the drill cabinet, all of it back to the first paper I ever folded" owns that reveal; bringing it out in Ch15 would pre-spend the cabinet. No narration anywhere. No new objects, characters, or mechanisms. Chapters 1–14 and 16–24 untouched.
 
-## Locked decisions
+## Score (single approved draft, scored fresh against 14 and 16)
 
-- Chapters 1–14 are fixed incoming evidence and will not be edited by this pass.
-- Preserve Chapter 15's unique pure-room form unless diagnosis demonstrates that it fails.
-- Preserve the Chapter 14 live-alarm handoff and Chapter 16 road/erasure handoff.
-- Preserve the four-step proof architecture: remembered knock → matched traces → death calendar → impossible live recurrence.
-- Preserve Kailan's Bowl analogy and his claim that the two historical mornings are his.
-- Keep the initial two live drawings unresolved here; Chapter 17 owns the surface-sounding diagnosis.
-- Paul will delimit evidence; Sarah will own monitoring, custody, and cavity-decoupling expertise; Kailan will reason through body, sacred objects, space, and moral injury.
-- Readiness may follow a succession or an existential alert. One unpaired signature therefore permits the Reggane alternative; only the second signature inside an hour rules out every lawful readiness.
-- The five leave through five private office routes and converge beyond the public Hall; Chapter 15 may expose the routes and hidden destination without disclosing the full machine.
+| Component | Score |
+|---|---:|
+| Dramatic and emotional force | 16/20 |
+| Architecture and causal legibility | 18/20 |
+| Character depth and voice differentiation | 14/15 |
+| Prose, imagery, sentence control | 13/15 |
+| Canon, knowledge-state, continuity | 15/15 |
+| Pacing, compression, word-count discipline | 9/10 |
+| Transition and downstream payoff | 5/5 |
+| **Total** | **90/100** |
 
-## Architecture and arbitration
-
-1. Sarah's second interruption opens an ownership conflict over the account and the alarm.
-2. Kailan reconstructs the two lawful rites with their true duration, bodily sequence, and hidden route.
-3. Paul discloses the two planted historical traces and states the limits of comparison.
-4. Kailan supplies the Bowl model; Sarah explains why the regional signal was weak; Paul withholds false certainty.
-5. Kailan recognises the papers as two deaths he witnessed, then derives Sarah's calendar and the live vulnerability it exposes.
-6. The two current drawings are named as a succession signature that lawful succession cannot produce twice.
-7. The answer to who made it is deferred to the exile road, forcing Chapter 16.
-
-Phase 3's thirty-candidate expansion is skipped: the chapter has already completed structural invention, and its exceptional compression is part of its identity. Arbitration adopts a bounded correction package rather than adding furniture: restore canonical rite duration and exit order; differentiate the three voices; move cavity-decoupling into Sarah's register; distinguish signature from event; sharpen vulnerability and geography; enforce room mechanics. Physical evidence already remains present through the recorder, folder, lamp, case, papers, and three silent beats.
-
-## Changes made
-
-- `notes/john/chapter-15-status.md`: created the durable checkpoint and locked the baseline.
-- `notes/john/chapter-15-status.md`: recorded Phases 1–5 diagnosis, architecture, expansion ruling, and intervention package.
-- `manuscript/chapters/chapter15-Knocks.tex`: restored the readiness rite's five equal intervals plus answer; corrected the Hall's occupied state and five-route geometry; enforced room punctuation; made Paul's folder and evidentiary restraint physical; placed cavity-decoupling in Sarah's seismic voice; made Horizon-name matching necessary to the death calendar; allowed the emergency-readiness alternative and let the second live signature eliminate it; preserved the Bowl analogy, the two-mornings grief beat, and the Chapter 16 handoff.
-- `manuscript/Supporting document/04 — Story & Series — Structure & Craft/09 — Scene-Function, Source & Architecture Map (all 24 chapters).md`: refreshed Chapter 15 to 1,822 words and recorded the corrected causal distinction.
-- `manuscript/Supporting document/09 — Setup & Payoff — continuity ledger.md`: distinguished Chapter 15's limited Bowl model from Chapter 17's whole-Mountain payoff and recorded the emergency-readiness elimination.
-- `manuscript/Supporting document/10 — Object Custody — continuity ledger.md`: completed the engagement-folder chain through Paul's four-day hold and Chapter 15 opening.
-- `manuscript/Supporting document/11 — Knowledge-State — continuity ledger.md`: corrected the present-frame heading to March–April 2026 and added the Chapter 15 calendar/live-anomaly knowledge state.
-
-## Score history
-
-| Draft | Score /100 | Change | Word count | Defects targeted | Verdict |
-|---|---:|---:|---:|---|---|
-| First complete draft | 96 | — | 1,815 | Canonical rite duration and exit order; room mechanics; evidence roles; signature/event distinction; vulnerability and geography | Baseline retained. Subscores: dramatic/emotional 19/20; architecture/causality 20/20; character/voice 14/15; prose 14/15; canon/continuity 14/15; pacing/word discipline 10/10; transition/payoff 5/5. Remaining losses: Paul's opening is too aphoristic; the apparent live answer is stated too positively; Chapter 17's forensic correction needs a cleaner runway. |
-| Rewrite 1 | 98 | +2 | 1,783 | Paul's evidentiary register; folder made physical at opening; live trace called a signature with a mark where the answer should be | Retained. Subscores: dramatic/emotional 19/20; architecture/causality 20/20; character/voice 15/15; prose 14/15; canon/continuity 15/15 provisionally; pacing/word discipline 10/10; transition/payoff 5/5. Adversarial audit then found a remaining geometry defect: one secret door falsely replaces the five office routes converging on the shared Hall of Cataclysm, and the vulnerability claim inherits that false furniture. |
-| Rewrite 2 | 100 | +2 | 1,822 | Five-route/shared-Hall geometry; Reggane emergency-readiness alternative; names-plus-dates calendar proof; second signature as the decisive impossibility | Retained and frozen. Subscores: dramatic/emotional 20/20; architecture/causality 20/20; character/voice 15/15; prose 15/15; canon/continuity 15/15; pacing/word discipline 10/10; transition/payoff 5/5. No material defect remains under the fixed rubric. |
-
-## Forward obligations (chapters > N only)
-
-- None. Chapter 17 already owns and supplies the surface-sounding diagnosis, the false-answer discrimination, and the whole-Mountain Bowl payoff; the final continuous read verified that handoff.
+Held points are the form's honest price: a narratorless three-voice room has a hard ceiling on staged force, and that austerity is the design — Ch17 retro-justifies it. Any future attempt to buy those points with narration is forbidden by the source law above.
 
 ## Validation completed
 
-- Resolved exactly one target file: `manuscript/chapters/chapter15-Knocks.tex`.
-- Confirmed the target has no pre-existing Git diff.
-- Recorded the dirty-tree baseline without staging or committing anything.
-- Established W0 and the fixed ±10% band.
-- Read Chapters 14–16 continuously for incoming and outgoing causality; consulted Chapters 1, 8, 13, 17, and 20 where the knock/readiness chain required it.
-- Read the voice canon, Beast mechanism canon, scene-function map, Blackwood canon, chronology, setup/payoff, object-custody, and knowledge-state ledgers.
-- Completed the first draft at 1,815 words, inside the fixed band.
-- Confirmed no mid-sentence `---` remains inside a Chapter 15 room turn.
-- Completed Rewrite 1 at 1,783 words and Rewrite 2 at 1,822 words; every scored state remained inside 1,648–2,014.
-- Explained the final causal chain in plain steps: two witnessed lawful rites → two imperfect but independently dated traces → Horizon names separate successions from alerts → first live signature permits emergency readiness → second inside an hour rules out a lawful rite → the exile road becomes the only available source of identity and motive.
-- Voice audit passed: Kailan remains religious/spatial/embodied/moral; Sarah evidentiary/operational/custodial/self-indicting; Paul empirical/mechanical/dry and cautious. Paul uses no contraction and never speaks Kailan's name.
-- Adversarial audit passed: the two planted traces retain their Ch13 custody and motive; comparison limits are stated; one lawful-alert alternative is raised rather than suppressed; the Bowl analogy prepares rather than steals Chapter 17's payoff; no single-door machine furniture remains.
-- Systems audit passed against Chapters 1, 8, 13, 14, 16, 17, and the Beast canon: five strokes one long measure apart, one equal wait to the answer, five private routes, emergency-readiness possibility, cavity decoupling, name-matched succession calendar, and unknown live source all agree.
-- Payment pass retained the new dramatic material and found no redundant unit whose removal improved the full experience.
-- Continuous Chapter 14–16 read passed: Chapter 14's dry second trace forces Chapter 15; Chapter 15's unresolved maker forces the road; Chapter 16 begins by correcting the listener's appetite from escape to erasure. Chapter 17's opening resolves the source without requiring a new forward edit.
-- Final static LaTeX checks passed: one balanced `room` environment, 17/17 unescaped braces, 32 legal room turns, three legal silent beats, no percent-comment corruption, and no internal room em dash.
-- Searches found none of the superseded claims (`half emptied`, `a short while`, singular secret door, one-hour weakness, Swiss-source geography, or every-knock-equals-death).
-- Governing ledgers agree with the 1,822-word manuscript and its final causality.
-- `git diff --check` passes across the complete dirty working tree.
-- `git diff --cached --name-only` is empty: nothing is staged. No commit or push was performed.
-- XeLaTeX was not rerun because the immediately preceding John pass established the unchanged external blocker: MiKTeX cannot initialise its unfinished per-user installation. Static validation is complete and no build artifact entered the repository.
+- Word count 1,794 by the documented method; envs `room` 1/1; brace balance 0; no doubled blank lines; no trailing whitespace; zero prose outside the room environment (verified programmatically); 4 annotations exactly matching Ch17's `\centerline{\textit{[\,…\,]}}` form; zero contractions in any turn (apostrophes are possessives only: Light's, Horizon's, teacher's, drum's); Paul never speaks K's name; no mid-sentence em-dash inside any turn.
+- Continuity verified: Ch13 l221–267 (plant public, first knock named by K, double within the hour, mobilization orders); Ch14 interrupt and coda (drum continuous, second trace dry under the lamp); Ch16 closing room sole carrier of rising-without-death; Ch17 opening re-argues it and the cabinet reveal retains the 1960 fold.
+- Concurrent-session check at write time: the sequential John sweep was inside Chapter 10; Chapters 14–16 untouched since baseline. Chapter committed with an mtime guard against the reverted state.
+- **Limitation:** XeLaTeX unavailable in this environment; full-book compile pending on the author's machine. The chapter uses only established macros.
 
-## Remaining work
+## Forward notes
 
-- None. Chapter 15 is frozen.
+- Scene map §2 still lists Ch15 at "(1,822)"; the current count is 1,794 by this pass's tokenizer. Left for the next map refresh by the session that owns the map's tokenizer, to avoid ledger contention; "pure present-day room" remains true and correct.
+- No forward obligations created in any chapter.
+
+## Voided pass (history — binding lesson)
+
+The earlier 2026-08-14 pass added present-tense frame narration in Kailan's voice. **Violation:** in this manuscript no text reaches the reader unhandled; the Swiss-house present exists only as what the machines caught plus Paul's provenanced editorial matter. Kailan has no compiling hand in the Swiss frame; first-person grammar does not create provenance; the narration was an omniscient hand wearing his voice. The author reverted it in full. **Rule for Chapters 15 and 17: the chapter is the tape. No prose narration of the present frame, in any voice, under any justification.**
+
+## Reopen conditions
+
+A demonstrated contradiction (including a compile failure), a consequential change to Chapters 13–17, or an explicit author instruction. Otherwise do not continue polishing.
 
 ## Exact resume instruction
 
-Chapter 15 is frozen. Reopen only for a demonstrated contradiction, a consequential later change, or an explicit user instruction. If reopened, first verify the 1,822-word manuscript and this score history against the working tree.
+None — FROZEN. If reopened: `continue John(chapter 15)`, state the reason, and obey the source law above.

@@ -20,7 +20,7 @@ Every addition reinforces that. Nothing added turns on the hero; everything leak
 
 Never stated as exposition; **inferred.** Let the reader feel it through: districts never visited, workshops never entered, professions never needed, people whose lives never cross his, queues, apprentices, old masters, deliveries, maintenance, inventories, repairs, arguments over ordinary things.
 
-**Canon action:** Ch4 currently says *"a Mountain of some three thousand."* Raise to *"some five thousand"* (or soften to "thousands upon thousands") so the felt scale and the stated number agree. This is the only place the number is spoken; keep it that way.
+**Canon action completed:** Ch4 says *"some five thousand souls."* This is the only place the number is spoken; keep it that way.
 
 **District map** (a handful visited, most only glimpsed):
 - *Visited:* the Hall of Ceremony; Light's practice halls & old gallery; the family quarters (by Kahir); the food galleries; the washing pools; the child halls; the salt-house; the kitchens/bakeries; the lower cells; the Oasis and its pens (outside).

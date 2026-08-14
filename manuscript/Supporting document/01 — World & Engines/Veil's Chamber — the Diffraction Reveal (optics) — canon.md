@@ -50,9 +50,18 @@ Take λ = 650 nm and a chamber throw of **L ≈ 6 m** (aperture to far wall):
 Clean rings need the light to arrive **coherent** — orderly in phase — in two senses, both already provided:
 
 - **Temporal (colour) coherence** → the **red glass** (§1). One wavelength = waves that stay in step.
-- **Spatial coherence** → the **focused beam.** Because the light reaching the token is a **focused/collimated ray** from Light's optics (effectively from a small, distant, point-like source), it is spatially coherent enough to draw the rings. A broad, uncollimated glow would wash them out; a focused beam will not.
+- **Spatial coherence** → the **focus chamber's spatial filter.** The broad red solar beam is focused so a small image of the Sun falls on a fine aperture; only the light admitted by that point-like opening enters the next chamber. A second converging lens in a sliding frame recollimates the spreading cone into the narrow parallel beam delivered to the token. A merely narrow unfiltered solar beam would retain the Sun's extended angular source and wash out the final rings.
 
-This is why the reveal lives in the **Veil's Chamber specifically**: it is the one place with both a **precisely focused beam** *and* the crafted **red glass** and **pierced token** — the last, most advanced instruments of Light. A shepherd with a lamp could never see it; a Veil with the chamber's optics can.
+This is why the reveal lives in the **Veil's Chamber specifically**: the whole approach is the apparatus. The Festival shaft and red glass supply the narrow colour; the focus station converts the Sun into an effective point source and recollimates it; the crafted pierced token finally diffracts that prepared beam. A broad lamp or unfiltered sunlight would not make the carved answer.
+
+**Current on-page order (Chapter 6, locked after John pass):**
+
+1. Festival mirror routes broad sunlight through deep red glass.
+2. An opaque stop casts a circular shadow that conceals the floor lid; removing it reveals the seam. It does **not** make a preview Airy pattern.
+3. First converging lens forms a small red solar image on the spatial-filter aperture.
+4. The aperture transmits a weak spreading cone; a second converging lens recollimates it into a two-finger beam.
+5. Refraction and threshold-return stations steer that beam to the Veil's Chamber.
+6. The **candidate token** is the only diffracting aperture whose Airy rings are shown and measured. At ~0.15 mm aperture and ~6 m throw, the first dark ring is ~3.2 cm from centre: roughly two finger-widths, with several fainter rings crossing Kailan's palm.
 
 ---
 
@@ -80,5 +89,5 @@ The reviewer's phrase "precisely formed circular structures" is exactly right an
 | ~1 mm hole? | Works but rings only ~5 mm wide at 6 m — **too small; retire the "millimetre" figure** |
 | Governing relation | r₁ = 1.22 · λ · L / D (first dark ring) |
 | Example | λ=650 nm, L=6 m, D=0.15 mm → rings **~3 cm** radius |
-| Coherence | colour ← red glass; spatial ← the focused beam |
+| Coherence | colour ← red glass; spatial ← focused solar image through filter pinhole, then recollimating lens |
 | Why crafted | ragged hole blurs rings → token worked truly circular & sharp |

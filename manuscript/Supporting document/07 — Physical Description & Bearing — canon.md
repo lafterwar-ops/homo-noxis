@@ -10,8 +10,8 @@
 
 ### Kailan (Sa-Kailan → Va-Kailan; operational "Kylian / Sa-Kylian")
 - **Age/arc:** boy apprentice → Veil of Light → exile in his prime → the aged narrator of the present frame. Voice ages; body is shown chiefly through office and injury.
-- **Signature marks:** the **white Veil-of-Light knot/cloth bound at the wrist** (Ch8, Ch10, Ch12) — his rank made visible; after sentence in Ch14, **Va-Sheva covers the white knot with dark Shield cloth and secures it with a dark cord below**, exactly as Ch16 remembers it. The wrist is his recurring self-locating detail.
-- **Bearing:** ceremonial composure drilled over fear ("washed, robed, composed, no visible dust on my sandals," Ch10); the trained eye that "sees the seam others walk over" (Ch13) — his identity is his *gaze/reading*, not his face.
+- **Signature marks:** the **white Veil-of-Light knot/cloth bound at the wrist** during the Ch7 preparation and made lawful in Ch8 — his rank made visible; after sentence in Ch14, **Va-Sheva covers the white knot with dark Shield cloth and secures it with a dark cord below**, exactly as Ch16 remembers it. The wrist is his recurring self-locating detail.
+- **Bearing:** training persists through fear: his feet retain the outward count, the still star corrects his bearing, and he brushes disturbed dust into older wear after the Ch10 trespass; the trained eye that "sees the seam others walk over" (Ch13) — his identity is his *gaze/reading*, not his face.
 - **Do not:** give him a static beauty inventory. He is the narrator; we rarely see his own face — keep it that way (form: he never narrates himself into a mirror).
 
 ### Paul Morgan (archaeologist/anthropologist hired on a Noxius-studies brief; "Va-Paul" of his invented order)
@@ -31,6 +31,11 @@
 - **Signature gesture (load-bearing across the book):** **the flat hand laid on a chest, over the heart, "the way Shield counts a living man"** — used to name Jean-Charles Mountain ("Then you are Mountain now, until you die," Ch18 l—), and echoed at the cold vent in the aftermath (Ch20 l53). Also her **field hand-signals**: "two fingers low, the palm closed, the hand cut toward the outer path" (Ch3 l489); "her hand closed once in warning" (Ch14).
 - **Do not:** soften her with description; she is all controlled motion.
 
+### Sela
+- **Bearing/arc:** feeling is visible first through practical hands and failed composure, never through a beauty inventory. In Ch8 she catches Syphiron's fallen hand in both of hers and folds the burial cloth over it. In Ch9, after Kailan's rank places him above her, she holds two fingers on his oil dish until he receives it, keeps his gaze one breath too long and strikes her lamp against the wall when she withdraws; these are observable groundwork for her Ch21 admission that she had admired and loved him before either named it.
+- **Later signature:** care remains physical under catastrophe — bread-board to Kailan's chest, blood washed from his hands, iron grit lifted with a needle (Ch21). By Ch24 she makes the road practical through packs, knots, water and explicit consent.
+- **Do not:** interpret the Chapter 9 withdrawal as loss of feeling. Rank removes what she can keep in the open; the Vigil lets action, speech and romance converge.
+
 ### Jean-Charles (French intelligence operator; later Mountain by Va-Sheva's naming)
 - **Bearing:** **always smiling** — the tell that he has stopped ("he was not smiling, which frightened me more than the drums," Ch16 l—); relaxed competence, charm as instrument (§24.2).
 - **Signature gesture:** the **hand on the shoulder** — first below the dead well when Jean-Charles turns the conscious Kailan toward Horizon's inner passage (Ch16), repeated at departure (Ch17) and inside the sealed Mountain (Ch21) — a gesture that can carry warmth, direction, or an operator's management. Its recurrence is the point (§24.7).
@@ -45,8 +50,8 @@
 
 ## Secondary (office-carried description)
 
-- **Ka-Syphiron** (senior Keeper of Light, martyr): **pale eyes** that "look through the excuses a thing prepares" (Ch1); "remote and pale, his face unreadable above folded hands" (Ch6); warmth+appetite+mischief off-office — sleeves "rolled to the wrist," a low stool "with one uneven leg" (Ch7); breaks bread **with both hands**. Dies opening his own robe below the ribs (Ch10) — his hands are the through-line.
-- **Ka-Raedin** (K's Keeper of Light, Syphiron's successor): the **lamp-holding hand** (Ch13, Ch19); "his face was white" at the Ascension (Ch8); disciplined precision; abdicates by degrees to K in the aftermath (Ch20).
+- **Ka-Syphiron** (senior Keeper of Light, martyr): **pale eyes** that "look through the excuses a thing prepares" (Ch1); "remote and pale, his face unreadable above folded hands" (Ch6); warmth+appetite+mischief off-office — sleeves "rolled to the wrist," a low stool "with one uneven leg" (Ch7); breaks bread **with both hands**. Opens his own robe below the ribs before the Ch8 dome seals; after the cut, blood runs between the same hands that named Kailan — his hands are the through-line.
+- **Ka-Raedin** (K's Keeper of Light, Syphiron's successor): the **lamp-holding hand** (Ch13, Ch19); "his face was white" at the Ascension (Ch8); disciplined precision. In Ch9 he retrieves the wet cloth Kailan cannot finish with, sits on Syphiron's uneven stool, climbs monthly to the observatory and eventually draws an eyepiece-ring around his own eye in charcoal; the changed bearing is shown in acts and laughter, while Kailan explicitly labels its cause as fear rather than fact. He abdicates by degrees to K in the aftermath (Ch20).
 - **Ka-Cheryn** (Keeper of Balance, female): "**broad and grave, her hands stained faintly green**" (Ch4) — Balance's labour written on the hands; closes valves "the way you put a great animal to sleep" (Ch19). **Portrait (provisional — held for a prose pass, not yet on the page):** broad and stooped; a long, smoke-darkened face with heavy brows drawn low over deep-set eyes; a stained felt cap narrowing to a blunt point above the head; grey hair in two coarse ropes down the chest, almost hiding the insignia of Balance. *(Static inventory, against the §24.7 house rule — keep as reference only; convert to gesture/office detail when it goes into a scene.)*
 - **Ka-Dhavar** (Keeper of Shield): raises the Seal, gives the closing order; grows "very quiet and very gentle" in the aftermath, paying it down "one comforted person at a time" (Ch20).
 - **Ka-Leth** (Keeper of Justice): hunts his own records "night after night… for the flaw" (Ch20) — bearing = the weighing man.

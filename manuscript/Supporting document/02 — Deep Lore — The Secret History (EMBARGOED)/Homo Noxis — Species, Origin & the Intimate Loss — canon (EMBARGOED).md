@@ -12,7 +12,7 @@
 
 ## 2. Paul CAN place the lineage (frame = 2026 — author ruling, S26)
 
-- **Frame is 2026** (chronology ledger 08). Denisovans (named 2010), the **Harbin / "Dragon Man" confirmation (2025)**, and ghost-population genetics are all **known** to a working anthropologist. Paul is **no longer era-blocked** — he can place K taxonomically: an archaic **cousin lineage that split older than the Neanderthals**, of the Denisovan-grade "ghost" kind long readable only as a stain in living DNA and now surfacing as bones in Asia. On-page (**Ch5 l545**) Paul does exactly this — competently — and it frightens him **more** than not-placing did ("So I can place you now. I had rather I could not… What the world does not have, anywhere, is a living one. It has you.").
+- **Frame is 2026** (chronology ledger 08). Denisovans (named 2010), the **Harbin / "Dragon Man" molecular identification (2025)**, and ghost-population genetics are all **known** to a working anthropologist. Paul is **no longer era-blocked**. In current Chapter 5 he places a repeated Kailan blood sample on a visible branching figure: outside living open-world humanity and the two recovered archaic branches, nearest their ancient company and distinct from every recovered sample. He expressly limits the conclusion to one man. This is competent branch placement, not a formal taxonomic verdict or a claim that the entire Mountain has been sampled.
 - **Reveal restraint still holds:** Paul places the *branch* only. He does **not** state the deeper engine — that most of the species was **absorbed into Sapiens**, that K is the **last un-absorbed remnant**, and the **Intimate Loss** behind it. Those stay seeded-not-stated, assembled late (§3+). **Never use the word "Denisovan" on the page** (K has no referent); render it as bones-in-the-East, a cousin humanity, a ghost in the blood — the reader recognises the shape.
 - **Reader-ahead engine RELOCATED:** with Paul able to name the species, the reader-ahead-of-narrator device now rests on the **deeper reveals** — the Beast's true purpose, the six cycles / deep age, and **Ravar** — where K and the folk-Mountain hold a mythologised version the reader out-reads. (The old "heidelbergensis, cannot place it" period-honest device is **retired**.)
 
@@ -63,7 +63,7 @@ In each, the grievance is sincere, total, and wrong — and it founds a throne, 
 - **Origin / deterrent canon:** the reset-strategy now has its *why* — the intimate loss. The Mountain as nuclear-bunker/husbandry is downstream of losing the daughters. (Ties to the "second draft / deterrent" origin and Book 5.)
 - **"No hand holds the whole":** doubles as a doctrine of *cohesion* (holding the people together) as well as command-and-control of the weapon.
 - **Timeline:** Denisovan/Harbin ~146 ka rhymes with the ~135 ka founding; cycles counted from the first burn (design pre-history runs earlier).
-- **Paul frame:** 2026 — Denisovans, Harbin/"Dragon Man" (2025), ghost-population genetics all known; Paul CAN place K's branch (Ch5 l545). Reader-ahead moved to the Beast/cycles/Ravar reveals. Never name "Denisovan" on the page.
+- **Paul frame:** 2026 — Denisovans, Harbin/"Dragon Man" (2025), ghost-population genetics all known; Paul places Kailan's branch in Chapter 5 from two blood tubes while bounding the inference to one living man. Reader-ahead moved to the Beast/cycles/Ravar reveals. Never name "Denisovan" on the page.
 - **Geography:** African native range keeps the Saharan Mountain as home ground, not exile.
 
 ## 10. Quick-reference card

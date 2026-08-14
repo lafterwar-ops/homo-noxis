@@ -27,6 +27,7 @@ Resolve `N` to `manuscript/chapters/chapterN-*.tex`. Fail clearly if zero or mul
 8. **Scores must remain honest.** Use the fixed rubric in Phase 6B. Aim for 100 and target genuine gains of 2–3 points per iteration, but never inflate a score, reward compliance with previous advice, or damage the chapter to maximise a number.
 9. **Hold the word-count envelope.** Let `W0` be Chapter N's word count at John start. Every scored draft and every paused or frozen state must remain between `0.90 × W0` and `1.10 × W0`, rounded to whole words. Brief fluctuation inside an unfinished edit is allowed; a completed iteration outside the band is not.
 10. **Freeze is earned.** Continue until the freeze criteria below are satisfied or a genuine pause condition occurs.
+11. **No omniscient narrator, ever.** This is a permanent artistic rule for the manuscript. Every passage is an identified person speaking to another, an identified person giving a sustained account to another, or an explicitly identified preserved source. A `room` ending changes from verbatim exchange to the current speaker's continuous testimony; it never creates an external authorial camera. Every narrated assertion must have a recoverable source in the teller's perception, memory, instruction, later explicit learning, or a named document/record. Retrospection never grants another person's interiority, an unseen action, or a collective's unspoken intention.
 
 ## Persistence protocol
 
@@ -184,6 +185,8 @@ Do not confuse productive mystery with missing causality.
 ### Phase 8 — Differentiate voices
 
 For each speaker or narrator, test categories noticed, recurrent question, reasoning habit, metaphor domain, sentence rhythm, and what the character refuses to say.
+
+Before stylistic differentiation, identify who is speaking to whom in every prose passage. Apply the source test sentence by sentence: *How can this teller know this?* Remove any external-camera bridge, inferred motive stated as fact, unsupported action outside the teller's field, or collective interiority. Do not treat prose outside `room` as impersonal narration; it is the established speaker's sustained account.
 
 Useful current tendencies, subject to the text:
 

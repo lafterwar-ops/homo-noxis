@@ -2,17 +2,70 @@
 
 - Chapter: `manuscript/chapters/chapter12-Confession.tex`
 - State: FROZEN
-- Phase: 13 — Validate and freeze
-- Last updated: 2026-08-13
+- Phase: 13 — Reopened pass validated and frozen
+- Last updated: 2026-08-14
 - User constraints: Run the full John workflow on Chapter 12. Never commit, push, or stage. New incoherence or obligations may move only into chapters greater than 12. Use a first complete draft followed by honest scoring and at most five rewrite/rescore iterations targeting genuine gains of 2–3 points. Keep every completed scored draft and the frozen chapter within +/-10% of the John-start word count.
-- Working-tree baseline: Chapter 12 is tracked and clean. Existing uncommitted John(chapter 13) work modifies Chapter 13 plus supporting documents 03, 07, 08, and 11; `.codex/` and `notes/john/` are untracked. Preserve and incorporate all of that work. Do not undo, stage, or commit it.
-- John-start word count (W0): 4,024
+- Working-tree baseline: Chapter 12 was tracked and clean when this reopened pass began. Numerous existing uncommitted user/John changes elsewhere in the manuscript, supporting documents, skill, and status files were preserved. The staged diff was empty. Do not undo, stage, or commit any of that work.
+- John-start word count (W0): 3,662 (fresh baseline for the explicitly reopened 2026-08-14 pass; the prior pass's 4,024-word baseline remains documented below)
 - Word-count method: Deterministic PowerShell LaTeX-source tokenizer. Read the source; remove unescaped `%` comments; remove LaTeX control-sequence names and optional square-bracket arguments; count Unicode letter/number tokens with internal apostrophe or hyphen groups. Reuse this exact method at every checkpoint.
-- Permitted word-count band: 3,622 to 4,426 words inclusive
-- Current word count: 3,662
-- Rewrite iteration: 3
+- Permitted word-count band: 3,296 to 4,028 words inclusive
+- Current word count: 3,653
+- Rewrite iteration: 1 (reopened pass)
 
-## Governing diagnosis
+## Reopened pass — 2026-08-14
+
+The user's explicit `John(chapter 12)` reopens the previously frozen chapter. The earlier 99/100 audit and its complete score history remain below as prior-pass evidence; they are not erased or silently treated as the current result. This pass fixes the present 3,662-word text as a new baseline and applies the now-absolute source law: there is no omniscient narrator anywhere. Every narrated fact must be Kailan's own witnessed, remembered, inferred, or explicitly reported knowledge inside his testimony to Paul; the final `room` remains live dialogue. Chapters 1–11 are frozen incoming canon. Any newly created obligation may move only into Chapter 13 or later.
+
+### Current-pass governing diagnosis
+
+Chapter 12 has the correct source form. Chapter 11 ends with Sarah ordering Kailan to begin at the door he chose; the prose here is Kailan's sustained testimony to Paul and Sarah, and the closing `room` is verbatim exchange among the three. No external narrator is required or permitted. The chapter's causal architecture also remains strong: Kailan carries physical proof because memory can be denied, chooses the one office capable of containing it, surrenders it, voluntarily stays behind an unlocked door, sees the Lesser Seal protect households while it clears the route for his arrest, enters witnessed custody, and is returned to the exact soundless cell discovered in Chapter 10. Sarah's correction then forces Chapter 13.
+
+The fresh defect is local but absolute. Several unquoted sentences step beyond Kailan's source boundary by naming what everybody knows, another person's perception or emotion, or Kailan's own visible expression: `No one would know I was here`, `No anger`, `She heard it anyway`, `My eyes hardened`, and `She understood the question`. A small adjacent cluster also turns physical evidence into narrator inscription (`Shield would. No one else who mattered`; the abstract statement about the crossings/count) or states an unseen signal's completed route instead of the chain-rattle Kailan heard. These lines violate the no-omniscience law or THE VOICE even though the chapter-level source is sound.
+
+### Current-pass locked intervention
+
+- Preserve every scene, object transfer, office procedure, charge, room handoff, and downstream fact.
+- Replace each forbidden assertion with what Kailan directly did, saw, heard, felt, knew from his own conduct, or could identify from trained procedure.
+- Remove the balanced `seem indifferent / become a container` construction and describe the wardens' actual positions.
+- Keep tactical reasoning where it belongs to Kailan; do not flatten his account into camera notation.
+- Add no character, object, explanation, or new obligation. This is a source-law payment pass, not an architectural expansion.
+
+### Current-pass rebuilt sequence
+
+The existing thirteen-part sequence remains locked. The first complete draft will alter only the source-violating and narrator-interpretive sentences inside that sequence. Its success condition is that every unquoted assertion can be answered by `Kailan saw/heard/felt/did/knew from named procedure`, while the final room remains free live dialogue.
+
+### Current-pass score history
+
+| Draft | Score /100 | Change | Word count | Defects targeted | Verdict |
+|---|---:|---:|---:|---|---|
+| First complete source-law draft | 98 | — | 3,673 | Replaced mind-reading, collective knowledge, inferred anger, self-external depiction, an unseen signal path, and narrator inscription with direct perception/conduct; three residual appears/purpose constructions remain | baseline |
+| Rewrite 1 | 100 | +2 | 3,653 | Converted apparent motion, stated lighting purpose, borderline mechanism inference, and two remaining functional glosses into Kailan's bodily, visual, and auditory evidence | keep; freeze |
+
+First complete draft rubric:
+
+- Dramatic and emotional force: 19/20. The surrender, unlocked choice, domestic Lesser-Seal count, silent taking, apology and bodily isolation remain fully alive; one restraint sentence still describes the appearance of walking instead of the felt transport.
+- Architecture and causal legibility: 20/20. Proof, signal, population containment, arrest, witnessed custody, charges and the Amastan handoff form one recoverable chain.
+- Character depth and voice differentiation: 15/15. Kailan's trained restraint, Va-Sheva's Shield-first action and Sarah's correction remain distinct without narrator explanation.
+- Prose, imagery and sentence control: 14/15. The major source violations are gone. `only enough to seem to walk`, `enough sight to work`, and `enough for trained feet` retain an appears/purpose gloss that can be made directly physical.
+- Canon, source, knowledge-state and continuity integrity: 15/15. Kailan owns every repaired assertion through perception, conduct or recognised procedure; the scrap, ribbon, cell, Lesser Seal and charges agree with Chapters 10, 11, 13 and 14.
+- Pacing, compression and word-count discipline: 10/10. The 3,673-word draft is inside the fixed 3,296–4,028 band and changes no scene length materially.
+- Transition and downstream payoff: 5/5. Chapter 11 explicitly gives Kailan the telling; Sarah's final `Amastan` still forces Chapter 13.
+
+Top point-recovery opportunity: replace the remaining apparent-motion and stated-purpose clauses with Kailan's bodily/visual evidence as one coherent final polish. Predicted gain: +2, with no architectural or continuity risk.
+
+Iteration 1 rescore:
+
+- Dramatic and emotional force: 20/20. Kailan's feet now brush the floor while the wardens carry his weight; the taking is experienced in his body rather than described from outside it.
+- Architecture and causal legibility: 20/20.
+- Character depth and voice differentiation: 15/15.
+- Prose, imagery and sentence control: 15/15. The last appears/purpose glosses are direct light, sound, position and touch.
+- Canon, source, knowledge-state and continuity integrity: 15/15. The audit can identify Kailan's source for every unquoted assertion; no other mind, unseen action or unsupported collective knowledge is claimed.
+- Pacing, compression and word-count discipline: 10/10.
+- Transition and downstream payoff: 5/5.
+
+Predicted gain was +2; actual gain is +2 with no regression. The reopened scored loop stops after one rewrite at 100/100.
+
+## Prior pass (2026-08-13) — governing diagnosis
 
 Chapter 12 already has a strong irreversible action and a memorable terminal image, but its first half repeatedly explains Kailan's motives and the meaning of the scene after the action has shown them. The result is less dangerous than the plot: Va-Sheva appears to be the inevitable correct recipient, although Chapter 10 fixed a live uncertainty around her blood-stuck ribbon, and the confession circles the same stop/start beat before Shield acts. The chapter's soul is the collision between Kailan's knowledge and loyalty: he knowingly gives forbidden proof to the one person and office he trusts, and Va-Sheva saves him in the only form Shield permits—total containment. The institution's competence and its cruelty must remain the same machinery. The rebuild will make that collision physical, causally exact, and state-and-stop in the narrative voice while preserving the unlocked door, the Lesser Seal, the silent arrest, the witnessed custody formula, the soundless cell, Va-Sheva's single private breach, and the handoff to Amastan.
 
@@ -64,7 +117,7 @@ Rejected or superseded:
 12. Va-Sheva states the trial and impossible defence, then breaks control once after custody is complete.
 13. In the present room Kailan misreads Sarah's history; she corrects him and forces Chapter 13 with “Amastan.”
 
-## Locked decisions
+## Prior pass — locked decisions
 
 - Chapters 1–11 are fixed incoming canon and may not be edited or made dependent on later repair.
 - Chapter 13's current uncommitted John-frozen text is the adjacent forward state to preserve unless Chapter 12 creates a demonstrated, bounded forward repair.
@@ -77,7 +130,7 @@ Rejected or superseded:
 - The cell in Chapter 12 is the same cell Kailan enters in Chapter 10; its fixed chair, rings, gutter, blood, lattice, wedges, isolated inner frame, and ribbon must agree.
 - Freeze condition: reopen only for a demonstrated contradiction, a consequential later-chapter change, or explicit user instruction.
 
-## Changes made
+## Prior pass — changes made
 
 - `notes/john/chapter-12-status.md`: created the durable checkpoint before substantive manuscript edits.
 - `notes/john/chapter-12-status.md`: recorded Phases 1–5 diagnosis, architecture, expansion ruling, arbitration, and rebuilt sequence.
@@ -91,7 +144,7 @@ Rejected or superseded:
 - `manuscript/Supporting document/10 — Object Custody — continuity ledger.md`: corrected two names to three names plus a legal phrase and recorded Kailan → Va-Sheva/Shield transfer with Justice's pre-Seal witness.
 - `notes/john/chapter-12-status.md`: completed Phases 7–13 and froze the chapter at the audited 99/100 state.
 
-## Score history
+## Prior pass — score history
 
 | Draft | Score /100 | Change | Word count | Defects targeted | Verdict |
 |---|---:|---:|---:|---|---|
@@ -153,7 +206,7 @@ Iteration 3 rescore:
 
 Predicted gain was 2 points; actual gain is +2 with no detected regression. Iteration 3 is retained at 98/100. A fourth rewrite is authorised only if Phases 7–10 expose a coherent package worth at least two genuine points.
 
-### Phases 7–10 audits
+### Prior pass — Phases 7–10 audits
 
 - Plain causal test: Kailan needs a physical mark because memory can be dismissed → the ribbon makes Va-Sheva dangerous but Shield remains the only office able to receive the breach without spreading it → the dull route inquiry obtains a contained room → Va-Sheva inventories every crossed seal, touched object, witness, and removed item → she recovers the strip before signalling → the Seal closes crossings and counts inward → Kailan's voluntary wait prevents a public or violent chase → cleared corridors permit silent custody → Justice witnesses body, speech, proof, and Seal → the same soundless cell holds him → its charges force Chapter 14 → Kailan's false analogy gives Sarah the final correction and Chapter 13's first name. Every link is recoverable in the prose.
 - Obvious alternatives: burning the strip leaves only impeachable memory; Ka-Raedin can authenticate Light evidence but cannot close a Shield threshold; approaching Justice first exposes sealed facts across offices; leaving the unlocked room carries Sarah's name into a protection demand and turns Kailan into a moving breach. The chapter shows each failure before or at the choice.
@@ -165,11 +218,11 @@ Predicted gain was 2 points; actual gain is +2 with no detected regression. Iter
 
 Post-audit rubric reconciliation: canon/continuity rises from 14/15 to 15/15 after the bounded ledgers are repaired; all other components remain as in rewrite 3. Audited state is 99/100. The unawarded dramatic-force point reflects the necessary procedural chill of the central inventory relative to the opening, arrest, and ending; no coherent 2–3 point intervention exists that would warm it without weakening Va-Sheva's office voice or causal proof. Beginning a fourth scored rewrite would be score-gaming, so the scored loop stops after three rewrites.
 
-## Forward obligations (chapters > N only)
+## Prior pass — forward obligations (chapters > N only)
 
 - None recorded yet.
 
-## Validation completed
+## Prior pass — validation completed
 
 - Chapter 12 resolved uniquely.
 - Initial working tree and target diff inspected; Chapter 12 is clean.
@@ -196,9 +249,53 @@ Post-audit rubric reconciliation: canon/continuity rises from 14/15 to 15/15 aft
 - Full master compiled twice with XeLaTeX to a temporary output directory: success, 342 pages, no fatal error; only existing underfull-box layout warnings remain.
 - Working tree inspected after validation: pre-existing Chapter 13 and supporting-document work remains present. No staging, commit, or push was performed.
 
-## Remaining work
+## Prior pass — remaining work
 
 None. Chapter 12 is frozen at the audited 99/100 state.
+
+## Prior pass — exact resume instruction
+
+Chapter 12 is frozen. Reopen only for a demonstrated contradiction, a consequential later-chapter change, or explicit user instruction. If reopened, reread this status and inspect the working tree first. Never commit, push, or stage.
+
+## Reopened pass — Phases 7–12 audits
+
+- Plain causal test: the existing chain remains intact from physical proof through office choice, surrender, Lesser Seal, voluntary waiting, silent custody, witnessed descent, soundless containment, charges and Sarah's Amastan correction. No effect lacks a recoverable cause.
+- Obvious alternatives: the text answers burning the strip, going to Light, going first to Justice and taking the unlocked northern route. None offers proof plus lawful containment without spreading the breach.
+- Source-law audit: Chapter 11's live room explicitly orders Kailan to `Begin at that door`; Chapter 12 therefore continues as Kailan's sustained testimony to Paul and Sarah. The final `room` is live dialogue. Every unquoted sentence was reread for a recoverable Kailan source. Mind-reading (`She understood`), unsupported collective knowledge (`No one would know`), inferred emotion (`No anger`), self-external description (`My eyes hardened`) and invisible mechanism completion were removed or physicalised.
+- Voice audit: tactical thought remains Kailan's own and resolves no theme; narration states the physical thing and stops. Va-Sheva remains procedural in speech and legible in visible hand, breath, mouth, gaze and seal-dye. The source clean-up did not flatten the bodily or acoustic prose.
+- Adversarial attack: the strongest challenge was that the chapter-level first person could conceal sentence-level omniscience. The line audit defeated that challenge without invoking retrospection as a licence. The unlocked door, domestic count, same-cell return and apology remain earned for the reasons recorded in the prior pass.
+- Consequence audit: surrender immediately changes custody; the signal changes the Mountain's state; waiting enables a quiet arrest; Justice's formula creates the trial record; the charges make defence itself a breach; Sarah's correction changes the teller and forces Chapter 13.
+- Continuity audit: Chapter 10's original photograph remains in the drawer; only the three-names-plus-legal-phrase strip travels. The ribbon, blood fracture, wedges, lattice, double frame, fixed seat, rings and gutter identify the same cell. Chapter 14 receives the same Lesser Seal, witness formula, charges and recovered proof. No new fact or obligation was created for Chapter 13 or later.
+- Ledger ruling: object custody, setup/payoff and knowledge-state facts did not change. The scene-function map required only the final Chapter 12 count, updated from 3,662 to 3,653.
+- Payment/compression: each retained inventory question changes the breach's scope, custody or charge; the household count proves the Lesser Seal's protective function; the final acoustic paragraph supplies the chapter's bodily consequence. No further cut improves payment.
+- Continuous read: Chapters 11–13 were read in sequence. Sarah explicitly gives Kailan the telling; Kailan's final `Amastan` is repeated by Sarah as Chapter 13's first word. Neither seam summons an external narrator.
+
+## Reopened pass — changes made
+
+- `manuscript/chapters/chapter12-Confession.tex`: replaced the residual source violations and narration glosses with Kailan's direct sight, sound, bodily experience, own conduct or trained recognition; no scene, dialogue decision, object transfer or charge changed.
+- `manuscript/Supporting document/04 — Story & Series — Structure & Craft/09 — Scene-Function, Source & Architecture Map (all 24 chapters).md`: updated Chapter 12's deterministic count to 3,653.
+- `notes/john/chapter-12-status.md`: preserved the earlier frozen pass as prior history and recorded the reopened baseline, score loop, audits, validation and freeze.
+
+## Reopened pass — forward obligations (chapters > 12 only)
+
+- None.
+
+## Reopened pass — validation completed
+
+- Unique target, working-tree state and target diff inspected before editing; unrelated user changes were preserved.
+- Fresh W0 fixed at 3,662; inclusive band fixed at 3,296–4,028 and never reset.
+- First complete source-law draft: 3,673 words, 98/100.
+- Rewrite 1: 3,653 words, 100/100; 9 words (0.2%) below W0 and inside the fixed band.
+- Source/voice searches found no remaining scoped occurrence of the repaired formulations or the targeted appears/interpretation markers.
+- One `room` begin/end pair and balanced unescaped braces (8/8).
+- Superseded-wording search found no scoped `Claim`, American `Unauthorized`, two-name scrap, photograph removal or photograph/scrap conflation.
+- Targeted and repository-wide `git diff --check` pass.
+- Full master compiled twice with XeLaTeX to the temporary `codex-john12-build-20260814` directory: success, 341 pages, no fatal, undefined-control, LaTeX, or overfull-box error; existing underfull-box warnings remain.
+- The staged diff is empty. No staging, commit or push was performed.
+
+## Reopened pass — remaining work
+
+None. Chapter 12 is frozen at 100/100 under the absolute no-omniscience rule.
 
 ## Exact resume instruction
 

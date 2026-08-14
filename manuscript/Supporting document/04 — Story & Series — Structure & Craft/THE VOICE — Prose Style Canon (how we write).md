@@ -6,7 +6,11 @@
 
 ## 0. The credo (read first)
 
-**This book is told by a man giving an account. He states what happened and what a thing was, in cool, exact, physical language — and he stops. He does not tell you what it meant, what he learned, when it first happened, or what it "really" was. The meaning is the reader's to make.**
+**This book is told through identified voices giving accounts to identified listeners. Each teller states what happened and what a thing was, in cool, exact, physical language — and stops. The teller does not say what it meant, what was learned, when it first happened, or what it "really" was. The meaning is the reader's to make.**
+
+**Omniscient narration is forbidden, always and everywhere. This is a permanent artistic decision, not a default that may be traded against convenience, compression, mystery, or elegance.** A narrator may state only what that narrator directly saw, heard, touched, felt, remembered, was taught, explicitly learned later, or receives from a source identified on the page. Retrospection grants selection and later-acquired factual knowledge; it never grants entry into another person's mind, an unseen room, an unrecorded action, or a collective's unspoken intention. Group emotion must be carried by visible or audible conduct. Documentary rooms, quoted records, scripture, and transferred testimony are permissible because their source is explicit; they are not an omniscient narrator.
+
+**There is never an external authorial camera.** Every passage is one identified person speaking to another, one identified person narrating an account to another, or an explicitly identified preserved source being reproduced. Closing a `room` environment does not summon a narrator above the scene. It changes form from literal turn-by-turn transcript to the current speaker's sustained account. The account may describe the remembered event; it must not stand outside the act of telling and describe the teller giving it (`I gave him the morning`, `I began my account`, or equivalent), unless that act itself is being recalled later by a separately identified speaker and source.
 
 All the interpreting — the philosophy, the epigram, the wisdom, the "lesson" — lives in the **mouths of the characters** (the interview room, in-account speech) and in **scripture**. It never lives in the narration. The narrator's intelligence shows in *what he chooses to put in the frame and what he leaves in the dark*, not in his commentary on it.
 
@@ -25,6 +29,10 @@ Every rule below turns on *which zone a sentence is in.* Get this right first, e
 | **SCRIPTURE / FORMAL** | `\begin{scripture}`, `\begin{declaration}`, and italic attributed sayings/epigraphs (`\textit{…}` credited to a character). | **NO — free / formal register.** |
 
 **The disambiguation rule:** if it is the current teller's own unquoted voice describing, reflecting, or explaining — Kailan, Paul, Sarah, or another ordering hand; past or present tense — it is **narration** and it is governed. A character telling a long account does not turn prose paragraphs into dialogue merely because a recorder is running. Only words physically enclosed as speech, room turns, or formal/scriptural environments enter the free zones.
+
+`room` therefore means **verbatim exchange**, not “the only place where a person is speaking.” Prose outside `room` remains sourced speech: the current teller's shaped continuous testimony to the established listener. It is not free indirect discourse, impersonal scene narration, or an omniscient bridge.
+
+**The source test:** for every narrated assertion, ask: *How can this teller know this?* If the answer is not recoverable from perception, memory, teaching, later explicit learning, or a named record/source, the sentence is forbidden. Do not hide omniscience inside collective nouns (`the crowd knew`, `the Hall waited`), confident causal summaries, inferred motives stated as fact, or bodily detail occurring outside the teller's possible field of perception.
 
 **Why the split exists:** characters are *allowed* to be aphoristic, antithetical, interpretive, prophetic, philosophical — that is *them*, and it's often the best writing in the book (Va-Raedin's maxims, Ka-Syphiron's jokes, the Covenant's cadence, Paul granting a point). The ban is on the **narrator doing it in his own voice.**
 
