@@ -1,0 +1,4 @@
+interface:
+  display_name: "KingJack"
+  short_description: "Arbitrate four blind chapter processes"
+  default_prompt: "Use $kingjack to run KingJack(chapter N) through blind brainstorms, neutral arbitration, and constrained production."
