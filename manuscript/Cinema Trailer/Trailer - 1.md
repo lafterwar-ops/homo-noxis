@@ -539,7 +539,7 @@ Repeat of Shot 22 (enemy field hospital / flat-carry vehicles). [A] ⚑ Do not c
 - **Falling water / the payload drop / risers filling / five level-indicators rising together** — ⚑ **MECHANISM SPOILER** (this is the weapon working).
 - **The empty district-sized Load Chamber over the throat** — ⚑ **MECHANISM SPOILER.**
 - **Steam-return channels / accumulators / pistons** — ⚑ **MECHANISM SPOILER.**
-**2. Evidence.** ch20 l5 (bell hall, throat, five stations, stone windows); ch20 l15 (wheels/gates, the great reserve, "there are five of them in a full firing"); ch14 l60 (chains). [A]
+**2. Evidence.** ch20 l5 (bell hall, throat, five stations, stone windows); ch20 (wheels/gates, the great reserve, five opening loads followed by a sustained multi-day firing); ch14 l60 (chains). [A]
 **5. Safe trailer info.** Show the *cathedral of it* — the shaft, the star of stone windows, the worn wheels, the chains — as overwhelming scale. Never show the fluid cycle or the load.
 **6. ⚑⚑ SPOILER.** The entire *operation* (water down the throat, regenerative steam, five payloads, "Let them fall") is the deepest embargo.
 **7. Ambiguities.** Exact sizes in the `Beast` doc are engineering estimates; render impression, not readable gauges.
