@@ -40,13 +40,23 @@ Cutting the red glass would have silently broken the firing. **Verify by concept
 | 10 | **Microscope / DNA / archaic branch** | ch4–5 | *absconditus* | **ch20 — Sarah renames the species. The title lands here.** |
 | 11 | **Swimming** | ch3–4 | ch16, ch19 | ch24 (*"A drowned passage… Did you teach yourself to swim?"*) |
 | 12 | **Mirage / Mara / open enquiry** | ch3–4 | Sa-Tavan's unclosed tablet | ch14 (*"It was no mirage"* — the enquiry closes at trial) |
-| 13 | **Cards / blackjack / ludic error** | ch7 | probabilistic reasoning | ch11 (Sarah's method), ch19 (the Bayes room, base rates) |
+| 13 | **Cards / blackjack / ludic error** | ch7 | probabilistic reasoning | ⚠ **see correction below** |
 | 14 | **Salt-house / measured cup** | ch4 | Balance weighing discipline | ch14, ch18, ch21 (rationing under seal) |
 | 15 | **Festival practices** — bread relay, Ventsingers, knots, blindfold games | ch6 | play → infrastructure | **ch21 (the Vigil) — both evaluators' named summit** |
 | 16 | **Basquiat dinosaur king** | ch3 | single thin thread | ch24 (*"the dinosaur king in the corridor"*) |
 | 17 | **Genesis / gravure / five days** | ch3, ch6 | ch10 (Paul's translation) | ch23 (Ravar carved it) |
 | 18 | **Chess with Urs** | ch2 | thin, emotional | ch24 (Paul's unfinished life) |
 | 19 | **Coal / furnace / finite fuel** | ch2 | scarcity | ch21 (rationing) |
+
+---
+
+### ⚠ CORRECTION to #13 — verified 18 Aug 2026
+
+**The cards do NOT fire in ch19 or ch11.** A direct search of `chapter19-Seal.tex` returns zero hits for Ka-Syphiron, cards, hydromel, the feast, twenty-one, prior/posterior or base rate. `chapter11-Reggane.tex` returns one false positive ("discarded", used of seismic motion).
+
+The row above was inherited and repeated without checking. **The payload of the blackjack scene is the ludic-error warning and Justice's method, which stay inside ch7.** The counting itself has no later callback — which is why Kailan could safely be given the derivation.
+
+*Second instance of the same failure mode as the `red glass` near-miss, in the opposite direction: there the keyword said "orphan" and the concept said "load-bearing"; here the inventory said "load-bearing" and the text says nothing at all.* **Verify both ways. Trust the files, not the table.**
 
 ---
 
