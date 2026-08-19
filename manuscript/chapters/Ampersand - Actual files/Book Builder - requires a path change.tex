@@ -1,0 +1,197 @@
+% !TEX program = xelatex
+\documentclass[11pt,twoside,openright]{book}
+\usepackage[paperwidth=6in,paperheight=9in,inner=0.70in,outer=0.70in,top=0.72in,bottom=0.76in,headheight=14pt,headsep=0.22in,footskip=0.34in]{geometry}
+\usepackage{fontspec}
+\setmainfont{EBGaramond-Regular.ttf}[
+  Path={C:/Francois/Writting/EB_Garamond/static/},
+  BoldFont={EBGaramond-Bold.ttf},
+  ItalicFont={EBGaramond-Italic.ttf},
+  BoldItalicFont={EBGaramond-BoldItalic.ttf},
+  Numbers=OldStyle,
+  Ligatures=TeX
+]
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{etoolbox}
+\usepackage{needspace}
+\usepackage[framemethod=default]{mdframed}
+\definecolor{ink}{HTML}{1E1B18}
+\definecolor{rulegold}{HTML}{8A6A2A}
+\pagecolor{white}
+\color{ink}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\setstretch{1.065}
+\frenchspacing
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+\tolerance=1600
+\emergencystretch=2em
+\hyphenpenalty=350
+\exhyphenpenalty=350
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\scshape\nouppercase{Homo Noxius}}
+\fancyhead[RO]{\small\scshape\nouppercase{\leftmark}}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+\newcommand{\ornament}{\par\vspace{\dimexpr\baselineskip-2pt}\nointerlineskip\centerline{{\color{rulegold}\rule{0.30\textwidth}{0.25pt}}}\nointerlineskip\vspace{\baselineskip}}
+\newenvironment{scripture}{\begin{quote}\small\setstretch{1.04}\itshape\setlength{\parindent}{0pt}\rightskip=0.15\textwidth plus 1fil\relax}{\end{quote}}
+% --- The confession of Ravar ---
+% Distinct from {scripture} (the Mountain's liturgy: narrow, small, italic, ragged).
+% Ravar's voice: FULL text width, justified (each line the same measure), upright roman.
+% Verse-capable: end each verset with \\. Only genuine wraps take a hanging indent.
+\makeatletter
+\newenvironment{founder}{%
+  \par\addvspace{0.7\baselineskip}%
+  \setstretch{1.08}%
+  \let\\\@centercr
+  \list{}{%
+    \setlength\itemsep{\z@}\setlength\parsep{\z@}\setlength\topsep{\z@}%
+    \setlength\itemindent{-1.8em}\setlength\listparindent{\itemindent}%
+    \setlength\leftmargin{1.8em}\setlength\rightmargin{0pt}%
+  }\item\relax
+}{\endlist\addvspace{0.7\baselineskip}}
+\makeatother
+\newmdenv[
+  topline=false, bottomline=false, rightline=false, leftline=true,
+  linewidth=1.2pt, linecolor=rulegold,
+  leftmargin=0.3em, rightmargin=0pt,
+  innerleftmargin=1.1em, innerrightmargin=0pt,
+  innertopmargin=0pt, innerbottommargin=0pt,
+  skipabove=0pt, skipbelow=0pt
+]{roombar}
+\newenvironment{room}{\ornament\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}\begin{roombar}\small}{\end{roombar}\ornament}
+\newenvironment{declaration}{\setstretch{1.0}\setlength{\parindent}{0pt}\setlength{\parskip}{0.5em}}{\par}
+\newcommand{\typesetchapter}[2]{%
+  \cleardoublepage
+  \thispagestyle{plain}
+  \markboth{#2}{#2}%
+  \vspace*{1.05in}
+  \begin{center}
+    {\small\scshape\addfontfeatures{LetterSpace=12.0} #1}\par
+    \vspace{0.42in}
+    {\LARGE\scshape #2}\par
+    \vspace{0.18in}
+    {\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+  \end{center}
+  \vspace{0.62in}
+}
+\newcommand{\typeprologue}{%
+  \cleardoublepage
+  \thispagestyle{plain}
+  \markboth{Prologue}{Prologue}%
+  \vspace*{1.35in}
+  \begin{center}
+    {\LARGE\scshape Prologue}\par
+    \vspace{0.18in}
+    {\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+  \end{center}
+  \vspace{0.62in}
+}
+\newcommand{\typethresholdexception}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{Threshold Exception}{Threshold Exception}%
+\vspace*{1.35in}
+\begin{center}
+{\Large\scshape Threshold Exception}\par
+\vspace{0.18in}
+{\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+\end{center}
+\vspace{0.62in}
+}
+\newcommand{\typedeclaration}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{}{}%
+\vspace*{0.3in}
+}
+\newcommand{\typeoutsidermanuscript}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{Outsider Copy}{Outsider Copy}%
+\vspace*{1.35in}
+\begin{center}
+{\Large\scshape Outsider Copy}\par
+\vspace{0.18in}
+{\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+\end{center}
+\vspace{0.62in}
+}
+\newcommand{\typebook}[2]{%
+  \cleardoublepage
+  \thispagestyle{empty}
+  \markboth{#2}{#2}%
+  \vspace*{2.1in}
+  \begin{center}
+    {\Large\scshape\addfontfeatures{LetterSpace=16.0} #1}\par
+    \vspace{0.32in}
+    {\color{rulegold}\rule{0.30\textwidth}{0.4pt}}\par
+    \vspace{0.32in}
+    {\Huge\itshape #2\par}
+  \end{center}
+  \vfill
+}
+\begin{document}
+\begin{titlepage}
+\thispagestyle{empty}
+\centering
+\vspace*{1.25in}
+{\Huge\scshape Homo Noxius\par}
+\vspace{0.35in}
+{\color{rulegold}\rule{0.55\textwidth}{0.4pt}\par}
+\vfill
+{\small Blackwood Editions \par}
+\vspace*{0.65in}
+\end{titlepage}
+% One continuous page count from the title page onward: no \frontmatter / \mainmatter and no \pagenumbering reset, so the outsider copy never resets to 1.
+
+% =====================================================================
+% MANUSCRIPT ASSEMBLY. This file is the master (root) document.
+% \input paths are ABSOLUTE (C:/Francois/Writting/HomoNoxisGithub/...),
+% matching the absolute font paths above, so the build resolves from any
+% working directory (including a pasted scratch buffer). If the project
+% ever moves, update this base path AND the font Path= in the preamble.
+% =====================================================================
+
+% ---- Front matter (the Outsider Copy apparatus) ----
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/00 Intro/chapter001-outsiderManuscript}   % Outsider Copy header + Paul's dedication
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/00 Intro/chapter002-declaration}           % the Mountain's Declaration
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/00 Intro/chapter003-thresholdException}    % Sixth cycle archive / assembled by Paul Morgan
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/00 Intro/chapter004-Book1}                 % manuscript title: The Veil of Light
+
+% ---- The account (24 chapters, final order) ----
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter1-Ascension}
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter2-Mirror}
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter3-Oasis}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter4-Mountain}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter5-Shadow}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter6-Festival}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter7-Chain}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter8-Light}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter9-Heaven}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter10-Threshold}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter11-Reggane}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter12-Confession}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter13-Infiltration}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter14-Trial}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter15-Knocks}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter16-Horizon}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter17-Mock}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter18-Return}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter19-Seal}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter20-Beast}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter21-Vigil}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter22-Clock}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter23-Ravar}
+%\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter24-Whole}
+
+\end{document}
