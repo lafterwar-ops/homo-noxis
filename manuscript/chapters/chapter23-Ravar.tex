@@ -1,5 +1,17 @@
 \typesetchapter{Chapter 23}{Ravar}
 
+\begingroup
+% Fixed 72-glyph alphabet; each broken line independently draws a 54-glyph shuffle.
+% ¶§†‡•·‰‖…‹›«»¡¿¬±×÷¤¢£¥ƒøØæÆœŒßðÐþÞŋŊƿȝəɐʒʔʕʜʞʟɣɲɳɸʁʃʇʈʉʊʌʍʎʏβγδζθλξπρσφ
+\newcommand{\ravarscarline}[1]{%
+  {\color{ink!62}\leavevmode\hbox to\linewidth{\scriptsize #1\hfil}}\\}
+\newcommand{\ravarscarstanza}[4]{%
+  \ravarscarline{#1}%
+  \ravarscarline{#2}%
+  \ravarscarline{#3}%
+  \ravarscarline{#4}%
+  \medskip}
+
 \begin{founder}
 A man tells the truth only at the bottom of the world,\\
 where the dark and the deep have taken every ear but his.\\
@@ -155,47 +167,83 @@ and a grief that tells you only true things, you follow.\\
 
 \ornament
 
-We found it the third year out; I knew before my men.\\
-For I had left the hunting ground that men desire,\\
-and turned to ground no man goes near; the earth gave in.\\
-It offered nothing, and its nothing was first defence.\\
-\medskip
-
-No green, no game, no road, no reason, a shoulder of stone,\\
-and a killing width of distance on every side.\\
-It lay far out in a waste that murders men by breadth,\\
-and gave nothing to warm folk going south, who never turned.\\
-\medskip
-
-Then, under the nothing, my water-men, season on season,\\
-laid slender rods against the stone; the stone gave up\\
-its buried secrets; the first was water, so much water\\
-my chief sat on the rock, face in hands, and made no sound.\\
-\medskip
-
-More water than a siege drinks, enough to hold a people;\\
-years passed before I said aloud what the water was for.\\
-And heat beneath it, the old deep heat, a patient fire,\\
-shallow to reach, never fed; the sealed would not freeze.\\
-\medskip
-
-And ways: there were faults, and voids, and the promise of more,\\
-of more to be cut, till a new world hung down the rock.\\
-We laughed like boys in cool shade, and every rod said yes;\\
-and nothing in my long life since has matched that one year.\\
-\medskip
-
-Three years on a road that killed my people and called me mad,\\
-and at the end I held the thing, glad past all I dared want;\\
-a man the world lays its tools before feels chosen in his bones.\\
-I was chosen; and I have paid for the feeling ever since.\\
-\medskip
-
-I saw the other thing too, deep in a shaft, by lamplight.\\
-The deep fire never dies; the water flashed on it steams;\\
-steam sent down a throat through the world becomes a flat hand,\\
-laid on the turning world's own beating heart, to press it.\\
-\medskip
+% RAVAR LACUNA I — seven quatrains retained in source, unreadable on the wall.
+% We found it the third year out; I knew before my men.\\
+% For I had left the hunting ground that men desire,\\
+% and turned to ground no man goes near; the earth gave in.\\
+% It offered nothing, and its nothing was first defence.\\
+% \medskip
+%
+% No green, no game, no road, no reason, a shoulder of stone,\\
+% and a killing width of distance on every side.\\
+% It lay far out in a waste that murders men by breadth,\\
+% and gave nothing to warm folk going south, who never turned.\\
+% \medskip
+%
+% Then, under the nothing, my water-men, season on season,\\
+% laid slender rods against the stone; the stone gave up\\
+% its buried secrets; the first was water, so much water\\
+% my chief sat on the rock, face in hands, and made no sound.\\
+% \medskip
+%
+% More water than a siege drinks, enough to hold a people;\\
+% years passed before I said aloud what the water was for.\\
+% And heat beneath it, the old deep heat, a patient fire,\\
+% shallow to reach, never fed; the sealed would not freeze.\\
+% \medskip
+%
+% And ways: there were faults, and voids, and the promise of more,\\
+% of more to be cut, till a new world hung down the rock.\\
+% We laughed like boys in cool shade, and every rod said yes;\\
+% and nothing in my long life since has matched that one year.\\
+% \medskip
+%
+% Three years on a road that killed my people and called me mad,\\
+% and at the end I held the thing, glad past all I dared want;\\
+% a man the world lays its tools before feels chosen in his bones.\\
+% I was chosen; and I have paid for the feeling ever since.\\
+% \medskip
+%
+% I saw the other thing too, deep in a shaft, by lamplight.\\
+% The deep fire never dies; the water flashed on it steams;\\
+% steam sent down a throat through the world becomes a flat hand,\\
+% laid on the turning world's own beating heart, to press it.\\
+% \medskip
+\ravarscarstanza
+  {πβŋ×æ«øɐƿʈʒʎʜʞζ¤ʁ•þ¶¢‡¬›ʉ¿θœξ£γ‖ʕʔɸρʇλʌÞɣɲʏȝ¥…Ðə±†·÷φÆ}
+  {ƒʕργʞ£ʜʈɐ‹§‖σ×¬Æ¡ʉ¶ɲÞɳŒʟȝƿÐ›ß÷β»…†¿¤ðφ«øʇ¢ɣɸλŊθξζ‡ʊπþ‰}
+  {‹ʊŊʎ¡‖£§¶γəσɲø¥ζ¬þ•λƒÐß·ʃʜʕ±ɸÆβŒʍðʏȝʉ¤»‰ʟ÷ʒʔ…δ¿ξ›Þ‡†ρʌ}
+  {«ξÐʎλʜʉ×γ¥¤‡ʁ›ɐÞʇʌʟ·ƿð…Œƒø±†ɣØ§æ¶ȝʏʔσʃœζʍɲρʊπßɸ¿•£‰ŋʞþ}
+\ravarscarstanza
+  {λ«ß÷‡ƿæœØ†·ʊζρÐʒƒÆφ±Œ‰×»ʎ…ɳʃþʍøδ•¢β‹ȝ£ʁξγəʜʇŋÞŊʕʈɲπʏʞ¿}
+  {ʉʃθ†¢ʔþʕʜƿÆζØ‡ɐßə¿·ʏæβŊρʟɸʎʒδȝŋʊ¤ɲœ¡πʈλ±ʌƒ÷ʇφγ£×Þ§»Œøʍ}
+  {ʍ»θ¥γ¢σβʔʉ·ʌɲ«£ʁʊρɳ•‡ʃ‖‹ʞ›ɸλʎ‰ʒþʕðØδɐȝÞ…ə±ζξÆʟßæʈ§×ɣÐ÷}
+  {ʃæʎπəʁ·ʇø¡þɲ›θφξ¢£ɣ§…«ʕ÷¥‡λɐ¶†σðʈ‖ʌŋ±βʒÐʊʟ‹¬•¿γÞœδƒØʜ¤}
+\ravarscarstanza
+  {əθβÆ»ρʕØʎʟ¤§π£ƒæʏʃ¶ɸʁŒÐλß‡ɲφ•γʞ«¬›ʍ…ɣʌȝƿ¢÷þ±œ¡ʊʜ¿ʇ‰ðÞɳ}
+  {¬ðƒʃ£ɸ¿«¤ʁÐəʇ·ʉæœŒθøɐζ±‡§ʈʒγ†‖ʎʔ¢ρσʕʊɳÆʌβʜŊλξÞß¡ʍɲþ›Ø÷}
+  {×ʉ¥ɲʈ‡‖ʒ¬ƒ•φɳ›βδŊʍ«ɐʁʏ‹ζð·σʟ£ξÞ±λə§ȝθπ…†ø¿Œʊ»Ðß¤ŋ¡¶æʇɸ}
+  {ßɲ¤¡πγəʟƒŒʏʍδʉʇþφʊξ…β‹ʞ÷ʒʈʔσ¥‰æÆŋØŊ‡ȝʁɸ¬ρ±ʃʎʜ«‖¶ζ•ɐð›†}
+\ravarscarstanza
+  {‹¢Ŋəʇσ±ʈʊ§£βλʁɳ‖δθß×ʔξ¿·ζʞðʃ†Ðœ…ɣ¥¤φ¬γÆøʍ»ʎƿʜʏ÷¶ŋƒʕØʉ‡}
+  {ζʔØɐʇ•ÐȝʍʞʃŒøʏ»¡ʜŊÞʁ«¢ʊʉ‰£φ¶θγæσ§†…÷·Æ‹ʎƿ¤ʟδ‡ʕ¿ʒɳξπ¬‖ρ}
+  {ɳßÞœʜÆʈ»ƿλəøŋʔʕʒξ…þ‡ɲ¡¿ʇʉʟ›±ʌæ¤Ø‹‰·θʊ£ζƒ‖ʞγʍŒɐÐŊ÷ʎ×¢ʁ¶}
+  {λ›ŊʉʜʏʒʃØʎʈ«¥ʇ£·ɐʍβ•þæʟ‡œ¿‹†Œφ¬ȝ¤σδɣʔρ÷ʊʞɳʌəɸ…‖Ðʁ¶Æŋθζ}
+\ravarscarstanza
+  {ɲÐ»‖ζ¬§·ɸ‰ʏδʇʍσ¡¥±θ¶ʒ£×Œ÷¤ξʌŊæʃƿðɳγəʔ«ßβØʕʟ•φȝþʊλ‹Þʈπʞ}
+  {ʞƒζβ‖Æσþ×ʒØʉÐʊʔɲʍ÷ə…ŋȝ«ƿδ•ʟπøÞ¶ʜðɳθŊ›ß»ɐρ†ɣ‹¡£¿‡γ¤λʕʌ§}
+  {‰ʒ‡¿δ¢σœ¤ð›¶ʍȝ»æξþ…θ«ʈ•Þɸλ±‖πʏφʇ÷ƒ†ζʞʉß¥ʊβγʔʕ‹ʌɐəɣØʟŒʃ}
+  {ʔ†ɣ£ƒ§»øȝ¬ßξ¿ʊœ…ʈ¢ʁπʟʞ×Œʃʉʇþɳʕσλ÷ʍ¡±‰¤Ø›ρ‹Ŋ¥γðæÆŋ‖ʌʎφɸ}
+\ravarscarstanza
+  {•σρ¿æφθβɐßʞʇƿ·†ʕ»‹œ£ʏØʁʎÆ«ζ¥ɳʟ¬ʌʔ¶±ʍʒɲδ‖ξ¡ð×ʈ‡γλ…əŋȝÞ¤}
+  {¥γδØ¿§ʌŊ¢ƿʈʏβßœ¤ʞ‖əξÞɲ…ʜ¬φʎʉσ‰ʟþƒø·ʕ†θλʁʔɐʇŒʍ÷ȝ‹ðɳ«•æÆ}
+  {ʔʏɣδ•¢Ðζœƒφß¥ʌŋƿπʇ¡ȝσʟʈæ¤‡ʞɲð»£ρɐ¶·‹ʍ‖ξʃþŊ‰Œ§λÞÆβʒ×¿əʊ}
+  {ʒ†ζŒ¡øʔθɳ»ʏγ‰ɸβ¬ʃρʉþȝ‹ƿ§¿ʟɲæŋʕʎ×±Øʈ£ðπσ…¥ɐ÷ßδʜÐφ¢ʊə‡Þ¶}
+\ravarscarstanza
+  {ƿʈʕɳσ÷øɸπλ«ðδʊ£ʁ¿¡Æʃ‡Ðʌœʜ‖¶…§•Ŋβß¬ə‹ʒφþʟɲ×ƒ¤ɐρξɣŒʔθγÞ›}
+  {·ξʒæÆʌßɸ¢ʍ×¬ʕ±ʟþπ›£ØŊəʃƿ‰§ðγ»ʉσÐρʈʏ¥«ȝɣβ¤‹ŋʔɐʎ…÷ɲθɳʞø†}
+  {ð‹ʍʜ¤·æƿθ±†γɣ×Æ…¿Œʏσ÷ʌ¶ØÞʁ¥ȝʃ‡Ðɲ»§¬əœζßʒ•ʉ£«βɳπʇδλɸʎʈʔ}
+  {ŋθæ¶ʃ×ƒ±δ•§¬λʎ‰φ«Þ»ɲɣ›ζ…ʈσɐ÷Øʇʕ‖þʞ·øʔŒ‹ξð¢ʏ‡ʜ†Æȝ¥¡œʌρʁ}
 
 The grey stone fed my people; the Earth was the amplifier;\\
 at one far scar, all roads within the globe returned;\\
@@ -301,35 +349,61 @@ I let his answer live. The child knelt down at once.\\
 
 \ornament
 
-They brought their heirs before me, frightened, washed, and pale;\\
-one murmured words his father used before a lift.\\
-The others took the murmur; I had made no law;\\
-next time they came with oil, with silence, and with knees.\\
-\medskip
-
-Whatever name they gave it, I required the act:\\
-five parted hands in order, and long waits between.\\
-Far off, beneath the world, the wounded country stirred;\\
-no city fell; the answer told me they could keep it.\\
-\medskip
-
-At first I stood among them, correcting every hand;\\
-then sent them down without me, listening through the stone.\\
-They came back speaking words I had not given them.\\
-The Earth had answered still; I let the new words stand.\\
-\medskip
-
-So I built a people to become the keeping of it,\\
-their days the vessel, so the craft would not grow cold.\\
-The children I took were ours, some bought, some gathered\\
-from the failing land; and all were raised inside a lie.\\
-\medskip
-
-I gave them only this: the Mountain had no birth;\\
-the world beyond had killed us; labour kept us whole.\\
-The rest they built around me while I still drew breath.\\
-A lie once given children does not need its author.\\
-\medskip
+% RAVAR LACUNA II — five quatrains retained in source, unreadable on the wall.
+% They brought their heirs before me, frightened, washed, and pale;\\
+% one murmured words his father used before a lift.\\
+% The others took the murmur; I had made no law;\\
+% next time they came with oil, with silence, and with knees.\\
+% \medskip
+%
+% Whatever name they gave it, I required the act:\\
+% five parted hands in order, and long waits between.\\
+% Far off, beneath the world, the wounded country stirred;\\
+% no city fell; the answer told me they could keep it.\\
+% \medskip
+%
+% At first I stood among them, correcting every hand;\\
+% then sent them down without me, listening through the stone.\\
+% They came back speaking words I had not given them.\\
+% The Earth had answered still; I let the new words stand.\\
+% \medskip
+%
+% So I built a people to become the keeping of it,\\
+% their days the vessel, so the craft would not grow cold.\\
+% The children I took were ours, some bought, some gathered\\
+% from the failing land; and all were raised inside a lie.\\
+% \medskip
+%
+% I gave them only this: the Mountain had no birth;\\
+% the world beyond had killed us; labour kept us whole.\\
+% The rest they built around me while I still drew breath.\\
+% A lie once given children does not need its author.\\
+% \medskip
+\ravarscarstanza
+  {‰þ¥÷θØʎə£ʈɐʏʔæÆ…ɸλʁÐ•ɲɳÞßʇʃ¡¶ξŊπʟʞ«‹ɣ‡›Œδβƿ‖§φ×ʜʍ»ʌƒρŋ}
+  {ʈ†ɐŋʒʉλœγɣπ•±ʞʕʔδʇß·¡ə‖ɳƿ¿φ‹¤þ£ÐÆ¶Ŋʊ‡×ð§÷ʍƒʟ¬ʜʎʃ¢æθ«ø»}
+  {×œøργ‖§ʕ¢ξɲʇζəʍ…ŋʟ¬ʏæÞʔʎθ‰β¶ʒþʉ‹Øɐð÷ŊɸδÐƒƿʁ¥‡ʞφȝ£ɣʊ±«ʜ}
+  {‰ʍ¶ʉβæ¥ʕ‹»‡ɐßƒ•φʃ¤ȝəɸλθσŋδɳʞʎʒʜ¢«¿þ§×ʔʁØÞŒÆʏ‖Ŋρ·ʊ¡ζð†œ}
+\ravarscarstanza
+  {Þɲ‰ɸþʜɳζŊʇ·ɐ«əʍʌʔʕʎÐ¶œ‡ʏ•æ¡÷‹ŋɣðŒßθξʒʃφÆʈ¥…»ʞƿ§ʊʟ×λ£ƒø}
+  {¤Œδ‹¬ξ¿ρ‰θþʕðŋȝæζ†ɳƒʞ×ø¡«ʍʊ•ʁʏʒ¢›ʎ¥ʔÆσß¶ɸŊ‡…ʈəλØ±ʃʉʌ‖£}
+  {×øɸ•ʍŋξρ‰þ¤ʌɳ¡ʔœØ»«ðʈÞÐɐπφ¿‹ßʟλ‖æʏ£Æƿɲɣβ†θδʁʇʉ›ʊƒ…Œʎ÷ȝ}
+  {ζʏδ¢ɳ§‰ʕβʉ£ŋρ×›¶ƒɣʃ«ʒʔ¬·¿φʌŒØæγ÷ʈɲ±þɸÐʍ¤ʇ•λ‖»‡ʁðŊʊσœʞ¡}
+\ravarscarstanza
+  {ɸλÆρ¿ə‖θþξ‰ʔʎ¤ðɳʈʉ›Œ±ʜ«Øƿʊπ§»æβ÷ʞʇȝδʁ¬σʕÞʟøɣʏ‹†γ¡ɲœ•¢ƒ}
+  {ʍŋ‰»‹ʁɐ÷ʇʔ¤σʎƿ£æÆ‡±φ×ʜȝλ¡ɳɲʏÐ§¥πξðβδÞ¬ʞʉʟə…ŊʊγζθɣŒ·ʕ«ß}
+  {·¢ργφƒ£ʜŊʎʕʊʈÆÞ÷ɸœʍƿßÐσɳδŒ†•π¡ξ«§ʟʏȝʃØ¶¥¿øðζ¤ɲ‡ʞβ×‰þʁŋ}
+  {•÷¢‖Ð¶øə£‹¤ρƒʉ›ʃðʎʍβ†ζʜʟ¬ƿ¿Æλɣθσʒʊ¡þɸʔπʇ»ŋ¥ɐ«ØŒφȝ§œʕɳ‰}
+\ravarscarstanza
+  {βσŊ‰əʇ·Øʁʜ»‹Æ÷¶ʔøæʎ†ʏɲÞπ×±«ƿ¬ɸ£ʌ…ŋ§ʞγλðʕδ¡ʉ›ʒœƒɐɳßÐφθ•}
+  {§ɐȝðÐɣ¿ʉ…‰ʜøÆʌßØƿʈʍβƒʒŋþ÷ʏζ·‖±‹›Ŋʟ¡«¥Œʔ¤ə×ʇʊ¶£»ɸλδφ¢æ†}
+  {æʎ×±ʏƒʈ¢£ʟθδʍŒþʁʕ»¬§ð…ʌʊ¤ʔə‹ʃ‰ƿɐɲ·σφŊρ•γ‖β÷πʉʜ‡ʞøλÆ¶Øɣ}
+  {ðʕʊ…ø±ʁσ»ʇßʟɳ‰ʃ¿¶ɣλƒʌʒγ‖‹¬ɸ§πÆȝʔβʎρœþŒ¤ʈƿæʉɐ¥†ɲ×£ə•φ¢ʍ}
+\ravarscarstanza
+  {¶ʈ‡βɐ‰»ʒøʜρ·ʁʔʟŋæƿʕ¤ȝʌʃ×ð÷ʊɸɲɳδσʏζλÐʍθ›‖γØþ±ɣ‹œ•ξ¬ʇʎʉ¿}
+  {ʟθþßŋ‡ɲσζʒξδ¤ƿ‹æ‰ɐ£¢¬λʏ•÷ʎ×Œȝə±ɸʔ¶›«γβÞʊʇʁʜðɣøπ…φÐʞƒ¿Ø}
+  {›θɐ±ŋƿØʈ×ξʍŊ¡βðɳÆʌλʟδσ•ɸ†§ʔ÷ζρπγʉʏÐʒ‖ʕœɣʞæ¿ȝßʊŒ·…¤ʁ‡φ‰}
+  {Œ¬θœʜσʇπə‰«ɣɸφʃ±Ŋʔƿʁ÷ʌ¥¤¿ŋβδɳ†þȝ›ρßƒʈÆζʎ§æ£ɐ»×ØÞø‹ʞλ‡Ð}
 
 A boy once asked where his dead father's father lay.\\
 His mother pointed to a wall I had not opened,\\
@@ -473,35 +547,61 @@ And yet I would not trust it on faith, but had to see.\\
 
 \ornament
 
-I had to see the weapon speak, the world go under,\\
-the memory reset, the room bring the Mountain back\\
-from its own ash. But a firing wants a foe, and faith\\
-a first attack; so I made one, with my own last hands.\\
-\medskip
-
-I marched my own last people out, dressed as the warm kind,\\
-armed against the gate they never knew was mine, to be\\
-the very horror I had carved; and dressed the answer\\
-as defence. And I did not wake it, alone, as a king;\\
-\medskip
-
-I took my place as one of five, the eye among the hands,\\
-and let the Mountain do the thing no single man should do:\\
-the five woke the Beast together, as I had built them to.\\
-And it ended the world above; my own last people died first.\\
-\medskip
-
-Their dying proved for certain the world could be ended;\\
-the sky went to ash; the sealed few rode the long cold out;\\
-the buried works returned the air, the heat, the water.\\
-The words I heard above were words I did not know.\\
-\medskip
-
-The children woke into the tale I had begun,\\
-but called the ash by names no plan of mine contained.\\
-The first new morning was already theirs, not mine;\\
-I knew the cause; they owned the world that followed it.\\
-\medskip
+% RAVAR LACUNA III — five quatrains retained in source, unreadable on the wall.
+% I had to see the weapon speak, the world go under,\\
+% the memory reset, the room bring the Mountain back\\
+% from its own ash. But a firing wants a foe, and faith\\
+% a first attack; so I made one, with my own last hands.\\
+% \medskip
+%
+% I marched my own last people out, dressed as the warm kind,\\
+% armed against the gate they never knew was mine, to be\\
+% the very horror I had carved; and dressed the answer\\
+% as defence. And I did not wake it, alone, as a king;\\
+% \medskip
+%
+% I took my place as one of five, the eye among the hands,\\
+% and let the Mountain do the thing no single man should do:\\
+% the five woke the Beast together, as I had built them to.\\
+% And it ended the world above; my own last people died first.\\
+% \medskip
+%
+% Their dying proved for certain the world could be ended;\\
+% the sky went to ash; the sealed few rode the long cold out;\\
+% the buried works returned the air, the heat, the water.\\
+% The words I heard above were words I did not know.\\
+% \medskip
+%
+% The children woke into the tale I had begun,\\
+% but called the ash by names no plan of mine contained.\\
+% The first new morning was already theirs, not mine;\\
+% I knew the cause; they owned the world that followed it.\\
+% \medskip
+\ravarscarstanza
+  {¤¬ʞʟʊÆ±ð¶þʕ†Øλσəδƿ«‹•ʈ›¥γȝφŊ£Œʔ¢ʇʌ¿ʜʎ÷ɐÞ‡‖ßθʏζœŋɣʒæø§‰}
+  {‡γʒφ‹ζ·ʎʁÐ¤¬ʇßξ×Ŋʌʉʞʕπʃ†ðρ»¿±÷ʈɸɲ•ȝ¡Œʔδəʍ…ŋɐλʊ¢Øθœɣβ‖‰}
+  {ȝæξʌʍπøÐ§ρ•ʎ£¿ß¬‡ƿβʜ›×ɣ†ʈŒʕ¢ʁδÞ‖ƒŊ…ʔʉ‹ɲɸþʞ¤±÷ζʏʊλɐ·σÆθ}
+  {ɸʍʕ±ʁƒʈÐδð›ʊØƿʞζʇ¬‖ʟœ†ρþφ§πɐʒ¢Œɲγλ»¥ɳȝ·¤ø¡ʎÞ‡Æʌʏβʜ×Ŋξ‰}
+\ravarscarstanza
+  {ɣʕʎ‹ʏðœ¬ɲþ¡†π‖±¢ʊβÞŒŋø¿•ζƒəʒ·ʜ‰ʟ¶ʃȝÐ…λ›ρ‡¥£γæʇØ§ʌɸɐßʔσ}
+  {ƿʏ¶ɳÐ•ʁ÷ʃʔρθœƒ¬Œσʕø†ʎ±ʈλʍŋʜ‖Øðʇ×¿ʊÞʞ›æə¤πφɣ§ß»þȝδʉ‰«ξ‹}
+  {¢±γÞʎ¬æÐʞδŒʁȝ†‰ø¶ɐɳ×ʒπʈʇʍʕρʊœ¿θ¥ðŊ¡Øə»σɣŋ…ß«ʔþ‡βʉφ‖ʏʃξ}
+  {ʜʎσʒɲ÷¿•ʉÞργɸ§Ŋ¡ðʁ‖φθʍʊȝʌØʟʈɣβʏœ×«›…¤‡±ƒ‹¥ʇʞπ¬»¢Æ†ζʔ‰ɐ}
+\ravarscarstanza
+  {øρÆ¡ɐʕʁÞδʌ«ζʍφœ‹÷±þÐŋ·ξʜʔπ»ʉ£β‡ʃ†ʊ…ß›ɳɸŊ¬¶¤ʏØλ×ð¢‖ʞ¿σɲ}
+  {ʕʜ·›ƒ¥•Ø‰ʏø‹ɲ£ʍ§ɣʞß¬λθȝ±Æ¶ʎπ×»ρβ«¿σþ¤ʔ‖ʈʇʟ¡δ‡Ðɳɐζðʃŋξƿ}
+  {Ŋδ÷¤ɲð¿ʊ¬Þζʃɸʔʏ±ɳ†ƿʎʈæʒρʌøȝ¥ʞÐ·ɣσþß»Æ¶…›γʍλ•×π¡ʜŋ‰ƒ£‡θ}
+  {ðʔ¡ʟʏ¥ɐʊ÷ɸ»ʒØʇ‖¿γʍʉ«ζ¬ʁʈ±¢¶•…ÞøŒ§œ·×ʞÐδσʎŊ£ȝξŋ†βƒπʕɲəρ}
+\ravarscarstanza
+  {×ßβʞ‖ʉζ‡Ŋʟɐʏσ¢ƿɣʎʒŋʁ†¡π¿ɸœ·Æʌʃ¶ξ¥ʕð‹Øʔʇə÷ɳρ«þ±•¤£ø¬ʊɲȝ}
+  {×†•ƒ›ʏ¡ʍŒ‰¬ʊʎɲ£ξØρσɣŊɐ‡φ»ʃλʉ§ŋʌ¢δƿʕœʈʒʇγəʁßÐ¤ζ·¥βæʞɸÞÆ}
+  {ʔðƒ†ʊγ£βøʉ¿ȝζ±φ×ʇæσß‹ρʟƿ§ʕʁ¥ŋ‰‡ɸɳ¡•Æʏδ÷ʎɣξŒþ›ʈə¬θʃÐŊʍʒ}
+  {Æɐʈσə†•÷ʞ¬œʏ±·‖ʔɳØ‹ƒʍʎŒζ¢æπρʃðʟÞλø‰ʇ¶›βʒÐγ«ʕþ¤ʁ×ʊʌɣφ‡ȝ}
+\ravarscarstanza
+  {ζæ¬φøʃ£ʉ•ðβ«‖ƿγȝŊ…ρπλʟ·Þəʇƒ›§‰Ð±ʒÆ¥ʜδθσʍ¶÷ʔþŋ¤ʌ¢ʞ†Œɲʈʕ}
+  {ɳδπƒ¢ɣφʉθ£•ƿŒ·þ‡ʈʒŊ×ȝɐɸ¥÷¬±¿σʞγ…ʎ‰ζλʔÐ§æʜÆ«ʍ†‹ɲ¶ʃŋξ»›ʕ}
+  {ɳδʃɸʈξʁθʕʉ×ʏ…ζ¿ʌʊ¤ƒŒρβλŊ‖¥ʒ†πþ»Þð«Æʔ§φ¢‹ÐʎσʇʟŋØȝ£ʞ¶æßγ}
+  {ß«‖ɸʎ‡ʇ¡ø¿Ð¬ξλʏ£ʜ‰ŋ•ɐʔʌɣÞπδζþβʊ·×¤ʟθʒ¢ŊœφÆəŒʍʞɳ÷ƒ†¶ƿØ›}
 
 Before the closing of this writing I shall go,\\
 alone through the mouth, into the ash my hand has made;\\
@@ -532,3 +632,4 @@ the hands were many; mine the word that gathered them.\\
 Tomorrow I shall walk the ash and face the deep;\\
 and this is the last name of my making: I am the Beast.
 \end{founder}
+\endgroup
