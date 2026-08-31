@@ -10,7 +10,7 @@
 
 Chapter 11 has already completed its expansion pass. It is not waiting for more inventions.
 
-Pass 39 proposed thirty perpendicular possibilities. The current chapter has adopted, combined or transformed roughly twenty-four of them. The result is no longer the materially narrow chapter that Pass 39 diagnosed. Reggane has ordinary work, Moussa, Étienne, Hamid, Andrew Kerr, the false mountain, the literal cellar, the black tree, the listening network, Martinez, the original trace and a present-day operation. Sarah encounters resistance, error, duration and other minds.
+Pass 39 proposed thirty perpendicular possibilities. The current chapter has adopted, combined or transformed roughly twenty-four of them. The result is no longer the materially narrow chapter that Pass 39 diagnosed. Reggane has ordinary work, Moussa, Étienne, Hamid, Alasdair Kerr, the false mountain, the literal cellar, the black tree, the listening network, Martinez, the original trace and a present-day operation. Sarah encounters resistance, error, duration and other minds.
 
 The chapter's strongest form is now clear:
 
@@ -70,7 +70,7 @@ Scientific and commercial stations form honest individual searches hiding one di
 
 ### 6. Edward's cellar and the human perimeter
 
-Sarah breaks the black-tree seal, assembles individually reasonable failures into a ring and gives Andrew Kerr's collapse a voice. Edward's repeated marginal name converts geography into a person: Amastan.
+Sarah breaks the black-tree seal, assembles individually reasonable failures into a ring and gives Alasdair Kerr's collapse a voice. Edward's repeated marginal name converts geography into a person: Amastan.
 
 **Function:** change the problem from “where is the machine?” to “who maintains the human boundary around it?”
 
@@ -88,11 +88,11 @@ The marriage is hollowed out room by room. Étienne identifies Sarah's practice 
 
 ### 9. Present-day operation and reciprocal confession
 
-Paul reveals that he followed Roger from the disconnected camera behind the glass and watched an unknown older soldier collect its removable memory. Sarah confirms that the house's wired cameras are hers but the second camera and dead-drop route are not. All prior interviews must therefore be treated as compromised. Closing the eye cannot recover them; touching it or confronting Roger would warn the unknown recipient. Sarah authorises exactly one final collection cycle, marked with a unique false fact embedded naturally in her second-road evidence. Kailan prevents her from repeating the fiction of empty land. Paul relocates the trap from human geography to a stored core box. The camera will then be destroyed whether the bait produces movement or not.
+Paul reveals that he followed Roger from the disconnected camera behind the glass and watched General Géraud Montel collect its removable memory. Sarah confirms that the house's wired cameras are hers but the second camera and dead-drop route are not. The instruction records, though not the testimony reels, must therefore be treated as compromised. The tutor is now an interpretive target; Urs is ordered to locate, protect and, if necessary, restrain him. Ordinary instruction stops over Easter and may never resume. Sarah authorises exactly one staged use of the instruction room after Roger's alleged return. Kailan prevents her from repeating the fiction of empty land, Paul defines the false-assay logic, and Urs supplies a genuine stored core and existing custody chain. The camera will then be destroyed whether the bait produces movement or not.
 
-**Function:** form the trio for the first time: Sarah sees the intelligence opportunity, Kailan sees the human danger, and Paul makes the objection operational.
+**Function:** form the principal trio while revealing the operational fourth hand: Sarah sees and authorises the intelligence opportunity, Kailan establishes its human limits, Paul designs the deception, and Urs makes it materially possible.
 
-The revised sequence is now causal on first reading: camera memory, dead drop, unknown collector, all prior testimony presumed lost, decision not to alert the unknown penetration, one final exposure, Kailan's human objection, Paul's stored-core solution and mandatory closure after the next memory change.
+The revised sequence is now causal on first reading: camera memory, dead drop, Montel recognised, instruction distinguished from testimony, tutor contained, Easter instruction halted, records accelerated in the safe room, one staged exposure, Kailan's human objection, Paul and Urs's stored-core solution, and mandatory closure after Roger's next possible memory change.
 
 ## Evolution across the five passes
 
@@ -116,9 +116,9 @@ The current manuscript selected the strongest parts:
 - Sarah enters for Reggane and takes the room.
 - The dead drop is planted at the end of Chapter 10.
 - Paul photographs the collector and presents the face to Sarah in Chapter 11.
-- The collector remains fictionally unknown but is modelled on Christophe Gomart's public soldier-intelligence profile: older, disciplined, personally operational, economical in movement and accustomed to command without displaying it.
+- Sarah recognises the collector as the fictional General Géraud Montel, whose career follows the public soldier-intelligence pattern associated with Christophe Gomart: Rwanda, Yugoslavia, Afghanistan, Harmattan and Serval.
 
-The collector should not be named as the real Christophe Gomart. The modelling is tonal and professional rather than biographical: the manuscript borrows the credible bearing of a senior “soldier of the shadows” while preserving the collector as an unknown fictional operator. This keeps the useful uncertainty of an unidentified disciplined operator without asserting that the real person performed the fictional act.
+The collector must not be named as the real Christophe Gomart. Montel is fictional, though his public-service history supplies an intentional biographical fingerprint. Sarah worked beside Montel during Serval in 2013; recognition therefore establishes his rank, his knowledge of her and the possibility of prior French interest without telling her why he has come personally.
 
 Pass 34 also contains older chapter numbering and architecture. Its Chapter 11/16 labels and structural order are not governing.
 
@@ -183,7 +183,7 @@ The camera-channel amendment resolves the third conclusion and gives Paul a drie
 | 20 | Chain of listening stations | Present and forms proto-Horizon | Lock |
 | 21 | Edward's cellar literalised | Present | Lock |
 | 22 | Black tree introduced at source | Present on seal, records, crates and network | Lock |
-| 23 | Sober Scot speaks | Andrew Kerr's reports present | Lock |
+| 23 | Sober Scot speaks | Alasdair Kerr's reports present | Lock |
 | 24 | Expedition returns “wrong” | Absorbed into Kerr's failed attempts and broken certainty | Function adopted |
 | 25 | Search hidden in legitimate business | Present, with honest results and dishonest total purpose | Lock |
 | 26 | Chain reaction embodied | Ball-bearing tray present twice | Lock |
@@ -208,7 +208,7 @@ The following should not be reopened during the next revision:
 - Edward's archives convert the geographic problem into a human perimeter.
 - Amastan ends the historical search as a person/route, not as an explained doorway.
 - Elder and younger Martinez remain distinct.
-- The unknown collector remains unidentified in this chapter but is characterised after the public Gomart archetype: an older former commander who can still perform the last operational metre himself.
+- The collector is identified by Sarah as the fictional General Géraud Montel: an older former commander, known to her from Mali, who can still perform the last operational metre himself.
 - The present operation must be morally corrected by Kailan and made workable by Paul.
 - Chapter 11 must force Chapter 12's confession and defer Sarah's physical entry to Chapter 13.
 
@@ -266,12 +266,13 @@ The revised Chapters 5, 10 and 11 now establish the causal chain directly:
 1. Chapter 5: Paul finds the disconnected camera and watches Roger change its memory.
 2. Chapter 10: Paul watches Roger seal that memory, follows him to the dead drop and photographs the disciplined older collector.
 3. Kailan and Paul understand that the exchanged information is their raw interview record.
-4. Chapter 11: Sarah denies owning the second camera or recognising the dead-drop route; Roger's guilt and knowledge remain unknown.
-5. All prior interviews are presumed compromised. Touching the camera or warning Roger would alert the other hand without recovering what has left.
-6. Sarah authorises one final exposure, not continued observation of a known channel, and proposes a unique false survey fact; Kailan rejects moving anyone through supposedly empty land.
-7. Paul attaches the lie to a genuine stored core, moving the test into offices and laboratories. After the next memory change, the camera closes whether the bait produces movement or not.
+4. Chapter 11: Sarah denies owning the second camera or recognising the dead-drop route, but recognises its collector as General Géraud Montel; Roger's guilt and knowledge remain unknown.
+5. The instruction record, not the interview-room testimony, is presumed compromised. Touching the camera or warning Roger would alert the other hand without recovering what has left.
+6. Roger is allegedly away for Easter. Urs is ordered to locate and contain the tutor, ordinary instruction halts, and the empty house is used to accelerate the testimony in the safe room.
+7. Sarah authorises one staged exposure after Roger's return, not continued instruction or observation of a controlled channel; Kailan rejects moving anyone through supposedly empty land.
+8. Paul defines the false-assay logic and Urs attaches it to a genuine stored core with an existing custody chain, moving the test into offices and laboratories. After Roger's next possible memory change, the camera closes whether the bait produces movement or not.
 
-The collector is visually and professionally modelled after Christophe Gomart as presented publicly through *Soldat de l'ombre* and his special-operations/intelligence career, but is not named or asserted to be Gomart.
+The fictional General Géraud Montel is visually and professionally modelled after Christophe Gomart as presented publicly through *Soldat de l'ombre* and his special-operations/intelligence career, but is not named or asserted to be Gomart. His appearance makes the age of French interest, rather than the collector's identity, the unresolved danger.
 
 ### P2 — Paul voice differentiation
 

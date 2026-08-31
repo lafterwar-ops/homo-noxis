@@ -24,3 +24,6 @@ Thumbs.db
 
 # Keep PDFs optional — uncomment if you don't want PDFs in git
 # *.pdf
+
+# Per-turn review diffs (local handoff artifacts)
+/tmp/reviews/
