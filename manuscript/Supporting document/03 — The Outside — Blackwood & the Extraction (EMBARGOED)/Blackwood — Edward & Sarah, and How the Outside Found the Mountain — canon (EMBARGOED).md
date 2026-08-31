@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Use current family dates and covert Shield admission; earlier contact models do not govern. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Blackwood — Edward & Sarah, and How the Outside Found the Mountain — Canon (EMBARGOED)
 
 *Purpose: fix the two Blackwoods worth fixing — Edward (the founder) and Sarah (the one who detected the Mountain in 1960 and reached it in 1974) — and the single valuable idea under them: that the outside world came at the Mountain **through the ground, by seismic science.** Salvaged and hard-reconciled from a May-2025 relic doc; everything in that doc that fights current canon is **dead** (see §7). EMBARGOED: Sarah's discovery, the seismic through-line, and the double game are reveals, seeded not stated.*

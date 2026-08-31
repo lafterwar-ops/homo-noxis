@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Mixed mechanism generations and implementation notes; use Current/Mechanisms. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Pendulum — the Split of the Hours — canon (Book One)
 
 *Purpose: answer the one mechanical objection a careful reader raises at the Pendulum — how a swing-plane that takes **~2.75 days** to turn once can give **five named hours every single day**. This doc fixes that, and only that. It sits **under** the Geography lock (which owns the numbers: latitude 21.3° N, Foucault Long Return ≈ 66 h). Where they touch, Geography wins.*

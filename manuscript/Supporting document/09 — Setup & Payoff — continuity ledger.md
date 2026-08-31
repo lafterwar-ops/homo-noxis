@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Includes superseded custody, operation or revelation states; use Current/Continuity-Ledgers. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # 09 — Setup & Payoff — continuity ledger (§26.7)
 
 *Purpose: track every major/medium setup to its payoff, so nothing fires early, late, or twice. Built by scanning the manuscript (chapter distribution verified by grep). Columns: **Setup** (first appearance + first meaning) · **Payoff** (transformed meaning) · **Status/flag**. "Explain?" = whether the callback needs stating (default: NO — let image/procedure carry it, §26.7). Governs; where a chapter contradicts a locked chain here, the chapter is wrong.*

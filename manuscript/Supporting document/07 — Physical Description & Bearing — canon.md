@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # 07 — Physical Description & Bearing — canon
 
 *Purpose (§21, §24.7): a single reference for how each figure looks, ages, and — above all — is **recognised through bearing and repeated gesture**, so the prose pass can reintroduce appearance through changing context instead of generic beauty or repeated eye/hair inventories. Built by auditing the manuscript as it currently stands (chapter evidence cited). Where the page is deliberately silent (Ravar, Ithe), that silence is canon and must be preserved.*

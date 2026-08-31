@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Mixed mechanism generations and implementation notes; use Current/Mechanisms. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # The Last Cataclysm & the Cataclysm Gravure — Canon (EMBARGOED)
 
 > **EMBARGO — read before using.** The number of the cataclysm and the number of the cycle are a **secret reveal.** That the last Cataclysm was the **FIFTH**, that we now live inside the **fifth cycle**, and that the **sixth** is the one still ahead — none of this may surface in the published manuscript until François lifts the embargo. In-book, the Mountain speaks only of *"the last Cataclysm," "the drowning," "the defiers who held the whole."* The counting is for us. Jack / the editing house: **do not state the cycle-number in any chapter.** This document is for construction and for later use.

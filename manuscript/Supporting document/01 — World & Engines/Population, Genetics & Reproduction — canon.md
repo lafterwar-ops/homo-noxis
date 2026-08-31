@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Fixed-population and speculative policy claims are not current locks. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Population, Genetics & Reproduction — canon (§22.4 / §22.5 / §23.2)
 
 *Purpose: make the sealed people **genetically and demographically survivable** across deep time, and tie reproduction to the theme (the Intimate Loss). Sits under the Mass/Energy canon (population **LOCKED 5,000**, fixed carrying capacity) and beside the embargoed **Species canon** (the loss, the ghost lineage, the mtDNA/Y mismatch). Believable to an intelligent non-specialist; bounded speculation flagged. **On the page this is husbandry-of-people that calls itself doctrine — seeded, never stated.***

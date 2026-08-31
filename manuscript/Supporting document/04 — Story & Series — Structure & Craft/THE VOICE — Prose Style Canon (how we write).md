@@ -1,5 +1,7 @@
 # THE VOICE — Prose Style Canon (how we write)
 
+> Current working guide, reconciled 31 August 2026 with the author decisions and current canon index. Dialogue has no exemption from voice differentiation. This guide does not authorize another general polish.
+
 *The standing law of the prose. Read this before drafting or editing any chapter. Its purpose is that we never re-derive the voice again: we draft **in** it, not loose-then-purge. Everything below was earned across the manuscript's passes and is now identity, not preference.*
 
 ---
@@ -24,17 +26,17 @@ Every rule below turns on *which zone a sentence is in.* Get this right first, e
 
 | Zone | What it is | Governed by the bans? |
 |---|---|---|
-| **NARRATION** | All unquoted narrative prose, whoever currently owns the telling: K's past-tense account, Paul's present-tense interviewer frame (*"He stops to drink…", "I say…"*), Sarah's recorded prose testimony, and any later ordering hand. | **YES — fully.** |
-| **DIALOGUE** | Anything inside `\begin{room}…\end{room}` turn exchanges; **and** in-account quoted speech in `` … '' spoken by a character within the account. | **NO — free.** |
-| **SCRIPTURE / FORMAL** | `\begin{scripture}`, `\begin{declaration}`, and italic attributed sayings/epigraphs (`\textit{…}` credited to a character). | **NO — free / formal register.** |
+| **NARRATION** | All unquoted narrative prose, whoever currently owns the telling: Kailan's account, Paul's identified account of the return, Sarah's recorded testimony, and the identified later ordering hand. A live interviewer is a room speaker, not an external present-tense narrator. | **YES — fully.** |
+| **DIALOGUE** | Anything inside `\begin{room}…\end{room}` turn exchanges; **and** in-account quoted speech in `` … '' spoken by a character within the account. | **Speaker-specific constraints apply; philosophy is permitted, portable authorial cadence is not licensed.** |
+| **SCRIPTURE / FORMAL** | `\begin{scripture}`, `\begin{declaration}`, and italic attributed sayings/epigraphs (`\textit{…}` credited to a character). | **Preserve the authorized formal register and text locks.** |
 
-**The disambiguation rule:** if it is the current teller's own unquoted voice describing, reflecting, or explaining — Kailan, Paul, Sarah, or another ordering hand; past or present tense — it is **narration** and it is governed. A character telling a long account does not turn prose paragraphs into dialogue merely because a recorder is running. Only words physically enclosed as speech, room turns, or formal/scriptural environments enter the free zones.
+**The disambiguation rule:** if it is the current teller's own unquoted voice describing, reflecting, or explaining — Kailan, Paul, Sarah, or another ordering hand; past or present tense — it is **narration** and it is governed. A character telling a long account does not turn prose paragraphs into dialogue merely because a recorder is running. Only words physically enclosed as speech, room turns, or formal/scriptural environments enter the dialogue or formal zones; neither excuses unclear attribution.
 
 `room` therefore means **verbatim exchange**, not “the only place where a person is speaking.” Prose outside `room` remains sourced speech: the current teller's shaped continuous testimony to the established listener. It is not free indirect discourse, impersonal scene narration, or an omniscient bridge.
 
 **The source test:** for every narrated assertion, ask: *How can this teller know this?* If the answer is not recoverable from perception, memory, teaching, later explicit learning, or a named record/source, the sentence is forbidden. Do not hide omniscience inside collective nouns (`the crowd knew`, `the Hall waited`), confident causal summaries, inferred motives stated as fact, or bodily detail occurring outside the teller's possible field of perception.
 
-**Why the split exists:** characters are *allowed* to be aphoristic, antithetical, interpretive, prophetic, philosophical — that is *them*, and it's often the best writing in the book (Va-Raedin's maxims, Ka-Syphiron's jokes, the Covenant's cadence, Paul granting a point). The ban is on the **narrator doing it in his own voice.**
+**Why the split exists:** characters are *allowed* to be aphoristic, antithetical, interpretive, prophetic, philosophical — that is *them*, and it's often the best writing in the book (Va-Raedin's maxims, Ka-Syphiron's jokes, the Covenant's cadence, Paul granting a point). The ban is on the **narrator doing it in his own voice.** Dialogue still requires a particular mind and purpose. Do not manufacture disagreement to produce a polished correction pair. Preserve exact legal and ritual formulas; other aphorisms must belong to the person and moment.
 
 ---
 
@@ -98,7 +100,7 @@ The failure mode on the other side is **flattening into robotic subject-verb-obj
 
 - **Concrete, sensory, physical, specific.** Name the thing. Vividness comes from the exact detail, never from commentary.
 - **Science is destiny.** Physical phenomena carry the drama — the mechanism IS the ordeal (mirror → shadow → focus → refraction → total internal reflection → diffraction). Never stop the story to *explain* an idea; let the explanation *be* the ordeal.
-- **Physics must be correct.** This book's trust rests on it. Diffraction needs the red-glass monochromator; total internal reflection is digital; the pendulum is 2.75 days; the mass-energy ledger closes. **Do not contradict the World & Engines canon** (Geography lock, Mass-Energy ledger, Pendulum, Veil's Chamber optics).
+- **Technical trust matters.** Check the actual demonstration and Current/Mechanisms before changing them. Microscopy cannot resolve the double helix; Light surveys fixed antipodal convergence rather than diffracting molten lava; Pendulum precession is distinct from dawn/noon/dusk prediction. Do not certify the catastrophe's speculative leap as proven physics. Retired World & Engines ledgers do not govern.
 - **Rhythm.** Alternate long and short. Use deliberate fragments for pressure ("*No. Stone.*"), lists for gathering, but never let the page go airless (aphorism-dense) or robotic (SVO-choppy).
 - **The narrator's intelligence** is in the *selection* — what enters the frame, what is left in the dark, which two facts are set beside each other. Trust the reader to connect them.
 
@@ -119,26 +121,26 @@ The world is present everywhere and lectured nowhere. When seeding survival/worl
 
 ## 6. The room (dialogue) mechanics
 
-Inside `\begin{room}…\end{room}` (the 2026 interview frame, Paul Morgan ↔ K):
+Inside `\begin{room}…\end{room}` (an identified recorded exchange at Blackwood or in the later Mountain frame):
 
-- **Turn marker:** each speech begins `--- ` (space after). No speaker attributions, no quotation marks around turns.
-- **Paul uses NO contractions.** Ever. ("do not," "I am," "you are.")
-- **Paul never speaks K's name.** K may name Paul freely.
-- **No mid-sentence em-dash inside a room turn.** Use colons and semicolons. (Em-dashes are fine in *narration*.)
+- **Turn marker:** `--- ` (space after). Use `(Sarah): ---`, `(Paul): ---`, `(Kylian): ---` and corresponding labels when multiple speakers or attribution risk require them. Preserve established clear two-person exchanges. No quotation marks around room turns.
+- **Paul's default syntax is formal and exact.** His intelligence tests wording, evidence and method; his humour is dry. Do not mechanically rewrite an established joke or ordinary utterance during an unrelated pass.
+- **Names belong to their moment.** Kylian is the Blackwood alias; Kailan is the Mountain name. Paul may use either when appropriate. His brother John and nephew Daniel are distinct.
+- **Punctuation follows speech.** Do not add ornamental reversals or mechanically convert every pause to a colon or semicolon. Preserve authorized interruptions and comic timing.
 - **K's pauses:** `\ldots{}`.
 - **In-room beat / silent action:** `\centerline{[\,---\,]}`.
 - **In-account quoted speech** (a character speaking inside K's narrated past): `` … '' (double-backtick / double-quote).
 - **Language cues** where used: `\textit{In English}` / `\textit{In Noxius}`.
-- Dialogue is a FREE zone — characters may be aphoristic, antithetical, philosophical. That is where the book's wisdom is allowed to live.
+- Dialogue permits thought, without an exemption from voice or economy. Paul tests; Sarah manages and demands evidence; Kailan reasons through the Mountain's learning; Sela solves practical problems; each office has its own reasoning domain. Do not give them identical balanced wisdom.
 
 ---
 
 ## 7. LaTeX / file mechanics
 
 - One `.tex` per chapter, `\typesetchapter{Chapter N}{Title}` at the top.
-- Environments: `room`, `scripture`, `declaration`. Preserve them exactly; never let a ban touch inside them.
+- Environments: `room`, `scripture`, `declaration`. Preserve their roles and boundaries; do not nest a room merely to mark a telephone aside. Explicit user-approved edits may change their content. Scripture and Ravar locks remain distinct from ordinary dialogue revision.
 - Paragraph breaks are `\par`; scene breaks are `\ornament`. Preserve both; never leave doubled blank lines.
-- **Never edit manuscript `.tex` files through the shell** — use the file tools (Read/Edit/Write). Shell reads can be stale; shell writes can clobber.
+- **Edit source with apply_patch and exact context.** Read the current file first, preserve unrelated work, compile and inspect. Do not replace canonical source by editing extracted text or a generated PDF.
 
 ---
 
@@ -176,4 +178,4 @@ If it survives all ten, it belongs to the voice.
 
 ## 10. One-paragraph summary (pin this)
 
-Cool, exact, physical first-person. State and stop. The narrator shows; the characters interpret. No epigrams, no "I understood then," no show-then-gloss, no antithesis, no prolepsis — in narration. Keep abstraction-made-physical, keep emotion beats, keep vivid specifics; do not flatten into robotic. The world lives in glimpses, one dimension at a time, connected as a metabolism, never lectured. Physics is correct and canon is law. Dialogue and scripture are free zones — that is where wisdom is allowed to speak.
+Cool, exact, physical first-person. State and stop. The narrator shows; the characters interpret. No epigrams, no "I understood then," no show-then-gloss, no antithesis, no prolepsis — in narration. Keep abstraction-made-physical, keep emotion beats, keep vivid specifics; do not flatten into robotic. The world lives in glimpses, one dimension at a time, connected as a metabolism, never lectured. Technical claims require checking; current source and author decisions govern over old canons. Dialogue carries character thought without becoming a free zone for identical aphorisms; scripture retains its authorized formal register.

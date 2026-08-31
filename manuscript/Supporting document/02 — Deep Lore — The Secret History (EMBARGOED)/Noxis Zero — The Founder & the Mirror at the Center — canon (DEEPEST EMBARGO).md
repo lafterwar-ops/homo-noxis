@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Ravar — The Founder, the Mirror at the Center & the Off-Switch — Canon
 
 > **⚑ CANON UPDATE — the founder's name (2026-07-28, governing over this entire file).** The founder is now named **Ravar** — a coined word in the dead root-tongue, a **palindrome** whose mirror *is* the meaning: **the last and the first** (the last of his own dying lineage, the first of the new kind he made). K reads it at the Forbidden Archive by catching that the word runs the same from either end. Every "Zero"/"Noxius Zero" below is now **Ravar**; NEVER use "Zero", "Origin", or any Latin/Greek word again. On the page the two peoples are **the Old Kind** (his own) vs **the Many** (never the Latin "Sapiens" — analysis-only in these notes); "Homo Noxius"/"In Noxius" stays the *outside's* modern Latin label (Sarah's coinage), kept. The word "**founder**" is banned on the page (→ Ravar, or "the maker" in his verse).

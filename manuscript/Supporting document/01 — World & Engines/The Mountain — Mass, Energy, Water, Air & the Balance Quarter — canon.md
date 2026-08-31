@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Mixed mechanism generations and implementation notes; use Current/Mechanisms. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # The Mountain — Mass, Energy, Water, Air & the Balance Quarter — canon (Book One)
 
 *Purpose: build the physical machine **before** we write a word of it into the prose (the recurring mistake was the reverse — decorate first, engineer never). This doc is the ledger that must close: where the calories come from, where the water comes from, where the air moves, where the waste goes, where the smell goes, and how the Balance quarter is actually laid out, room by room. It sits under the **Geography lock** (latitude 21.3° N, gates south, Light north, hidden by three ridges) and beside **THE MOUNTAIN AS ORGANISM** (the loops). Where they touch, Geography wins on place, this doc owns the numbers.*

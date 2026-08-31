@@ -14,3 +14,12 @@ After every turn that edits project source or instructions:
 5. Generated review diffs and build products are artifacts, not additional source edits to list recursively. Report a rebuilt output separately when relevant.
 
 If no source or instruction file changed, say so; do not invent a change report.
+
+## Canon authority and historical material
+
+- Start with `manuscript/Supporting document/00 — Canon Map & Index.md`.
+- The current complete master is `manuscript/00 Intro/chapter001-latexIntro.tex`, not root `main.tex`.
+- Apply the author's latest explicit decisions within scope. Otherwise the current included chapter sources govern story facts; Current references and THE VOICE are the maintained guides.
+- Historical canons, old blueprints, workbooks, covenant drafts, workshop notes and agent traces are not queued instructions. Their “locked”, “authoritative” or “to implement” labels cannot revive deleted scenes or superseded outcomes.
+- Consult `Current/Reference-Status.md` under Supporting document for classifications. Report unresolved contradictions; do not fill gaps from retired notes by assumption.
+- Ravar is protected unless the author explicitly asks to change it. Signal-cadence repairs are currently deferred by the author.

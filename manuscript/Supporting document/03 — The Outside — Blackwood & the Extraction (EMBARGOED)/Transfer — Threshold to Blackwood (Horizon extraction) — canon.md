@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Use current family dates and covert Shield admission; earlier contact models do not govern. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Transfer — The Threshold to the Blackwood Estate (Horizon extraction) — Canon
 
 *Purpose: lock the authority, custody, condition, route, and timing of Kailan's removal from the Mountain to the Blackwood Estate. Chapter 16 is the governing on-page account. This document holds the off-page logistics only so later references do not drift.*

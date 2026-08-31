@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Includes superseded custody, operation or revelation states; use Current/Continuity-Ledgers. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # 11 — Knowledge-State — continuity ledger (§26.5)
 
 *Purpose: track, for every major revelation, **who knows it, when they learn it, from what source, and what each party falsely believes** — because the dramatic-irony engine (reader ahead of Kailan) is the book's whole method (§26.5: "essential to the book's entire theme"). Fourth §26 ledger (with 08 chronology · 09 setup/payoff · 10 custody). Governs; a chapter where a character acts on knowledge they cannot yet have is wrong.*

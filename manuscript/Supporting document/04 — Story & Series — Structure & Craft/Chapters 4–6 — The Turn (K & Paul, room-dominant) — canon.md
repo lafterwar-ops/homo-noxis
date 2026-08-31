@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Chapters 4–6 — The Turn (room thread / account return) — canon
 
 *Purpose: fix the architecture of the Ch4–6 stretch, decided in the 13 July 2026 brainstorm and reconciled to the current manuscript. Chapters 4–5 flip figure and ground: the 2026 interview (K↔Paul) becomes the main action while Kailan accelerates the Mountain account. Chapter 6 deliberately lets the Mountain account retake dramatic weight for the Festival and Veil's Chamber, while the room thread persists through the printed-book exchange and the bounded camera coda. This is where K proves himself, Paul begins to believe, and observed surveillance becomes patient investigation. Supersedes the Reveal Sequence's stale Ch3–8 mapping wherever that map disagrees with the current chapters or the Knowledge-State ledger.*

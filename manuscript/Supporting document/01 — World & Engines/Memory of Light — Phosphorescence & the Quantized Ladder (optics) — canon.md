@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Memory of Light — Phosphorescence & the Quantized Ladder — canon
 
 **Scope.** Physical grounding for Paul's gift to Kailan at the head of Chapter 8 (Light). The phosphorescence branch was checked against Wikipedia's *Phosphorescence* and *Emission spectrum* entries on 2026-07-22; the retained flame-emission branch and its apparatus-bounded wording were rechecked against the NIST Atomic Spectra Database and NIST atomic-spectroscopy compendium on 2026-08-14. **100% accuracy required; no improvisation.** Nothing below is magic — that is the point.

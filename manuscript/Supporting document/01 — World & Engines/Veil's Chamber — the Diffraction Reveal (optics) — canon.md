@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Veil's Chamber — the Diffraction Reveal (optics) — canon (Book One)
 
 *Purpose: make the Veil's-Chamber reveal survive a physicist reading it. The emotional logic — Kailan is shown that **"light does what water does,"** that a beam is a **wave**, and that the last lie of Light is the one Light itself cannot suppress — is already excellent. This doc fixes the apparatus so the rings are real: the **red glass**, the **pierced token**, and the numbers that make clean pale-and-dark rings appear on the wall.*

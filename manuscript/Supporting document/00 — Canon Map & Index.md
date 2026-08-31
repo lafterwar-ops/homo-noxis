@@ -1,3 +1,35 @@
+# Current canon map — 31 August 2026
+
+## Start here
+
+1. Latest explicit author decision for the requested change.
+2. The 24 chapter sources included by `manuscript/00 Intro/chapter001-latexIntro.tex`.
+3. The checked working references below, subordinate to those sources.
+4. Historical files only for development history; never as automatic instructions.
+
+| Current reference | Function |
+|---|---|
+| [Story canon](Current/Story-Canon.md) | Narrators, law, population, votes, Blackwood and endings. |
+| [Chronology](Current/Chronology.md) | Family dates, event/narration order and explicitly unresolved timing. |
+| [Mechanisms](Current/Mechanisms.md) | Current Beast, Light, Pendulum, clock and spatial relationships. |
+| [Continuity ledgers](Current/Continuity-Ledgers.md) | Custody, knowledge gates and transformed returns. |
+| [Voice](<04 — Story & Series — Structure & Craft/THE VOICE — Prose Style Canon (how we write).md>) | Positioned narration, distinct speakers and prose constraints. |
+| [Reference status](Current/Reference-Status.md) | Classification of old canons, blueprints, workbook, art and copies. |
+
+The short notes on naming prefixes, Kahir disciplines and scripture locking remain subordinate quick references. Old chronology, setup, custody and knowledge ledgers no longer govern. No file's old “LOCKED” or “IMPLEMENT NEXT” label overrides this index.
+
+The current author decisions withdraw a fixed Mountain population and a guaranteed Va-Sheva execution. Kailan constructs the Trial interruption; no advance condemned-person entitlement predicts it. The two Outsiders have no Faith vote; Kailan gives the fifth assent. The counterfeit cadence is reserved for the author and was not normalized.
+
+## Build and source boundary
+
+Build the master above with XeLaTeX from `output/`; the result is `output/chapter001-latexIntro.pdf`. Root `main.tex`, old PDFs, excerpt copies and abandoned P01–P04 duplicates are not the complete current book. See the root README for the two-pass command.
+
+## Historical index follows — not a second authority
+
+The entire earlier index is retained below for provenance. Its links, chapter numbers, priorities, status claims and instructions are historical. Unlisted background details have not been erased, but must be checked before they are used.
+
+---
+
 # Canon Map & Index — Homo Noxius (Supporting Documents)
 
 *How this library is organised. Six themed folders, spoiler-aware: the deeper the number, the closer to the secrets. **EMBARGOED** in a folder or filename = not yet revealed on the page; handle as spoiler.*

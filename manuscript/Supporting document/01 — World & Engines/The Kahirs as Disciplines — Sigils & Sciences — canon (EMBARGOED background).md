@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # The Kahirs as Disciplines — Sigils & Sciences — Canon (EMBARGOED background)
 
 > **EMBARGO — read before using.** The reading below — that the five offices are **sciences kept as religion**, that the Mountain is an **archive of pre-Cataclysm knowledge partitioned so no office holds the whole**, that the sigils are **discipline-glyphs**, that the divided-knowledge law is at bottom a **weapons-custody / permissive-action system** and the Light token a **physical key (PAL)**, and that the token's rings echo the **Richat** — is BACKGROUND ARCHITECTURE. It is the machine under the floor, not the floor. The **surface** stays intact: the offices are priesthoods with beautiful doctrines, and the faithful (and K, in his account) never name the science. **Do not surface the science/weapons/PAL/Richat reading in any chapter until François lifts the embargo.** The one thing already usable on the page is the **Justice ≡ Bayes** surface — because the sigil is drawn there and Sa-Tavan's method states it in prose (§3). Everything else here is for construction and for the later reveal.

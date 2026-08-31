@@ -17,6 +17,9 @@
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{etoolbox}
+% Keep automatically inserted verso pages blank without resetting the page count.
+\patchcmd{\cleardoublepage}{\hbox{}}{\hbox{}\thispagestyle{empty}}{}%
+  {\PackageError{HomoNoxius}{Could not set blank-page style}{Check cleardoublepage before rebuilding.}}
 \usepackage{needspace}
 \usepackage[framemethod=default]{mdframed}
 \definecolor{ink}{HTML}{1E1B18}

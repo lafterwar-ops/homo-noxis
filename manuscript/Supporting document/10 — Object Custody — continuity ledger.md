@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Includes superseded custody, operation or revelation states; use Current/Continuity-Ledgers. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # 10 — Object Custody — continuity ledger (§26.4)
 
 *Purpose: track every load-bearing object — who holds it, when, and why — so nothing is in two hands at once, smuggled where it cannot be, or paid off from a place it was never held. Built by scanning the manuscript (chapter distribution verified by grep). Third of the §26 ledgers (with **08 — Chronology** and **09 — Setup/Payoff**). Governs; a chapter that puts an object in the wrong hand is wrong.*

@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Earlier development reference; facts must be checked against current source and current canon before reuse. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # Homo Noxius — Species, the Intimate Loss & the Engine of the Mountain — Canon (EMBARGOED)
 
 *Purpose: fix what Noxius actually is, how it truly lost (not on the battlefield but through its daughters), and why that loss is the hidden engine behind everything the Mountain does — its control, its doctrine, and finally its willingness to reset the world. EMBARGOED: this is deep-reveal material. On the page it is seeded and mythologized, never stated flat. The reader assembles it; K arrives at it late; Paul (2026) can place the branch but not the deeper loss (absorption / last remnant / the Intimate Loss).*

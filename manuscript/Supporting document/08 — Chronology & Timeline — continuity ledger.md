@@ -1,3 +1,9 @@
+> **STATUS: HISTORICAL / NON-GOVERNING — 31 August 2026.**
+>
+> Superseded dates, ages and event ordering; use Current/Chronology. All labels below such as “locked”, “governing”, “current”, “authoritative” or “still to implement” belong to the earlier document state; they create no present editing obligation. Preserve this material for history. Do not restore deleted scenes, facts or outcomes from it. Start with the [current canon index](<C:/Francois/Writting/HomoNoxisGithub/manuscript/Supporting document/00 — Canon Map & Index.md>).
+
+---
+
 # 08 — Chronology & Timeline — continuity ledger (§26.1)
 
 *Purpose: fix, once, the dates and ages the book depends on, resolve contradictions, and mark what is deliberately left open. Built by auditing the manuscript + canon (evidence cited). This ledger GOVERNS; where a chapter drifts from it, the chapter is wrong.*
