@@ -28,12 +28,15 @@ The Threshold Exception still requires the five explicit assents and its warning
 
 At firing, Sarah reports the measured return; Paul supplies Faith's recovered instructions; Kailan brings them into agreement. They reconstruct Faith together. Sarah and Paul are heard but have no vote. Kailan gives Faith's fifth and final assent. Sa-Elian attends the station and shares its physical interlock with Sarah; he adds no vote. Justice retains the last mechanical refusal after Kailan's word. Paul's lack of a vote or lever does not erase the practical work he contributes.
 
+Ka-Elun and Ka-Raedin's mutual attraction is extramarital, forbidden and unconsummated. Trial's Labyrinth allows a brief playful demonstration and physical familiarity, stopped by Ka-Cheryn of Balance. Do not turn it into a consummated affair or give Kailan unspoken access to their feelings.
+
 ## Population and lives
 
 The population changes. Approximate references to thousands describe scale, not a fixed quota. An exact total requires a dated or presently returned count for a narrated purpose. The Ascension ceremonial count and Balance's fresh ward count of 5,011 in Seal are such observations. The latter must not be reused as a post-death census. Do not infer a universal birth-equals-death rule, an exact perpetual population, or a new reproductive policy from retired population notes.
 
 ## Blackwood and Shield
 
+- Amastan ag Malik belongs to the Kel Ad, a fictional lineage within the Kel Tamasheq. Preserve the real patronymic `ag`; `Ad` is the lineage name, not a replacement grammatical particle. Its possible echo of Qur'anic ʿĀd remains unconfirmed. Do not assert a historical Tuareg genealogy from the myth.
 - Sarah's first entry is a covert Shield operation, not an admission approved by all five. Amastan, Ka-Xhian and Va-Theran know. Shield uses a drill to contain the rest of the Mountain.
 - Ka-Xhian is blind from observing the Reggane fire. Va-Theran was his Veil, later became Keeper, and had Dhavar as Veil.
 - Sarah sees the Pendulum, selected pillar bases and the Cataclysm gravure; her restricted visit does not give her the whole chamber or operational craft. Her own copy of the photograph survives. Shield owns the other copy's custody failure.
