@@ -128,7 +128,7 @@ Inside `\begin{room}…\end{room}` (an identified recorded exchange at Blackwood
 - **Names belong to their moment.** Kylian is the Blackwood alias; Kailan is the Mountain name. Paul may use either when appropriate. His brother John and nephew Daniel are distinct.
 - **Punctuation follows speech.** Do not add ornamental reversals or mechanically convert every pause to a colon or semicolon. Preserve authorized interruptions and comic timing.
 - **K's pauses:** `\ldots{}`.
-- **In-room beat / silent action:** `\centerline{[\,---\,]}`.
+- **In-room pause:** `\centerline{[\,---\,]}` may mark silence and nothing else. Never use it, or any other unattributed stage direction, to narrate visible action inside a room. A room has no external eye. An audible transcript cue may identify only a sound preserved by the recording; every other consequential action must be spoken or later supplied by an identified witness.
 - **In-account quoted speech** (a character speaking inside K's narrated past): `` … '' (double-backtick / double-quote).
 - **Language cues** where used: `\textit{In English}` / `\textit{In Noxius}`.
 - Dialogue permits thought, without an exemption from voice or economy. Paul tests; Sarah manages and demands evidence; Kailan reasons through the Mountain's learning; Sela solves practical problems; each office has its own reasoning domain. Do not give them identical balanced wisdom.
