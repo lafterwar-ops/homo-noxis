@@ -2,15 +2,61 @@
 
 - Chapter: `manuscript/chapters/chapter15-Knocks.tex`
 - State: FROZEN
-- Phase: 13 — validated and frozen
-- Last updated: 2026-08-15
+- Phase: 13 — reopened pass validated and frozen
+- Last updated: 2026-09-03
 - User constraints: **ABSOLUTE OVERRIDE — THERE IS NO WORD-COUNT LIMIT IN EITHER DIRECTION FOR THIS PASS.** The ordinary John ±10% envelope, band-return steps, compression/expansion incentives, and freeze-band criterion are waived. Actual word counts must still be recorded at every scored checkpoint, but length is neither rewarded nor penalised by itself. **ABSOLUTE SOURCE LAW — Chapter 15 is the tape and must remain a fully live recorded room.** No prose narration of the present frame in any voice. Only dialogue, silences, audible sounds, and minimal clearly documentary transcript cues are admissible. Every assertion requires a recoverable present speaker/source. Preserve the plot and outcome, single-room frame, double-knock evidence, proof order, recorder/fresh-paper/two-archive-trace custody, independent remembered rites, cautious non-identity, Kailan's personal recognition, Sarah's calendar method, bounded `Who`, inside/outside and lawful/counterfeit ambiguity, road/well handoff, the three voices, and all earlier frozen canon. Chapters 1–14 are fixed incoming canon. Do not edit Omega/KingJack files. Never stage, commit, or push.
 - Working-tree baseline: target SHA-256 `C32F9AF128E8071D4CD8750D8B659BB727B4230F1A9DFBB062D603581D6A212B`. The current target is the John-start baseline and differs from HEAD by two protected KingJack corrections: `standing over the machine` reconciles Chapter 14's recorder-on-table position; `The fresh paper stays under the lamp, Mr Morgan. Understand what these two older traces...` distinguishes the live drum sheet from the archival traces and restores Sarah as speaker/source. Pre-existing unrelated work also includes modified Chapter 14 and its Round 02 records plus Chapter 15 Round 01 records. John will not restore or edit any of those records.
-- John-start word count (W0): 1,826
+- Reopened baseline SHA-256: `B39427D9986745084E3C889AFE26436B385C5EB690CDAE2F7B2DBB93E48C0CB3`
+- Reopened word count (W0): 2,363
 - Word-count method: deterministic regex `[A-Za-z0-9]+(?:[-'’][A-Za-z0-9]+)*` applied to the raw `.tex` source; reuse at every scored checkpoint.
 - Permitted word-count band: **WAIVED by explicit user instruction; unbounded in either direction.**
-- Current word count: 1,912
-- Rewrite iteration: 3
+- Current word count: 2,541
+- Rewrite iteration: 2 of 5 for the reopened pass
+
+## Reopened brief — 3 September 2026
+
+- The author's new instruction explicitly reopens the chapter and supersedes the former three-speaker restriction and the former deferral of surface-source analysis.
+- Preserve the one-room tape law: every intervention is speaker-labelled; no omniscient or unproven decor narration; use a blank `\centerline{[\,---\,]}` for silence or elapsed time.
+- Reassemble the chapter as a live analytical meal: Sarah, Paul, Kylian, Urs and Elise; two laptops; archive sheets; live drum; scripture; incoming station data; a bounded operational decision; then completion of Kylian's account.
+- Locked details: Kylian prefers Oscietra; Urs uses one durable hidden-person nickname, chosen as `Herr Nemo`; vodka is present but Sarah permits one glass each maximum.
+- Technical destination: distinguish lower amplitude, higher-frequency/shallow arrivals, surface-level source solutions, broad energy-order difference, cross-station comparison, and one station falling silent. Keep operator identity and the final nine-station proof for Chapter 17.
+- Station system: the nine stations use names from the Egyptian Ennead; `Atum` is the station that stops transmitting.
+- Earlier chapters remain fixed. A minimal forward repair to Chapter 17 is permitted only to turn repeated diagnosis into later confirmation.
+- The ordinary ±10% word envelope remains waived by the author's standing Chapter 15 override, but counts will be recorded.
+- Never stage, commit or push.
+
+## Reopened result — 3 September 2026
+
+- Final SHA-256: `CBF3AA180126D488C50D8D21B9DCA858A2E8486E6FC78F515C90364F2B7469AE`.
+- Word movement: 2,363 to 2,541 words by the established John regex, +178 words / +7.5%. The chapter remained inside the ordinary ten-percent envelope despite the explicit waiver.
+- Architecture: the whole chapter remains one recorded room. Sarah assigns the physical arrangement aloud; six blank centre-lines alone carry silence or elapsed time; there are no visual stage directions, bare dialogue turns or unsourced present-frame observations.
+- Five voice-functions are now distinct: Paul tests provenance and limits; Sarah controls custody and decisions; Elise reads the live instruments; Urs interprets geophysics and time requirements; Kylian supplies embodied memory and scripture.
+- Meal: five caviar tins and the one-glass vodka limit occupy the analytical waiting time. Kylian chooses Oscietra; Urs's durable private name for him is `Herr Nemo`.
+- Signal: the live strokes are one to two orders smaller in amplitude, higher-frequency, without the old low return, and provisionally solved at surface elevation. Urs gives the derived energy bracket and names seismic sounding only as a three-station hypothesis.
+- Stations: the nine-station Ennead system enters through Geb, Nut and Atum. Atum stops transmitting as the surface solution reaches its sector. The room preserves the distinction between lost transmission and its unknown cause.
+- Scripture: the Book of the Cataclysm is recited around two further incoming strokes. Its mechanism and aftermath meet live evidence without an interpretive lecture.
+- Decision: Sarah forbids contact with Atum, assigns independent analogue and digital work, and defers movement until all nine stations are checked. The required hour returns the room to Kylian's account and starts a new reel for Horizon.
+- Forward repair: Chapter 17 now identifies its work as confirmation of the three-station hypothesis, uses the full array and Atum's buffer, and retains sole ownership of the eastward nine-station proof, independent second reading, operator resources and visual attribution.
+- Current mechanism and continuity ledgers were updated; no earlier chapter and no Ravar text changed.
+
+## Reopened score history
+
+| Draft | Score /100 | Change | Word count | Result |
+|---|---:|---:|---:|---|
+| Reopened baseline | 92 | — | 2,363 | Strong archive proof and scripture, but the requested meal, five-speaker analysis, station comparison and shallow-source inference were absent or concentrated in one explanatory block. |
+| Full reassembly | 95 | +3 | 2,552 | Added the live meal, attributed setup, five distinct functions, energy/frequency/elevation analysis, Ennead stations, Atum failure and the timed return to the account. |
+| Rewrite 1 | 98 | +3 | 2,552 | Named sounding provisionally and repaired Chapter 17 so later proof confirms rather than repeats Chapter 15. |
+| Rewrite 2 | 100 | +2 | 2,541 | Tightened the comparable-station claim, stated the six unchecked stations, and replaced Paul's polished recap with an evidentiary status report. Frozen. |
+
+## Reopened validation
+
+- Continuous read completed across the Chapter 14 ending, all of Chapter 15, the Chapter 16 opening and all of Chapter 17.
+- Static source audit: one `room` pair; five `scripture` pairs; 75 attributed interventions; zero bare `---` turns; six blank centre-lines; zero italic or visual centre-line directions.
+- `git diff --check` passes for the working tree.
+- Two final XeLaTeX passes completed successfully against the canonical master; the generated manuscript is 333 pages. Existing underfull-box and `mdframed` page-label warnings remain non-fatal.
+- Nothing was staged, committed or pushed.
+
+Everything below this point is the superseded 15 August pass history, retained only for audit. Where it conflicts with the reopened brief or result above, the 3 September sections govern.
 
 ## Governing diagnosis
 

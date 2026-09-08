@@ -29,9 +29,12 @@ The three-person Faith reconstruction and its single vote are specified in Story
 - At the end, the conversion place is flooded, broken and cold. Remaining water does not imply an immediate second firing. Do not certify a reheat date or a decommissioning solution not demonstrated in the text.
 - Whole's eleven-day examination reports what the offices tested. It does not scientifically prove every institutional prediction they make about the distant future.
 
-## Signals: open work, not an instruction to repair now
+## Signals
 
-The counterfeit cadence/packet transition remains reserved for the author. Preserve the current wording of Knocks, Mock and Return during unrelated edits. Neither the retired workbook's lava-wave model nor an old implementation checklist can decide the new programme. Record any proposed repair separately.
+- In Knocks, three stations shared with the older archive establish a provisional result: the live strokes are one to two orders smaller in amplitude, higher in frequency, missing the deep slow return, and solved at surface elevation. Urs names seismic sounding as a hypothesis, not a completed attribution.
+- The nine stations use names from the Egyptian Ennead. Atum stops transmitting as the moving source reaches its sector. Silence proves loss of transmission, not its cause.
+- Mock alone supplies the full-array confirmation: nine stations over two arrays, Atum's buffered last packet, an independent second reader, the eastward walk and the later visual evidence. Knocks must not name the operator, state or purpose.
+- The counterfeit cadence/packet transition into Return remains reserved for the author. Neither the retired workbook's lava-wave model nor an old implementation checklist can decide that later programme.
 
 ## Light, water and rooms
 

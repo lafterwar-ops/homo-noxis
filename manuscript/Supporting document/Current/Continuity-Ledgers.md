@@ -27,7 +27,7 @@ Updated 31 August 2026. These are the checked principal chains, replacing the ol
 - Va-Sheva discovers who crossed the ridge when the ribbon and record are returned. Kailan obtains a promise of process and holds the photograph outside the accused office's sole custody; he does not ask to be contained.
 - Sarah hears the watch-the-watcher confession only after Paul and Kailan's decision. Her later command does not retroactively make her complicit in that earlier deliberation.
 - Sarah knows the covert Shield compact and her restricted tour, not the entire five-office mechanism. Her archaeology/gravure confirmation can be precise only about what she saw.
-- The returning party knows a counterfeit source is possible. Its moral force and the surviving alternative are argued in the hearing; knowledge of forgery is not proof that no threat exists.
+- In Knocks, three common stations provisionally identify a weaker, higher-frequency, moving surface source and Urs names seismic sounding as the working hypothesis. Atum falls silent as the source reaches its sector, but no cause, operator or purpose is established. Mock owns the nine-station confirmation, independent reading, eastward route and visual attribution.
 - Kailan supplies the last Faith vote; Sarah and Paul supply indispensable evidence and interpretation. Keep jurisdiction and practical contribution separate.
 - Va-Maera survives the injury, later receives instruction through touch/lip-reading and eventually rises. Do not leave her dead or permanently absent to simplify Faith's succession.
 - Kailan witnesses Va-Sheva's final exchange but does not decode the conspiracy or observe the eventual sanction.
