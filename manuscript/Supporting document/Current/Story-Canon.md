@@ -1,6 +1,6 @@
 # Current story canon
 
-Updated 31 August 2026 from the editable manuscript and the author's decisions in this editing turn. This is a maintenance reference, not prose to insert into the novel.
+Baseline checked 31 August 2026 against the editable manuscript and the author's decisions. The artistic direction below was adopted on 9 September 2026; that addition is not a fresh audit of every story fact. This is a maintenance reference, not prose to insert into the novel.
 
 ## Authority and scope
 
@@ -22,6 +22,8 @@ Sa- marks a Candidate, Va- a Veil, Ka- a Keeper. Use the rank and name belonging
 
 The Lesser Seal is a containment command, not a judicial application invented by Kailan. Va-Sheva issues it after receiving the evidence. The soundless chamber bears the joined marks of Faith and Shield. Its existence does not establish who was interrogator, subject or trainee there.
 
+Author clarification, 10 September 2026: the Lesser Seal remains in force through the Trial and until Kailan has left the Mountain. The public explanation is that Light's Veil is missing and the count must locate him; inhabitants remain confined to their quarters. The hearing and departure use cleared routes, with senior office-holders and a few trusted Shield wardens. After the Trial the party returns across the bridge to the circular vestibule, collects Sa-Tavan and climbs Faith's Labyrinth together to the Hall of Prayers. Only there do they separate. Va-Sheva takes Kailan through Shield's side towards the surface and the Horizon handover; they do not descend below the Cataclysm antechamber. A senior Shield escort carries Justice's orders, transfer packet and return receipt; no Justice witness or Faith attendant accompanies this exit. After his departure, Faith is to announce that he was seen entering the Labyrinth and send pilgrims to search; the fourth-day mourning remains the cover. Kailan hears this as Va-Sheva's account of the plan and never witnesses the search party.
+
 Kailan's Trial move is his own procedural construction. Do not restore a previously announced condemned person's old right, a guaranteed appeal, or coaching that predicts the whole move. He obtains the offices' hypothetical answers, offers proof under seal, and petitions to have the charge heard before execution. None of the five challenges that petition; Justice suspends the hearing for that accusation and restores limited standing. Their acceptance creates the precedent. Silence here is failure to contest jurisdiction; it is not a general affirmative vote.
 
 The Threshold Exception still requires the five explicit assents and its warnings. The Cataclysm hearing still admits the surviving one-in-five alternative. Legal authorization, a person's assent, a physical interlock and irreversible release are separate acts.
@@ -34,6 +36,33 @@ Ka-Elun and Ka-Raedin's mutual attraction is extramarital, forbidden and unconsu
 
 The population changes. Approximate references to thousands describe scale, not a fixed quota. An exact total requires a dated or presently returned count for a narrated purpose. The Ascension ceremonial count and Balance's fresh ward count of 5,011 in Seal are such observations. The latter must not be reused as a post-death census. Do not infer a universal birth-equals-death rule, an exact perpetual population, or a new reproductive policy from retired population notes.
 
+## Artistic direction — authority, reproductive coercion and self-enforcing belief
+
+Adopted and selectively implemented on 9 September 2026. Oasis gives Kailan's early claim that the Mountain's women are freer; Whole revisits it after Maera's lesson. The intervening scenes supply the restrictions, choices and sincere enforcement. This is not an outstanding instruction for another book-wide pass.
+
+Whole now divides the conclusion between a substantive Kailan–Paul conversation about Ravar and the Mountain, Kailan's admission of his own claim upon Sheva, and one final general reflection in his later written narration. Paul's reference to the actor's improvised prayer preserves the distinction between Ravar's purposes and what later believers made for themselves. The abstract mechanism is stated once, at the end of this passage. This locally authorized analysis does not settle every rule's authorship, Ithe's answer or Va-Sheva's later sanction.
+
+**Central reversal: the existence of female rulers never answered Kailan's question about female freedom.** He can admire women's sacred knowledge and authority over men, and mistake those powers for evidence that individual women control the terms of their lives. His discovery must concern what a woman can choose or refuse, and what follows that refusal.
+
+### Agreed formulation in the book's terms
+
+> Ravar makes the life he requires of women the life in which they are most valued, protected and powerful. He gives them genuine authority to judge one another by its rules, until compliance becomes the measure of a good woman. They defend those rules as the source of their dignity and teach their daughters to do the same. His demands survive as their convictions, enforced in his absence by those who believe the order belongs to them.
+
+### Agreed philosophical counterpart
+
+> An order becomes self-enforcing when it makes the conduct it requires the basis of security, status and dignity. It grants people genuine authority to uphold its rules while keeping the purposes of those rules beyond their control. They come to police one another in defence of benefits they genuinely possess, mistaking their power within the arrangement for freedom to determine its terms. Domination endures through the convictions of those who experience themselves as its beneficiaries.
+
+### Dramatic development and limits
+
+- The intended movement runs from Kailan's apparent vindication of the Mountain, through encounters with its restrictions and their sincere enforcement, to the recognition of Ravar's personal wound in the order's founding purposes. Do not give young Kailan the founder's motives before he can know them.
+- Reproductive coercion includes control of both permitted and forbidden choices: whom someone may join, whether they may bear a child, and whether refusal is possible. This direction does not establish a new reproductive procedure, a fixed birth quota, or the unresolved sanction on Va-Sheva.
+- Women's authority, expertise, care, security and benefits remain real. Enforcement can arise from affection, conviction, prudence, ambition or fear. Preserve distinct people, dissent and political disagreement; do not turn the women into an interchangeable collective or make every benefit fraudulent.
+- Men remain constrained through rank, merit, approval, duty and sacrifice. Their different captivity does not erase the reproductive restrictions on women or imply identical burdens.
+- Ravar's beliefs about women belong to his perspective. His structures can recruit later believers and grow beyond his intentions; do not make every subsequent practice his deliberate invention or supply Ithe's unspoken answer.
+- Faith has been female in the successions recited to Kailan; Justice male. The other three offices go by gift. A female Keeper of Balance does not establish a female-exclusive office. Preserve the five offices' material interdependence and indispensable skill beyond their senior ranks.
+- Begin with what existing scenes can reveal: matching rolls, devotion and status, Elun and Cheryn, Va-Sheva's pregnancy, Ravar's confession. These are places to examine, not a mandatory callback programme. Prefer consequential choices and conduct over new explanatory speeches, sociological lectures or a thematic answer key.
+- Matrix and World Company were workshop analogies for the mechanism, not additional in-world entities. Preserve the story architecture and productive uncertainties. Chapter 23 remains protected without a separate explicit instruction to edit it.
+
 ## Blackwood and Shield
 
 - Amastan ag Malik belongs to the Kel Ad, a fictional lineage within the Kel Tamasheq. Preserve the real patronymic `ag`; `Ad` is the lineage name, not a replacement grammatical particle. Its possible echo of Qur'anic ʿĀd remains unconfirmed. Do not assert a historical Tuareg genealogy from the myth.
@@ -44,6 +73,8 @@ The population changes. Approximate references to thousands describe scale, not 
 - The French camera watches instruction, not the interview room. Roger Martinez carries material onward to the fictional General Montel. Do not revive a planted-folder story or a second false-assay counter-operation removed from the manuscript.
 - Paul and Kailan made the earlier watch-the-watcher decision. Sarah does not retroactively join their deliberation.
 - Urs is a trained exploration geophysicist turned oil/logistics operator, with Noxius for Sarah's work. The tutor is a separate person; Paul is not the course instructor.
+- Kailan's outbound flight is a Jamaican diplomatic flight to Geneva, obtained through the Kingston oil/alumina favour described in Shadow. Captain Billy commands it; Jean-Charles translates his English for Kailan. The family helicopter completes the transfer to the lake house. Billy and the other air crew do not hear Jean-Charles's private questions about the well, its closure or the answering warden; those disclosures remain exclusive to Jean-Charles.
+- Characters do not speak the name Noxius before Sarah coins it in Beast. Earlier speech uses the Mountain's language, our language or your language as appropriate. Editorial language headings are distinct from words spoken at the narrated moment.
 
 ## Ending decisions and open outcomes
 

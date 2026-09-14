@@ -1,0 +1,4 @@
+interface:
+  display_name: "KingJames"
+  short_description: "Synthesize four full independent chapter rewrites"
+  default_prompt: "Use $kingjames to run KingJames(chapter N): commission four complete independent rewrites, select their strongest passages, and integrate them into one coherent chapter."

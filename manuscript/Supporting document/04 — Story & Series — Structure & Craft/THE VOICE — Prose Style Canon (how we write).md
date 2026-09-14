@@ -2,6 +2,8 @@
 
 > Current working guide, reconciled 31 August 2026 with the author decisions and current canon index. Dialogue has no exemption from voice differentiation. This guide does not authorize another general polish.
 
+> Author-approved local exception, 9 September 2026: after Maera's lesson in Whole, Kailan and Paul discuss Ravar and the Mountain; Kailan's later written narration then examines his own claim upon Sheva and states the general mechanism of self-enforcing belief once, at the end of the passage. This explicit reflection is intentional. Preserve its division between conversation and analysis. It grants no access to unspoken minds or unseen events and does not relax the rules for other narration.
+
 *The standing law of the prose. Read this before drafting or editing any chapter. Its purpose is that we never re-derive the voice again: we draft **in** it, not loose-then-purge. Everything below was earned across the manuscript's passes and is now identity, not preference.*
 
 ---
