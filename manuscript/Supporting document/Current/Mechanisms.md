@@ -44,6 +44,8 @@ The Keeper's Chamber is a different space, concealed at the great hidden water r
 
 The vent in Threshold opens south-east toward the second ridge. Its glint is light returned from that ridge, not a point caused by moving Kailan's lamp. His nocturnal exterior crossing is unlit and uses the sky and terrain. Entry is on the hidden side of the ridge. The archive belongs to Shield's Veil. The adjoining soundless chamber bears Faith and Shield's joined marks; do not add a new set of seals or an impossible audible demonstration during stealth.
 
+Horizon establishes the outbound connection: the Hall of Ceremony's Shield service way leads into the passage beneath the second ridge and the archive/soundless-room junction. Beyond the joined Faith-Shield side opening stands the door bearing three overlaid Shield seals which Kailan left unopened in Threshold. Its bolts require a dedicated iron key bearing Shield's mark; Va-Sheva carries and retains it. She opens the door into the route to Sarah's former reception room: four pillars on either side, two opposed benches, a central lamp-holder and an oculus. The opposite corridor, with three sealed crossings, leads to the outer rock entrance. This is separate from the five mechanical chambers on Shield's ceremonial descent to the Cataclysm antechamber. Neither the three-sealed door nor the reception room is identified as Shield's Keeper's Chamber or a Greater Seal control room. The dry well is a later surface rendezvous, not a hidden passage.
+
 ## Pendulum and orientation
 
 The Hall's disk has two opposite faces; a stationary observer does not see both through ordinary pendulum swing. A character who sees both has crossed to the other side. Sarah's visit supplies the 125-metre drop from fixing to disk centre.

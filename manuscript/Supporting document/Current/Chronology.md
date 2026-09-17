@@ -35,6 +35,16 @@ Blackwood interview anchors: 17 March (Ascension), 19 March (Oasis), 21 March (M
 
 Instruction occurs between interviews with a separate tutor. Egypt/computer play and the Rome sessions belong to that course. During the Easter weekend the house has skeleton staff; the tutor has left and is then located and secured at the chalet. Do not assume another routine lesson is imminent. The foreign camera's record is instruction only.
 
+### The observed leak and the desert deployment
+
+Clarified 17 September 2026. The continuing Blackwood room in Mock is late afternoon on Friday, 3 April 2026. Paul observed Roger Martinez's instruction-camera memory handoff to General Géraud Montel on Monday, 30 March: three days before Threshold's 2 April session, four before Reggane's 3 April testimony. These are the same observed delivery. The former duplicate "four days ago" in Threshold was corrected; no second delivery is created.
+
+Kailan had already reached Blackwood and rested before the first interview on 17 March. His exact Mountain departure date is not stated. Do not invent one from Paul's earlier belief about whether his people existed.
+
+The desert deployment follows the observed handoff by several days. Mock's satellite sequence now has bare ground on the evening of 1 April, first visible lorries and tent rows on 2 April, and the rig on its pad with an expanded camp on the morning of 3 April. On 2 April the rig is still carried on its transporter. Sarah infers that equipment already available in the region could account for the rapid concentration; the images do not prove where it was obtained or when Montel gave an order. Do not restore a twelve-day-old camp or a rig already deployed on the handoff date. The camp's assembly and the few hours of observed eleven-minute sounding are distinct intervals.
+
+The party leaves Blackwood at dusk on 3 April, sleeps during the overnight flight and reaches the desert airstrip at dawn on 4 April. This does not settle the onward camel journey's duration.
+
 Narrated order alternates Sarah's outside history with Kailan's earlier Mountain experience. His Keeper's Chamber location deduction happens NOW in the Blackwood room during Confession; it does not mean the young Veil already visited it. Whole supplies the later sphere/liquid-metal deduction.
 
 ## Return, firing and sealed aftermath
