@@ -17,8 +17,8 @@ Updated 31 August 2026. These are the checked principal chains, replacing the ol
 | Hall record | Live reel, Justice's clay and named operators record the acts, individual refusals and sources. | No vote for an Outsider does not mean no responsibility for an Outsider. |
 | Clock evidence | Running face + five sealed captures + firing drum + stellar check, then separate office reset rooms. | An interpretation is attributed, not asserted from an omniscient future. |
 | Ravar | Surviving wall, named recording/translation, seven/five/five missing quatrains left visibly unreadable. | No invented reconstruction or claim of being the first visitors. |
-| Paul's account | Assembles identified testimony and records through Ravar; offers shorter and fuller inside records; chooses eleven-day cutting. | The choice and available shorter version remain visible. |
-| Outside manuscript / Horizon | Copies omit operational craft explicitly; Kailan inherits authority, Sarah and Sela leave with him; later reports return through Horizon. | Preserve divided copies, finance and routes, with a duty to return before the next trigger. |
+| Paul's account | Assembles identified testimony and records through Ravar; prepares shorter and fuller inside records; Sa-Tavan helps cut the fuller wall; Paul continues through the eleven-day window. | The shorter record names responsibility. Adequate partial engraving, surviving pages, assistance and the offered exit remain available; Paul chooses to stay. |
+| Outside manuscript / Horizon | Copies explicitly withhold the measures needed to reproduce the firing; Kailan inherits authority, Sarah and Sela leave with him; later reports return through Horizon. | Preserve divided copies, finance and routes, with a duty to return before the next trigger. |
 
 ## Knowledge gates
 

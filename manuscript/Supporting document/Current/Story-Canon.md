@@ -13,8 +13,10 @@ The author's latest explicit decision governs a requested change. Otherwise, the
 - Blackwood interviews take place in spring 2026. Kailan's outside name there is Kylian. Sarah narrates Reggane (11) and Infiltration (13); Kailan narrates Confession (12), Trial (14) and Horizon (16). Rooms identify the actual speakers.
 - Mock (17) is a live recorded emergency throughout; no retrospective interiority. Return (18) opens inside the Greater Seal: Kailan refuses the journey and Paul takes it over. Kailan resumes at the Justice approach in Seal (19), then supplies Beast (20), Vigil (21) and Clock (22), with identified additional records where he was absent.
 - Ravar (23) is the wall's reproduced account, mediated through the declared recording/translation. Whole (24) explicitly changes the ordering hand to Kailan, using witnessed events and reports later received by Horizon.
-- Ravar's text, quatrains, 7/5/5 damaged fields and their current glyph treatment were not changed in this pass. Redesign is a separate artistic decision, not a production repair inferred from an evaluation.
+- Ravar's text remains protected outside explicit author-directed changes. Preserve its quatrains, 7/5/5 damaged fields and their current glyph treatment. Redesign is a separate artistic decision, not a production repair inferred from an evaluation.
 - The Basquiat/Ra association remains in the manuscript. Mythic convergence is not a confirmed identity or an etymological answer key.
+
+Author decision, 17 September 2026: one added quatrain near Ravar's signature joins stolen divine fire, a deathless people and the recurrent liver wound of Light's mortal succession. The reader is invited to suspect that accounts carried outside the Mountain became the Prometheus legend, compressing the founder and successive Keepers into one enduring figure. This is a fictional myth-origin possibility, not an identification proved by the narrators or a claim of literal bodily immortality. Ravar still departs into the ash; the quatrain does not make him die by Light's succession rite. No other poem lines or damaged fields are changed.
 
 ## Offices, seals and judgment
 
@@ -69,6 +71,12 @@ Whole now divides the conclusion between a substantive Kailan–Paul conversatio
 - Begin with what existing scenes can reveal: matching rolls, devotion and status, Elun and Cheryn, Va-Sheva's pregnancy, Ravar's confession. These are places to examine, not a mandatory callback programme. Prefer consequential choices and conduct over new explanatory speeches, sociological lectures or a thematic answer key.
 - Matrix and World Company were workshop analogies for the mechanism, not additional in-world entities. Preserve the story architecture and productive uncertainties. Chapter 23 remains protected without a separate explicit instruction to edit it.
 
+## Artistic direction — Deleuze and Lacan
+
+Author decision, 17 September 2026: make the existing affinities more legible through minimal changes in the book's own language. The implemented pass adds fifteen words in Whole's already authorized reflection: Kailan seeks an account of himself in Sheva's choice; desire actively staffs and guards the order that shapes it. These are interpretive affinities, not claims that the novel illustrates a complete philosophical system. Leave the existing mirror, missing-guarantor, material-interdependence and cycle passages to work through their scenes. No further explanatory pass is queued; Ravar is unchanged. Do not equate the Lacanian Real with physical machinery, or turn desire-as-lack into Deleuze and Guattari's theory of production.
+
+Author-approved addition, 17 September 2026: in Whole, Paul ends his observation about the actor's prayer with the servitude-and-salvation question attributed to Spinoza in [Deleuze and Guattari's Anti-Oedipus](https://xenopraxis.net/readings/deleuze_guattari_antioedipus.pdf). Kailan's existing reply about Maera and the subsequent reflections supply the response. Preserve the Sheva passage in Kailan's own language; no additional desire-of-the-Other quotation or explanatory speech is added.
+
 ## Blackwood and Shield
 
 - Amastan ag Malik belongs to the Kel Ad, a fictional lineage within the Kel Tamasheq. Preserve the real patronymic `ag`; `Ad` is the lineage name, not a replacement grammatical particle. Its possible echo of Qur'anic ʿĀd remains unconfirmed. Do not assert a historical Tuareg genealogy from the myth.
@@ -88,7 +96,7 @@ Whole now divides the conclusion between a substantive Kailan–Paul conversatio
 
 ## Ending decisions and open outcomes
 
-Paul has a shorter inside record and a route out available. He chooses the complete eleven-day record and stays. Neither the narration nor the canon certifies his death as the only possible preservation strategy. Keep the fear, disagreement, offered alternatives and his material responsibility in the firing.
+Paul has a shorter inside record and a route out available. Justice adds the rejected alternative, the five assents and Paul's work at Faith to that shorter account; Paul accepts its accuracy. Sa-Tavan helps cut the fuller wall. By the eighth day it records the firing and their parts in it, with the remaining account preserved on paper. Paul keeps working and declines Shield's final call to leave while the road is still open. His eleven-day undertaking is a chosen extension, not a demonstrated minimum labour requirement or the only possible preservation strategy. Keep the fear, disagreement, practical assistance and his material responsibility in the firing.
 
 Horizon must preserve the outside account, teach its danger and bring it back before another trigger. The engraved account is accessible only after a trigger; its late availability cannot itself prevent the next act. Kailan inherits Horizon and the surviving Blackwood authority; he leaves with Sarah and Sela after his last kneeling before the Pendulum. Raedin retains Light's internal chain.
 
