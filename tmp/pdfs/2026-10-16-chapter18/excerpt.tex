@@ -1,0 +1,148 @@
+% !TEX program = xelatex
+\documentclass[11pt,twoside,openright]{book}
+\usepackage[paperwidth=6in,paperheight=9in,inner=0.70in,outer=0.70in,top=0.72in,bottom=0.76in,headheight=14pt,headsep=0.22in,footskip=0.34in]{geometry}
+\usepackage{fontspec}
+\setmainfont{EBGaramond-Regular.ttf}[
+  Path={C:/Francois/Writting/EB_Garamond/static/},
+  BoldFont={EBGaramond-Bold.ttf},
+  ItalicFont={EBGaramond-Italic.ttf},
+  BoldItalicFont={EBGaramond-BoldItalic.ttf},
+  Numbers=OldStyle,
+  Ligatures=TeX
+]
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{etoolbox}
+% Keep automatically inserted verso pages blank without resetting the page count.
+\patchcmd{\cleardoublepage}{\hbox{}}{\hbox{}\thispagestyle{empty}}{}%
+  {\PackageError{HomoNoxius}{Could not set blank-page style}{Check cleardoublepage before rebuilding.}}
+\usepackage{needspace}
+\usepackage[framemethod=default]{mdframed}
+\definecolor{ink}{HTML}{1E1B18}
+\definecolor{rulegold}{HTML}{8A6A2A}
+\pagecolor{white}
+\color{ink}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\setstretch{1.065}
+\frenchspacing
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+\tolerance=1600
+\emergencystretch=2em
+\hyphenpenalty=350
+\exhyphenpenalty=350
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\scshape\nouppercase{Homo Noxius}}
+\fancyhead[RO]{\small\scshape\nouppercase{\leftmark}}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+\newcommand{\ornament}{\par\vspace{\dimexpr\baselineskip-2pt}\nointerlineskip\centerline{{\color{rulegold}\rule{0.30\textwidth}{0.25pt}}}\nointerlineskip\vspace{\baselineskip}}
+\newenvironment{scripture}{\begin{quote}\small\setstretch{1.04}\itshape\setlength{\parindent}{0pt}\rightskip=0.15\textwidth plus 1fil\relax}{\end{quote}}
+% --- The confession of Ravar ---
+% Distinct from {scripture} (the Mountain's liturgy: narrow, small, italic, ragged).
+% Ravar's voice: FULL text width, justified (each line the same measure), upright roman.
+% Verse-capable: end each verset with \\. Only genuine wraps take a hanging indent.
+\makeatletter
+\newenvironment{founder}{%
+  \par\addvspace{0.7\baselineskip}%
+  \setstretch{1.08}%
+  \let\\\@centercr
+  \list{}{%
+    \setlength\itemsep{\z@}\setlength\parsep{\z@}\setlength\topsep{\z@}%
+    \setlength\itemindent{-1.8em}\setlength\listparindent{\itemindent}%
+    \setlength\leftmargin{1.8em}\setlength\rightmargin{0pt}%
+  }\item\relax
+}{\endlist\addvspace{0.7\baselineskip}}
+\makeatother
+\newmdenv[
+  topline=false, bottomline=false, rightline=false, leftline=true,
+  linewidth=1.2pt, linecolor=rulegold,
+  leftmargin=0.3em, rightmargin=0pt,
+  innerleftmargin=1.1em, innerrightmargin=0pt,
+  innertopmargin=0pt, innerbottommargin=0pt,
+  skipabove=0pt, skipbelow=0pt
+]{roombar}
+\newenvironment{room}{\ornament\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}\begin{roombar}\small}{\end{roombar}\ornament}
+\newenvironment{declaration}{\setstretch{1.0}\setlength{\parindent}{0pt}\setlength{\parskip}{0.5em}}{\par}
+\newcommand{\typesetchapter}[2]{%
+  \cleardoublepage
+  \thispagestyle{plain}
+  \markboth{#2}{#2}%
+  \vspace*{1.05in}
+  \begin{center}
+    {\small\scshape\addfontfeatures{LetterSpace=12.0} #1}\par
+    \vspace{0.42in}
+    {\LARGE\scshape #2}\par
+    \vspace{0.18in}
+    {\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+  \end{center}
+  \vspace{0.62in}
+}
+\newcommand{\typeprologue}{%
+  \cleardoublepage
+  \thispagestyle{plain}
+  \markboth{Prologue}{Prologue}%
+  \vspace*{1.35in}
+  \begin{center}
+    {\LARGE\scshape Prologue}\par
+    \vspace{0.18in}
+    {\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+  \end{center}
+  \vspace{0.62in}
+}
+\newcommand{\typethresholdexception}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{Threshold Exception}{Threshold Exception}%
+\vspace*{1.35in}
+\begin{center}
+{\Large\scshape Threshold Exception}\par
+\vspace{0.18in}
+{\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+\end{center}
+\vspace{0.62in}
+}
+\newcommand{\typedeclaration}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{}{}%
+\vspace*{0.3in}
+}
+\newcommand{\typeoutsidermanuscript}{%
+\cleardoublepage
+\thispagestyle{plain}
+\markboth{Outsider Copy}{Outsider Copy}%
+\vspace*{1.35in}
+\begin{center}
+{\Large\scshape Outsider Copy}\par
+\vspace{0.18in}
+{\color{rulegold}\rule{0.34\textwidth}{0.35pt}}
+\end{center}
+\vspace{0.62in}
+}
+\newcommand{\typebook}[2]{%
+  \cleardoublepage
+  \thispagestyle{empty}
+  \markboth{#2}{#2}%
+  \vspace*{2.1in}
+  \begin{center}
+    {\Large\scshape\addfontfeatures{LetterSpace=16.0} #1}\par
+    \vspace{0.32in}
+    {\color{rulegold}\rule{0.30\textwidth}{0.4pt}}\par
+    \vspace{0.32in}
+    {\Huge\itshape #2\par}
+  \end{center}
+  \vfill
+}
+\begin{document}
+\input{C:/Francois/Writting/HomoNoxisGithub/manuscript/chapters/chapter18-Return.tex}
+\end{document}
