@@ -83,6 +83,6 @@ These files are preserved, not rewritten. Classification is a source-authority d
 
 ## Remaining decisions are not repair orders
 
-The counterfeit stroke/call/packet cadence is deliberately deferred by the author. Va-Sheva's private sanction is not settled; certain assassination has been withdrawn. Ravar's damaged-field redesign and any cut to the Ra exchange require a separate artistic instruction. A fully reconciled absolute calendar for Kailan's training is not supplied by the retired thirty-year ledger.
+The counterfeit stroke/call/packet cadence is deliberately deferred by the author. Va-Sheva's punishment is certain under the 1 November 2026 author decision; who suffers it, its method and timing remain undisclosed. A definite assassination is not established. Ravar's damaged-field redesign and any cut to the Ra exchange require a separate artistic instruction. A fully reconciled absolute calendar for Kailan's training is not supplied by the retired thirty-year ledger.
 
 When a reference and the chapter disagree, identify the conflict and its source. Do not make the story obey an old worksheet, an attractive review suggestion or a stale “lock”.

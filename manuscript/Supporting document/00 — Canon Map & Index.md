@@ -18,7 +18,7 @@
 
 The short notes on naming prefixes, Kahir disciplines and scripture locking remain subordinate quick references. Old chronology, setup, custody and knowledge ledgers no longer govern. No file's old “LOCKED” or “IMPLEMENT NEXT” label overrides this index.
 
-The current author decisions withdraw a fixed Mountain population and a guaranteed Va-Sheva execution. Kailan constructs the Trial interruption; no advance condemned-person entitlement predicts it. The two Outsiders have no Faith vote; Kailan gives the fifth assent. The counterfeit cadence is reserved for the author and was not normalized.
+The current author decisions withdraw a fixed Mountain population and a guaranteed Va-Sheva execution. The 1 November 2026 clarification makes her punishment certain: she or her child will suffer, while the target, form and timing remain undisclosed. Kailan constructs the Trial interruption; no advance condemned-person entitlement predicts it. The two Outsiders have no Faith vote; Kailan gives the fifth assent. The counterfeit cadence is reserved for the author and was not normalized.
 
 ## Build and source boundary
 

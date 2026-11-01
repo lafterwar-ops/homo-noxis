@@ -64,9 +64,15 @@ At the antechamber the huge gate bears the same five-toothed cat-Beast face as t
 
 - The visible running chronology is a little over eleven thousand years. Five sealed completed registers plus the current span sum to approximately 145,000 years.
 - The firing counter has advanced to six before the day-90 reset. Five completed chronological captures plus the live sixth span are not six completed captures.
-- Lower-train maintenance, Justice's captured-register seals and Light's annual stellar watch provide separate checks. The stellar precession comparison is not an exact date from one star alone.
+- Lower-train maintenance, Justice's captured-register seals and Light's annual stellar watch provide separate checks. Present stellar phase cannot count completed precession cycles or rule out a later fabrication. Approximately 145,000 years is the registers' sum, conditional on their history; Sarah judges the combined evidence credible rather than certifying a narrow independent age error.
 - The firing arms access; the low-return threshold releases it on day 79; day 90 captures/restarts the current clock and closes the route.
-- The five reset rooms preserve divided instructions, omissions and an institutional restart. Ravar's displaced writing is deciphered across records; his lower wall contains three older chisel wounds. The present party is not asserted to be the first opener.
+- The five reset rooms preserve divided instructions, omissions and an institutional restart. Clock now shows the instructions reconnecting services, ward work, separate teaching, the annual Watch and Light's existing succession; the latter is a staged teaching sequence, not an automatic day-90 sacrifice. The renewed practices correspond to the founding order described in Ravar's readable confession, but Kailan cannot quote the unreadable first-reset rehearsal as evidence. Ravar's displaced writing is deciphered across records; his lower wall contains three older chisel wounds. The present party is not asserted to be the first opener.
+
+## Faith's qualification and the Bowl
+
+Author clarification, 1 November 2026: Maera discovered the Chamber of the Last Prayer during Kailan's absence, before her injury. She has the knowledge to operate Faith's station, but at the firing is incapacitated and has lost her hearing. Her later verification of Paul's reconstructed intervals is an expert's check, not remedial initiation. The lower chamber must still be found unaided by her long-trained Candidate before the two rise. An outsider's sounding instrument does not replace the learning carried by the chamber route.
+
+Whole identifies the Bowl's pale liquid as probable mercury through Sarah's observation, not chemical analysis. Her warning concerns inhaled vapour: chronic exposure can cause tremor, impaired memory and oral inflammation/ulceration; sufficiently severe exposure can be fatal. She treats Mereth's shaking as suggestive, not a diagnosis. Maera's deafness remains explicitly traumatic, from the roof-fall. Sources checked: [UKHSA toxicological overview](https://www.gov.uk/government/publications/mercury-properties-incident-management-and-toxicology/elemental-mercury-and-inorganic-mercury-toxicological-overview), [ATSDR mercury-exposure guidance](https://stacks.cdc.gov/view/cdc/57436/cdc_57436_DS1.pdf).
 
 ## Small real-world science boundary
 

@@ -26,6 +26,7 @@ The Auld Alliance belongs to Edward's Scottish/French business alignment; Sarah'
 - The later race and White Six episode are the second road. The first Dakar-era danger is later than the 1974 admission; keep its local dates as written rather than rounding all contact into one visit.
 - The present operation includes Montel's history with Sarah in Libya (2011) and Mali (2013). Montel is fictional; the historical model is not the on-page character.
 - Horizon's long outside work precedes the current testimony. Earlier blueprints' 1998 interview frame and four years of current outside instruction are obsolete.
+- The Jamaican oil-for-alumina transaction in the eighties belongs to the continuing Blackwood company, not to Edward personally. His death and Sarah's inheritance belong to her earlier investigation; do not revive him for later business or Roger's adult career.
 
 ## Kailan's sequence and the 2026 frame
 
@@ -45,18 +46,18 @@ The desert deployment follows the observed handoff by several days. Mock's satel
 
 The party leaves Blackwood at dusk on 3 April, sleeps during the overnight flight and reaches the desert airstrip at dawn on 4 April. This does not settle the onward camel journey's duration.
 
-Narrated order alternates Sarah's outside history with Kailan's earlier Mountain experience. His Keeper's Chamber location deduction happens NOW in the Blackwood room during Confession; it does not mean the young Veil already visited it. Whole supplies the later sphere/liquid-metal deduction.
+Narrated order alternates Sarah's outside history with Kailan's earlier Mountain experience. His Keeper's Chamber location deduction happens NOW in the Blackwood room during Confession; it does not mean the young Veil already visited it. Whole supplies the later sphere/liquid-metal conjecture and Raedin's bounded confirmation; it does not imply an unrecorded visit by Kailan.
 
 ## Return, firing and sealed aftermath
 
 1. The Blackwood emergency is live in Mock; departure precedes Paul's retrospective journey in Return.
 2. The return party reaches the Mountain. Justice's five-room approach and the hearing precede the Greater Seal.
 3. Nine days inside the Seal precede the Hall's final readiness and firing. Preparations and injury belong to that interval; do not move it before the hearing.
-4. Ka-Elun dies in the roof fall; Va-Maera survives severely injured. Jean-Charles dies defending the inner gate before the first full load.
+4. Ka-Elun dies in the roof fall; Va-Maera survives severely injured. Maera had already found the Chamber of the Last Prayer during Kailan's absence and possessed the operating knowledge; injury, not incomplete formation, prevents her from taking Faith's station. Jean-Charles dies defending the inner gate before the first full load.
 5. Five smaller calibration strokes precede the final legality check and Kailan's release word. Full loads continue for five days at Faith's freshly read interval, approximately twenty minutes.
 6. Vigil contains dated ordinary work, injury, birth and outside reports. The fiftieth-day blessing, sixtieth-day bulletin and seventy-ninth-day archive opening are distinct anchors.
 7. The firing arms the archive mechanism. It opens on day 79 when the measured return crosses its release condition. It is not an equinox-triggered door.
-8. Clock, the reset rooms and Ravar are reached with eleven days left before the day-90 reset. Those days hold the investigations, competing record plans and Paul's chosen cutting.
+8. Clock, the reset rooms and Ravar are reached with eleven days left before the day-90 reset. Those days hold the investigations, competing record plans and Paul's chosen cutting. On the ninth morning of that window Justice reports that Maera's long-trained Candidate has found Faith's lower chamber and risen to Veil, allowing Maera to take Faith before reset. Va-Sheva's pregnancy already showed at the Return admission; it cannot become not-yet-visible during Whole.
 9. At reset the live clock is captured and restarted and the access closes. Departure and later Horizon reports follow; years-later forest observations have an attributed route.
 
 ## Explicitly deferred
