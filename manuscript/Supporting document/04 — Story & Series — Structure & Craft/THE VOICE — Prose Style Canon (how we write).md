@@ -125,7 +125,7 @@ The world is present everywhere and lectured nowhere. When seeding survival/worl
 
 Inside `\begin{room}…\end{room}` (an identified recorded exchange at Blackwood or in the later Mountain frame):
 
-- **Turn marker:** `--- ` (space after). Use `(Sarah): ---`, `(Paul): ---`, `(Kylian): ---` and corresponding labels when multiple speakers or attribution risk require them. Preserve established clear two-person exchanges. No quotation marks around room turns.
+- **Turn marker:** Every interview-room turn must identify its speaker by first name: `(Sarah): ---`, `(Paul): ---`, `(Kylian): ---`, `(Kailan): ---`, and corresponding names. This applies even to clear two-person exchanges, consecutive turns by the same speaker and a marked turn introducing a recitation. Preserve the established Kailan/Kylian naming in each part of the account. Continuous paragraphs within one turn need no repeated label. No quotation marks around room turns.
 - **Paul's default syntax is formal and exact.** His intelligence tests wording, evidence and method; his humour is dry. Do not mechanically rewrite an established joke or ordinary utterance during an unrelated pass.
 - **Names belong to their moment.** Kylian is the Blackwood alias; Kailan is the Mountain name. Paul may use either when appropriate. His brother John and nephew Daniel are distinct.
 - **Punctuation follows speech.** Do not add ornamental reversals or mechanically convert every pause to a colon or semicolon. Preserve authorized interruptions and comic timing.
