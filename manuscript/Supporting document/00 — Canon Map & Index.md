@@ -20,6 +20,8 @@ The short notes on naming prefixes, Kahir disciplines and scripture locking rema
 
 The current author decisions withdraw a fixed Mountain population and a guaranteed Va-Sheva execution. The 1 November 2026 clarification makes her punishment certain: she or her child will suffer, while the target, form and timing remain undisclosed. Kailan constructs the Trial interruption; no advance condemned-person entitlement predicts it. The two Outsiders have no Faith vote; Kailan gives the fifth assent. The counterfeit cadence is reserved for the author and was not normalized.
 
+Author direction, 3 November 2026: Amastan is a selected Shield external-service identity, not a hereditary office. The current holder enters with his wife and two children under Shield's protection. Paul finishes the full wall and leaves the archive alive before the reset; he chooses to remain in the Mountain and voluntarily entrusts the outside edition to Kailan and Sarah. The former entombment ending is superseded. See Current/Story-Canon and the revised Return–Whole sources for the admission, custody and departure boundaries.
+
 ## Build and source boundary
 
 Build the master above with XeLaTeX from `output/`; the result is `output/chapter001-latexIntro.pdf`. Root `main.tex`, old PDFs, excerpt copies and abandoned P01–P04 duplicates are not the complete current book. See the root README for the two-pass command.

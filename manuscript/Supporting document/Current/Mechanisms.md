@@ -48,7 +48,7 @@ Horizon establishes the outbound connection: the Hall of Ceremony's Shield servi
 
 ## Pendulum and orientation
 
-The Hall's disk has two opposite faces; a stationary observer does not see both through ordinary pendulum swing. A character who sees both has crossed to the other side. Sarah's visit supplies the 125-metre drop from fixing to disk centre.
+The Hall's disk has two opposite faces. It travels edge-first, its broad faces remaining parallel to the swing plane; it does not turn from face to edge during a crossing. A stationary observer does not see both faces through ordinary pendulum swing. A character who sees both has crossed to the other side. Author clarification, 3 November 2026: Kailan's Ascension narration gives the 125-metre drop from the upper fixing to the disk's centre; Sarah's later testimony retains the same measurement. This restores the length already referred to in Mirror. The slow precession of the swing plane is distinct from rotation of the disk during a crossing.
 
 The Foucault turning period of roughly 2.75 days is distinct from predicting dawn, true noon and dusk. The five daylight marks and the night are not five equal divisions of a fixed 24-hour day. Day length changes seasonally. Preserve Faith's capacity to test the astronomical rule against old observations and its own theological interpretation.
 

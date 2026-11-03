@@ -15,6 +15,8 @@ The biographical recital in Infiltration (13) gives:
 | Roger Martinez | The present Roger, born in Oran in 1957; distinguish him from his father in Sarah's earlier story. |
 | Paul Morgan's family | His brother John is named at the first topology/Poincaré occasion in Trial. His nephew is Daniel, not John. |
 
+Amastan is a selected Shield external-service identity. The historical holder who received Sarah in 1974 and the young man in Horizon/Return are distinct. Earlier father/grandfather succession claims are superseded by the 3 November 2026 author direction; no genealogical link is established between holders. The present holder and his wife were born outside among the Kel Ad and trained in Shield; their two children first enter the Mountain in Return.
+
 The Auld Alliance belongs to Edward's Scottish/French business alignment; Sarah's English-half remark follows her identification of France as the present adversary. These are character associations, not a new geopolitical subplot. Do not keep Sarah ninety-three indefinitely past her July birthday.
 
 ## Outside history as narrated
@@ -51,14 +53,14 @@ Narrated order alternates Sarah's outside history with Kailan's earlier Mountain
 ## Return, firing and sealed aftermath
 
 1. The Blackwood emergency is live in Mock; departure precedes Paul's retrospective journey in Return.
-2. The return party reaches the Mountain. Justice's five-room approach and the hearing precede the Greater Seal.
+2. The return party reaches the Mountain. Amastan, his wife and two children enter under family refuge separately granted by Shield; the four visitors retain their separate admission to Justice. Alice withdraws with the wellkeepers toward Elise under a conditional route-watch/evacuation order. Amastan gives bounded testimony through Shield and leaves before the private depositions. Justice's five-room approach and the hearing precede the Greater Seal.
 3. Nine days inside the Seal precede the Hall's final readiness and firing. Preparations and injury belong to that interval; do not move it before the hearing.
 4. Ka-Elun dies in the roof fall; Va-Maera survives severely injured. Maera had already found the Chamber of the Last Prayer during Kailan's absence and possessed the operating knowledge; injury, not incomplete formation, prevents her from taking Faith's station. Jean-Charles dies defending the inner gate before the first full load.
 5. Five smaller calibration strokes precede the final legality check and Kailan's release word. Full loads continue for five days at Faith's freshly read interval, approximately twenty minutes.
 6. Vigil contains dated ordinary work, injury, birth and outside reports. The fiftieth-day blessing, sixtieth-day bulletin and seventy-ninth-day archive opening are distinct anchors.
 7. The firing arms the archive mechanism. It opens on day 79 when the measured return crosses its release condition. It is not an equinox-triggered door.
-8. Clock, the reset rooms and Ravar are reached with eleven days left before the day-90 reset. Those days hold the investigations, competing record plans and Paul's chosen cutting. On the ninth morning of that window Justice reports that Maera's long-trained Candidate has found Faith's lower chamber and risen to Veil, allowing Maera to take Faith before reset. Va-Sheva's pregnancy already showed at the Return admission; it cannot become not-yet-visible during Whole.
-9. At reset the live clock is captured and restarted and the access closes. Departure and later Horizon reports follow; years-later forest observations have an attributed route.
+8. Clock, the reset rooms and Ravar are reached with eleven days left before the day-90 reset. Those days hold the investigations, competing record plans and Paul's chosen cutting with Sa-Tavan. On the ninth morning of that window Justice reports that Maera's long-trained Candidate has found Faith's lower chamber and risen to Veil, allowing Maera to take Faith before reset. On the last morning Paul verifies the completed wall, cuts his name and leaves the archive alive before its fixed closing hour. Va-Sheva's pregnancy already showed at the Return admission; it cannot become not-yet-visible during Whole.
+9. At reset the live clock is captured and restarted and access closes on the completed accounts. Paul remains above, chooses prayer and work in the Mountain, and hands over the approved outside edition alive. Amastan scouts the changed folds and escorts Kailan, Sarah and Sela in bounded stages, with his wife and children remaining in shelter by agreement. His future pupil is not yet named. Departure and later Horizon reports follow; years-later forest observations have an attributed route. Neither reset nor its first-day blessing erases anyone's living memories.
 
 ## Explicitly deferred
 
