@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "After you answer this questionnaire, how should I proceed?",
+    "options": [
+      "Consolidate your decisions and flag conflicts before editing.",
+      "Implement all clear decisions immediately; ask only about conflicts.",
+      "Present proposed passages before making any edits.",
+      "Treat the answers as discussion only; make no implementation plan."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What should govern this revision when a reviewer’s preference conflicts with our deliberate artistic choices?",
+    "options": [
+      "Preserve deliberate choices unless a concrete weakness is demonstrated.",
+      "Prioritise agreement among the three reviewers.",
+      "Prioritise the most demanding reviewer’s objections.",
+      "Reconsider every choice without giving earlier decisions special protection."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How extensive should the next revision be?",
+    "options": [
+      "Precise repairs, followed by selective passage-level improvements.",
+      "Revise the final six chapters substantially; keep the earlier chapters stable.",
+      "Conduct another complete prose pass across all chapters.",
+      "Correct only demonstrable factual and continuity defects."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What should be the default policy on adding material?",
+    "options": [
+      "Add only where an existing consequence or causal connection is missing.",
+      "Permit additions wherever they deepen an existing character.",
+      "Allow new scenes and secondary threads if they improve the whole.",
+      "Require every addition to be offset by a larger cut elsewhere."
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Should this revision have a numerical word-count reduction target?",
+    "options": [
+      "No quota: judge each addition and deletion by its effect.",
+      "Aim for a modest net reduction of roughly 2–3%.",
+      "Aim for a substantial net reduction of roughly 5–8%.",
+      "Preserve the present length as closely as possible."
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Vigil currently says, “The enemy above us took four more days to die.” The available evidence establishes the end of the attack, not every individual’s death. What should the sentence assert?",
+    "options": [
+      "State when the attack ended, without certifying every death.",
+      "Attribute the conclusion about their deaths to Sarah.",
+      "Present it explicitly as what Kailan believed at the time.",
+      "Retain the unqualified sentence."
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Should Sarah’s subsequent statement that the camp was swallowed remain categorical?",
+    "options": [
+      "Keep it as her interpretation, clearly distinct from narrator-certified fact.",
+      "Make her wording explicitly provisional.",
+      "Limit her statement to what the instruments show.",
+      "Remove her conclusion and retain only the end of the charges."
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Should the manuscript later establish what actually happened to the attacking force?",
+    "options": [
+      "Leave individual fates unresolved.",
+      "Add a later, limited Shield observation of the camp site.",
+      "Establish that some attackers survived.",
+      "Establish that the entire attacking force died."
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What emotional emphasis should the end of the siege receive in Vigil?",
+    "options": [
+      "Let immediate survival work carry the response.",
+      "Give the survivors one brief moment of relief.",
+      "Give Kailan a brief, disturbing satisfaction.",
+      "Introduce an immediate argument over the attackers’ deaths."
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Whole’s dismantling summary refers vaguely to “hot rock” after the firing works have been described as cold and broken. What should we do?",
+    "options": [
+      "Identify the surviving heat-bearing works precisely, after checking the intended layout.",
+      "Remove the flooding example from the summary.",
+      "Rewrite the earlier description so the conversion works retain dangerous heat.",
+      "Leave the distinction implicit."
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Whole says draining “the reserve” would kill the wards, although Life Reserve and firing water have separate pipes. How should we handle this?",
+    "options": [
+      "Name the relevant reserve and the specific connection that makes the test dangerous.",
+      "Delete this example rather than add an explanation.",
+      "Explicitly revise the systems so the reserves are hydraulically connected.",
+      "Retain the general wording."
+    ]
+  },
+  {
+    "id": 12,
+    "question": "How much physical explanation should accompany the dismantling tests?",
+    "options": [
+      "One or two precise distinctions within the existing passage.",
+      "A short practical exchange during one test.",
+      "A fuller account of several attempted methods.",
+      "Almost none: report the outcomes and move on."
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What should the eleven-day dismantling investigation establish?",
+    "options": [
+      "No safe immediate solution was found; the enquiry remains open.",
+      "A solution may exist, but present resources cannot attempt it.",
+      "The weapon is physically inseparable from the inhabited Mountain.",
+      "The institution would rebuild the weapon regardless of physical removal."
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Should Ka-Dhavar’s prediction that the institution would recreate itself remain a character’s argument?",
+    "options": [
+      "Yes; keep it distinct from demonstrated engineering facts.",
+      "Make Ka-Cheryn challenge that prediction more sharply.",
+      "Let another character explicitly agree that it is likely.",
+      "Present it as the narrator’s settled conclusion."
+    ]
+  },
+  {
+    "id": 15,
+    "question": "How should we address the relationship between “one firing in this machine” and the six historical firings?",
+    "options": [
+      "Have the characters identify the unanswered relationship explicitly.",
+      "Establish that each firing required rebuilding the conversion works.",
+      "Establish that extremely long natural recovery eventually permits another firing.",
+      "Leave the relationship unaddressed."
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Where should the spent-machine versus repeated-firings question first be raised?",
+    "options": [
+      "Clock, immediately after the historical firing count is understood.",
+      "Whole, during the dismantling investigation.",
+      "Beast, before the present firing.",
+      "In a later warning or framing document rather than the scenes."
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Who should first notice the apparent difficulty between one-use machinery and repeated firings?",
+    "options": [
+      "Sarah, because she follows the physical implications.",
+      "Paul, because he compares the historical records.",
+      "Ka-Cheryn, because Balance owns the relevant quantities and resources.",
+      "Kailan, because he connects what different offices have said."
+    ]
+  },
+  {
+    "id": 18,
+    "question": "How definite should the answer about future firing capability be?",
+    "options": [
+      "Distinguish known damage from unknown recoverability; give no timetable.",
+      "Establish eventual recovery, but leave its timescale unknown.",
+      "Establish that human reconstruction is necessary.",
+      "Establish that this firing has permanently ended the capability."
+    ]
+  },
+  {
+    "id": 19,
+    "question": "How should the reset relate to the weapon’s condition?",
+    "options": [
+      "Explicitly separate institutional reset from physical rearmament.",
+      "Let the reset begin preparations for eventual rebuilding.",
+      "Make restoration of firing capability part of the reset instructions.",
+      "Keep the relationship unstated."
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What should the warning about a future catastrophe mean if the current engine is spent?",
+    "options": [
+      "Preserve the warning against possible restored capability, without promising its return.",
+      "Emphasise the danger of rebuilding the institution’s weapon.",
+      "Retain confident language as a revealing claim made by the institution.",
+      "Replace the future-weapon warning with a warning about historical recurrence more generally."
+    ]
+  },
+  {
+    "id": 21,
+    "question": "What is the right ambition for Clock’s pale optical effect?",
+    "options": [
+      "Make the triggering action intelligible while leaving the effect unnamed.",
+      "Explain the optical phenomenon and the mechanical release.",
+      "Keep the entire event mysterious, including why the door opens.",
+      "Replace the optical release with another form of discovery."
+    ]
+  },
+  {
+    "id": 22,
+    "question": "What kind of action should ultimately open the hidden door in Clock?",
+    "options": [
+      "A physical action guided by what Kailan sees.",
+      "The light itself activates the release through an established mechanism.",
+      "Following the light reveals an ordinary concealed control.",
+      "Leave the trigger exactly as it is now."
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Should the later optical discovery receive an earlier seed?",
+    "options": [
+      "Reuse an existing lesson or observation rather than add a new one.",
+      "Add one very small anomaly during Kailan’s earlier instruction.",
+      "Add a distinct earlier demonstration with a delayed payoff.",
+      "Keep the discovery wholly unseeded."
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Why should Kailan succeed where the initial search fails?",
+    "options": [
+      "Outside experience has loosened a habit of observation taught within Light.",
+      "He takes a physical position the others have not tried.",
+      "He combines observations supplied by several people.",
+      "He possesses an unusual perceptual ability others lack."
+    ]
+  },
+  {
+    "id": 25,
+    "question": "How much should Ka-Raedin reproduce of Kailan’s optical observation?",
+    "options": [
+      "Enough to confirm it is observable rather than unique to Kailan.",
+      "The whole observation and opening sequence.",
+      "Only the final result; he cannot perceive the effect himself.",
+      "Remove the independent confirmation."
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Should the reader understand the optical clue before the door opens?",
+    "options": [
+      "Understand what Kailan is testing, without necessarily predicting the result.",
+      "Have enough evidence to solve the release before Kailan does.",
+      "Understand the action only immediately after the opening.",
+      "Remain uncertain even after the characters descend."
+    ]
+  },
+  {
+    "id": 27,
+    "question": "How much additional space may Clock’s optical clarification use?",
+    "options": [
+      "Replace existing explanation; add at most a few sentences.",
+      "Allow roughly one short paragraph of net addition.",
+      "Rebuild the entire discovery sequence if needed.",
+      "Require the revised sequence to be shorter."
+    ]
+  },
+  {
+    "id": 28,
+    "question": "How should the manuscript treat the planetary catastrophe’s scientific status?",
+    "options": [
+      "Maintain one explicit speculative leap, with disciplined surrounding mechanics.",
+      "Strengthen the claim that the catastrophe could occur under real physics.",
+      "Make the mechanism more openly speculative and less technically detailed.",
+      "Leave the current balance untouched."
+    ]
+  },
+  {
+    "id": 29,
+    "question": "What should a technical review examine first?",
+    "options": [
+      "Coupling between the local source and the distant rupture.",
+      "Local energy, water, heat and pressure accounting.",
+      "The machinery’s material survival and maintenance over deep time.",
+      "The entire mechanism equally, without prioritisation."
+    ]
+  },
+  {
+    "id": 30,
+    "question": "If technical review finds an unsupported claim beyond the intended speculative leap, what should we prefer?",
+    "options": [
+      "Narrow the claim or attribute the uncertainty.",
+      "Redesign the relevant mechanism.",
+      "Add explanatory material supporting the claim.",
+      "Retain it as part of the novel’s speculative premise."
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Should Oren receive an answer to his request for a lamp shift?",
+    "options": [
+      "Yes, in a short consequential return.",
+      "Yes, but only through a brief reported outcome.",
+      "Keep the request unanswered and make Kailan’s failure to return explicit.",
+      "Leave the current passage unchanged."
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Where should Oren’s answer occur?",
+    "options": [
+      "Later in Vigil, within the existing ward work.",
+      "During the investigations in Clock or Whole.",
+      "Immediately before departure.",
+      "In a short later report after Kailan has left."
+    ]
+  },
+  {
+    "id": 33,
+    "question": "What answer should Oren initially receive about returning to lamp work?",
+    "options": [
+      "A limited arrangement that leaves him something to negotiate.",
+      "A refusal based on a genuine shortage of ward workers.",
+      "Permission to return, with a practical cost to someone else.",
+      "No decision, forcing him to pursue the matter himself."
+    ]
+  },
+  {
+    "id": 34,
+    "question": "What should Oren do with the answer?",
+    "options": [
+      "Set a practical condition based on his knowledge of the work.",
+      "Refuse the proposed arrangement.",
+      "Accept it without gratitude or a moral conclusion.",
+      "Challenge the authority that reassigned him."
+    ]
+  },
+  {
+    "id": 35,
+    "question": "How much should Kailan achieve for Oren?",
+    "options": [
+      "Carry the request and answer faithfully, without solving everything.",
+      "Persuade Ka-Raedin to change the assignment.",
+      "Fail to secure any improvement.",
+      "Use his new standing to overrule the assignment."
+    ]
+  },
+  {
+    "id": 36,
+    "question": "How much space should Oren’s follow-through occupy?",
+    "options": [
+      "A short exchange of roughly 80–120 words.",
+      "Two or three sentences.",
+      "A fuller scene with the relevant office-holder present.",
+      "A recurring thread across more than one chapter."
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Should Seal retain the repeated marked-sheep calculation immediately before Shield’s deposition?",
+    "options": [
+      "Remove the repeated calculation; keep the room and evidence distinctions.",
+      "Reduce it to a brief reference to the earlier lesson.",
+      "Keep the calculation but remove its explanatory interpretation.",
+      "Retain the passage unchanged."
+    ]
+  },
+  {
+    "id": 38,
+    "question": "How explicit should the correspondence between Justice’s rooms and the depositions remain?",
+    "options": [
+      "Let the room names and the questions establish it.",
+      "Explain the correspondence once for the whole sequence.",
+      "Keep a short explanation at each deposition.",
+      "Make the correspondence more implicit by reducing the room reminders."
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Should the five mathematical problems be shortened?",
+    "options": [
+      "Shorten only repeated explanation around the necessary reasoning.",
+      "Compress each problem to its decisive step.",
+      "Preserve all calculations but shorten the surrounding movement.",
+      "Preserve the entire problem sequence as written."
+    ]
+  },
+  {
+    "id": 40,
+    "question": "What should we cut first in the early instructional chapters?",
+    "options": [
+      "Explanations that repeat a distinction already demonstrated.",
+      "Worked examples once their principle is understood.",
+      "Interview interruptions that explain the lesson’s relevance.",
+      "Nothing until a reader identifies an exact confusing or tedious passage."
+    ]
+  },
+  {
+    "id": 41,
+    "question": "In Mirror, what should determine whether an instructional exchange stays?",
+    "options": [
+      "It changes a live question, action or relationship.",
+      "It establishes a fact needed later.",
+      "It offers an interesting idea even without later consequence.",
+      "Keep the current instructional balance regardless of these tests."
+    ]
+  },
+  {
+    "id": 42,
+    "question": "In Oasis, where should any compression come from first?",
+    "options": [
+      "Repeated interpretation around concrete encounters.",
+      "Procedural explanation of how the community works.",
+      "Comparative conversation about the outside world.",
+      "Do not compress Oasis."
+    ]
+  },
+  {
+    "id": 43,
+    "question": "In Mountain, how should scientific learning and the frame’s wager be balanced?",
+    "options": [
+      "Preserve both, removing only explanations that duplicate their implications.",
+      "Give more space to Kailan’s pleasure in discovery.",
+      "Give more space to the manipulation and surveillance behind the lessons.",
+      "Reduce the frame’s wager to foreground Mountain life."
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Shadow can feel arranged around a single argument about knowledge and trust. What should we test?",
+    "options": [
+      "Remove transitions that explicitly announce the shared meaning of its episodes.",
+      "Simplify one of the instructional episodes.",
+      "Give one existing interaction a less tidy outcome.",
+      "Preserve the deliberate arrangement."
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What should be the first compression target in Reggane?",
+    "options": [
+      "Repeated investigative or logistical explanation.",
+      "Historical background not immediately needed for a decision.",
+      "Interview commentary between stages of the investigation.",
+      "Do not shorten Reggane."
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Which aspect of Reggane most needs protection during compression?",
+    "options": [
+      "The personal costs of Sarah’s decisions to other people.",
+      "The historical and technical specificity.",
+      "The gradual acquisition of evidence.",
+      "Sarah’s retrospective interpretation of what she became."
+    ]
+  },
+  {
+    "id": 47,
+    "question": "If Reggane still feels slow after removing repetition, what next?",
+    "options": [
+      "Reorder existing information around consequential decisions.",
+      "Shorten the investigative itinerary.",
+      "Add one more immediate confrontation.",
+      "Accept the slower investigative rhythm."
+    ]
+  },
+  {
+    "id": 48,
+    "question": "What should govern revision of Infiltration?",
+    "options": [
+      "Give negotiations and decisions more weight than their explanatory bridges.",
+      "Make Sarah’s account substantially more concise.",
+      "Expand the direct encounter with Shield.",
+      "Preserve the current balance."
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Which Infiltration element must not be reduced to make Sarah’s success seem easier?",
+    "options": [
+      "Preserve Martinez’s work and Amastan’s independent authority together.",
+      "Prioritise Martinez’s infiltration and preparation.",
+      "Prioritise Amastan’s control of access.",
+      "Prioritise Sarah’s negotiation with Ka-Xhian."
+    ]
+  },
+  {
+    "id": 50,
+    "question": "How explicitly should Infiltration explain Sarah’s resulting power?",
+    "options": [
+      "Let concrete concessions and subsequent actions carry most of it.",
+      "Retain one clear retrospective statement of its extent.",
+      "Keep the full institutional explanation.",
+      "Make her ambition more explicit than it currently is."
+    ]
+  }
+]
